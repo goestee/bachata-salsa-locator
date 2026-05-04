@@ -1,0 +1,184 @@
+# DFW Bachata & Salsa Event Aggregator — configuration
+#
+# Edit this file to tune what gets pulled. Each source can be enabled/disabled.
+# Add Instagram handles & venue calendar URLs as you discover them.
+
+# ---------------------------------------------------------------------------
+# Geo & keyword filters
+# ---------------------------------------------------------------------------
+geo:
+  # Bounding box around DFW (loose). Used to drop events that geocode outside.
+  # If lat/lng are missing on an event, we fall back to text-matching `cities`.
+  bbox:
+    min_lat: 32.45
+    max_lat: 33.30
+    min_lng: -97.55
+    max_lng: -96.45
+  cities:
+    - dallas
+    - fort worth
+    - ft worth
+    - ft. worth
+    - arlington
+    - irving
+    - plano
+    - frisco
+    - garland
+    - mesquite
+    - richardson
+    - addison
+    - carrollton
+    - lewisville
+    - mckinney
+    - allen
+    - grapevine
+    - euless
+    - bedford
+    - hurst
+    - colleyville
+    - southlake
+    - denton
+    - rockwall
+    - rowlett
+    - flower mound
+    - the colony
+    - coppell
+    - farmers branch
+    - duncanville
+    - cedar hill
+    - desoto
+    - dfw
+
+keywords:
+  # An event's title/description must contain at least one of these.
+  # Case-insensitive substring match.
+  must_match_any:
+    - salsa
+    - bachata
+    - kizomba       # often co-listed at the same socials
+    - merengue
+    - cha cha
+    - cha-cha
+    - latin dance
+    - latin night
+    - reggaeton dance
+
+  # If any of these appear, mark the event with that tag.
+  type_tags:
+    social:
+      - social
+      - night
+      - club
+      - party
+      - fiesta
+    workshop:
+      - workshop
+      - bootcamp
+      - intensive
+      - masterclass
+    lesson:
+      - lesson
+      - class
+      - classes
+      - beginner
+      - intermediate
+    festival:
+      - festival
+      - congress
+
+# ---------------------------------------------------------------------------
+# Source toggles
+# ---------------------------------------------------------------------------
+sources:
+  eventbrite:
+    enabled: true
+    queries: [salsa, bachata, "salsa bachata", "latin dance"]
+    # One Eventbrite city listing page is queried per slug per query.
+    # Eventbrite's location slugs only exist for cities they recognize as
+    # event hubs; tx--arlington and tx--addison both returned 0 events on
+    # every query during testing (their listings are folded into Dallas).
+    # Plano has its own slug and pulls 9-ish events.
+    location_slugs:
+      - tx--dallas
+      - tx--fort-worth
+      - tx--plano
+  meetup:
+    enabled: true
+    queries: [salsa, bachata, "latin dance"]
+    # Meetup search lets us scope by city. We hit each location with each
+    # query and dedupe downstream.
+    locations:
+      - us--tx--Dallas
+      - us--tx--Fort_Worth
+      - us--tx--Plano
+      - us--tx--Arlington
+      - us--tx--Addison
+  danceus:
+    enabled: true
+    urls:
+      - https://www.danceus.org/events/salsa/dallas-tx-salsa-calendar/
+      # NOTE: DanceUS doesn't currently host a DFW bachata calendar at the
+      # parallel URL. If you find one, drop it here and the aggregator will
+      # pick it up automatically.
+  golatindance:
+    enabled: true
+    url: https://golatindance.com/latin-dance-events-in-dallas-fort-worth/
+    # IMPORTANT: use the dallas-fort-worth CATEGORY iCal, not the global one.
+    # The global feed at /events/?ical=1 returns events worldwide which we'd
+    # then have to filter; this DFW-scoped category feed gives ~30 local
+    # events directly (Vidorra Dallas, Al-Amir Arlington, Stratos, etc.).
+    ical_candidates:
+      - https://golatindance.com/events/category/dallas-fort-worth/?ical=1
+      - https://golatindance.com/events/category/dallas-fort-worth/list/?ical=1
+  salsavida:
+    enabled: true
+    url: https://www.salsavida.com/guides/texas/dallas-fort-worth/calendar/
+  salsadallas:
+    # Disabled: salsadallas.com/calendar/ is actually a static promo page
+    # ("Free Salsa class for beginners"), not an event calendar. Re-enable
+    # if/when they switch to a real calendar plugin.
+    enabled: false
+    url: https://salsadallas.com/calendar/
+  studio22:
+    enabled: true
+    url: https://studio22dallas.com/calendar-classes/special-events/
+
+  instagram:
+    # Anonymous (no login). Lower reliability, no DM/private accounts.
+    # IMPORTANT: keep this list small (<= 15 accounts) and run AT MOST once/day.
+    # The orchestrator enforces a 20-hour cool-down regardless of cron freq.
+    #
+    # As of May 2026 Instagram is returning 403 Forbidden on anonymous
+    # graphql/query requests, breaking all profile lookups. Disabled until
+    # we add login-based scraping (instaloader supports session cookies).
+    enabled: false
+    posts_per_account: 6
+    accounts:
+      # SEED THESE WITH REAL DFW DANCE ACCOUNTS YOU CARE ABOUT.
+      # (Public profiles only.) Examples to start; verify/replace as you like.
+      - salsadallas
+      - studio22dallas
+      - golatindance
+      # - dallas_bachata_social
+      # - your_favorite_dfw_dj
+    # Hashtags pull is heavily rate-limited and often blocked anonymously.
+    # Disabled by default; flip to true at your own risk.
+    hashtags_enabled: false
+    hashtags:
+      - dfwsalsa
+      - dallasbachata
+      - dfwlatindance
+
+# ---------------------------------------------------------------------------
+# Output
+# ---------------------------------------------------------------------------
+output:
+  markdown_path: EVENTS.md
+  # Self-contained interactive HTML page (open in any browser, has search +
+  # tag filters). Set to null/empty to skip generating it.
+  html_path: index.html
+  data_path: data/events.json
+  # Drop events older than today minus this many days.
+  prune_past_days: 1
+  # How far ahead to show.
+  horizon_days: 90
