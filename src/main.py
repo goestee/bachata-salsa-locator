@@ -133,6 +133,8 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--config", default=str(ROOT / "config.yaml"))
     p.add_argument("--only",
                    help="Comma-separated source names to run (others skipped)")
+    p.add_argument("--exclude",
+                   help="Comma-separated source names to skip (rest run normally)")
     p.add_argument("--dry-run", action="store_true",
                    help="Don't write EVENTS.md or events.json")
     p.add_argument("--verbose", "-v", action="store_true")
@@ -146,7 +148,10 @@ def main(argv: list[str] | None = None) -> int:
 
     cfg = _load_config(Path(args.config))
     only = {s.strip() for s in args.only.split(",")} if args.only else None
-    sources = _build_sources(cfg, only)
+    exclude = {s.strip() for s in args.exclude.split(",")} if args.exclude else set()
+    sources = [s for s in _build_sources(cfg, only) if s.name not in exclude]
+    if exclude:
+        log.info("Excluding sources: %s", ", ".join(sorted(exclude)))
 
     if not sources:
         log.error("No sources enabled. Edit config.yaml.")

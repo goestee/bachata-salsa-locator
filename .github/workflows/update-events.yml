@@ -40,8 +40,13 @@ jobs:
         env:
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
         run: |
+          # IG (via paid Apify) only runs on the evening cron — keeps us
+          # comfortably under Apify's $5/mo free tier. The morning cron
+          # still refreshes everything else for free.
           if [ -n "${{ github.event.inputs.only }}" ]; then
             python -m src.main --only="${{ github.event.inputs.only }}"
+          elif [ "${{ github.event.schedule }}" = "0 13 * * *" ]; then
+            python -m src.main --exclude=instagram
           else
             python -m src.main
           fi
