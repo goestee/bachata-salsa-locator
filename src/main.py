@@ -30,8 +30,6 @@ from .storage import EventStore
 log = logging.getLogger("dfw_dance")
 
 ROOT = Path(__file__).resolve().parent.parent
-INSTAGRAM_COOLDOWN_HOURS = 20
-INSTAGRAM_STATE_FILE = ROOT / "data" / ".instagram_last_run"
 
 
 def _load_config(path: Path) -> dict:
@@ -88,36 +86,14 @@ def _build_sources(cfg: dict, only: set[str] | None) -> list[BaseSource]:
     if want("studio22", s["studio22"]):
         out.append(GenericCalendarSource("studio22", [s["studio22"]["url"]],
                                          assume_dfw=True))
-    if want("instagram", s["instagram"]) and _instagram_cooldown_ok():
+    if want("instagram", s["instagram"]):
         out.append(InstagramSource(
             accounts=s["instagram"]["accounts"],
-            posts_per_account=s["instagram"].get("posts_per_account", 6),
+            posts_per_account=s["instagram"].get("posts_per_account", 8),
             hashtags=s["instagram"].get("hashtags", []),
             hashtags_enabled=s["instagram"].get("hashtags_enabled", False),
         ))
-    elif want("instagram", s["instagram"]):
-        log.info("[instagram] skipped — within %dh cool-down",
-                 INSTAGRAM_COOLDOWN_HOURS)
     return out
-
-
-def _instagram_cooldown_ok() -> bool:
-    if not INSTAGRAM_STATE_FILE.exists():
-        return True
-    try:
-        last = datetime.fromisoformat(
-            INSTAGRAM_STATE_FILE.read_text(encoding="utf-8").strip())
-    except ValueError:
-        return True
-    if last.tzinfo is None:
-        last = last.replace(tzinfo=timezone.utc)
-    return datetime.now(timezone.utc) - last >= timedelta(hours=INSTAGRAM_COOLDOWN_HOURS)
-
-
-def _stamp_instagram_run() -> None:
-    INSTAGRAM_STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
-    INSTAGRAM_STATE_FILE.write_text(
-        datetime.now(timezone.utc).isoformat(), encoding="utf-8")
 
 
 def _filter_events(raw: list[Event], cfg: dict,
@@ -193,8 +169,6 @@ def main(argv: list[str] | None = None) -> int:
         raw_events.extend(evs)
         log.info("[%s] %d events in %.1fs", src.name, len(evs),
                  time.monotonic() - t0)
-        if src.name == "instagram":
-            _stamp_instagram_run()
 
     log.info("Collected %d raw events from %d sources",
              len(raw_events), len(sources))

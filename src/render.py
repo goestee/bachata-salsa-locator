@@ -111,6 +111,10 @@ _HTML_TEMPLATE = """<!doctype html>
     border: 1px solid #bfdbfe;
   }}
   .price.free {{ background: #dcfce7; color: #166534; border-color: #bbf7d0; }}
+  /* Soft neutral pill for "Varies" — meant to read as "check the link" without
+     drawing as much attention as a confirmed price/free badge. */
+  .price.varies {{ background: #f3f4f6; color: #6b7280; border-color: #e5e7eb;
+                   font-weight: 500; }}
   .src {{ color: #6b7280; font-size: 12px; }}
   .empty {{ color: #6b7280; padding: 40px; text-align: center; }}
 </style>
@@ -213,7 +217,6 @@ def render_html(
                 where_bits.append(_html_escape(ev.city))
             where_html = (f'<div class="where">@ {", ".join(where_bits)}</div>'
                           if where_bits else "")
-            price_html = ""
             tag_set = list(ev.tags or [])
             if ev.price:
                 is_free = ev.price.lower().startswith("free")
@@ -223,6 +226,11 @@ def render_html(
                 )
                 if is_free:
                     tag_set.append("free")
+            else:
+                # No structured price was extracted. Show a neutral "Varies"
+                # pill so the user knows pricing exists but we couldn't pin
+                # it down — they should click through to confirm.
+                price_html = '<span class="price varies">Varies</span>'
             search_blob = " ".join(filter(None, [
                 ev.title, ev.venue, ev.city, ev.source, ev.price,
                 " ".join(tag_set),
@@ -431,8 +439,7 @@ def _render_event_line(ev: Event, prefix: str = "") -> str:
 
     (Trailing two-space line-breaks render as <br> in markdown.)"""
     title_line_bits: list[str] = [f"**[{ev.title.strip()}]({ev.source_url})**"]
-    if ev.price:
-        title_line_bits.append(f"**_{ev.price}_**")
+    title_line_bits.append(f"**_{ev.price or 'Varies'}_**")
 
     where_bits: list[str] = []
     if ev.venue:

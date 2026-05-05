@@ -4,5 +4,4 @@ lxml>=5.2.0
 python-dateutil>=2.9.0
 PyYAML>=6.0.2
 icalendar>=6.0.0
-instaloader>=4.13.0
 tenacity>=9.0.0

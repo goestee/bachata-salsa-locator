@@ -144,25 +144,24 @@ sources:
     url: https://studio22dallas.com/calendar-classes/special-events/
 
   instagram:
-    # Anonymous (no login). Lower reliability, no DM/private accounts.
-    # IMPORTANT: keep this list small (<= 15 accounts) and run AT MOST once/day.
-    # The orchestrator enforces a 20-hour cool-down regardless of cron freq.
+    # Backed by Apify's `apify/instagram-scraper` actor. Set the
+    # APIFY_TOKEN env var locally, or the same name as a GitHub Actions
+    # repo secret in CI. ~$0.30 per 1000 results — at our volume that's
+    # roughly $1-2/month, well inside Apify's free $5/mo credit.
     #
-    # As of May 2026 Instagram is returning 403 Forbidden on anonymous
-    # graphql/query requests, breaking all profile lookups. Disabled until
-    # we add login-based scraping (instaloader supports session cookies).
-    enabled: false
-    posts_per_account: 6
+    # Add accounts as you find dance promoters / venues / studios on IG.
+    # Verify each handle exists before adding (Apify returns a `not_found`
+    # error for typos, just clutters logs).
+    enabled: true
+    posts_per_account: 8
     accounts:
-      # SEED THESE WITH REAL DFW DANCE ACCOUNTS YOU CARE ABOUT.
-      # (Public profiles only.) Examples to start; verify/replace as you like.
-      - salsadallas
-      - studio22dallas
-      - golatindance
-      # - dallas_bachata_social
-      # - your_favorite_dfw_dj
-    # Hashtags pull is heavily rate-limited and often blocked anonymously.
-    # Disabled by default; flip to true at your own risk.
+      - alphamidway          # Alpha Midway Dance Studio (Dallas)
+      - studio22dallas       # Studio 22 Dallas
+      - salsadallas          # Salsa Dallas (congresses + Bishop Arts socials)
+      - salsavida            # SalsaVida community
+      - golatindance         # GoLatinDance newsletter & socials
+    # Hashtag pulls aren't yet wired through Apify in this source; harmless
+    # to leave configured for the future.
     hashtags_enabled: false
     hashtags:
       - dfwsalsa

@@ -37,6 +37,8 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run aggregator
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
         run: |
           if [ -n "${{ github.event.inputs.only }}" ]; then
             python -m src.main --only="${{ github.event.inputs.only }}"
@@ -48,7 +50,7 @@ jobs:
         run: |
           git config user.name  "dfw-dance-bot"
           git config user.email "dfw-dance-bot@users.noreply.github.com"
-          git add EVENTS.md index.html data/events.json data/.instagram_last_run 2>/dev/null || true
+          git add EVENTS.md index.html data/events.json 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else

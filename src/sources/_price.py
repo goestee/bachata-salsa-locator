@@ -96,9 +96,16 @@ _PRICE_RE = re.compile(
 )
 
 
-def price_from_text(text: str | None) -> str | None:
+def price_from_text(text: str | None,
+                    *, max_reasonable: float = 200.0) -> str | None:
     """Crude extraction from event description text. Picks up dollar amounts
-    and 'free' / 'no cover'. Returns 'Free', '$N', or '$N-$M'."""
+    and 'free' / 'no cover'. Returns 'Free', '$N', or '$N-$M'.
+
+    `max_reasonable` filters out unrelated dollar amounts that often appear
+    in IG captions (e.g. "$315 dance shoes", "@dancer with $1k followers").
+    Most dance event covers are < $50; festivals/congresses occasionally
+    hit $200, but not higher.
+    """
     if not text:
         return None
     amounts: list[float] = []
@@ -106,9 +113,11 @@ def price_from_text(text: str | None) -> str | None:
     for m in _PRICE_RE.finditer(text):
         if m.group(1):
             try:
-                amounts.append(float(m.group(1)))
+                v = float(m.group(1))
             except ValueError:
-                pass
+                continue
+            if v <= max_reasonable:
+                amounts.append(v)
         elif m.group(2):
             has_free_word = True
     if has_free_word and not amounts:
