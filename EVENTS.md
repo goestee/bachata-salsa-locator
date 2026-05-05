@@ -1,18 +1,14 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-05-04 09:58 PM CDT**
+> Auto-generated. Last update: **2026-05-05 03:40 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 104 upcoming events tracked. **104 new** since last run.
+> 105 upcoming events tracked. **105 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Mondays just got a whole lot better.](https://www.instagram.com/p/DW2Bdh3gOG2/)** **_Varies_**  
-   Alphamidway  
-   Mon, May 4, 2026 • 7:00 PM – 9:00 PM  
-   `salsa` `lesson` _via instagram_
 - **[Salsa Dance Class for Beginners](https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1984721433234)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Tue, May 5, 2026 • all day  
@@ -65,6 +61,10 @@
    Hangout · Irving  
    Thu, May 7, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Beginner Cha Cha Dance Class](https://www.meetup.com/dfwyoungsocial/events/314458899/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Thu, May 7, 2026 • 7:00 PM  
+   `social` `lesson` `cha-cha` _via meetup_
 - **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-05-07/)** **_Free_**  
    Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
    Thu, May 7, 2026 • 9:00 PM – 1:00 AM  
@@ -114,13 +114,6 @@
 
 ## Upcoming
 
-
-### Monday, May 4, 2026
-
-- **[Mondays just got a whole lot better.](https://www.instagram.com/p/DW2Bdh3gOG2/)** **_Varies_**  
-   Alphamidway  
-   Mon, May 4, 2026 • 7:00 PM – 9:00 PM  
-   `salsa` `lesson` _via instagram_
 
 ### Tuesday, May 5, 2026
 
@@ -182,6 +175,10 @@
    Hangout · Irving  
    Thu, May 7, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Beginner Cha Cha Dance Class](https://www.meetup.com/dfwyoungsocial/events/314458899/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Thu, May 7, 2026 • 7:00 PM  
+   `social` `lesson` `cha-cha` _via meetup_
 - **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-05-07/)** **_Free_**  
    Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
    Thu, May 7, 2026 • 9:00 PM – 1:00 AM  
@@ -515,6 +512,10 @@
    Dallas-Fort Worth  
    Sun, May 24, 2026 • 5:30 PM – 10:30 PM  
    `social` `salsa` `bachata` `merengue` _via salsavida_
+- **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/314635402/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Sun, May 24, 2026 • 6:30 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 - **[Fuego Sundays at Longhorn Icehouse](https://www.salsavida.com/event/texas/dallas-fort-worth/fuego-sundays-at-longhorn-icehouse/)** **_$10_**  
    Dallas-Fort Worth  
    Sun, May 24, 2026 • 10:00 PM  
