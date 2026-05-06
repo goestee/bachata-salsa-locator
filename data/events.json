@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-06T09:40:55.837000+00:00",
-  "count": 111,
+  "updated_at": "2026-05-06T18:08:25.052177+00:00",
+  "count": 113,
   "events": [
     {
       "title": "Salsa Dance Class for Beginners",
@@ -43,7 +43,7 @@
       "price": null,
       "id": "44bcb94b0019f4c7",
       "first_seen_at": "2026-05-04T20:31:49.642704+00:00",
-      "last_seen_at": "2026-05-05T02:58:11.082054+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051721+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -67,7 +67,7 @@
       "price": null,
       "id": "23814a5ecb957c01",
       "first_seen_at": "2026-05-04T20:31:49.642711+00:00",
-      "last_seen_at": "2026-05-05T02:58:11.082062+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051728+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -80,7 +80,7 @@
       "address": "314 West Eighth Street, Dallas, TX, 75208",
       "city": "Dallas",
       "description": "Salsa Dance Workshop",
-      "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183704101%2F41249668496%2F1%2Foriginal.20260504-135433?crop=focalpoint&fit=crop&w=300&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8e62fe6c87e4ae821d9d13b03282561e",
+      "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183704101%2F41249668496%2F1%2Foriginal.20260504-135433?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d7e126b674527fdf2be1ebafeaf1346f",
       "tags": [
         "workshop",
         "salsa"
@@ -88,7 +88,7 @@
       "price": null,
       "id": "090f1429d8ef0308",
       "first_seen_at": "2026-05-04T20:31:49.642716+00:00",
-      "last_seen_at": "2026-05-05T02:58:11.082068+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051734+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -108,7 +108,7 @@
       "price": null,
       "id": "7277aac9eb4d69ff",
       "first_seen_at": "2026-05-04T20:31:49.642721+00:00",
-      "last_seen_at": "2026-05-05T02:58:11.082073+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051739+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -153,7 +153,7 @@
       "price": null,
       "id": "6123fae361cf0221",
       "first_seen_at": "2026-05-04T20:31:49.642730+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836622+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051816+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -175,7 +175,7 @@
       "price": null,
       "id": "53f2a56640af90f6",
       "first_seen_at": "2026-05-04T20:31:49.642735+00:00",
-      "last_seen_at": "2026-05-05T02:58:11.082088+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051749+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -195,7 +195,7 @@
       "price": null,
       "id": "b898433283f94173",
       "first_seen_at": "2026-05-04T20:31:49.642741+00:00",
-      "last_seen_at": "2026-05-05T02:58:11.082096+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051755+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -218,7 +218,7 @@
       "price": null,
       "id": "f432809238e09baa",
       "first_seen_at": "2026-05-04T20:31:49.642746+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836516+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051763+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -263,7 +263,7 @@
       "price": null,
       "id": "a8352b1cbc76d4d3",
       "first_seen_at": "2026-05-04T20:31:49.642756+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836552+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051773+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -288,7 +288,7 @@
       "price": null,
       "id": "f17e0db657da4c09",
       "first_seen_at": "2026-05-04T20:31:49.642762+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836561+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051779+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -311,7 +311,7 @@
       "price": null,
       "id": "c086da1d2490e1ac",
       "first_seen_at": "2026-05-04T20:31:49.642766+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836618+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051812+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -336,7 +336,7 @@
       "price": null,
       "id": "004b24d899c2980c",
       "first_seen_at": "2026-05-04T20:31:49.642770+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836582+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051791+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -359,7 +359,7 @@
       "price": null,
       "id": "07bf8a4166df388d",
       "first_seen_at": "2026-05-04T20:31:49.642774+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836600+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051795+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -384,7 +384,7 @@
       "price": null,
       "id": "1f3757f3df50e5a7",
       "first_seen_at": "2026-05-04T20:31:49.642779+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836604+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051799+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -409,7 +409,7 @@
       "price": null,
       "id": "e0a06f1c2c2442a9",
       "first_seen_at": "2026-05-04T20:31:49.642783+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836610+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051804+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -433,7 +433,7 @@
       "price": null,
       "id": "cf4f8d22b2baed98",
       "first_seen_at": "2026-05-04T20:31:49.642788+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836614+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051808+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -456,7 +456,7 @@
       "price": null,
       "id": "942c9862e498891b",
       "first_seen_at": "2026-05-04T20:31:49.642802+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836630+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051824+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -479,7 +479,7 @@
       "price": null,
       "id": "e6952231d972248a",
       "first_seen_at": "2026-05-04T20:31:49.642806+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836634+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051829+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -501,7 +501,7 @@
       "price": null,
       "id": "158ddc857b5adf29",
       "first_seen_at": "2026-05-04T20:31:49.642809+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836636+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051832+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -521,7 +521,7 @@
       "price": null,
       "id": "e7dd5b410606c3b1",
       "first_seen_at": "2026-05-04T20:31:49.642812+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836639+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051834+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -543,7 +543,7 @@
       "price": null,
       "id": "ad867fca63e847d1",
       "first_seen_at": "2026-05-04T20:31:49.642814+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836642+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051837+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -564,7 +564,7 @@
       "price": null,
       "id": "372e6b7ad58b37a8",
       "first_seen_at": "2026-05-04T20:31:49.642817+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836644+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051840+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -585,7 +585,7 @@
       "price": null,
       "id": "3b422424ece0bf2d",
       "first_seen_at": "2026-05-04T20:31:49.642819+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836646+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051842+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -608,7 +608,7 @@
       "price": null,
       "id": "5fb8e12c392d49b1",
       "first_seen_at": "2026-05-04T20:31:49.642821+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836649+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051845+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -631,7 +631,7 @@
       "price": null,
       "id": "4694e0c15afcd78b",
       "first_seen_at": "2026-05-04T20:31:49.642823+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836656+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051847+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -653,7 +653,7 @@
       "price": null,
       "id": "06ce77ed49081ad0",
       "first_seen_at": "2026-05-04T20:31:49.642825+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836660+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051849+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -676,7 +676,7 @@
       "price": null,
       "id": "f4f24a042debc6f2",
       "first_seen_at": "2026-05-04T20:31:49.642827+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836664+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051852+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -698,7 +698,7 @@
       "price": null,
       "id": "355eb749c968fe87",
       "first_seen_at": "2026-05-04T20:31:49.642829+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836668+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051854+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -721,7 +721,7 @@
       "price": null,
       "id": "ca57a3fdb14417be",
       "first_seen_at": "2026-05-04T20:31:49.642832+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836689+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051857+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -741,7 +741,7 @@
       "price": null,
       "id": "155ea2ca5dfdfd21",
       "first_seen_at": "2026-05-04T20:31:49.642834+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836692+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051860+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -762,7 +762,7 @@
       "price": null,
       "id": "e7291561bc00d160",
       "first_seen_at": "2026-05-04T20:31:49.642836+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836694+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051863+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -783,7 +783,7 @@
       "price": null,
       "id": "0345a13194e66754",
       "first_seen_at": "2026-05-04T20:31:49.642838+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836696+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051865+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -806,7 +806,7 @@
       "price": null,
       "id": "6d54141b308e7423",
       "first_seen_at": "2026-05-04T20:31:49.642840+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836698+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051867+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -830,7 +830,7 @@
       "price": "Free",
       "id": "72c03b3d4be3e572",
       "first_seen_at": "2026-05-04T20:31:49.642844+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836703+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051872+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -852,7 +852,7 @@
       "price": "Free",
       "id": "6172788f98bb4ab7",
       "first_seen_at": "2026-05-04T20:31:49.642848+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836707+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051876+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -875,7 +875,7 @@
       "price": "$15–$18",
       "id": "87628e0c2506f5f7",
       "first_seen_at": "2026-05-04T20:31:49.642852+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836711+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051880+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -899,7 +899,7 @@
       "price": "Free",
       "id": "a4178a37875ec448",
       "first_seen_at": "2026-05-04T20:31:49.642856+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836715+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051885+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -922,7 +922,7 @@
       "price": null,
       "id": "a430cb022a06811c",
       "first_seen_at": "2026-05-04T20:31:49.642860+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836719+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051888+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -946,7 +946,7 @@
       "price": "Free",
       "id": "e2a02c47a57d25b6",
       "first_seen_at": "2026-05-04T20:31:49.642864+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836723+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051893+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -968,7 +968,7 @@
       "price": "$10",
       "id": "20b459aebda90f9d",
       "first_seen_at": "2026-05-04T20:31:49.642868+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836727+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051897+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -990,7 +990,7 @@
       "price": "Free",
       "id": "568981113d52a28f",
       "first_seen_at": "2026-05-04T20:31:49.642873+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836731+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051901+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1012,7 +1012,7 @@
       "price": "Free",
       "id": "d72c9f07975814a0",
       "first_seen_at": "2026-05-04T20:31:49.642877+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836734+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051905+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1034,7 +1034,7 @@
       "price": "Free",
       "id": "1ef2f847680da63d",
       "first_seen_at": "2026-05-04T20:31:49.642880+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836738+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051909+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1057,7 +1057,7 @@
       "price": "Free",
       "id": "2f6d23ecdaabe7f8",
       "first_seen_at": "2026-05-04T20:31:49.642884+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836742+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051913+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1081,7 +1081,7 @@
       "price": "Free",
       "id": "9b933af2fd01be75",
       "first_seen_at": "2026-05-04T20:31:49.642888+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836746+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051916+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1103,7 +1103,7 @@
       "price": "Free",
       "id": "81afdf0ba083556d",
       "first_seen_at": "2026-05-04T20:31:49.642892+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836750+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051920+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1126,7 +1126,7 @@
       "price": "$15–$18",
       "id": "86d5cdcc7bdd7205",
       "first_seen_at": "2026-05-04T20:31:49.642896+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836754+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051924+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1150,7 +1150,7 @@
       "price": "Free",
       "id": "d2e023a8c940c766",
       "first_seen_at": "2026-05-04T20:31:49.642900+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836757+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051928+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1173,7 +1173,7 @@
       "price": "$17",
       "id": "94d09c714fbb6b5f",
       "first_seen_at": "2026-05-04T20:31:49.642904+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836761+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051932+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1196,7 +1196,7 @@
       "price": null,
       "id": "f1041c3923df4ba9",
       "first_seen_at": "2026-05-04T20:31:49.642908+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836765+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051936+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1220,7 +1220,7 @@
       "price": "Free",
       "id": "7803aa43b64a624d",
       "first_seen_at": "2026-05-04T20:31:49.642912+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836769+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051939+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1242,7 +1242,7 @@
       "price": "$10",
       "id": "481c0f94be6a9ed4",
       "first_seen_at": "2026-05-04T20:31:49.642916+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836772+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051944+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1263,7 +1263,7 @@
       "price": "$12–$20",
       "id": "2fbd03c3f61b1a10",
       "first_seen_at": "2026-05-04T20:31:49.642921+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836779+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051950+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1285,7 +1285,7 @@
       "price": "Free",
       "id": "fc0a90943fac597d",
       "first_seen_at": "2026-05-04T20:31:49.642925+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836783+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051954+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1307,7 +1307,7 @@
       "price": "Free",
       "id": "3cbf7d7241744b26",
       "first_seen_at": "2026-05-04T20:31:49.642929+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836787+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051958+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1330,7 +1330,7 @@
       "price": "Free",
       "id": "95aad3c6eef9cada",
       "first_seen_at": "2026-05-04T20:31:49.642955+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836814+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051989+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1354,7 +1354,7 @@
       "price": "Free",
       "id": "724e2a855eb285cb",
       "first_seen_at": "2026-05-04T20:31:49.642957+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836816+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051991+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1378,7 +1378,7 @@
       "price": "$8",
       "id": "75298c3d39ee4aa0",
       "first_seen_at": "2026-05-04T20:31:49.642959+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836818+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051993+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1398,7 +1398,7 @@
       "price": "Free",
       "id": "e5b0ac5e07859c4b",
       "first_seen_at": "2026-05-04T20:31:49.642961+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836821+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051996+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1421,7 +1421,7 @@
       "price": "Free",
       "id": "55d814b0a6f9e308",
       "first_seen_at": "2026-05-04T20:31:49.642963+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836823+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051998+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1445,7 +1445,7 @@
       "price": "$10",
       "id": "e6fb68ac48473bf0",
       "first_seen_at": "2026-05-04T20:31:49.642965+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836826+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052001+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1468,7 +1468,7 @@
       "price": "$10",
       "id": "e1a1583ca4d1a4c9",
       "first_seen_at": "2026-05-04T20:31:49.642967+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836828+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052003+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1491,7 +1491,7 @@
       "price": "$7",
       "id": "f54d572ce39069ea",
       "first_seen_at": "2026-05-04T20:31:49.642970+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836830+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052006+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1515,7 +1515,7 @@
       "price": "Free",
       "id": "1ac36d6b33817936",
       "first_seen_at": "2026-05-04T20:31:49.642972+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836833+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052008+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1538,7 +1538,7 @@
       "price": "Free",
       "id": "6be8e1020e8f4b62",
       "first_seen_at": "2026-05-04T20:31:49.642974+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836835+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052010+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1562,7 +1562,7 @@
       "price": "Free",
       "id": "96ef7198991dd755",
       "first_seen_at": "2026-05-04T20:31:49.642975+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836837+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052013+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1586,7 +1586,7 @@
       "price": "$18",
       "id": "44f62659a15c4bda",
       "first_seen_at": "2026-05-04T20:31:49.642978+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836840+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052015+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1609,7 +1609,7 @@
       "price": "$10",
       "id": "b6c6c6f8a69936ae",
       "first_seen_at": "2026-05-04T20:31:49.642979+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836842+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052018+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1633,7 +1633,7 @@
       "price": "$8",
       "id": "fac18c3f95088e6a",
       "first_seen_at": "2026-05-04T20:31:49.642981+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836844+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052020+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1653,7 +1653,7 @@
       "price": "Free",
       "id": "6ee0c0539ee7c040",
       "first_seen_at": "2026-05-04T20:31:49.642983+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836847+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052022+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1677,7 +1677,7 @@
       "price": "$10",
       "id": "c64cb7e1046c113d",
       "first_seen_at": "2026-05-04T20:31:49.642985+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836849+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052024+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1700,7 +1700,7 @@
       "price": "$10",
       "id": "60aebb29322393d2",
       "first_seen_at": "2026-05-04T20:31:49.642988+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836852+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052027+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1723,7 +1723,7 @@
       "price": "$7",
       "id": "f17ef663589e19f4",
       "first_seen_at": "2026-05-04T20:31:49.642990+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836854+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052030+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1747,7 +1747,7 @@
       "price": "Free",
       "id": "409d6a8e3656d2f2",
       "first_seen_at": "2026-05-04T20:31:49.642992+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836856+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052032+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1770,7 +1770,7 @@
       "price": "Free",
       "id": "b38c5b39320e883e",
       "first_seen_at": "2026-05-04T20:31:49.642994+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836859+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052035+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1794,7 +1794,7 @@
       "price": "Free",
       "id": "5e8a4cd92fc6ca96",
       "first_seen_at": "2026-05-04T20:31:49.642996+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836861+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052037+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1817,7 +1817,7 @@
       "price": "$20",
       "id": "f771f53cf510ed39",
       "first_seen_at": "2026-05-04T20:31:49.642998+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836863+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052039+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1841,7 +1841,7 @@
       "price": "$8",
       "id": "d8d038a211cac5e7",
       "first_seen_at": "2026-05-04T20:31:49.643000+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836865+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052041+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1861,7 +1861,7 @@
       "price": "Free",
       "id": "7176bb6ab47420b2",
       "first_seen_at": "2026-05-04T20:31:49.643003+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836867+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052043+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1885,7 +1885,7 @@
       "price": "$10",
       "id": "d4a599f61d5e695c",
       "first_seen_at": "2026-05-04T20:31:49.643005+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836870+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052045+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1908,7 +1908,7 @@
       "price": "$10",
       "id": "b052954a4ba78c38",
       "first_seen_at": "2026-05-04T20:31:49.643007+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836873+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052048+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1931,7 +1931,7 @@
       "price": "$7",
       "id": "130977b8bf81ebae",
       "first_seen_at": "2026-05-04T20:31:49.643009+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836875+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052050+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1955,7 +1955,7 @@
       "price": "Free",
       "id": "3e5e7e0f881f147e",
       "first_seen_at": "2026-05-04T20:31:49.643011+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836877+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052052+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1978,7 +1978,7 @@
       "price": "Free",
       "id": "35a83507cfb75a37",
       "first_seen_at": "2026-05-04T20:31:49.643013+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836879+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052054+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2002,7 +2002,7 @@
       "price": "Free",
       "id": "75d585455eee489c",
       "first_seen_at": "2026-05-04T20:31:49.643015+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836882+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052056+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2026,7 +2026,7 @@
       "price": "$8",
       "id": "fd5e875ac9bd2d2c",
       "first_seen_at": "2026-05-04T20:31:49.643017+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836884+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052058+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2046,7 +2046,7 @@
       "price": "Free",
       "id": "a0c30f2f1fe1fe56",
       "first_seen_at": "2026-05-04T20:31:49.643019+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836886+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052061+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2070,7 +2070,7 @@
       "price": "$10",
       "id": "09755b61b63856b9",
       "first_seen_at": "2026-05-04T20:31:49.643021+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836889+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052063+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2093,7 +2093,7 @@
       "price": "$10",
       "id": "b9ed11ae19c69351",
       "first_seen_at": "2026-05-04T20:31:49.643023+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836891+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052065+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2116,7 +2116,7 @@
       "price": "$7",
       "id": "cf1041b3ba324a83",
       "first_seen_at": "2026-05-04T20:31:49.643025+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836894+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052068+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2140,7 +2140,7 @@
       "price": "Free",
       "id": "2187136de2eb00e4",
       "first_seen_at": "2026-05-04T20:31:49.643026+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836896+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052070+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2163,7 +2163,7 @@
       "price": "Free",
       "id": "788b7824bff20772",
       "first_seen_at": "2026-05-04T20:31:49.643028+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836898+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052072+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2187,7 +2187,7 @@
       "price": "Free",
       "id": "f72a23900f3c9ece",
       "first_seen_at": "2026-05-04T20:31:49.643030+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836900+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052074+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2211,7 +2211,7 @@
       "price": "$8",
       "id": "156d81f2ab3531fe",
       "first_seen_at": "2026-05-04T20:31:49.643032+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836903+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052076+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2231,7 +2231,7 @@
       "price": "Free",
       "id": "31de0913f484c81c",
       "first_seen_at": "2026-05-04T20:31:49.643034+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836905+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.052078+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2254,7 +2254,7 @@
       "price": null,
       "id": "8ddcf603e6a4955c",
       "first_seen_at": "2026-05-05T02:58:11.082150+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836575+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051787+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2492,7 +2492,7 @@
       "price": null,
       "id": "c6fe036ebfb7fa29",
       "first_seen_at": "2026-05-05T08:40:35.375195+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836626+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051820+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2514,7 +2514,51 @@
       "price": null,
       "id": "2629c61d37d1bc1d",
       "first_seen_at": "2026-05-06T09:40:55.836541+00:00",
-      "last_seen_at": "2026-05-06T09:40:55.836541+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051767+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "Salsa Dance Class for Beginners",
+      "start": "2026-05-09",
+      "source": "eventbrite",
+      "source_url": "https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1978750437826",
+      "end": "2026-05-09",
+      "venue": "DFW Young & Social",
+      "address": "2309 Springlake Rd, Farmers Branch, TX, 75234",
+      "city": "Farmers Branch",
+      "description": "Experience the thrill of Salsa dancing with our vibrant and exciting Salsa Dance Class for Young Adults.",
+      "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F840943559%2F1042446429203%2F1%2Foriginal.20240904-002758?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.005&fp-y=0.005&s=ae0a21b0f4e6e67acf22e82f19384fea",
+      "tags": [
+        "social",
+        "lesson",
+        "salsa"
+      ],
+      "price": null,
+      "id": "265a0642a7bd81af",
+      "first_seen_at": "2026-05-06T18:08:25.051689+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051689+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "Beginner Cha Cha Dance Class",
+      "start": "2026-05-07",
+      "source": "eventbrite",
+      "source_url": "https://www.eventbrite.com/e/beginner-cha-cha-dance-class-tickets-1988881834105",
+      "end": "2026-05-07",
+      "venue": "DFW Young & Social",
+      "address": "2309 Springlake Rd, Farmers Branch, TX, 75234",
+      "city": "Farmers Branch",
+      "description": "Discover the Cha Cha, a fun and flirtatious partner dance known for its infectious rhythm and playful footwork.",
+      "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183873778%2F2956879419001%2F1%2Foriginal.20260506-010236?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.541&fp-y=0.54&s=762b457a1d9aee69193a54dc75c82607",
+      "tags": [
+        "social",
+        "lesson",
+        "cha-cha"
+      ],
+      "price": null,
+      "id": "7bfc22c769e52f53",
+      "first_seen_at": "2026-05-06T18:08:25.051759+00:00",
+      "last_seen_at": "2026-05-06T18:08:25.051759+00:00",
       "submitted_to_supabase": null
     }
   ]

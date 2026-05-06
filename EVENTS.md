@@ -1,26 +1,26 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-05-06 04:40 AM CDT**
+> Auto-generated. Last update: **2026-05-06 01:08 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 104 upcoming events tracked. **3 new** since last run.
+> 106 upcoming events tracked. **3 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Beginner Cha Cha Dance Class](https://www.meetup.com/dfwyoungsocial/events/314458899/)** **_Varies_**  
+- **[Beginner Cha Cha Dance Class](https://www.eventbrite.com/e/beginner-cha-cha-dance-class-tickets-1988881834105)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
-   Thu, May 7, 2026 • 7:00 PM  
-   `social` `lesson` `cha-cha` _via meetup_
+   Thu, May 7, 2026 • all day  
+   `social` `lesson` `cha-cha` _via eventbrite_
+- **[Salsa Dance Class for Beginners](https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1978750437826)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, May 9, 2026 • all day  
+   `social` `lesson` `salsa` _via eventbrite_
 - **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/314429758/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Tue, May 12, 2026 • 8:00 PM  
    `social` `lesson` `salsa` _via meetup_
-- **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/314635402/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, May 24, 2026 • 6:30 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
 
 ---
 
@@ -76,6 +76,10 @@
    Hangout · Irving  
    Thu, May 7, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Beginner Cha Cha Dance Class](https://www.eventbrite.com/e/beginner-cha-cha-dance-class-tickets-1988881834105)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Thu, May 7, 2026 • all day  
+   `social` `lesson` `cha-cha` _via eventbrite_
 - **[Beginner Cha Cha Dance Class](https://www.meetup.com/dfwyoungsocial/events/314458899/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Thu, May 7, 2026 • 7:00 PM  
@@ -154,6 +158,10 @@
    Mi Pueblito · Garland  
    Sat, May 9, 2026 • all day  
    `social` _via danceus_
+- **[Salsa Dance Class for Beginners](https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1978750437826)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, May 9, 2026 • all day  
+   `social` `lesson` `salsa` _via eventbrite_
 - **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/314370716/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Sat, May 9, 2026 • 4:00 PM  
