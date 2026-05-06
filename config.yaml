@@ -169,6 +169,20 @@ sources:
       - dfwlatindance
 
 # ---------------------------------------------------------------------------
+# Output sinks: places we POST events after the local store updates.
+# These are write-only; we never read back from a sink.
+# ---------------------------------------------------------------------------
+sinks:
+  supabase:
+    # Disabled until the downstream `pending_events` table has an RLS
+    # policy permitting `anon` INSERT. Once Orlando confirms the policy
+    # is in place, flip this to true and the next cron run will start
+    # pushing events. Requires SUPABASE_URL + SUPABASE_ANON_KEY env vars
+    # (set as GitHub Actions secrets in CI).
+    enabled: false
+    table: pending_events
+
+# ---------------------------------------------------------------------------
 # Output
 # ---------------------------------------------------------------------------
 output:

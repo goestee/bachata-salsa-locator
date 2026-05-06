@@ -19,6 +19,7 @@ import yaml
 from .filters import classify_tags, is_dance_event, is_in_dfw
 from .models import Event
 from .render import render_html, render_markdown
+from .sinks.supabase import SupabaseSink
 from .sources.base import BaseSource
 from .sources.eventbrite import EventbriteSource
 from .sources.generic_jsonld import GenericCalendarSource
@@ -135,6 +136,8 @@ def main(argv: list[str] | None = None) -> int:
                    help="Comma-separated source names to run (others skipped)")
     p.add_argument("--exclude",
                    help="Comma-separated source names to skip (rest run normally)")
+    p.add_argument("--no-supabase", action="store_true",
+                   help="Skip pushing to Supabase even if configured/enabled")
     p.add_argument("--dry-run", action="store_true",
                    help="Don't write EVENTS.md or events.json")
     p.add_argument("--verbose", "-v", action="store_true")
@@ -197,6 +200,32 @@ def main(argv: list[str] | None = None) -> int:
     if args.dry_run:
         log.info("Dry-run: skipping writes.")
     else:
+        # Push unsubmitted upcoming events to Supabase BEFORE save() so the
+        # submitted_to_supabase timestamps get persisted in events.json.
+        # Disabled by default — flip sinks.supabase.enabled=true once the
+        # downstream RLS policy is in place.
+        sb_cfg = (cfg.get("sinks") or {}).get("supabase") or {}
+        if sb_cfg.get("enabled") and not args.no_supabase:
+            sink = SupabaseSink(table=sb_cfg.get("table", "pending_events"))
+            if sink.configured:
+                today_iso = datetime.now(timezone.utc).date().isoformat()
+                unsent = [
+                    e for e in store.all()
+                    if not e.submitted_to_supabase
+                    and e.start and e.start[:10] >= today_iso
+                ]
+                if unsent:
+                    log.info("Supabase: submitting %d unsent upcoming events",
+                             len(unsent))
+                    sent_ts = datetime.now(timezone.utc).isoformat()
+                    for ev in sink.submit(unsent):
+                        ev.submitted_to_supabase = sent_ts
+                else:
+                    log.info("Supabase: nothing new to submit")
+            else:
+                log.warning("Supabase enabled but SUPABASE_URL/"
+                            "SUPABASE_ANON_KEY missing — skipping")
+
         store.save()
         render_markdown(
             store.all(),

@@ -39,6 +39,8 @@ jobs:
       - name: Run aggregator
         env:
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
         run: |
           # IG (via paid Apify) only runs on the evening cron — keeps us
           # comfortably under Apify's $5/mo free tier. The morning cron

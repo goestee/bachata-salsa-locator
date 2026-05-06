@@ -33,6 +33,11 @@ class Event:
     id: Optional[str] = None
     first_seen_at: Optional[str] = None
     last_seen_at: Optional[str] = None
+    # ISO timestamp of when this event was successfully submitted to the
+    # downstream Supabase pending_events queue. None means "not yet sent."
+    # Set by the supabase sink in main.py after a successful insert so we
+    # don't re-submit the same event on every cron run.
+    submitted_to_supabase: Optional[str] = None
 
     def stable_id(self) -> str:
         """Deterministic ID. Same event from different sources should collide
