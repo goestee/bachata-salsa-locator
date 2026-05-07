@@ -174,12 +174,12 @@ sources:
 # ---------------------------------------------------------------------------
 sinks:
   supabase:
-    # Disabled until the downstream `pending_events` table has an RLS
-    # policy permitting `anon` INSERT. Once Orlando confirms the policy
-    # is in place, flip this to true and the next cron run will start
-    # pushing events. Requires SUPABASE_URL + SUPABASE_ANON_KEY env vars
-    # (set as GitHub Actions secrets in CI).
-    enabled: false
+    # Live as of 2026-05-06. Pushes new events to the partner app's
+    # pending_events table for human review. Anon-key INSERT-only is
+    # enforced by RLS; rows are forced to status='pending'. Requires
+    # SUPABASE_URL + SUPABASE_ANON_KEY env vars (set as GitHub Actions
+    # secrets in CI).
+    enabled: true
     table: pending_events
 
 # ---------------------------------------------------------------------------

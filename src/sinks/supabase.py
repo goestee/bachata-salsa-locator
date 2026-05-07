@@ -106,6 +106,10 @@ def event_to_payload(ev: Event) -> dict:
         "instagram_url": instagram_url,
         "source_url": ev.source_url or None,
         "flyer_image_url": ev.image_url or None,
+        # Required by the RLS WITH CHECK clause — anon role can only insert
+        # rows that start in the "pending" review state. Orlando's admin
+        # UI flips this to "approved"/"rejected" later.
+        "status": "pending",
     }
 
 
