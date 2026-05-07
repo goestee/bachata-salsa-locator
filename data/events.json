@@ -1,29 +1,7 @@
 {
-  "updated_at": "2026-05-06T18:08:25.052177+00:00",
-  "count": 113,
+  "updated_at": "2026-05-07T10:11:55.775411+00:00",
+  "count": 119,
   "events": [
-    {
-      "title": "Salsa Dance Class for Beginners",
-      "start": "2026-05-05",
-      "source": "eventbrite",
-      "source_url": "https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1984721433234",
-      "end": "2026-05-05",
-      "venue": "DFW Young & Social",
-      "address": "2309 Springlake Rd, Farmers Branch, TX, 75234",
-      "city": "Farmers Branch",
-      "description": "Experience the thrill of Salsa dancing with our vibrant and exciting Salsa Dance Class for Young Adults.",
-      "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F840943559%2F1042446429203%2F1%2Foriginal.20240904-002758?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.005&fp-y=0.005&s=ae0a21b0f4e6e67acf22e82f19384fea",
-      "tags": [
-        "social",
-        "lesson",
-        "salsa"
-      ],
-      "price": null,
-      "id": "de32875bff642c3c",
-      "first_seen_at": "2026-05-04T20:31:49.642688+00:00",
-      "last_seen_at": "2026-05-05T02:58:11.082037+00:00",
-      "submitted_to_supabase": null
-    },
     {
       "title": "SALSA DEL BARRIO",
       "start": "2026-05-09",
@@ -44,7 +22,7 @@
       "id": "44bcb94b0019f4c7",
       "first_seen_at": "2026-05-04T20:31:49.642704+00:00",
       "last_seen_at": "2026-05-06T18:08:25.051721+00:00",
-      "submitted_to_supabase": null
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "BIG TEXAS  Salsa & Bachata Latin Dance Festival 2026",
@@ -68,7 +46,7 @@
       "id": "23814a5ecb957c01",
       "first_seen_at": "2026-05-04T20:31:49.642711+00:00",
       "last_seen_at": "2026-05-06T18:08:25.051728+00:00",
-      "submitted_to_supabase": null
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Learn to Dance Salsa: with Diego Velasquez & Elkin Pautt",
@@ -89,7 +67,7 @@
       "id": "090f1429d8ef0308",
       "first_seen_at": "2026-05-04T20:31:49.642716+00:00",
       "last_seen_at": "2026-05-06T18:08:25.051734+00:00",
-      "submitted_to_supabase": null
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Wood Turned Chips & Salsa Bowl",
@@ -109,7 +87,7 @@
       "id": "7277aac9eb4d69ff",
       "first_seen_at": "2026-05-04T20:31:49.642721+00:00",
       "last_seen_at": "2026-05-06T18:08:25.051739+00:00",
-      "submitted_to_supabase": null
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Merengue Dance Classes",
@@ -131,7 +109,7 @@
       "id": "d211205076e46083",
       "first_seen_at": "2026-05-04T20:31:49.642726+00:00",
       "last_seen_at": "2026-05-05T02:58:11.082079+00:00",
-      "submitted_to_supabase": null
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Beginner Bachata Dance Class",
@@ -153,8 +131,8 @@
       "price": null,
       "id": "6123fae361cf0221",
       "first_seen_at": "2026-05-04T20:31:49.642730+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051816+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403086+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Bachata Dance Class",
@@ -176,7 +154,7 @@
       "id": "53f2a56640af90f6",
       "first_seen_at": "2026-05-04T20:31:49.642735+00:00",
       "last_seen_at": "2026-05-06T18:08:25.051749+00:00",
-      "submitted_to_supabase": null
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Soviēe Fridays: Dallas Latin Night at PM Lounge",
@@ -196,7 +174,7 @@
       "id": "b898433283f94173",
       "first_seen_at": "2026-05-04T20:31:49.642741+00:00",
       "last_seen_at": "2026-05-06T18:08:25.051755+00:00",
-      "submitted_to_supabase": null
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Beginner Salsa Dance Class",
@@ -218,8 +196,8 @@
       "price": null,
       "id": "f432809238e09baa",
       "first_seen_at": "2026-05-04T20:31:49.642746+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051763+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403011+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Beginner Salsa Dance Class",
@@ -263,8 +241,8 @@
       "price": null,
       "id": "a8352b1cbc76d4d3",
       "first_seen_at": "2026-05-04T20:31:49.642756+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051773+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403038+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "BIG FRIDAY SALSA & bachata class in Addison ● We go eat & dance after ●",
@@ -288,8 +266,8 @@
       "price": null,
       "id": "f17e0db657da4c09",
       "first_seen_at": "2026-05-04T20:31:49.642762+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051779+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403045+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "7:30-9:00 Social Salsa & Bachata Class",
@@ -311,8 +289,8 @@
       "price": null,
       "id": "c086da1d2490e1ac",
       "first_seen_at": "2026-05-04T20:31:49.642766+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051812+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403081+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after",
@@ -336,8 +314,8 @@
       "price": null,
       "id": "004b24d899c2980c",
       "first_seen_at": "2026-05-04T20:31:49.642770+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051791+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403059+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "FREE Beginner Salsa & Bachata | Kumbala Dance Studio",
@@ -359,8 +337,8 @@
       "price": null,
       "id": "07bf8a4166df388d",
       "first_seen_at": "2026-05-04T20:31:49.642774+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051795+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403063+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "25 % off FRIDAY salsa & bachata class in Addison",
@@ -384,8 +362,8 @@
       "price": null,
       "id": "1f3757f3df50e5a7",
       "first_seen_at": "2026-05-04T20:31:49.642779+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051799+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403068+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "50 % off SUNDAY Salsa & BACHATA class in addison • we go eat & dance after",
@@ -409,8 +387,8 @@
       "price": null,
       "id": "e0a06f1c2c2442a9",
       "first_seen_at": "2026-05-04T20:31:49.642783+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051804+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403073+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "David Herrera Amateur Latin / Ballroom dance team summer tryouts",
@@ -433,8 +411,8 @@
       "price": null,
       "id": "cf4f8d22b2baed98",
       "first_seen_at": "2026-05-04T20:31:49.642788+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051808+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403077+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "FREE Beginner Salsa & Bachata | Kumbala Dance Studio",
@@ -456,8 +434,8 @@
       "price": null,
       "id": "942c9862e498891b",
       "first_seen_at": "2026-05-04T20:31:49.642802+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051824+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403090+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "FREE Beginner Salsa & Bachata | Kumbala Dance Studio",
@@ -479,8 +457,8 @@
       "price": null,
       "id": "e6952231d972248a",
       "first_seen_at": "2026-05-04T20:31:49.642806+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051829+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403094+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Salsa Wednesday at Vidorra by DJ Wander",
@@ -585,8 +563,8 @@
       "price": null,
       "id": "3b422424ece0bf2d",
       "first_seen_at": "2026-05-04T20:31:49.642819+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051842+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403101+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Kumbala Thursday’s at Al-Amir Addison",
@@ -608,8 +586,8 @@
       "price": null,
       "id": "5fb8e12c392d49b1",
       "first_seen_at": "2026-05-04T20:31:49.642821+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051845+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403103+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Latin Night at Hangout",
@@ -631,8 +609,8 @@
       "price": null,
       "id": "4694e0c15afcd78b",
       "first_seen_at": "2026-05-04T20:31:49.642823+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051847+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403105+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Noches Latinas Fridays at Los Lupes",
@@ -653,8 +631,8 @@
       "price": null,
       "id": "06ce77ed49081ad0",
       "first_seen_at": "2026-05-04T20:31:49.642825+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051849+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403108+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Friday Latin at Al-Amir Arlington",
@@ -676,8 +654,8 @@
       "price": null,
       "id": "f4f24a042debc6f2",
       "first_seen_at": "2026-05-04T20:31:49.642827+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051852+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403110+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Noches Latinas Saturdays at Los Lupes",
@@ -698,8 +676,8 @@
       "price": null,
       "id": "355eb749c968fe87",
       "first_seen_at": "2026-05-04T20:31:49.642829+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051854+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403112+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Salsa Bachata Night at Mexican Bar Company",
@@ -721,8 +699,8 @@
       "price": null,
       "id": "ca57a3fdb14417be",
       "first_seen_at": "2026-05-04T20:31:49.642832+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051857+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403114+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Latin Night at Mi Pueblito",
@@ -741,8 +719,8 @@
       "price": null,
       "id": "155ea2ca5dfdfd21",
       "first_seen_at": "2026-05-04T20:31:49.642834+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051860+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403116+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Son y Sabor – Salsa and Bachata at Victoria’s Restaurant",
@@ -762,8 +740,8 @@
       "price": null,
       "id": "e7291561bc00d160",
       "first_seen_at": "2026-05-04T20:31:49.642836+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051863+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403118+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Salsa Sundays at The Statler",
@@ -783,8 +761,8 @@
       "price": null,
       "id": "0345a13194e66754",
       "first_seen_at": "2026-05-04T20:31:49.642838+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051865+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403121+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Sabroso Sunday at Al-Amir Addison",
@@ -806,8 +784,8 @@
       "price": null,
       "id": "6d54141b308e7423",
       "first_seen_at": "2026-05-04T20:31:49.642840+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051867+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403123+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Latin Night at Gigis",
@@ -852,8 +830,8 @@
       "price": "Free",
       "id": "6172788f98bb4ab7",
       "first_seen_at": "2026-05-04T20:31:49.642848+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051876+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403136+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Salson Social",
@@ -875,8 +853,8 @@
       "price": "$15–$18",
       "id": "87628e0c2506f5f7",
       "first_seen_at": "2026-05-04T20:31:49.642852+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051880+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403140+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Latin Night at Taboo Dallas",
@@ -899,8 +877,8 @@
       "price": "Free",
       "id": "a4178a37875ec448",
       "first_seen_at": "2026-05-04T20:31:49.642856+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051885+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403144+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Friday Latin at Al-Amir Arlington",
@@ -922,8 +900,8 @@
       "price": null,
       "id": "a430cb022a06811c",
       "first_seen_at": "2026-05-04T20:31:49.642860+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051888+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403148+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Latin Saturday at Mexican Bar Company",
@@ -946,8 +924,8 @@
       "price": "Free",
       "id": "e2a02c47a57d25b6",
       "first_seen_at": "2026-05-04T20:31:49.642864+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051893+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403152+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Sabados de Gazadera at Al-Amir Arlington",
@@ -968,8 +946,8 @@
       "price": "$10",
       "id": "20b459aebda90f9d",
       "first_seen_at": "2026-05-04T20:31:49.642868+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051897+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403156+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Rumba Tropical en Reys's Sports Bar",
@@ -990,8 +968,8 @@
       "price": "Free",
       "id": "568981113d52a28f",
       "first_seen_at": "2026-05-04T20:31:49.642873+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051901+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403160+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Salsa Sunday at La Chingona",
@@ -1012,8 +990,8 @@
       "price": "Free",
       "id": "d72c9f07975814a0",
       "first_seen_at": "2026-05-04T20:31:49.642877+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051905+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403164+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Salsa Sunday Night at Hearsay Arlington",
@@ -1034,8 +1012,8 @@
       "price": "Free",
       "id": "1ef2f847680da63d",
       "first_seen_at": "2026-05-04T20:31:49.642880+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051909+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403168+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Sabroso Sundays at Al-Amir",
@@ -1057,8 +1035,8 @@
       "price": "Free",
       "id": "2f6d23ecdaabe7f8",
       "first_seen_at": "2026-05-04T20:31:49.642884+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051913+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403172+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Latin Night at Gigis",
@@ -1081,8 +1059,8 @@
       "price": "Free",
       "id": "9b933af2fd01be75",
       "first_seen_at": "2026-05-04T20:31:49.642888+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051916+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403176+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Latin Thursdays at Massey Shots",
@@ -1103,8 +1081,8 @@
       "price": "Free",
       "id": "81afdf0ba083556d",
       "first_seen_at": "2026-05-04T20:31:49.642892+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051920+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403180+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Una Aventura: Salsa Social",
@@ -1126,8 +1104,8 @@
       "price": "$15–$18",
       "id": "86d5cdcc7bdd7205",
       "first_seen_at": "2026-05-04T20:31:49.642896+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051924+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403184+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Latin Night at Taboo Dallas",
@@ -1150,8 +1128,8 @@
       "price": "Free",
       "id": "d2e023a8c940c766",
       "first_seen_at": "2026-05-04T20:31:49.642900+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051928+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403188+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Pura Ft Worth Salsa and Bachata Social",
@@ -1173,8 +1151,8 @@
       "price": "$17",
       "id": "94d09c714fbb6b5f",
       "first_seen_at": "2026-05-04T20:31:49.642904+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051932+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403192+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Friday Latin at Al-Amir Arlington",
@@ -1196,8 +1174,8 @@
       "price": null,
       "id": "f1041c3923df4ba9",
       "first_seen_at": "2026-05-04T20:31:49.642908+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051936+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403196+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Latin Saturday at Mexican Bar Company",
@@ -1220,8 +1198,8 @@
       "price": "Free",
       "id": "7803aa43b64a624d",
       "first_seen_at": "2026-05-04T20:31:49.642912+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051939+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403200+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Sabados de Gazadera at Al-Amir Arlington",
@@ -1242,8 +1220,8 @@
       "price": "$10",
       "id": "481c0f94be6a9ed4",
       "first_seen_at": "2026-05-04T20:31:49.642916+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051944+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403204+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Dallas Can Dance Monthly Saturday Social",
@@ -1263,8 +1241,8 @@
       "price": "$12–$20",
       "id": "2fbd03c3f61b1a10",
       "first_seen_at": "2026-05-04T20:31:49.642921+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051950+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403209+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Rumba Tropical en Reys's Sports Bar",
@@ -1285,8 +1263,8 @@
       "price": "Free",
       "id": "fc0a90943fac597d",
       "first_seen_at": "2026-05-04T20:31:49.642925+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051954+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403214+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Salsa Sunday at La Chingona",
@@ -1307,8 +1285,8 @@
       "price": "Free",
       "id": "3cbf7d7241744b26",
       "first_seen_at": "2026-05-04T20:31:49.642929+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051958+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403217+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Wednesday Salsa & Bachata at Stratos",
@@ -1319,7 +1297,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Stratos Bar & Grill 2907 W Northwest Hwy Dallas TX 75220 USA",
       "city": null,
-      "description": "Stratos Bar & Grill is a legendary Latin dance venue in Dallas hosting weekly salsa and bachata socials every Wednesday night. The evening begins with a complimentary dance class led by rotating guest instructors, followed by social dancing until 2:00 AM.\r\n\r\nThe venue offers drink specials, a kitchen open all night, free parking, and no cover charge. It's a great midweek outing for dancers of all levels in a vibrant and welcoming atmosphere.",
+      "description": "Stratos Bar & Grill is a legendary Latin dance venue in Dallas hosting weekly salsa and bachata socials every Wednesday night. The evening begins with a complimentary dance class led by rotating guest instructors, followed by social dancing until 2:00 AM.\n\nThe venue offers drink specials, a kitchen open all night, free parking, and no cover charge. It's a great midweek outing for dancers of all levels in a vibrant and welcoming atmosphere.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social",
@@ -1330,7 +1308,7 @@
       "price": "Free",
       "id": "95aad3c6eef9cada",
       "first_seen_at": "2026-05-04T20:31:49.642955+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051989+00:00",
+      "last_seen_at": "2026-05-07T10:11:54.403250+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1342,7 +1320,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Vidorra Cocina 2642 Main St Dallas, TX 75226 United States",
       "city": null,
-      "description": "Salsa Wednesdays at Vidorra Dallas is a vibrant weekly Latin dance event held every Wednesday evening at Vidorra Cocina in the heart of Deep Ellum. \r\n\r\nThe night kicks off at 7:00 PM with a free beginner-friendly salsa lesson, providing an inviting atmosphere for newcomers and seasoned dancers alike. DJ Wander keeps the energy high from 7:00 PM to 11:00 PM, spinning a dynamic mix of salsa, bachata, merengue, and more. \r\n\r\nGuests can enjoy Vidorra's signature margaritas and authentic Mexican cuisine while dancing the night away. \r\n\r\nThe event is free to attend, making it a popular midweek destination for Latin dance enthusiasts in Dallas.",
+      "description": "Salsa Wednesdays at Vidorra Dallas is a vibrant weekly Latin dance event held every Wednesday evening at Vidorra Cocina in the heart of Deep Ellum. \n\nThe night kicks off at 7:00 PM with a free beginner-friendly salsa lesson, providing an inviting atmosphere for newcomers and seasoned dancers alike. DJ Wander keeps the energy high from 7:00 PM to 11:00 PM, spinning a dynamic mix of salsa, bachata, merengue, and more. \n\nGuests can enjoy Vidorra's signature margaritas and authentic Mexican cuisine while dancing the night away. \n\nThe event is free to attend, making it a popular midweek destination for Latin dance enthusiasts in Dallas.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social",
@@ -1354,7 +1332,7 @@
       "price": "Free",
       "id": "724e2a855eb285cb",
       "first_seen_at": "2026-05-04T20:31:49.642957+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051991+00:00",
+      "last_seen_at": "2026-05-07T10:11:54.403252+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1366,7 +1344,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Blue Mesa Grill 14866 Montfort Dr Dallas, TX 75254 United States",
       "city": null,
-      "description": "Salsa Saturdays at Blue Mesa Grill in Addison, Texas, offer a vibrant weekly Latin dance experience. Every Saturday night, guests can enjoy a free salsa class followed by a lively social dance party featuring a mix of Salsa, Bachata, Merengue, and more. \r\n\r\nThe event runs from 10:00 PM to 3:00 AM, providing ample time for dancing and socializing. Attendees are encouraged to dress in casual nice attire, and free parking is available on-site. The venue also offers drink specials throughout the night, enhancing the festive atmosphere. \r\n\r\nWith a cover charge of $8, Salsa Saturdays provide an accessible and exciting opportunity for both novice and experienced dancers to immerse themselves in Latin rhythms and culture.",
+      "description": "Salsa Saturdays at Blue Mesa Grill in Addison, Texas, offer a vibrant weekly Latin dance experience. Every Saturday night, guests can enjoy a free salsa class followed by a lively social dance party featuring a mix of Salsa, Bachata, Merengue, and more. \n\nThe event runs from 10:00 PM to 3:00 AM, providing ample time for dancing and socializing. Attendees are encouraged to dress in casual nice attire, and free parking is available on-site. The venue also offers drink specials throughout the night, enhancing the festive atmosphere. \n\nWith a cover charge of $8, Salsa Saturdays provide an accessible and exciting opportunity for both novice and experienced dancers to immerse themselves in Latin rhythms and culture.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social",
@@ -1378,8 +1356,8 @@
       "price": "$8",
       "id": "75298c3d39ee4aa0",
       "first_seen_at": "2026-05-04T20:31:49.642959+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051993+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403255+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Gloria’s Nightlife",
@@ -1390,7 +1368,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Gloria's Latin Cuisine 5100 Belt Line Rd, Suite #864 Addison, TX 75254 United States",
       "city": null,
-      "description": "Gloria's Nightlife in Addison, Texas, transforms the dining experience into a vibrant Latin dance party every Saturday night. Starting at 11:00 PM, guests can enjoy live Latin music from Havana NRG and dynamic DJ sets by DJ Insanity, keeping the energy high until 2:00 AM. The venue enforces a smart, upscale dress code, ensuring an elegant atmosphere for all attendees. \r\n\r\nWith no cover charge, it's an accessible and exciting opportunity for both novice and experienced dancers to immerse themselves in Latin rhythms and culture. For those seeking an elevated experience, VIP Table & Bottle Service is available, with a special offer of $100 off for a limited time. Whether you're celebrating a special occasion or simply looking for a lively night out, Gloria's Nightlife offers an unforgettable evening of music, dancing, and Latin flair.",
+      "description": "Gloria's Nightlife in Addison, Texas, transforms the dining experience into a vibrant Latin dance party every Saturday night. Starting at 11:00 PM, guests can enjoy live Latin music from Havana NRG and dynamic DJ sets by DJ Insanity, keeping the energy high until 2:00 AM. The venue enforces a smart, upscale dress code, ensuring an elegant atmosphere for all attendees. \n\nWith no cover charge, it's an accessible and exciting opportunity for both novice and experienced dancers to immerse themselves in Latin rhythms and culture. For those seeking an elevated experience, VIP Table & Bottle Service is available, with a special offer of $100 off for a limited time. Whether you're celebrating a special occasion or simply looking for a lively night out, Gloria's Nightlife offers an unforgettable evening of music, dancing, and Latin flair.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social"
@@ -1398,8 +1376,8 @@
       "price": "Free",
       "id": "e5b0ac5e07859c4b",
       "first_seen_at": "2026-05-04T20:31:49.642961+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051996+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403257+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Vitruvian Salsa Festival 2025",
@@ -1410,7 +1388,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Vitruvian Park 3966 Vitruvian Way Addison, TX 75001 United States",
       "city": null,
-      "description": "The Vitruvian Salsa Festival returns to Addison, Texas, for its 11th annual celebration of Latin music and dance. \r\n\r\nHeld every second Saturday from June through September, the festival offers a vibrant evening of live salsa bands, DJ sets, dance lessons, and a variety of food trucks. Each event runs from 6:00 PM to 10:00 PM, with free salsa lessons starting at 6:30 PM, followed by live music at 7:00 PM. DJ Ruben Reyes keeps the energy high throughout the night. \r\n\r\nThe 2025 lineup includes Havana NRG on June 14, Latin Swing on July 12, Zone D'Mambo on August 9, and Yamilka G & Orquesta on September 13. Admission is free, and parking is available for $15 (cash only) at designated lots. Attendees are encouraged to bring their dancing shoes and enjoy an unforgettable summer evening under the stars.",
+      "description": "The Vitruvian Salsa Festival returns to Addison, Texas, for its 11th annual celebration of Latin music and dance. \n\nHeld every second Saturday from June through September, the festival offers a vibrant evening of live salsa bands, DJ sets, dance lessons, and a variety of food trucks. Each event runs from 6:00 PM to 10:00 PM, with free salsa lessons starting at 6:30 PM, followed by live music at 7:00 PM. DJ Ruben Reyes keeps the energy high throughout the night. \n\nThe 2025 lineup includes Havana NRG on June 14, Latin Swing on July 12, Zone D'Mambo on August 9, and Yamilka G & Orquesta on September 13. Admission is free, and parking is available for $15 (cash only) at designated lots. Attendees are encouraged to bring their dancing shoes and enjoy an unforgettable summer evening under the stars.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social",
@@ -1421,8 +1399,8 @@
       "price": "Free",
       "id": "55d814b0a6f9e308",
       "first_seen_at": "2026-05-04T20:31:49.642963+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051998+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403276+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Fuego Sundays at Longhorn Icehouse",
@@ -1433,7 +1411,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Longhorn Icehouse 1901 W Northwest Hwy Dallas TX 75220 USA",
       "city": null,
-      "description": "Fuego Sundays is Dallas’s premier Sunday night Latin dance party hosted by David Herrera at Longhorn Icehouse. Each week, guests enjoy free salsa and bachata classes around 10:00 PM, followed by live dance performances, top DJs spinning salsa, mambo, merengue, bachata, and cumbia, and social dancing until 2:00 AM.\r\n\r\nThis event is known for its vibrant energy, dance shows by professional groups, food available until 1:00 AM, and $10 pre-pay cover options via DavidHerrera-ENT.com. It offers a welcoming environment for both new and experienced dancers to engage with DFW's Latin dance community.",
+      "description": "Fuego Sundays is Dallas’s premier Sunday night Latin dance party hosted by David Herrera at Longhorn Icehouse. Each week, guests enjoy free salsa and bachata classes around 10:00 PM, followed by live dance performances, top DJs spinning salsa, mambo, merengue, bachata, and cumbia, and social dancing until 2:00 AM.\n\nThis event is known for its vibrant energy, dance shows by professional groups, food available until 1:00 AM, and $10 pre-pay cover options via DavidHerrera-ENT.com. It offers a welcoming environment for both new and experienced dancers to engage with DFW's Latin dance community.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social",
@@ -1445,8 +1423,8 @@
       "price": "$10",
       "id": "e6fb68ac48473bf0",
       "first_seen_at": "2026-05-04T20:31:49.642965+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052001+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403279+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Sabroso Sundays at Al-Amir Addison",
@@ -1457,7 +1435,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Al-Amir Addison 3885 Belt Line Road Addison, TX 75001 United States",
       "city": null,
-      "description": "Sabroso Sundays is a vibrant weekly Latin dance night held every Sunday at Al-Amir Addison in Texas. The event features a lively mix of Salsa, Bachata, Merengue, Reggaeton, and Latin hits, creating an energetic atmosphere for dance enthusiasts. Ladies aged 21 and over enjoy free admission all night, and free parking is available for all guests. \r\n\r\nThe venue boasts a great dance floor and patio, enhancing the overall experience. DJ Christian Remix, along with guest DJs, provides the music that keeps the energy high throughout the night. The dress code is enforced from 5 PM to 2 AM, encouraging guests to dress to impress. \r\n\r\nHappy Hour specials are available all night, adding to the festive ambiance. \r\n\r\nWhether you're a seasoned dancer or a newcomer, Sabroso Sundays offers an exciting opportunity to immerse yourself in Latin rhythms and dance culture.",
+      "description": "Sabroso Sundays is a vibrant weekly Latin dance night held every Sunday at Al-Amir Addison in Texas. The event features a lively mix of Salsa, Bachata, Merengue, Reggaeton, and Latin hits, creating an energetic atmosphere for dance enthusiasts. Ladies aged 21 and over enjoy free admission all night, and free parking is available for all guests. \n\nThe venue boasts a great dance floor and patio, enhancing the overall experience. DJ Christian Remix, along with guest DJs, provides the music that keeps the energy high throughout the night. The dress code is enforced from 5 PM to 2 AM, encouraging guests to dress to impress. \n\nHappy Hour specials are available all night, adding to the festive ambiance. \n\nWhether you're a seasoned dancer or a newcomer, Sabroso Sundays offers an exciting opportunity to immerse yourself in Latin rhythms and dance culture.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social",
@@ -1468,8 +1446,8 @@
       "price": "$10",
       "id": "e1a1583ca4d1a4c9",
       "first_seen_at": "2026-05-04T20:31:49.642967+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052003+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403282+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Son y Sabor at The Victoria",
@@ -1491,8 +1469,8 @@
       "price": "$7",
       "id": "f54d572ce39069ea",
       "first_seen_at": "2026-05-04T20:31:49.642970+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052006+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403284+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Salsa Sunday at Lola’s Cuban Food",
@@ -1503,7 +1481,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Lola's Cuban Food 4608 Bryant Irvin Rd Suite 440 Fort Worth, TX 76132 United States",
       "city": null,
-      "description": "Salsa Sunday at Lola’s Cuban Food is a welcoming weekly Latin dance afternoon in Fort Worth. Each Sunday starts with a free, beginner-friendly salsa class at 3:00 PM, inviting new dancers while giving regulars a chance to polish fundamentals. After the lesson, the floor opens for social dancing with a lively mix of salsa and other Caribbean rhythms in a relaxed, family-friendly setting.\r\n\r\nOn the last Sunday of the month, the energy steps up with live music from Javaos Band, bringing salsa, timba, merengue, bachata, cumbia, and more right after the class. When the band wraps, the evening rolls into open mic and karaoke, keeping the community vibe going until the end of the night. Hosted by Salsa Squad – Salsa at the Gardens, this weekly gathering offers an easy, low-pressure way to connect through music and dance.\r\n\r\nSchedule: Free salsa class at 3:00 PM; social dancing until 6:00 PM. Live band on the last Sunday, followed by open mic and karaoke.\r\n\r\nCost: Free admission.\r\n\r\nVenue: Lola’s Cuban Food, Fort Worth.",
+      "description": "Salsa Sunday at Lola’s Cuban Food is a welcoming weekly Latin dance afternoon in Fort Worth. Each Sunday starts with a free, beginner-friendly salsa class at 3:00 PM, inviting new dancers while giving regulars a chance to polish fundamentals. After the lesson, the floor opens for social dancing with a lively mix of salsa and other Caribbean rhythms in a relaxed, family-friendly setting.\n\nOn the last Sunday of the month, the energy steps up with live music from Javaos Band, bringing salsa, timba, merengue, bachata, cumbia, and more right after the class. When the band wraps, the evening rolls into open mic and karaoke, keeping the community vibe going until the end of the night. Hosted by Salsa Squad – Salsa at the Gardens, this weekly gathering offers an easy, low-pressure way to connect through music and dance.\n\nSchedule: Free salsa class at 3:00 PM; social dancing until 6:00 PM. Live band on the last Sunday, followed by open mic and karaoke.\n\nCost: Free admission.\n\nVenue: Lola’s Cuban Food, Fort Worth.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social",
@@ -1515,8 +1493,8 @@
       "price": "Free",
       "id": "1ac36d6b33817936",
       "first_seen_at": "2026-05-04T20:31:49.642972+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052008+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403286+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Wednesday Salsa & Bachata at Stratos",
@@ -1527,7 +1505,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Stratos Bar & Grill 2907 W Northwest Hwy Dallas TX 75220 USA",
       "city": null,
-      "description": "Stratos Bar & Grill is a legendary Latin dance venue in Dallas hosting weekly salsa and bachata socials every Wednesday night. The evening begins with a complimentary dance class led by rotating guest instructors, followed by social dancing until 2:00 AM.\r\n\r\nThe venue offers drink specials, a kitchen open all night, free parking, and no cover charge. It's a great midweek outing for dancers of all levels in a vibrant and welcoming atmosphere.",
+      "description": "Stratos Bar & Grill is a legendary Latin dance venue in Dallas hosting weekly salsa and bachata socials every Wednesday night. The evening begins with a complimentary dance class led by rotating guest instructors, followed by social dancing until 2:00 AM.\n\nThe venue offers drink specials, a kitchen open all night, free parking, and no cover charge. It's a great midweek outing for dancers of all levels in a vibrant and welcoming atmosphere.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social",
@@ -1538,8 +1516,8 @@
       "price": "Free",
       "id": "6be8e1020e8f4b62",
       "first_seen_at": "2026-05-04T20:31:49.642974+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052010+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403289+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Salsa Wednesdays at Vidorra Dallas",
@@ -1550,7 +1528,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Vidorra Cocina 2642 Main St Dallas, TX 75226 United States",
       "city": null,
-      "description": "Salsa Wednesdays at Vidorra Dallas is a vibrant weekly Latin dance event held every Wednesday evening at Vidorra Cocina in the heart of Deep Ellum. \r\n\r\nThe night kicks off at 7:00 PM with a free beginner-friendly salsa lesson, providing an inviting atmosphere for newcomers and seasoned dancers alike. DJ Wander keeps the energy high from 7:00 PM to 11:00 PM, spinning a dynamic mix of salsa, bachata, merengue, and more. \r\n\r\nGuests can enjoy Vidorra's signature margaritas and authentic Mexican cuisine while dancing the night away. \r\n\r\nThe event is free to attend, making it a popular midweek destination for Latin dance enthusiasts in Dallas.",
+      "description": "Salsa Wednesdays at Vidorra Dallas is a vibrant weekly Latin dance event held every Wednesday evening at Vidorra Cocina in the heart of Deep Ellum. \n\nThe night kicks off at 7:00 PM with a free beginner-friendly salsa lesson, providing an inviting atmosphere for newcomers and seasoned dancers alike. DJ Wander keeps the energy high from 7:00 PM to 11:00 PM, spinning a dynamic mix of salsa, bachata, merengue, and more. \n\nGuests can enjoy Vidorra's signature margaritas and authentic Mexican cuisine while dancing the night away. \n\nThe event is free to attend, making it a popular midweek destination for Latin dance enthusiasts in Dallas.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social",
@@ -1562,8 +1540,8 @@
       "price": "Free",
       "id": "96ef7198991dd755",
       "first_seen_at": "2026-05-04T20:31:49.642975+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052013+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403291+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Una Aventura Salsa Social at Studio 22 Dallas",
@@ -1586,8 +1564,8 @@
       "price": "$18",
       "id": "44f62659a15c4bda",
       "first_seen_at": "2026-05-04T20:31:49.642978+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052015+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403293+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Pura Fort Worth 3rd Friday Salsa & Bachata Social",
@@ -1609,8 +1587,8 @@
       "price": "$10",
       "id": "b6c6c6f8a69936ae",
       "first_seen_at": "2026-05-04T20:31:49.642979+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052018+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403296+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Salsa Saturdays at Blue Mesa Grill",
@@ -1621,7 +1599,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Blue Mesa Grill 14866 Montfort Dr Dallas, TX 75254 United States",
       "city": null,
-      "description": "Salsa Saturdays at Blue Mesa Grill in Addison, Texas, offer a vibrant weekly Latin dance experience. Every Saturday night, guests can enjoy a free salsa class followed by a lively social dance party featuring a mix of Salsa, Bachata, Merengue, and more. \r\n\r\nThe event runs from 10:00 PM to 3:00 AM, providing ample time for dancing and socializing. Attendees are encouraged to dress in casual nice attire, and free parking is available on-site. The venue also offers drink specials throughout the night, enhancing the festive atmosphere. \r\n\r\nWith a cover charge of $8, Salsa Saturdays provide an accessible and exciting opportunity for both novice and experienced dancers to immerse themselves in Latin rhythms and culture.",
+      "description": "Salsa Saturdays at Blue Mesa Grill in Addison, Texas, offer a vibrant weekly Latin dance experience. Every Saturday night, guests can enjoy a free salsa class followed by a lively social dance party featuring a mix of Salsa, Bachata, Merengue, and more. \n\nThe event runs from 10:00 PM to 3:00 AM, providing ample time for dancing and socializing. Attendees are encouraged to dress in casual nice attire, and free parking is available on-site. The venue also offers drink specials throughout the night, enhancing the festive atmosphere. \n\nWith a cover charge of $8, Salsa Saturdays provide an accessible and exciting opportunity for both novice and experienced dancers to immerse themselves in Latin rhythms and culture.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social",
@@ -1633,8 +1611,8 @@
       "price": "$8",
       "id": "fac18c3f95088e6a",
       "first_seen_at": "2026-05-04T20:31:49.642981+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052020+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403298+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Gloria’s Nightlife",
@@ -1645,7 +1623,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Gloria's Latin Cuisine 5100 Belt Line Rd, Suite #864 Addison, TX 75254 United States",
       "city": null,
-      "description": "Gloria's Nightlife in Addison, Texas, transforms the dining experience into a vibrant Latin dance party every Saturday night. Starting at 11:00 PM, guests can enjoy live Latin music from Havana NRG and dynamic DJ sets by DJ Insanity, keeping the energy high until 2:00 AM. The venue enforces a smart, upscale dress code, ensuring an elegant atmosphere for all attendees. \r\n\r\nWith no cover charge, it's an accessible and exciting opportunity for both novice and experienced dancers to immerse themselves in Latin rhythms and culture. For those seeking an elevated experience, VIP Table & Bottle Service is available, with a special offer of $100 off for a limited time. Whether you're celebrating a special occasion or simply looking for a lively night out, Gloria's Nightlife offers an unforgettable evening of music, dancing, and Latin flair.",
+      "description": "Gloria's Nightlife in Addison, Texas, transforms the dining experience into a vibrant Latin dance party every Saturday night. Starting at 11:00 PM, guests can enjoy live Latin music from Havana NRG and dynamic DJ sets by DJ Insanity, keeping the energy high until 2:00 AM. The venue enforces a smart, upscale dress code, ensuring an elegant atmosphere for all attendees. \n\nWith no cover charge, it's an accessible and exciting opportunity for both novice and experienced dancers to immerse themselves in Latin rhythms and culture. For those seeking an elevated experience, VIP Table & Bottle Service is available, with a special offer of $100 off for a limited time. Whether you're celebrating a special occasion or simply looking for a lively night out, Gloria's Nightlife offers an unforgettable evening of music, dancing, and Latin flair.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social"
@@ -1653,8 +1631,8 @@
       "price": "Free",
       "id": "6ee0c0539ee7c040",
       "first_seen_at": "2026-05-04T20:31:49.642983+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052022+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403300+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Fuego Sundays at Longhorn Icehouse",
@@ -1665,7 +1643,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Longhorn Icehouse 1901 W Northwest Hwy Dallas TX 75220 USA",
       "city": null,
-      "description": "Fuego Sundays is Dallas’s premier Sunday night Latin dance party hosted by David Herrera at Longhorn Icehouse. Each week, guests enjoy free salsa and bachata classes around 10:00 PM, followed by live dance performances, top DJs spinning salsa, mambo, merengue, bachata, and cumbia, and social dancing until 2:00 AM.\r\n\r\nThis event is known for its vibrant energy, dance shows by professional groups, food available until 1:00 AM, and $10 pre-pay cover options via DavidHerrera-ENT.com. It offers a welcoming environment for both new and experienced dancers to engage with DFW's Latin dance community.",
+      "description": "Fuego Sundays is Dallas’s premier Sunday night Latin dance party hosted by David Herrera at Longhorn Icehouse. Each week, guests enjoy free salsa and bachata classes around 10:00 PM, followed by live dance performances, top DJs spinning salsa, mambo, merengue, bachata, and cumbia, and social dancing until 2:00 AM.\n\nThis event is known for its vibrant energy, dance shows by professional groups, food available until 1:00 AM, and $10 pre-pay cover options via DavidHerrera-ENT.com. It offers a welcoming environment for both new and experienced dancers to engage with DFW's Latin dance community.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social",
@@ -1677,8 +1655,8 @@
       "price": "$10",
       "id": "c64cb7e1046c113d",
       "first_seen_at": "2026-05-04T20:31:49.642985+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052024+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403303+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Sabroso Sundays at Al-Amir Addison",
@@ -1689,7 +1667,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Al-Amir Addison 3885 Belt Line Road Addison, TX 75001 United States",
       "city": null,
-      "description": "Sabroso Sundays is a vibrant weekly Latin dance night held every Sunday at Al-Amir Addison in Texas. The event features a lively mix of Salsa, Bachata, Merengue, Reggaeton, and Latin hits, creating an energetic atmosphere for dance enthusiasts. Ladies aged 21 and over enjoy free admission all night, and free parking is available for all guests. \r\n\r\nThe venue boasts a great dance floor and patio, enhancing the overall experience. DJ Christian Remix, along with guest DJs, provides the music that keeps the energy high throughout the night. The dress code is enforced from 5 PM to 2 AM, encouraging guests to dress to impress. \r\n\r\nHappy Hour specials are available all night, adding to the festive ambiance. \r\n\r\nWhether you're a seasoned dancer or a newcomer, Sabroso Sundays offers an exciting opportunity to immerse yourself in Latin rhythms and dance culture.",
+      "description": "Sabroso Sundays is a vibrant weekly Latin dance night held every Sunday at Al-Amir Addison in Texas. The event features a lively mix of Salsa, Bachata, Merengue, Reggaeton, and Latin hits, creating an energetic atmosphere for dance enthusiasts. Ladies aged 21 and over enjoy free admission all night, and free parking is available for all guests. \n\nThe venue boasts a great dance floor and patio, enhancing the overall experience. DJ Christian Remix, along with guest DJs, provides the music that keeps the energy high throughout the night. The dress code is enforced from 5 PM to 2 AM, encouraging guests to dress to impress. \n\nHappy Hour specials are available all night, adding to the festive ambiance. \n\nWhether you're a seasoned dancer or a newcomer, Sabroso Sundays offers an exciting opportunity to immerse yourself in Latin rhythms and dance culture.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social",
@@ -1700,8 +1678,8 @@
       "price": "$10",
       "id": "60aebb29322393d2",
       "first_seen_at": "2026-05-04T20:31:49.642988+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052027+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403305+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Son y Sabor at The Victoria",
@@ -1723,8 +1701,8 @@
       "price": "$7",
       "id": "f17ef663589e19f4",
       "first_seen_at": "2026-05-04T20:31:49.642990+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052030+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403307+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Salsa Sunday at Lola’s Cuban Food",
@@ -1735,7 +1713,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Lola's Cuban Food 4608 Bryant Irvin Rd Suite 440 Fort Worth, TX 76132 United States",
       "city": null,
-      "description": "Salsa Sunday at Lola’s Cuban Food is a welcoming weekly Latin dance afternoon in Fort Worth. Each Sunday starts with a free, beginner-friendly salsa class at 3:00 PM, inviting new dancers while giving regulars a chance to polish fundamentals. After the lesson, the floor opens for social dancing with a lively mix of salsa and other Caribbean rhythms in a relaxed, family-friendly setting.\r\n\r\nOn the last Sunday of the month, the energy steps up with live music from Javaos Band, bringing salsa, timba, merengue, bachata, cumbia, and more right after the class. When the band wraps, the evening rolls into open mic and karaoke, keeping the community vibe going until the end of the night. Hosted by Salsa Squad – Salsa at the Gardens, this weekly gathering offers an easy, low-pressure way to connect through music and dance.\r\n\r\nSchedule: Free salsa class at 3:00 PM; social dancing until 6:00 PM. Live band on the last Sunday, followed by open mic and karaoke.\r\n\r\nCost: Free admission.\r\n\r\nVenue: Lola’s Cuban Food, Fort Worth.",
+      "description": "Salsa Sunday at Lola’s Cuban Food is a welcoming weekly Latin dance afternoon in Fort Worth. Each Sunday starts with a free, beginner-friendly salsa class at 3:00 PM, inviting new dancers while giving regulars a chance to polish fundamentals. After the lesson, the floor opens for social dancing with a lively mix of salsa and other Caribbean rhythms in a relaxed, family-friendly setting.\n\nOn the last Sunday of the month, the energy steps up with live music from Javaos Band, bringing salsa, timba, merengue, bachata, cumbia, and more right after the class. When the band wraps, the evening rolls into open mic and karaoke, keeping the community vibe going until the end of the night. Hosted by Salsa Squad – Salsa at the Gardens, this weekly gathering offers an easy, low-pressure way to connect through music and dance.\n\nSchedule: Free salsa class at 3:00 PM; social dancing until 6:00 PM. Live band on the last Sunday, followed by open mic and karaoke.\n\nCost: Free admission.\n\nVenue: Lola’s Cuban Food, Fort Worth.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social",
@@ -1747,8 +1725,8 @@
       "price": "Free",
       "id": "409d6a8e3656d2f2",
       "first_seen_at": "2026-05-04T20:31:49.642992+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052032+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403310+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Wednesday Salsa & Bachata at Stratos",
@@ -1759,7 +1737,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Stratos Bar & Grill 2907 W Northwest Hwy Dallas TX 75220 USA",
       "city": null,
-      "description": "Stratos Bar & Grill is a legendary Latin dance venue in Dallas hosting weekly salsa and bachata socials every Wednesday night. The evening begins with a complimentary dance class led by rotating guest instructors, followed by social dancing until 2:00 AM.\r\n\r\nThe venue offers drink specials, a kitchen open all night, free parking, and no cover charge. It's a great midweek outing for dancers of all levels in a vibrant and welcoming atmosphere.",
+      "description": "Stratos Bar & Grill is a legendary Latin dance venue in Dallas hosting weekly salsa and bachata socials every Wednesday night. The evening begins with a complimentary dance class led by rotating guest instructors, followed by social dancing until 2:00 AM.\n\nThe venue offers drink specials, a kitchen open all night, free parking, and no cover charge. It's a great midweek outing for dancers of all levels in a vibrant and welcoming atmosphere.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social",
@@ -1770,8 +1748,8 @@
       "price": "Free",
       "id": "b38c5b39320e883e",
       "first_seen_at": "2026-05-04T20:31:49.642994+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052035+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403312+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Salsa Wednesdays at Vidorra Dallas",
@@ -1782,7 +1760,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Vidorra Cocina 2642 Main St Dallas, TX 75226 United States",
       "city": null,
-      "description": "Salsa Wednesdays at Vidorra Dallas is a vibrant weekly Latin dance event held every Wednesday evening at Vidorra Cocina in the heart of Deep Ellum. \r\n\r\nThe night kicks off at 7:00 PM with a free beginner-friendly salsa lesson, providing an inviting atmosphere for newcomers and seasoned dancers alike. DJ Wander keeps the energy high from 7:00 PM to 11:00 PM, spinning a dynamic mix of salsa, bachata, merengue, and more. \r\n\r\nGuests can enjoy Vidorra's signature margaritas and authentic Mexican cuisine while dancing the night away. \r\n\r\nThe event is free to attend, making it a popular midweek destination for Latin dance enthusiasts in Dallas.",
+      "description": "Salsa Wednesdays at Vidorra Dallas is a vibrant weekly Latin dance event held every Wednesday evening at Vidorra Cocina in the heart of Deep Ellum. \n\nThe night kicks off at 7:00 PM with a free beginner-friendly salsa lesson, providing an inviting atmosphere for newcomers and seasoned dancers alike. DJ Wander keeps the energy high from 7:00 PM to 11:00 PM, spinning a dynamic mix of salsa, bachata, merengue, and more. \n\nGuests can enjoy Vidorra's signature margaritas and authentic Mexican cuisine while dancing the night away. \n\nThe event is free to attend, making it a popular midweek destination for Latin dance enthusiasts in Dallas.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social",
@@ -1794,8 +1772,8 @@
       "price": "Free",
       "id": "5e8a4cd92fc6ca96",
       "first_seen_at": "2026-05-04T20:31:49.642996+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052037+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403314+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "La Vibra – Dallas Salsa & Bachata Social",
@@ -1806,7 +1784,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Tropik Vybe Studio 2701 Custer Pkwy Suite 911 Richardson TX 75080 USA",
       "city": null,
-      "description": "La Vibra is a premier monthly salsa and bachata social hosted at Tropik Vybe Studio in Richardson, TX. Taking place on select Saturdays, this late-night social features top local DJs, professional performances, and a beginner-friendly lesson at the start of the evening.\r\n\r\nDancers gather from across the metroplex to enjoy an energetic and inclusive dance floor, free valet (tips appreciated), and BYOB hospitality. With an upscale vibe and warm community, La Vibra offers one of the best Latin dance atmospheres in Dallas.\r\n\r\nCheck Tropik Vybe’s website or social media for featured DJs and special themes each month.",
+      "description": "La Vibra is a premier monthly salsa and bachata social hosted at Tropik Vybe Studio in Richardson, TX. Taking place on select Saturdays, this late-night social features top local DJs, professional performances, and a beginner-friendly lesson at the start of the evening.\n\nDancers gather from across the metroplex to enjoy an energetic and inclusive dance floor, free valet (tips appreciated), and BYOB hospitality. With an upscale vibe and warm community, La Vibra offers one of the best Latin dance atmospheres in Dallas.\n\nCheck Tropik Vybe’s website or social media for featured DJs and special themes each month.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social",
@@ -1817,8 +1795,8 @@
       "price": "$20",
       "id": "f771f53cf510ed39",
       "first_seen_at": "2026-05-04T20:31:49.642998+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052039+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403316+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Salsa Saturdays at Blue Mesa Grill",
@@ -1829,7 +1807,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Blue Mesa Grill 14866 Montfort Dr Dallas, TX 75254 United States",
       "city": null,
-      "description": "Salsa Saturdays at Blue Mesa Grill in Addison, Texas, offer a vibrant weekly Latin dance experience. Every Saturday night, guests can enjoy a free salsa class followed by a lively social dance party featuring a mix of Salsa, Bachata, Merengue, and more. \r\n\r\nThe event runs from 10:00 PM to 3:00 AM, providing ample time for dancing and socializing. Attendees are encouraged to dress in casual nice attire, and free parking is available on-site. The venue also offers drink specials throughout the night, enhancing the festive atmosphere. \r\n\r\nWith a cover charge of $8, Salsa Saturdays provide an accessible and exciting opportunity for both novice and experienced dancers to immerse themselves in Latin rhythms and culture.",
+      "description": "Salsa Saturdays at Blue Mesa Grill in Addison, Texas, offer a vibrant weekly Latin dance experience. Every Saturday night, guests can enjoy a free salsa class followed by a lively social dance party featuring a mix of Salsa, Bachata, Merengue, and more. \n\nThe event runs from 10:00 PM to 3:00 AM, providing ample time for dancing and socializing. Attendees are encouraged to dress in casual nice attire, and free parking is available on-site. The venue also offers drink specials throughout the night, enhancing the festive atmosphere. \n\nWith a cover charge of $8, Salsa Saturdays provide an accessible and exciting opportunity for both novice and experienced dancers to immerse themselves in Latin rhythms and culture.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social",
@@ -1841,8 +1819,8 @@
       "price": "$8",
       "id": "d8d038a211cac5e7",
       "first_seen_at": "2026-05-04T20:31:49.643000+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052041+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403319+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Gloria’s Nightlife",
@@ -1853,7 +1831,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Gloria's Latin Cuisine 5100 Belt Line Rd, Suite #864 Addison, TX 75254 United States",
       "city": null,
-      "description": "Gloria's Nightlife in Addison, Texas, transforms the dining experience into a vibrant Latin dance party every Saturday night. Starting at 11:00 PM, guests can enjoy live Latin music from Havana NRG and dynamic DJ sets by DJ Insanity, keeping the energy high until 2:00 AM. The venue enforces a smart, upscale dress code, ensuring an elegant atmosphere for all attendees. \r\n\r\nWith no cover charge, it's an accessible and exciting opportunity for both novice and experienced dancers to immerse themselves in Latin rhythms and culture. For those seeking an elevated experience, VIP Table & Bottle Service is available, with a special offer of $100 off for a limited time. Whether you're celebrating a special occasion or simply looking for a lively night out, Gloria's Nightlife offers an unforgettable evening of music, dancing, and Latin flair.",
+      "description": "Gloria's Nightlife in Addison, Texas, transforms the dining experience into a vibrant Latin dance party every Saturday night. Starting at 11:00 PM, guests can enjoy live Latin music from Havana NRG and dynamic DJ sets by DJ Insanity, keeping the energy high until 2:00 AM. The venue enforces a smart, upscale dress code, ensuring an elegant atmosphere for all attendees. \n\nWith no cover charge, it's an accessible and exciting opportunity for both novice and experienced dancers to immerse themselves in Latin rhythms and culture. For those seeking an elevated experience, VIP Table & Bottle Service is available, with a special offer of $100 off for a limited time. Whether you're celebrating a special occasion or simply looking for a lively night out, Gloria's Nightlife offers an unforgettable evening of music, dancing, and Latin flair.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social"
@@ -1861,8 +1839,8 @@
       "price": "Free",
       "id": "7176bb6ab47420b2",
       "first_seen_at": "2026-05-04T20:31:49.643003+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052043+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403321+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Fuego Sundays at Longhorn Icehouse",
@@ -1873,7 +1851,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Longhorn Icehouse 1901 W Northwest Hwy Dallas TX 75220 USA",
       "city": null,
-      "description": "Fuego Sundays is Dallas’s premier Sunday night Latin dance party hosted by David Herrera at Longhorn Icehouse. Each week, guests enjoy free salsa and bachata classes around 10:00 PM, followed by live dance performances, top DJs spinning salsa, mambo, merengue, bachata, and cumbia, and social dancing until 2:00 AM.\r\n\r\nThis event is known for its vibrant energy, dance shows by professional groups, food available until 1:00 AM, and $10 pre-pay cover options via DavidHerrera-ENT.com. It offers a welcoming environment for both new and experienced dancers to engage with DFW's Latin dance community.",
+      "description": "Fuego Sundays is Dallas’s premier Sunday night Latin dance party hosted by David Herrera at Longhorn Icehouse. Each week, guests enjoy free salsa and bachata classes around 10:00 PM, followed by live dance performances, top DJs spinning salsa, mambo, merengue, bachata, and cumbia, and social dancing until 2:00 AM.\n\nThis event is known for its vibrant energy, dance shows by professional groups, food available until 1:00 AM, and $10 pre-pay cover options via DavidHerrera-ENT.com. It offers a welcoming environment for both new and experienced dancers to engage with DFW's Latin dance community.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social",
@@ -1885,8 +1863,8 @@
       "price": "$10",
       "id": "d4a599f61d5e695c",
       "first_seen_at": "2026-05-04T20:31:49.643005+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052045+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403323+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Sabroso Sundays at Al-Amir Addison",
@@ -1897,7 +1875,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Al-Amir Addison 3885 Belt Line Road Addison, TX 75001 United States",
       "city": null,
-      "description": "Sabroso Sundays is a vibrant weekly Latin dance night held every Sunday at Al-Amir Addison in Texas. The event features a lively mix of Salsa, Bachata, Merengue, Reggaeton, and Latin hits, creating an energetic atmosphere for dance enthusiasts. Ladies aged 21 and over enjoy free admission all night, and free parking is available for all guests. \r\n\r\nThe venue boasts a great dance floor and patio, enhancing the overall experience. DJ Christian Remix, along with guest DJs, provides the music that keeps the energy high throughout the night. The dress code is enforced from 5 PM to 2 AM, encouraging guests to dress to impress. \r\n\r\nHappy Hour specials are available all night, adding to the festive ambiance. \r\n\r\nWhether you're a seasoned dancer or a newcomer, Sabroso Sundays offers an exciting opportunity to immerse yourself in Latin rhythms and dance culture.",
+      "description": "Sabroso Sundays is a vibrant weekly Latin dance night held every Sunday at Al-Amir Addison in Texas. The event features a lively mix of Salsa, Bachata, Merengue, Reggaeton, and Latin hits, creating an energetic atmosphere for dance enthusiasts. Ladies aged 21 and over enjoy free admission all night, and free parking is available for all guests. \n\nThe venue boasts a great dance floor and patio, enhancing the overall experience. DJ Christian Remix, along with guest DJs, provides the music that keeps the energy high throughout the night. The dress code is enforced from 5 PM to 2 AM, encouraging guests to dress to impress. \n\nHappy Hour specials are available all night, adding to the festive ambiance. \n\nWhether you're a seasoned dancer or a newcomer, Sabroso Sundays offers an exciting opportunity to immerse yourself in Latin rhythms and dance culture.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social",
@@ -1908,8 +1886,8 @@
       "price": "$10",
       "id": "b052954a4ba78c38",
       "first_seen_at": "2026-05-04T20:31:49.643007+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052048+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403326+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Son y Sabor at The Victoria",
@@ -1931,8 +1909,8 @@
       "price": "$7",
       "id": "130977b8bf81ebae",
       "first_seen_at": "2026-05-04T20:31:49.643009+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052050+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403328+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Salsa Sunday at Lola’s Cuban Food",
@@ -1943,7 +1921,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Lola's Cuban Food 4608 Bryant Irvin Rd Suite 440 Fort Worth, TX 76132 United States",
       "city": null,
-      "description": "Salsa Sunday at Lola’s Cuban Food is a welcoming weekly Latin dance afternoon in Fort Worth. Each Sunday starts with a free, beginner-friendly salsa class at 3:00 PM, inviting new dancers while giving regulars a chance to polish fundamentals. After the lesson, the floor opens for social dancing with a lively mix of salsa and other Caribbean rhythms in a relaxed, family-friendly setting.\r\n\r\nOn the last Sunday of the month, the energy steps up with live music from Javaos Band, bringing salsa, timba, merengue, bachata, cumbia, and more right after the class. When the band wraps, the evening rolls into open mic and karaoke, keeping the community vibe going until the end of the night. Hosted by Salsa Squad – Salsa at the Gardens, this weekly gathering offers an easy, low-pressure way to connect through music and dance.\r\n\r\nSchedule: Free salsa class at 3:00 PM; social dancing until 6:00 PM. Live band on the last Sunday, followed by open mic and karaoke.\r\n\r\nCost: Free admission.\r\n\r\nVenue: Lola’s Cuban Food, Fort Worth.",
+      "description": "Salsa Sunday at Lola’s Cuban Food is a welcoming weekly Latin dance afternoon in Fort Worth. Each Sunday starts with a free, beginner-friendly salsa class at 3:00 PM, inviting new dancers while giving regulars a chance to polish fundamentals. After the lesson, the floor opens for social dancing with a lively mix of salsa and other Caribbean rhythms in a relaxed, family-friendly setting.\n\nOn the last Sunday of the month, the energy steps up with live music from Javaos Band, bringing salsa, timba, merengue, bachata, cumbia, and more right after the class. When the band wraps, the evening rolls into open mic and karaoke, keeping the community vibe going until the end of the night. Hosted by Salsa Squad – Salsa at the Gardens, this weekly gathering offers an easy, low-pressure way to connect through music and dance.\n\nSchedule: Free salsa class at 3:00 PM; social dancing until 6:00 PM. Live band on the last Sunday, followed by open mic and karaoke.\n\nCost: Free admission.\n\nVenue: Lola’s Cuban Food, Fort Worth.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social",
@@ -1955,8 +1933,8 @@
       "price": "Free",
       "id": "3e5e7e0f881f147e",
       "first_seen_at": "2026-05-04T20:31:49.643011+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052052+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403330+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Wednesday Salsa & Bachata at Stratos",
@@ -1967,7 +1945,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Stratos Bar & Grill 2907 W Northwest Hwy Dallas TX 75220 USA",
       "city": null,
-      "description": "Stratos Bar & Grill is a legendary Latin dance venue in Dallas hosting weekly salsa and bachata socials every Wednesday night. The evening begins with a complimentary dance class led by rotating guest instructors, followed by social dancing until 2:00 AM.\r\n\r\nThe venue offers drink specials, a kitchen open all night, free parking, and no cover charge. It's a great midweek outing for dancers of all levels in a vibrant and welcoming atmosphere.",
+      "description": "Stratos Bar & Grill is a legendary Latin dance venue in Dallas hosting weekly salsa and bachata socials every Wednesday night. The evening begins with a complimentary dance class led by rotating guest instructors, followed by social dancing until 2:00 AM.\n\nThe venue offers drink specials, a kitchen open all night, free parking, and no cover charge. It's a great midweek outing for dancers of all levels in a vibrant and welcoming atmosphere.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social",
@@ -1978,8 +1956,8 @@
       "price": "Free",
       "id": "35a83507cfb75a37",
       "first_seen_at": "2026-05-04T20:31:49.643013+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052054+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403332+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Salsa Wednesdays at Vidorra Dallas",
@@ -1990,7 +1968,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Vidorra Cocina 2642 Main St Dallas, TX 75226 United States",
       "city": null,
-      "description": "Salsa Wednesdays at Vidorra Dallas is a vibrant weekly Latin dance event held every Wednesday evening at Vidorra Cocina in the heart of Deep Ellum. \r\n\r\nThe night kicks off at 7:00 PM with a free beginner-friendly salsa lesson, providing an inviting atmosphere for newcomers and seasoned dancers alike. DJ Wander keeps the energy high from 7:00 PM to 11:00 PM, spinning a dynamic mix of salsa, bachata, merengue, and more. \r\n\r\nGuests can enjoy Vidorra's signature margaritas and authentic Mexican cuisine while dancing the night away. \r\n\r\nThe event is free to attend, making it a popular midweek destination for Latin dance enthusiasts in Dallas.",
+      "description": "Salsa Wednesdays at Vidorra Dallas is a vibrant weekly Latin dance event held every Wednesday evening at Vidorra Cocina in the heart of Deep Ellum. \n\nThe night kicks off at 7:00 PM with a free beginner-friendly salsa lesson, providing an inviting atmosphere for newcomers and seasoned dancers alike. DJ Wander keeps the energy high from 7:00 PM to 11:00 PM, spinning a dynamic mix of salsa, bachata, merengue, and more. \n\nGuests can enjoy Vidorra's signature margaritas and authentic Mexican cuisine while dancing the night away. \n\nThe event is free to attend, making it a popular midweek destination for Latin dance enthusiasts in Dallas.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social",
@@ -2002,8 +1980,8 @@
       "price": "Free",
       "id": "75d585455eee489c",
       "first_seen_at": "2026-05-04T20:31:49.643015+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052056+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403335+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Salsa Saturdays at Blue Mesa Grill",
@@ -2014,7 +1992,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Blue Mesa Grill 14866 Montfort Dr Dallas, TX 75254 United States",
       "city": null,
-      "description": "Salsa Saturdays at Blue Mesa Grill in Addison, Texas, offer a vibrant weekly Latin dance experience. Every Saturday night, guests can enjoy a free salsa class followed by a lively social dance party featuring a mix of Salsa, Bachata, Merengue, and more. \r\n\r\nThe event runs from 10:00 PM to 3:00 AM, providing ample time for dancing and socializing. Attendees are encouraged to dress in casual nice attire, and free parking is available on-site. The venue also offers drink specials throughout the night, enhancing the festive atmosphere. \r\n\r\nWith a cover charge of $8, Salsa Saturdays provide an accessible and exciting opportunity for both novice and experienced dancers to immerse themselves in Latin rhythms and culture.",
+      "description": "Salsa Saturdays at Blue Mesa Grill in Addison, Texas, offer a vibrant weekly Latin dance experience. Every Saturday night, guests can enjoy a free salsa class followed by a lively social dance party featuring a mix of Salsa, Bachata, Merengue, and more. \n\nThe event runs from 10:00 PM to 3:00 AM, providing ample time for dancing and socializing. Attendees are encouraged to dress in casual nice attire, and free parking is available on-site. The venue also offers drink specials throughout the night, enhancing the festive atmosphere. \n\nWith a cover charge of $8, Salsa Saturdays provide an accessible and exciting opportunity for both novice and experienced dancers to immerse themselves in Latin rhythms and culture.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social",
@@ -2026,8 +2004,8 @@
       "price": "$8",
       "id": "fd5e875ac9bd2d2c",
       "first_seen_at": "2026-05-04T20:31:49.643017+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052058+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403338+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Gloria’s Nightlife",
@@ -2038,7 +2016,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Gloria's Latin Cuisine 5100 Belt Line Rd, Suite #864 Addison, TX 75254 United States",
       "city": null,
-      "description": "Gloria's Nightlife in Addison, Texas, transforms the dining experience into a vibrant Latin dance party every Saturday night. Starting at 11:00 PM, guests can enjoy live Latin music from Havana NRG and dynamic DJ sets by DJ Insanity, keeping the energy high until 2:00 AM. The venue enforces a smart, upscale dress code, ensuring an elegant atmosphere for all attendees. \r\n\r\nWith no cover charge, it's an accessible and exciting opportunity for both novice and experienced dancers to immerse themselves in Latin rhythms and culture. For those seeking an elevated experience, VIP Table & Bottle Service is available, with a special offer of $100 off for a limited time. Whether you're celebrating a special occasion or simply looking for a lively night out, Gloria's Nightlife offers an unforgettable evening of music, dancing, and Latin flair.",
+      "description": "Gloria's Nightlife in Addison, Texas, transforms the dining experience into a vibrant Latin dance party every Saturday night. Starting at 11:00 PM, guests can enjoy live Latin music from Havana NRG and dynamic DJ sets by DJ Insanity, keeping the energy high until 2:00 AM. The venue enforces a smart, upscale dress code, ensuring an elegant atmosphere for all attendees. \n\nWith no cover charge, it's an accessible and exciting opportunity for both novice and experienced dancers to immerse themselves in Latin rhythms and culture. For those seeking an elevated experience, VIP Table & Bottle Service is available, with a special offer of $100 off for a limited time. Whether you're celebrating a special occasion or simply looking for a lively night out, Gloria's Nightlife offers an unforgettable evening of music, dancing, and Latin flair.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social"
@@ -2046,8 +2024,8 @@
       "price": "Free",
       "id": "a0c30f2f1fe1fe56",
       "first_seen_at": "2026-05-04T20:31:49.643019+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052061+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403340+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Fuego Sundays at Longhorn Icehouse",
@@ -2058,7 +2036,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Longhorn Icehouse 1901 W Northwest Hwy Dallas TX 75220 USA",
       "city": null,
-      "description": "Fuego Sundays is Dallas’s premier Sunday night Latin dance party hosted by David Herrera at Longhorn Icehouse. Each week, guests enjoy free salsa and bachata classes around 10:00 PM, followed by live dance performances, top DJs spinning salsa, mambo, merengue, bachata, and cumbia, and social dancing until 2:00 AM.\r\n\r\nThis event is known for its vibrant energy, dance shows by professional groups, food available until 1:00 AM, and $10 pre-pay cover options via DavidHerrera-ENT.com. It offers a welcoming environment for both new and experienced dancers to engage with DFW's Latin dance community.",
+      "description": "Fuego Sundays is Dallas’s premier Sunday night Latin dance party hosted by David Herrera at Longhorn Icehouse. Each week, guests enjoy free salsa and bachata classes around 10:00 PM, followed by live dance performances, top DJs spinning salsa, mambo, merengue, bachata, and cumbia, and social dancing until 2:00 AM.\n\nThis event is known for its vibrant energy, dance shows by professional groups, food available until 1:00 AM, and $10 pre-pay cover options via DavidHerrera-ENT.com. It offers a welcoming environment for both new and experienced dancers to engage with DFW's Latin dance community.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social",
@@ -2070,8 +2048,8 @@
       "price": "$10",
       "id": "09755b61b63856b9",
       "first_seen_at": "2026-05-04T20:31:49.643021+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052063+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403342+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Sabroso Sundays at Al-Amir Addison",
@@ -2082,7 +2060,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Al-Amir Addison 3885 Belt Line Road Addison, TX 75001 United States",
       "city": null,
-      "description": "Sabroso Sundays is a vibrant weekly Latin dance night held every Sunday at Al-Amir Addison in Texas. The event features a lively mix of Salsa, Bachata, Merengue, Reggaeton, and Latin hits, creating an energetic atmosphere for dance enthusiasts. Ladies aged 21 and over enjoy free admission all night, and free parking is available for all guests. \r\n\r\nThe venue boasts a great dance floor and patio, enhancing the overall experience. DJ Christian Remix, along with guest DJs, provides the music that keeps the energy high throughout the night. The dress code is enforced from 5 PM to 2 AM, encouraging guests to dress to impress. \r\n\r\nHappy Hour specials are available all night, adding to the festive ambiance. \r\n\r\nWhether you're a seasoned dancer or a newcomer, Sabroso Sundays offers an exciting opportunity to immerse yourself in Latin rhythms and dance culture.",
+      "description": "Sabroso Sundays is a vibrant weekly Latin dance night held every Sunday at Al-Amir Addison in Texas. The event features a lively mix of Salsa, Bachata, Merengue, Reggaeton, and Latin hits, creating an energetic atmosphere for dance enthusiasts. Ladies aged 21 and over enjoy free admission all night, and free parking is available for all guests. \n\nThe venue boasts a great dance floor and patio, enhancing the overall experience. DJ Christian Remix, along with guest DJs, provides the music that keeps the energy high throughout the night. The dress code is enforced from 5 PM to 2 AM, encouraging guests to dress to impress. \n\nHappy Hour specials are available all night, adding to the festive ambiance. \n\nWhether you're a seasoned dancer or a newcomer, Sabroso Sundays offers an exciting opportunity to immerse yourself in Latin rhythms and dance culture.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social",
@@ -2093,8 +2071,8 @@
       "price": "$10",
       "id": "b9ed11ae19c69351",
       "first_seen_at": "2026-05-04T20:31:49.643023+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052065+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403345+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Son y Sabor at The Victoria",
@@ -2116,8 +2094,8 @@
       "price": "$7",
       "id": "cf1041b3ba324a83",
       "first_seen_at": "2026-05-04T20:31:49.643025+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052068+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403347+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Salsa Sunday at Lola’s Cuban Food",
@@ -2128,7 +2106,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Lola's Cuban Food 4608 Bryant Irvin Rd Suite 440 Fort Worth, TX 76132 United States",
       "city": null,
-      "description": "Salsa Sunday at Lola’s Cuban Food is a welcoming weekly Latin dance afternoon in Fort Worth. Each Sunday starts with a free, beginner-friendly salsa class at 3:00 PM, inviting new dancers while giving regulars a chance to polish fundamentals. After the lesson, the floor opens for social dancing with a lively mix of salsa and other Caribbean rhythms in a relaxed, family-friendly setting.\r\n\r\nOn the last Sunday of the month, the energy steps up with live music from Javaos Band, bringing salsa, timba, merengue, bachata, cumbia, and more right after the class. When the band wraps, the evening rolls into open mic and karaoke, keeping the community vibe going until the end of the night. Hosted by Salsa Squad – Salsa at the Gardens, this weekly gathering offers an easy, low-pressure way to connect through music and dance.\r\n\r\nSchedule: Free salsa class at 3:00 PM; social dancing until 6:00 PM. Live band on the last Sunday, followed by open mic and karaoke.\r\n\r\nCost: Free admission.\r\n\r\nVenue: Lola’s Cuban Food, Fort Worth.",
+      "description": "Salsa Sunday at Lola’s Cuban Food is a welcoming weekly Latin dance afternoon in Fort Worth. Each Sunday starts with a free, beginner-friendly salsa class at 3:00 PM, inviting new dancers while giving regulars a chance to polish fundamentals. After the lesson, the floor opens for social dancing with a lively mix of salsa and other Caribbean rhythms in a relaxed, family-friendly setting.\n\nOn the last Sunday of the month, the energy steps up with live music from Javaos Band, bringing salsa, timba, merengue, bachata, cumbia, and more right after the class. When the band wraps, the evening rolls into open mic and karaoke, keeping the community vibe going until the end of the night. Hosted by Salsa Squad – Salsa at the Gardens, this weekly gathering offers an easy, low-pressure way to connect through music and dance.\n\nSchedule: Free salsa class at 3:00 PM; social dancing until 6:00 PM. Live band on the last Sunday, followed by open mic and karaoke.\n\nCost: Free admission.\n\nVenue: Lola’s Cuban Food, Fort Worth.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social",
@@ -2140,8 +2118,8 @@
       "price": "Free",
       "id": "2187136de2eb00e4",
       "first_seen_at": "2026-05-04T20:31:49.643026+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052070+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403349+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Wednesday Salsa & Bachata at Stratos",
@@ -2152,7 +2130,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Stratos Bar & Grill 2907 W Northwest Hwy Dallas TX 75220 USA",
       "city": null,
-      "description": "Stratos Bar & Grill is a legendary Latin dance venue in Dallas hosting weekly salsa and bachata socials every Wednesday night. The evening begins with a complimentary dance class led by rotating guest instructors, followed by social dancing until 2:00 AM.\r\n\r\nThe venue offers drink specials, a kitchen open all night, free parking, and no cover charge. It's a great midweek outing for dancers of all levels in a vibrant and welcoming atmosphere.",
+      "description": "Stratos Bar & Grill is a legendary Latin dance venue in Dallas hosting weekly salsa and bachata socials every Wednesday night. The evening begins with a complimentary dance class led by rotating guest instructors, followed by social dancing until 2:00 AM.\n\nThe venue offers drink specials, a kitchen open all night, free parking, and no cover charge. It's a great midweek outing for dancers of all levels in a vibrant and welcoming atmosphere.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social",
@@ -2163,8 +2141,8 @@
       "price": "Free",
       "id": "788b7824bff20772",
       "first_seen_at": "2026-05-04T20:31:49.643028+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052072+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403351+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Salsa Wednesdays at Vidorra Dallas",
@@ -2175,7 +2153,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Vidorra Cocina 2642 Main St Dallas, TX 75226 United States",
       "city": null,
-      "description": "Salsa Wednesdays at Vidorra Dallas is a vibrant weekly Latin dance event held every Wednesday evening at Vidorra Cocina in the heart of Deep Ellum. \r\n\r\nThe night kicks off at 7:00 PM with a free beginner-friendly salsa lesson, providing an inviting atmosphere for newcomers and seasoned dancers alike. DJ Wander keeps the energy high from 7:00 PM to 11:00 PM, spinning a dynamic mix of salsa, bachata, merengue, and more. \r\n\r\nGuests can enjoy Vidorra's signature margaritas and authentic Mexican cuisine while dancing the night away. \r\n\r\nThe event is free to attend, making it a popular midweek destination for Latin dance enthusiasts in Dallas.",
+      "description": "Salsa Wednesdays at Vidorra Dallas is a vibrant weekly Latin dance event held every Wednesday evening at Vidorra Cocina in the heart of Deep Ellum. \n\nThe night kicks off at 7:00 PM with a free beginner-friendly salsa lesson, providing an inviting atmosphere for newcomers and seasoned dancers alike. DJ Wander keeps the energy high from 7:00 PM to 11:00 PM, spinning a dynamic mix of salsa, bachata, merengue, and more. \n\nGuests can enjoy Vidorra's signature margaritas and authentic Mexican cuisine while dancing the night away. \n\nThe event is free to attend, making it a popular midweek destination for Latin dance enthusiasts in Dallas.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social",
@@ -2187,8 +2165,8 @@
       "price": "Free",
       "id": "f72a23900f3c9ece",
       "first_seen_at": "2026-05-04T20:31:49.643030+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052074+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403354+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Salsa Saturdays at Blue Mesa Grill",
@@ -2199,7 +2177,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Blue Mesa Grill 14866 Montfort Dr Dallas, TX 75254 United States",
       "city": null,
-      "description": "Salsa Saturdays at Blue Mesa Grill in Addison, Texas, offer a vibrant weekly Latin dance experience. Every Saturday night, guests can enjoy a free salsa class followed by a lively social dance party featuring a mix of Salsa, Bachata, Merengue, and more. \r\n\r\nThe event runs from 10:00 PM to 3:00 AM, providing ample time for dancing and socializing. Attendees are encouraged to dress in casual nice attire, and free parking is available on-site. The venue also offers drink specials throughout the night, enhancing the festive atmosphere. \r\n\r\nWith a cover charge of $8, Salsa Saturdays provide an accessible and exciting opportunity for both novice and experienced dancers to immerse themselves in Latin rhythms and culture.",
+      "description": "Salsa Saturdays at Blue Mesa Grill in Addison, Texas, offer a vibrant weekly Latin dance experience. Every Saturday night, guests can enjoy a free salsa class followed by a lively social dance party featuring a mix of Salsa, Bachata, Merengue, and more. \n\nThe event runs from 10:00 PM to 3:00 AM, providing ample time for dancing and socializing. Attendees are encouraged to dress in casual nice attire, and free parking is available on-site. The venue also offers drink specials throughout the night, enhancing the festive atmosphere. \n\nWith a cover charge of $8, Salsa Saturdays provide an accessible and exciting opportunity for both novice and experienced dancers to immerse themselves in Latin rhythms and culture.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social",
@@ -2211,8 +2189,8 @@
       "price": "$8",
       "id": "156d81f2ab3531fe",
       "first_seen_at": "2026-05-04T20:31:49.643032+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052076+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403356+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Gloria’s Nightlife",
@@ -2223,7 +2201,7 @@
       "venue": "Dallas-Fort Worth",
       "address": "Gloria's Latin Cuisine 5100 Belt Line Rd, Suite #864 Addison, TX 75254 United States",
       "city": null,
-      "description": "Gloria's Nightlife in Addison, Texas, transforms the dining experience into a vibrant Latin dance party every Saturday night. Starting at 11:00 PM, guests can enjoy live Latin music from Havana NRG and dynamic DJ sets by DJ Insanity, keeping the energy high until 2:00 AM. The venue enforces a smart, upscale dress code, ensuring an elegant atmosphere for all attendees. \r\n\r\nWith no cover charge, it's an accessible and exciting opportunity for both novice and experienced dancers to immerse themselves in Latin rhythms and culture. For those seeking an elevated experience, VIP Table & Bottle Service is available, with a special offer of $100 off for a limited time. Whether you're celebrating a special occasion or simply looking for a lively night out, Gloria's Nightlife offers an unforgettable evening of music, dancing, and Latin flair.",
+      "description": "Gloria's Nightlife in Addison, Texas, transforms the dining experience into a vibrant Latin dance party every Saturday night. Starting at 11:00 PM, guests can enjoy live Latin music from Havana NRG and dynamic DJ sets by DJ Insanity, keeping the energy high until 2:00 AM. The venue enforces a smart, upscale dress code, ensuring an elegant atmosphere for all attendees. \n\nWith no cover charge, it's an accessible and exciting opportunity for both novice and experienced dancers to immerse themselves in Latin rhythms and culture. For those seeking an elevated experience, VIP Table & Bottle Service is available, with a special offer of $100 off for a limited time. Whether you're celebrating a special occasion or simply looking for a lively night out, Gloria's Nightlife offers an unforgettable evening of music, dancing, and Latin flair.",
       "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
       "tags": [
         "social"
@@ -2231,8 +2209,8 @@
       "price": "Free",
       "id": "31de0913f484c81c",
       "first_seen_at": "2026-05-04T20:31:49.643034+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.052078+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403358+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "6:30-8:00 Social Salsa & Bachata Class",
@@ -2254,8 +2232,8 @@
       "price": null,
       "id": "8ddcf603e6a4955c",
       "first_seen_at": "2026-05-05T02:58:11.082150+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051787+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403054+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "MARTÍN GONZÁLEZ CONFIRMED",
@@ -2276,7 +2254,7 @@
       "id": "8b483eaa6c9ab1a4",
       "first_seen_at": "2026-05-05T02:58:11.082610+00:00",
       "last_seen_at": "2026-05-05T08:40:35.375453+00:00",
-      "submitted_to_supabase": null
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Ready to learn salsa?",
@@ -2297,7 +2275,7 @@
       "id": "b71d138fda7cc7e5",
       "first_seen_at": "2026-05-05T02:58:11.082619+00:00",
       "last_seen_at": "2026-05-05T08:40:35.375493+00:00",
-      "submitted_to_supabase": null
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "SHAKE YOUR GRASS IS BACK!",
@@ -2319,7 +2297,7 @@
       "id": "c8e4c294d75e2073",
       "first_seen_at": "2026-05-05T02:58:11.082625+00:00",
       "last_seen_at": "2026-05-05T08:40:35.375466+00:00",
-      "submitted_to_supabase": null
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "SHAKE YOUR GRASS IS BACK!",
@@ -2341,7 +2319,7 @@
       "id": "c5c3e887360da707",
       "first_seen_at": "2026-05-05T02:58:11.082628+00:00",
       "last_seen_at": "2026-05-05T08:40:35.375468+00:00",
-      "submitted_to_supabase": null
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "SHAKE YOUR GRASS IS BACK!",
@@ -2363,7 +2341,7 @@
       "id": "e5217a0684a4a904",
       "first_seen_at": "2026-05-05T02:58:11.082630+00:00",
       "last_seen_at": "2026-05-05T08:40:35.375471+00:00",
-      "submitted_to_supabase": null
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "SHAKE YOUR GRASS IS BACK!",
@@ -2385,7 +2363,7 @@
       "id": "6cdf32eab0428a6d",
       "first_seen_at": "2026-05-05T02:58:11.082632+00:00",
       "last_seen_at": "2026-05-05T08:40:35.375473+00:00",
-      "submitted_to_supabase": null
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Mondays just got a whole lot better.",
@@ -2406,7 +2384,7 @@
       "id": "125b2232c298ee48",
       "first_seen_at": "2026-05-05T02:58:11.082643+00:00",
       "last_seen_at": "2026-05-05T08:40:35.375489+00:00",
-      "submitted_to_supabase": null
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Mondays just got a whole lot better.",
@@ -2427,7 +2405,7 @@
       "id": "9aeb0531670ac24f",
       "first_seen_at": "2026-05-05T02:58:11.082645+00:00",
       "last_seen_at": "2026-05-05T08:40:35.375491+00:00",
-      "submitted_to_supabase": null
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Dallas Salsa Congress 2026",
@@ -2448,7 +2426,7 @@
       "id": "1fbd2784f30991d9",
       "first_seen_at": "2026-05-05T02:58:11.082647+00:00",
       "last_seen_at": "2026-05-05T08:40:35.375459+00:00",
-      "submitted_to_supabase": null
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "6:30-8:00 Social Salsa & Bachata Class",
@@ -2471,7 +2449,7 @@
       "id": "e0f55dc194b2c4c1",
       "first_seen_at": "2026-05-05T08:40:35.375157+00:00",
       "last_seen_at": "2026-05-05T18:04:52.001870+00:00",
-      "submitted_to_supabase": null
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Beginner Cha Cha Dance Class",
@@ -2493,7 +2471,7 @@
       "id": "c6fe036ebfb7fa29",
       "first_seen_at": "2026-05-05T08:40:35.375195+00:00",
       "last_seen_at": "2026-05-06T18:08:25.051820+00:00",
-      "submitted_to_supabase": null
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Beginner Salsa Dance Class",
@@ -2514,8 +2492,8 @@
       "price": null,
       "id": "2629c61d37d1bc1d",
       "first_seen_at": "2026-05-06T09:40:55.836541+00:00",
-      "last_seen_at": "2026-05-06T18:08:25.051767+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-07T10:11:54.403029+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Salsa Dance Class for Beginners",
@@ -2537,7 +2515,7 @@
       "id": "265a0642a7bd81af",
       "first_seen_at": "2026-05-06T18:08:25.051689+00:00",
       "last_seen_at": "2026-05-06T18:08:25.051689+00:00",
-      "submitted_to_supabase": null
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     },
     {
       "title": "Beginner Cha Cha Dance Class",
@@ -2559,7 +2537,158 @@
       "id": "7bfc22c769e52f53",
       "first_seen_at": "2026-05-06T18:08:25.051759+00:00",
       "last_seen_at": "2026-05-06T18:08:25.051759+00:00",
-      "submitted_to_supabase": null
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
+    },
+    {
+      "title": "May Birthdays @ El Ranchito in Arlington!",
+      "start": "2026-05-07T23:15:00.000Z",
+      "source": "meetup",
+      "source_url": "https://www.meetup.com/dfw-karaoke/events/314665332/",
+      "end": null,
+      "venue": "El Ranchito",
+      "address": "3517 South Cooper Street,, Arlington, TX, Arlington, TX",
+      "city": "Arlington",
+      "description": "Short notice on Tonight (this Wednesday) @ John Bs 2009 W Arkansas, right after 9pm, when the party really gets going...\n\nPlus, be ready for something between a sing-along-birthday and impromptu retirement party! Tomorrow on Thursday @ El Ranchito after 6pm. Look and or ask for our regular Meetup table, right near the stage area, and often running to the back end of the concert area side.\n\nAll happening @ El Ranchito Happy Hour & Karaoke. Now our Meetups will have 6-8 Happy Hour Drafts and Margaritas, Free Chips and Salsa. Even a big Big Birthday cake! While DJs Juan and Lain should make it all a great night. Plus, great Northern Mexico cuisine and bar. RSVP wherever you see us, so that we can save you the best seat. Well then surely hope to see you soon!\n\n3517 S Cooper St,\nArlington, Texas 76015\n817-987-4560\n\n[El Ranchito website](https://arlington.elranchito-dallas.com/)\n[El Ranchito on Facebook](https://www.facebook.com/ElRanchitoArlington/)\n[El Ranchito on Instagram](https://www.instagram.com/elranchito214)\n[El Ranchito on Twitter](https://x.com/i/flow/login?redirect_after_login=%2Felranchito214)\n[El Ranchito on Yelp](https://www.yelp.com/biz/el-ranchito-arlington-6)",
+      "image_url": "/images/fallbacks/redesign/group-cover-3-square.webp",
+      "tags": [
+        "social",
+        "salsa"
+      ],
+      "price": null,
+      "id": "e837dc34a5d094b9",
+      "first_seen_at": "2026-05-07T10:11:54.403098+00:00",
+      "last_seen_at": "2026-05-07T10:11:54.403098+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
+    },
+    {
+      "title": "Salsa Wednesday at Vidorra by DJ Wander",
+      "start": "2026-05-13",
+      "source": "danceus",
+      "source_url": "https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/",
+      "end": "2026-05-13",
+      "venue": "Vidorra Dallas",
+      "address": "2642 Main St, Dallas, TX 75226, Dallas, TX",
+      "city": "Dallas",
+      "description": "Dance the night away EVERY Wednesday at Vidorra located in the heart of Deep Ellum! Come dine, dance and drink and one of Dallass best Mexican Restaurants! Free beginners salsa lesson with Wander and",
+      "image_url": "https://www.danceus.org/events/images/165524212738516/salsa-wednesday-at-vidorra-by-dj-wander-cover.jpg",
+      "tags": [
+        "social",
+        "lesson",
+        "salsa"
+      ],
+      "price": null,
+      "id": "84fb7408b9bba8a5",
+      "first_seen_at": "2026-05-07T10:11:54.403126+00:00",
+      "last_seen_at": "2026-05-07T10:11:54.403126+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
+    },
+    {
+      "title": "Live Latin Night With Havana NRG at Sambuca360",
+      "start": "2026-05-13",
+      "source": "danceus",
+      "source_url": "https://www.danceus.org/event/165524211650016/live-latin-night-with-havana-nrg-at-sambuca-plano-tx/",
+      "end": "2026-05-14",
+      "venue": "Sambuca360",
+      "address": "7200 Bishop Rd, # 270, Plano, TX 75024, Plano, TX",
+      "city": "Plano",
+      "description": "EVERY WEDNESDAY! . Cha-cha on over dinner and high-energy Latin orchestra, @havananrg ! . This is the ultimate night out with dinner, dancing and the best Latin beats. Havana NRG will have you on",
+      "image_url": "https://www.danceus.org/events/images/165524211541332/live-latin-night-with-havana-nrg-at-sambuca-cover.jpg",
+      "tags": [
+        "social"
+      ],
+      "price": null,
+      "id": "6388844f1622e1bd",
+      "first_seen_at": "2026-05-07T10:11:54.403128+00:00",
+      "last_seen_at": "2026-05-07T10:11:54.403128+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
+    },
+    {
+      "title": "Salseando and Bachateando Nights at El Botanero",
+      "start": "2026-05-13",
+      "source": "danceus",
+      "source_url": "https://www.danceus.org/event/16552421287400/salseando-and-bachateando-nights-at-el-botanero-dallas-tx/",
+      "end": "2026-05-14",
+      "venue": "El Botanero Bar",
+      "address": "3049 W. Northwest Hwy, Dallas, TX 75220, Dallas, TX",
+      "city": "Dallas",
+      "description": "Salsa Bachata Wednesdays 100% salsa bachata all night. Music provided by top DJs Doors open @ 9 until 2:00 am. No cover Drinks specials all night.",
+      "image_url": "https://www.danceus.org/images/17640385765840/Salsa_Gemini_Generated_Image_v0jg3zv0jg3zv0jg.jpg",
+      "tags": [
+        "social",
+        "salsa",
+        "bachata"
+      ],
+      "price": null,
+      "id": "491435d40fb034d2",
+      "first_seen_at": "2026-05-07T10:11:54.403130+00:00",
+      "last_seen_at": "2026-05-07T10:11:54.403130+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
+    },
+    {
+      "title": "Wednesday Salsa Social at Stratos",
+      "start": "2026-05-13",
+      "source": "danceus",
+      "source_url": "https://www.danceus.org/event/16552421361930/wednesday-salsa-social-at-stratos-dallas-tx/",
+      "end": "2026-05-14",
+      "venue": "Stratos Greek Taverna",
+      "address": "2907 W Northwest Hwy, Dallas, TX 75220, Dallas, TX",
+      "city": "Dallas",
+      "description": "Wednesday latin night at Stratos. No cover, free parking, kitchen open all night. Music by DJ Leo DJ Angel. VIP tables, bottle service, great dance floor.",
+      "image_url": "https://www.danceus.org/events/images/165524213534732/wednesday-salsa-social-at-stratos-cover.jpg",
+      "tags": [
+        "social",
+        "salsa"
+      ],
+      "price": null,
+      "id": "72af417f2407d50b",
+      "first_seen_at": "2026-05-07T10:11:54.403132+00:00",
+      "last_seen_at": "2026-05-07T10:11:54.403132+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
+    },
+    {
+      "title": "Salsa Sunday Night at Hearsay Arlington",
+      "start": "2026-05-17T19:00:00-05:00",
+      "source": "golatindance",
+      "source_url": "https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-05-17/",
+      "end": "2026-05-17T23:00:00-05:00",
+      "venue": "Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States",
+      "address": "Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States",
+      "city": null,
+      "description": "Salsa Sunday Night at Hearsay Arlington\n📍Choctaw Stadium, 1711 E Randol Mill Rd, Arlington, TX 76011\n🎟 FREE EVENT and Parking\n📅 Every Sunday\n⏰ 7 PM to 11 PM\nExperience Hearsay Arlington, where elegance meets energy at DFW’s premier entertainment destination.\n✨ Free Dance Lessons at 7 PM\n✨ DJAYO spinning the Latin Hits\n✨ Food & Drink Specials\nDon’t miss this opportunity to celebrate Latin culture, music, and dance in a stunning venue in the heart of Arlington Entertainment District.\n🔥 Let’s dance, DFW — see you on the dance floor!",
+      "image_url": null,
+      "tags": [
+        "social",
+        "lesson",
+        "salsa"
+      ],
+      "price": "Free",
+      "id": "8a7313420e262cd7",
+      "first_seen_at": "2026-05-07T10:11:54.403221+00:00",
+      "last_seen_at": "2026-05-07T10:11:54.403221+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
+    },
+    {
+      "title": "Sabroso Sundays at Al-Amir",
+      "start": "2026-05-17T22:00:00-05:00",
+      "source": "golatindance",
+      "source_url": "https://golatindance.com/event/sabroso-sundays-at-al-amir/2026-05-17/",
+      "end": "2026-05-18T02:00:00-05:00",
+      "venue": "Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States",
+      "address": "Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States",
+      "city": null,
+      "description": "Dj Christian Remix + Dj Guest\nEVERY SUNDAY NIGHT, THE LATIN TROPICAL PARTY #1 IN DFW.\nSABROSO SUNDAY…. LADIES 21&UP NO COVER ALL NIGHT, FREE PARKING, DRESS TO IMPRESS. \n<< SALSA >> << BACHATA >> << MERENGUE >> LATIN HITS >> \n~~~ GREAT DANCE FLOOR & PATIO ~~~~",
+      "image_url": null,
+      "tags": [
+        "social",
+        "salsa",
+        "bachata",
+        "merengue"
+      ],
+      "price": "Free",
+      "id": "0fcacd8fdfae19ac",
+      "first_seen_at": "2026-05-07T10:11:54.403225+00:00",
+      "last_seen_at": "2026-05-07T10:11:54.403225+00:00",
+      "submitted_to_supabase": "2026-05-07T10:11:54.403601+00:00"
     }
   ]
 }
