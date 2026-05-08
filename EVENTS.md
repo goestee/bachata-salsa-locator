@@ -1,26 +1,14 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-05-07 01:18 PM CDT**
+> Auto-generated. Last update: **2026-05-08 02:06 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 106 upcoming events tracked. **9 new** since last run.
+> 99 upcoming events tracked. **7 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Beginner Cha Cha Dance Class](https://www.eventbrite.com/e/beginner-cha-cha-dance-class-tickets-1988881834105)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Thu, May 7, 2026 • all day  
-   `social` `lesson` `cha-cha` _via eventbrite_
-- **[May Birthdays @ El Ranchito in Arlington!](https://www.meetup.com/dfw-karaoke/events/314665332/)** **_Varies_**  
-   El Ranchito · Arlington  
-   Thu, May 7, 2026 • 6:15 PM  
-   `social` `salsa` _via meetup_
-- **[Salsa Dance Class for Beginners](https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1978750437826)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Sat, May 9, 2026 • all day  
-   `social` `lesson` `salsa` _via eventbrite_
 - **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
    Vidorra Dallas  
    Wed, May 13, 2026 • all day  
@@ -45,46 +33,15 @@
    Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States  
    Sun, May 17, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[Latin Night at Gigis](https://golatindance.com/event/latin-night-at-gigis/2026-05-20/)** **_Free_**  
+   Gigis, 7300 Lone Star Drive C150, Plano, TX, 75024, United States  
+   Wed, May 20, 2026 • 9:00 PM – 2:00 AM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
 
 ---
 
 ## Upcoming
 
-
-### Thursday, May 7, 2026
-
-- **[Merengue Dance Classes](https://www.eventbrite.com/e/merengue-dance-classes-tickets-1986143945005)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Thu, May 7, 2026 • all day  
-   `social` `lesson` `merengue` _via eventbrite_
-- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
-   Merkado · Frisco  
-   Thu, May 7, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Thu, May 7, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
-   Hangout · Irving  
-   Thu, May 7, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Beginner Cha Cha Dance Class](https://www.eventbrite.com/e/beginner-cha-cha-dance-class-tickets-1988881834105)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Thu, May 7, 2026 • all day  
-   `social` `lesson` `cha-cha` _via eventbrite_
-- **[May Birthdays @ El Ranchito in Arlington!](https://www.meetup.com/dfw-karaoke/events/314665332/)** **_Varies_**  
-   El Ranchito · Arlington  
-   Thu, May 7, 2026 • 6:15 PM  
-   `social` `salsa` _via meetup_
-- **[Beginner Cha Cha Dance Class](https://www.meetup.com/dfwyoungsocial/events/314458899/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Thu, May 7, 2026 • 7:00 PM  
-   `social` `lesson` `cha-cha` _via meetup_
-- **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-05-07/)** **_Free_**  
-   Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
-   Thu, May 7, 2026 • 9:00 PM – 1:00 AM  
-   `social` `lesson` `salsa` _via golatindance_
 
 ### Friday, May 8, 2026
 
@@ -405,6 +362,10 @@
    Dallas-Fort Worth  
    Wed, May 20, 2026 • 7:00 PM – 11:00 PM  
    `social` `lesson` `salsa` `bachata` `merengue` _via salsavida_
+- **[Latin Night at Gigis](https://golatindance.com/event/latin-night-at-gigis/2026-05-20/)** **_Free_**  
+   Gigis, 7300 Lone Star Drive C150, Plano, TX, 75024, United States  
+   Wed, May 20, 2026 • 9:00 PM – 2:00 AM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
 - **[Wednesday Salsa & Bachata at Stratos](https://www.salsavida.com/event/texas/dallas-fort-worth/wednesday-salsa-bachata-at-stratos/)** **_Free_**  
    Dallas-Fort Worth  
    Wed, May 20, 2026 • 9:30 PM – 2:00 AM  
