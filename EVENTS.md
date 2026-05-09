@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-05-09 02:29 AM CDT**
+> Auto-generated. Last update: **2026-05-09 10:40 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 98 upcoming events tracked. **11 new** since last run.
+> 98 upcoming events tracked. **10 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -37,10 +37,6 @@
    You Can Dance Dallas · Addison  
    Fri, May 15, 2026 • 7:30 PM  
    `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
-- **[Latin Night at Gigis](https://golatindance.com/event/latin-night-at-gigis/2026-05-20/)** **_Free_**  
-   Gigis, 7300 Lone Star Drive C150, Plano, TX, 75024, United States  
-   Wed, May 20, 2026 • 9:00 PM – 2:00 AM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
 - **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-05-21/)** **_Free_**  
    Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
    Thu, May 21, 2026 • 9:00 PM – 1:00 AM  
