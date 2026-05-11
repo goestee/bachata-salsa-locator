@@ -9,6 +9,7 @@ from __future__ import annotations
 import json
 import logging
 from typing import Iterator
+from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
 
@@ -16,6 +17,35 @@ from ..models import Event
 from ._price import price_from_offers
 
 log = logging.getLogger(__name__)
+
+
+# Known "this is a stock placeholder, not a real flyer" URL fragments.
+# When we see these in an Event's `image` field we treat the event as having
+# no flyer rather than passing the placeholder downstream. Add new patterns
+# here as we discover them — keep them specific enough not to false-match.
+_PLACEHOLDER_IMAGE_FRAGMENTS = (
+    "/images/fallbacks/",        # meetup.com generic group-cover squares
+)
+
+
+def _normalize_image(image, fallback_url: str) -> str | None:
+    """Clean up an image URL pulled from JSON-LD.
+
+    - Returns None if the URL looks like a known stock placeholder.
+    - Resolves protocol-relative and path-relative URLs against the page
+      they were scraped from, so downstream consumers get something they
+      can actually render.
+    """
+    if not isinstance(image, str):
+        return None
+    image = image.strip()
+    if not image:
+        return None
+    if any(frag in image for frag in _PLACEHOLDER_IMAGE_FRAGMENTS):
+        return None
+    if image.startswith(("http://", "https://")):
+        return image
+    return urljoin(fallback_url, image)
 
 
 def _walk(node, out: list) -> None:
@@ -104,6 +134,7 @@ def jsonld_to_event(node: dict, source: str, fallback_url: str) -> Event | None:
         image = image[0]
     if isinstance(image, dict):
         image = image.get("url")
+    image = _normalize_image(image, fallback_url)
 
     price = price_from_offers(node)
 
@@ -115,7 +146,7 @@ def jsonld_to_event(node: dict, source: str, fallback_url: str) -> Event | None:
         address=address,
         city=city,
         description=description if isinstance(description, str) else None,
-        image_url=image if isinstance(image, str) else None,
+        image_url=image,
         source=source,
         source_url=url,
         price=price,
