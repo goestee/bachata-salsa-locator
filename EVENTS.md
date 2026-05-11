@@ -1,14 +1,18 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-05-11 07:31 AM CDT**
+> Auto-generated. Last update: **2026-05-11 12:34 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 92 upcoming events tracked. **18 new** since last run.
+> 95 upcoming events tracked. **21 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
+- **[Salsa Dance Class for Beginners](https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1984721434237)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, May 12, 2026 • all day  
+   `social` `lesson` `salsa` _via eventbrite_
 - **[Caliente TUES @ ROTATE in Frisco ●FREE  SALSA & BACHATA class @ 7:30pm ● FOOD](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314710113/)** **_Varies_**  
    Rotate Bar & Kitchen · Frisco  
    Tue, May 12, 2026 • 7:15 PM  
@@ -33,6 +37,14 @@
    Mi Pueblito · Garland  
    Sat, May 16, 2026 • all day  
    `social` _via danceus_
+- **[SALSA DEL BARRIO](https://www.eventbrite.com/e/salsa-del-barrio-tickets-1983990824965)** **_Varies_**  
+   Ocho Latin Cuisine Events · Dallas  
+   Sat, May 16, 2026 • all day  
+   `social` `lesson` `salsa` _via eventbrite_
+- **[Bachata Dance Class](https://www.eventbrite.com/e/bachata-dance-class-tickets-1978750654474)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, May 16, 2026 • all day  
+   `social` `lesson` `bachata` _via eventbrite_
 - **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
    Victoria’s Restaurant · Farmers Branch  
    Sun, May 17, 2026 • all day  
@@ -96,6 +108,10 @@
 
 ### Tuesday, May 12, 2026
 
+- **[Salsa Dance Class for Beginners](https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1984721434237)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, May 12, 2026 • all day  
+   `social` `lesson` `salsa` _via eventbrite_
 - **[Caliente TUES @ ROTATE in Frisco ●FREE  SALSA & BACHATA class @ 7:30pm ● FOOD](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314710113/)** **_Varies_**  
    Rotate Bar & Kitchen · Frisco  
    Tue, May 12, 2026 • 7:15 PM  
@@ -232,6 +248,14 @@
    Mi Pueblito · Garland  
    Sat, May 16, 2026 • all day  
    `social` _via danceus_
+- **[SALSA DEL BARRIO](https://www.eventbrite.com/e/salsa-del-barrio-tickets-1983990824965)** **_Varies_**  
+   Ocho Latin Cuisine Events · Dallas  
+   Sat, May 16, 2026 • all day  
+   `social` `lesson` `salsa` _via eventbrite_
+- **[Bachata Dance Class](https://www.eventbrite.com/e/bachata-dance-class-tickets-1978750654474)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, May 16, 2026 • all day  
+   `social` `lesson` `bachata` _via eventbrite_
 - **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/314497538/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Sat, May 16, 2026 • 4:00 PM  
