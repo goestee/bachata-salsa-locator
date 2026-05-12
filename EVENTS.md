@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-05-11 02:22 PM CDT**
+> Auto-generated. Last update: **2026-05-12 05:21 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 95 upcoming events tracked. **14 new** since last run.
+> 95 upcoming events tracked. **15 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -49,6 +49,10 @@
    You Can Dance Dallas · Addison  
    Sun, May 17, 2026 • 6:30 PM  
    `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
+- **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/314745615/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Sun, May 17, 2026 • 6:30 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 - **[David Herrera Amateur Latin / Ballroom dance team summer tryouts](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314518740/)** **_Varies_**  
    You Can Dance Dallas  
    Sun, May 17, 2026 • 7:45 PM  
@@ -70,13 +74,6 @@
 
 ## Upcoming
 
-
-### Monday, May 11, 2026
-
-- **[Mondays just got a whole lot better.](https://www.instagram.com/p/DW2Bdh3gOG2/)** **_Varies_**  
-   Alphamidway  
-   Mon, May 11, 2026 • 7:00 PM – 9:00 PM  
-   `salsa` `lesson` _via instagram_
 
 ### Tuesday, May 12, 2026
 
@@ -291,6 +288,10 @@
    You Can Dance Dallas · Addison  
    Sun, May 17, 2026 • 6:30 PM  
    `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
+- **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/314745615/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Sun, May 17, 2026 • 6:30 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 - **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-05-17/)** **_Free_**  
    Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
    Sun, May 17, 2026 • 7:00 PM – 11:00 PM  
