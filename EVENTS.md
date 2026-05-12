@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-05-12 05:21 AM CDT**
+> Auto-generated. Last update: **2026-05-12 02:25 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 95 upcoming events tracked. **15 new** since last run.
+> 100 upcoming events tracked. **9 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -13,18 +13,18 @@
    DFW Young & Social · Farmers Branch  
    Tue, May 12, 2026 • all day  
    `social` `lesson` `salsa` _via eventbrite_
-- **[Caliente TUES @ ROTATE in Frisco ●FREE  SALSA & BACHATA class @ 7:30pm ● FOOD](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314710113/)** **_Varies_**  
-   Rotate Bar & Kitchen · Frisco  
-   Tue, May 12, 2026 • 7:15 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
-- **[Salsa & bachata Thursdays advanced beginner/intermediate](https://www.meetup.com/salsa-with-jo/events/314468004/)** **_Varies_**  
-   Green Space Arts Collective · Denton  
-   Thu, May 14, 2026 • 7:30 PM  
-   `lesson` `salsa` `bachata` _via meetup_
-- **[Latin Night](https://www.meetup.com/salsa-with-jo/events/314367801/)** **_Varies_**  
-   El Taco H · Denton  
-   Fri, May 15, 2026 • 10:00 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
+- **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-05-12/)** **_Free_**  
+   Rotate Social, 5454 Main st., Frisco, TX, United States  
+   Tue, May 12, 2026 • 7:30 PM – 11:30 PM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
+- **[Salsa Night @ El Chingon Dallas](https://golatindance.com/event/salsa-night-el-chingon-dallas/)** **_Free_**  
+   El Chingon Dallas, 3404 Ross Ave, Dallas, TX, 75204, United States  
+   Thu, May 14, 2026 • 5:00 PM – 10:00 PM  
+   `social` `lesson` `salsa` `bachata` _via golatindance_
+- **[Rumba Fridays @ Taboo Lounge Dallas](https://golatindance.com/event/rumba-fridays-taboo-lounge-dallas/2026-05-15/)** **_$5–$15_**  
+   Taboo Dallas, 1418 N Riverfront, Dallas, TX, 75207, United States  
+   Fri, May 15, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
 - **[SALSA DEL BARRIO](https://www.eventbrite.com/e/salsa-del-barrio-tickets-1983990824965)** **_Varies_**  
    Ocho Latin Cuisine Events · Dallas  
    Sat, May 16, 2026 • all day  
@@ -33,42 +33,18 @@
    DFW Young & Social · Farmers Branch  
    Sat, May 16, 2026 • all day  
    `social` `lesson` `bachata` _via eventbrite_
-- **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
-   Victoria’s Restaurant · Farmers Branch  
-   Sun, May 17, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Salsa Sundays at The Statler](https://www.danceus.org/event/16552421262550/salsa-sundays-at-the-statler-dallas-tx/)** **_Varies_**  
-   The Statler · Dallas  
-   Sun, May 17, 2026 • all day  
-   `lesson` `salsa` _via danceus_
-- **[Sabroso Sunday at Al-Amir Addison](https://www.danceus.org/event/16552421219990/sabroso-sunday-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Sun, May 17, 2026 • all day  
-   `social` `salsa` `bachata` `merengue` _via danceus_
-- **[50 % off SUNDAY Salsa & BACHATA class in addison • we go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314517785/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, May 17, 2026 • 6:30 PM  
-   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
 - **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/314745615/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sun, May 17, 2026 • 6:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
-- **[David Herrera Amateur Latin / Ballroom dance team summer tryouts](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314518740/)** **_Varies_**  
-   You Can Dance Dallas  
-   Sun, May 17, 2026 • 7:45 PM  
-   `lesson` `festival` `salsa` `bachata` `cha-cha` _via meetup_
-- **[7:00-11:00 4TH SATURDAY BALLROOM DANCE PARTY &  EAST COAST SWING CLASS](https://www.meetup.com/you-can-dance-dallas/events/314529123/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sat, May 23, 2026 • 7:00 PM  
-   `social` `lesson` _via meetup_
-- **[Salsa Sunday at La Chingona](https://golatindance.com/event/salsa-sunday-at-la-chingona/2026-05-24/)** **_Free_**  
-   La Chingona, 2800 Bledsoe St #100, Fort Worth, TX, 76107, United States  
-   Sun, May 24, 2026 • 3:00 PM – 6:00 PM  
-   `lesson` `salsa` `bachata` _via golatindance_
-- **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-05-24/)** **_Free_**  
-   Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
-   Sun, May 24, 2026 • 7:00 PM – 11:00 PM  
-   `social` `lesson` `salsa` _via golatindance_
+- **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-05-19/)** **_Free_**  
+   Rotate Social, 5454 Main st., Frisco, TX, United States  
+   Tue, May 19, 2026 • 7:30 PM – 11:30 PM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
+- **[Rumba Fridays @ Taboo Lounge Dallas](https://golatindance.com/event/rumba-fridays-taboo-lounge-dallas/2026-05-22/)** **_$5–$15_**  
+   Taboo Dallas, 1418 N Riverfront, Dallas, TX, 75207, United States  
+   Fri, May 22, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
 
 ---
 
@@ -85,6 +61,10 @@
    Rotate Bar & Kitchen · Frisco  
    Tue, May 12, 2026 • 7:15 PM  
    `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
+- **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-05-12/)** **_Free_**  
+   Rotate Social, 5454 Main st., Frisco, TX, United States  
+   Tue, May 12, 2026 • 7:30 PM – 11:30 PM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
 - **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/314429758/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Tue, May 12, 2026 • 8:00 PM  
@@ -139,6 +119,10 @@
    Hangout · Irving  
    Thu, May 14, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Salsa Night @ El Chingon Dallas](https://golatindance.com/event/salsa-night-el-chingon-dallas/)** **_Free_**  
+   El Chingon Dallas, 3404 Ross Ave, Dallas, TX, 75204, United States  
+   Thu, May 14, 2026 • 5:00 PM – 10:00 PM  
+   `social` `lesson` `salsa` `bachata` _via golatindance_
 - **[Salsa & bachata Thursdays advanced beginner/intermediate](https://www.meetup.com/salsa-with-jo/events/314468004/)** **_Varies_**  
    Green Space Arts Collective · Denton  
    Thu, May 14, 2026 • 7:30 PM  
@@ -194,7 +178,7 @@
    Dallas-Fort Worth  
    Fri, May 15, 2026 • 9:30 PM – 3:00 AM  
    `social` `lesson` `salsa` `bachata` _via salsavida_
-- **[Friday Latin at Al-Amir Arlington](https://golatindance.com/event/friday-rumba-nights-at-al-amir-arlington-dj-boriplayer-2019-08-30-2019-09-06/2026-05-15/)** **_Varies_**  
+- **[Friday Latin at Al-Amir Arlington](https://golatindance.com/event/friday-rumba-nights-at-al-amir-arlington/2026-05-15/)** **_Varies_**  
    Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
    Fri, May 15, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` `merengue` _via golatindance_
@@ -202,6 +186,10 @@
    El Taco H · Denton  
    Fri, May 15, 2026 • 10:00 PM  
    `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
+- **[Rumba Fridays @ Taboo Lounge Dallas](https://golatindance.com/event/rumba-fridays-taboo-lounge-dallas/2026-05-15/)** **_$5–$15_**  
+   Taboo Dallas, 1418 N Riverfront, Dallas, TX, 75207, United States  
+   Fri, May 15, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
 
 ### Saturday, May 16, 2026
 
@@ -320,6 +308,13 @@
    Mon, May 18, 2026 • 7:00 PM – 9:00 PM  
    `salsa` `lesson` _via instagram_
 
+### Tuesday, May 19, 2026
+
+- **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-05-19/)** **_Free_**  
+   Rotate Social, 5454 Main st., Frisco, TX, United States  
+   Tue, May 19, 2026 • 7:30 PM – 11:30 PM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
+
 ### Wednesday, May 20, 2026
 
 - **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
@@ -356,8 +351,12 @@
    Taboo Dallas, 1418 N Riverfront Blvd, Dallas, TX, 75207, United States  
    Fri, May 22, 2026 • 9:00 PM – 2:00 AM  
    `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Friday Latin at Al-Amir Arlington](https://golatindance.com/event/friday-rumba-nights-at-al-amir-arlington-dj-boriplayer-2019-08-30-2019-09-06/2026-05-22/)** **_Varies_**  
+- **[Friday Latin at Al-Amir Arlington](https://golatindance.com/event/friday-rumba-nights-at-al-amir-arlington/2026-05-22/)** **_Varies_**  
    Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
+   Fri, May 22, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[Rumba Fridays @ Taboo Lounge Dallas](https://golatindance.com/event/rumba-fridays-taboo-lounge-dallas/2026-05-22/)** **_$5–$15_**  
+   Taboo Dallas, 1418 N Riverfront, Dallas, TX, 75207, United States  
    Fri, May 22, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` `merengue` _via golatindance_
 
