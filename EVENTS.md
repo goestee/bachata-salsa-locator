@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-05-13 05:12 AM CDT**
+> Auto-generated. Last update: **2026-05-13 02:28 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 98 upcoming events tracked. **7 new** since last run.
+> 98 upcoming events tracked. **6 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -21,10 +21,6 @@
    DFW Young & Social · Farmers Branch  
    Sat, May 16, 2026 • all day  
    `social` `lesson` `salsa` _via eventbrite_
-- **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/314745615/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, May 17, 2026 • 6:30 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
 - **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-05-19/)** **_Free_**  
    Rotate Social, 5454 Main st., Frisco, TX, United States  
    Tue, May 19, 2026 • 7:30 PM – 11:30 PM  
