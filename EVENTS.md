@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-05-13 10:57 PM CDT**
+> Auto-generated. Last update: **2026-05-13 11:01 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 99 upcoming events tracked. **3 new** since last run.
+> 103 upcoming events tracked. **7 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -13,6 +13,10 @@
    DFW Young & Social · Farmers Branch  
    Sat, May 16, 2026 • all day  
    `social` `lesson` `salsa` _via eventbrite_
+- **[Secret Latin Dance Night happens every Saturday at MBC — and the night has a few tricks up its sleeve.](https://www.instagram.com/p/DXz17tiJqbs/)** **_Varies_**  
+   MBC  
+   Sat, May 16, 2026 • all day  
+   `lesson` `social` _via instagram_
 - **[Caliente TUES @ ROTATE in Frisco ●FREE  SALSA & BACHATA class @ 7:30pm ● FOOD](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314778435/)** **_Varies_**  
    Rotate Bar & Kitchen · Frisco  
    Tue, May 19, 2026 • 7:15 PM  
@@ -21,6 +25,18 @@
    DFW Young & Social · Farmers Branch  
    Tue, May 19, 2026 • 8:00 PM  
    `social` `lesson` `salsa` _via meetup_
+- **[Secret Latin Dance Night happens every Saturday at MBC — and the night has a few tricks up its sleeve.](https://www.instagram.com/p/DXz17tiJqbs/)** **_Varies_**  
+   MBC  
+   Sat, May 23, 2026 • all day  
+   `lesson` `social` _via instagram_
+- **[Secret Latin Dance Night happens every Saturday at MBC — and the night has a few tricks up its sleeve.](https://www.instagram.com/p/DXz17tiJqbs/)** **_Varies_**  
+   MBC  
+   Sat, May 30, 2026 • all day  
+   `lesson` `social` _via instagram_
+- **[Secret Latin Dance Night happens every Saturday at MBC — and the night has a few tricks up its sleeve.](https://www.instagram.com/p/DXz17tiJqbs/)** **_Varies_**  
+   MBC  
+   Sat, Jun 6, 2026 • all day  
+   `lesson` `social` _via instagram_
 
 ---
 
@@ -174,6 +190,10 @@
    DFW Young & Social · Farmers Branch  
    Sat, May 16, 2026 • all day  
    `social` `lesson` `salsa` _via eventbrite_
+- **[Secret Latin Dance Night happens every Saturday at MBC — and the night has a few tricks up its sleeve.](https://www.instagram.com/p/DXz17tiJqbs/)** **_Varies_**  
+   MBC  
+   Sat, May 16, 2026 • all day  
+   `lesson` `social` _via instagram_
 - **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/314497538/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Sat, May 16, 2026 • 4:00 PM  
@@ -331,6 +351,10 @@
 
 ### Saturday, May 23, 2026
 
+- **[Secret Latin Dance Night happens every Saturday at MBC — and the night has a few tricks up its sleeve.](https://www.instagram.com/p/DXz17tiJqbs/)** **_Varies_**  
+   MBC  
+   Sat, May 23, 2026 • all day  
+   `lesson` `social` _via instagram_
 - **[7:00-11:00 4TH SATURDAY BALLROOM DANCE PARTY &  EAST COAST SWING CLASS](https://www.meetup.com/you-can-dance-dallas/events/314529123/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sat, May 23, 2026 • 7:00 PM  
@@ -422,6 +446,10 @@
 
 ### Saturday, May 30, 2026
 
+- **[Secret Latin Dance Night happens every Saturday at MBC — and the night has a few tricks up its sleeve.](https://www.instagram.com/p/DXz17tiJqbs/)** **_Varies_**  
+   MBC  
+   Sat, May 30, 2026 • all day  
+   `lesson` `social` _via instagram_
 - **[Salsa Saturdays at Blue Mesa Grill](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-saturdays-at-blue-mesa-grill/)** **_$8_**  
    Dallas-Fort Worth  
    Sat, May 30, 2026 • 10:00 PM – 3:00 AM  
@@ -467,6 +495,10 @@
 
 ### Saturday, June 6, 2026
 
+- **[Secret Latin Dance Night happens every Saturday at MBC — and the night has a few tricks up its sleeve.](https://www.instagram.com/p/DXz17tiJqbs/)** **_Varies_**  
+   MBC  
+   Sat, Jun 6, 2026 • all day  
+   `lesson` `social` _via instagram_
 - **[Salsa Saturdays at Blue Mesa Grill](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-saturdays-at-blue-mesa-grill/)** **_$8_**  
    Dallas-Fort Worth  
    Sat, Jun 6, 2026 • 10:00 PM – 3:00 AM  
