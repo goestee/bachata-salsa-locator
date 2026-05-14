@@ -440,6 +440,22 @@ _HTML_TEMPLATE = """<!doctype html>
                    border-radius: 16px 16px 0 0; }}
   }}
 
+  /* ---------- Page hero (title + meta + filters in one card) -------- *
+     Wraps the top of the page in a solid card so the doodle pattern
+     behind dark mode doesn't bleed through the meta text and filters.
+     Mirrors the .card treatment used for events. */
+  .hero {{
+    background: #ffffff; border: 1px solid #e5e7eb;
+    border-radius: 16px; padding: 22px 24px; margin-bottom: 24px;
+    box-shadow: 0 1px 3px rgba(15, 23, 42, 0.04);
+  }}
+  .hero .meta {{ margin-bottom: 16px; }}
+  .hero .new-banner {{ margin-bottom: 16px; }}
+  .hero .filters {{ margin: 0; }}
+  @media (max-width: 480px) {{
+    .hero {{ padding: 18px 16px; border-radius: 12px; }}
+  }}
+
   /* ---------- Theme toggle button (sits next to the H1) -------------- */
   .page-head {{
     display: flex; align-items: center; justify-content: space-between;
@@ -482,6 +498,10 @@ _HTML_TEMPLATE = """<!doctype html>
   }}
   html[data-theme="dark"] h1 {{ color: #f1f5f9; }}
   html[data-theme="dark"] .meta {{ color: #94a3b8; }}
+  html[data-theme="dark"] .hero {{
+    background: #111b2e; border-color: #1f2937;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.45);
+  }}
   html[data-theme="dark"] .filters input[type=search] {{
     background: #111b2e; color: #e2e8f0; border-color: #334155;
   }}
@@ -573,6 +593,7 @@ _HTML_TEMPLATE = """<!doctype html>
 </style>
 </head>
 <body>
+<header class="hero">
 <div class="page-head">
   <h1>DFW Bachata &amp; Salsa Events</h1>
   <button type="button" class="theme-toggle" id="theme-toggle"
@@ -615,6 +636,7 @@ _HTML_TEMPLATE = """<!doctype html>
   <button data-tag="workshop">Workshops</button>
   <button data-tag="free">Free only</button>
 </div>
+</header>
 
 <div id="events">
 {body}
