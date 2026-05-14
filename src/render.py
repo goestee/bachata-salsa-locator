@@ -19,124 +19,163 @@ LOCAL_TZ = ZoneInfo("America/Chicago")
 # ---------------------------------------------------------------------------
 # Dark-mode doodle background
 # ---------------------------------------------------------------------------
-# A 600x600 SVG tile of Lucide-flavored line icons (music, hearts, drinks,
-# stars, etc.) sprinkled across the canvas at varied positions, scales, and
-# rotations. We bake it into a single data URI and use it as the body
-# background only in dark mode — pattern stays fixed while content scrolls.
-# Stroke color is intentionally close to (but slightly lighter than) the
-# dark background so the texture reads as subtle, not as foreground noise.
-_DARK_DOODLE_SVG = (
-    "<svg xmlns='http://www.w3.org/2000/svg' width='600' height='600'"
-    " viewBox='0 0 600 600'>"
-    "<g fill='none' stroke='#334155' stroke-width='1.4'"
-    " stroke-linecap='round' stroke-linejoin='round'>"
+# A 600x600 SVG tile of small dance/social line icons (music, hearts,
+# drinks, cowboy hats, dancers, etc.) sprinkled across the canvas at
+# varied positions, scales, and rotations. We bake it into a single data
+# URI and use it as the body background only in dark mode — the pattern
+# stays fixed while content scrolls. Stroke color is intentionally close
+# to (but slightly lighter than) the dark background so the texture reads
+# as subtle, not as foreground noise.
+
+# Lucide-flavored 24x24 icon paths (no outer <svg> or <g>). The cowboy
+# hat is hand-drawn for the Texas-meets-dance theme; everything else is
+# stock Lucide. We previously tried boot / heel / dancer / single-note
+# icons but their stroke paths read as ambiguous at small sizes, so they
+# were dropped in favor of cleaner shapes.
+_DOODLE_ICONS: dict[str, str] = {
+    "music_double": (
+        "<path d='M9 18V5l12-2v13'/>"
+        "<circle cx='6' cy='18' r='3'/><circle cx='18' cy='16' r='3'/>"
+    ),
+    "heart": (
+        "<path d='M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3"
+        "c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5"
+        "c0 2.3 1.5 4.05 3 5.5l7 7Z'/>"
+    ),
+    "star": (
+        "<polygon points='12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02"
+        " 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2'/>"
+    ),
+    "sparkles": (
+        "<path d='M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582"
+        "a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135"
+        "a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.582"
+        "a.5.5 0 0 1 0 .962L15.5 14.063a2 2 0 0 0-1.437 1.437"
+        "l-1.582 6.135a.5.5 0 0 1-.963 0z'/>"
+        "<path d='M20 3v4'/><path d='M22 5h-4'/>"
+        "<path d='M4 17v2'/><path d='M5 18H3'/>"
+    ),
+    "wine": (
+        "<path d='M8 22h8'/><path d='M7 10h10'/><path d='M12 15v7'/>"
+        "<path d='M12 15a5 5 0 0 0 5-5c0-2-.5-4-2-8H9c-1.5 4-2 6-2 8"
+        "a5 5 0 0 0 5 5Z'/>"
+    ),
+    "martini": (
+        "<path d='M8 22h8'/><path d='M12 11v11'/>"
+        "<path d='M19 3l-7 8-7-8Z'/>"
+    ),
+    "coffee": (
+        "<path d='M10 2v2'/><path d='M14 2v2'/>"
+        "<path d='M16 8a1 1 0 0 1 1 1v8a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V9"
+        "a1 1 0 0 1 1-1h14a4 4 0 1 1 0 8h-1'/>"
+        "<path d='M6 2v2'/>"
+    ),
+    "map_pin": (
+        "<path d='M20 10c0 4.993-5.539 10.193-7.399 11.799"
+        "a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0'/>"
+        "<circle cx='12' cy='10' r='3'/>"
+    ),
+    "mic": (
+        "<path d='M12 19v3'/>"
+        "<path d='M19 10v2a7 7 0 0 1-14 0v-2'/>"
+        "<rect x='9' y='2' width='6' height='13' rx='3'/>"
+    ),
+    "vinyl": (
+        "<circle cx='12' cy='12' r='10'/>"
+        "<circle cx='12' cy='12' r='6'/>"
+        "<circle cx='12' cy='12' r='3'/>"
+    ),
+    "calendar": (
+        "<path d='M8 2v4'/><path d='M16 2v4'/>"
+        "<rect width='18' height='18' x='3' y='4' rx='2'/>"
+        "<path d='M3 10h18'/>"
+    ),
+    "smile": (
+        "<circle cx='12' cy='12' r='10'/>"
+        "<path d='M8 14s1.5 2 4 2 4-2 4-2'/>"
+        "<line x1='9' x2='9.01' y1='9' y2='9'/>"
+        "<line x1='15' x2='15.01' y1='9' y2='9'/>"
+    ),
+    "sound_waves": (
+        "<polygon points='11 5 6 9 2 9 2 15 6 15 11 19 11 5'/>"
+        "<path d='M15.54 8.46a5 5 0 0 1 0 7.07'/>"
+        "<path d='M19.07 4.93a10 10 0 0 1 0 14.14'/>"
+    ),
+    # Cowboy hat — brim (with slight downward curl) + crown + crease.
+    "cowboy_hat": (
+        "<path d='M3 16C6 14 18 14 21 16C18 18 6 18 3 16Z'/>"
+        "<path d='M7 16V11C7 7 9 5 12 5C15 5 17 7 17 11V16'/>"
+        "<path d='M9 13C11 14 13 14 15 13'/>"
+    ),
+}
+
+# (icon_name, x, y, rotation_deg, scale). x/y is the icon's top-left,
+# rotation is around the icon's center (12, 12). The layout is a brick
+# grid (alternating 6/5 across 6 rows) to break up obvious column
+# alignment, with light jitter for an organic feel.
+_DOODLE_PLACEMENTS: list[tuple[str, int, int, int, float]] = [
     # Row 1
-    "<g transform='translate(40 50) rotate(-12 12 12)'>"
-    "<path d='M9 18V5l12-2v13'/>"
-    "<circle cx='6' cy='18' r='3'/><circle cx='18' cy='16' r='3'/>"
-    "</g>"
-    "<g transform='translate(200 70) rotate(8 12 12) scale(1.15)'>"
-    "<path d='M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3"
-    "c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5"
-    "c0 2.3 1.5 4.05 3 5.5l7 7Z'/>"
-    "</g>"
-    "<g transform='translate(360 50) rotate(-5 12 12) scale(0.95)'>"
-    "<polygon points='12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02"
-    " 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2'/>"
-    "</g>"
-    "<g transform='translate(500 80) rotate(10 12 12) scale(1.05)'>"
-    "<path d='M17.5 19a4.5 4.5 0 1 0 0-9h-1.8A7 7 0 1 0 4 14.9'/>"
-    "</g>"
-    # Row 2
-    "<g transform='translate(70 180) rotate(15 12 12) scale(0.9)'>"
-    "<path d='M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582"
-    "a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135"
-    "a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.582"
-    "a.5.5 0 0 1 0 .962L15.5 14.063a2 2 0 0 0-1.437 1.437"
-    "l-1.582 6.135a.5.5 0 0 1-.963 0z'/>"
-    "<path d='M20 3v4'/><path d='M22 5h-4'/>"
-    "<path d='M4 17v2'/><path d='M5 18H3'/>"
-    "</g>"
-    "<g transform='translate(230 200) rotate(-8 12 12)'>"
-    "<path d='M8 22h8'/><path d='M7 10h10'/><path d='M12 15v7'/>"
-    "<path d='M12 15a5 5 0 0 0 5-5c0-2-.5-4-2-8H9c-1.5 4-2 6-2 8"
-    "a5 5 0 0 0 5 5Z'/>"
-    "</g>"
-    "<g transform='translate(390 180) rotate(12 12 12) scale(0.95)'>"
-    "<path d='M10 2v2'/><path d='M14 2v2'/>"
-    "<path d='M16 8a1 1 0 0 1 1 1v8a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V9"
-    "a1 1 0 0 1 1-1h14a4 4 0 1 1 0 8h-1'/>"
-    "<path d='M6 2v2'/>"
-    "</g>"
-    "<g transform='translate(540 210) rotate(-6 12 12) scale(0.9)'>"
-    "<path d='M20 10c0 4.993-5.539 10.193-7.399 11.799"
-    "a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0'/>"
-    "<circle cx='12' cy='10' r='3'/>"
-    "</g>"
+    ("music_double", 40, 50, -12, 1.0),
+    ("heart", 138, 65, 8, 1.1),
+    ("cowboy_hat", 245, 55, -5, 1.0),
+    ("smile", 342, 70, 12, 0.95),
+    ("martini", 438, 60, -8, 1.0),
+    ("martini", 540, 68, 5, 1.0),
+    # Row 2 (offset 5 icons)
+    ("vinyl", 88, 158, 0, 1.0),
+    ("smile", 188, 145, -12, 1.0),
+    ("sparkles", 290, 152, 10, 0.95),
+    ("sparkles", 388, 155, -10, 0.9),
+    ("map_pin", 490, 148, 8, 0.95),
     # Row 3
-    "<g transform='translate(60 320) rotate(10 12 12)'>"
-    "<path d='M12 19v3'/><path d='M19 10v2a7 7 0 0 1-14 0v-2'/>"
-    "<rect x='9' y='2' width='6' height='13' rx='3'/>"
-    "</g>"
-    "<g transform='translate(220 330) scale(1.05)'>"
-    "<circle cx='12' cy='12' r='10'/>"
-    "<circle cx='12' cy='12' r='6'/>"
-    "<circle cx='12' cy='12' r='3'/>"
-    "</g>"
-    "<g transform='translate(380 310) rotate(-10 12 12) scale(0.9)'>"
-    "<path d='M8 2v4'/><path d='M16 2v4'/>"
-    "<rect width='18' height='18' x='3' y='4' rx='2'/>"
-    "<path d='M3 10h18'/>"
-    "</g>"
-    "<g transform='translate(520 340) rotate(8 12 12) scale(0.9)'>"
-    "<circle cx='12' cy='12' r='10'/>"
-    "<path d='M8 14s1.5 2 4 2 4-2 4-2'/>"
-    "<line x1='9' x2='9.01' y1='9' y2='9'/>"
-    "<line x1='15' x2='15.01' y1='9' y2='9'/>"
-    "</g>"
-    # Row 4
-    "<g transform='translate(120 440) rotate(-12 12 12)'>"
-    "<polygon points='11 5 6 9 2 9 2 15 6 15 11 19 11 5'/>"
-    "<path d='M15.54 8.46a5 5 0 0 1 0 7.07'/>"
-    "<path d='M19.07 4.93a10 10 0 0 1 0 14.14'/>"
-    "</g>"
-    "<g transform='translate(280 450) rotate(10 12 12) scale(0.85)'>"
-    "<path d='M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3"
-    "c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5"
-    "c0 2.3 1.5 4.05 3 5.5l7 7Z'/>"
-    "</g>"
-    "<g transform='translate(420 430) rotate(5 12 12) scale(0.95)'>"
-    "<line x1='2' x2='22' y1='12' y2='12'/>"
-    "<line x1='12' x2='12' y1='2' y2='22'/>"
-    "<path d='m20 16-4-4 4-4'/><path d='m4 8 4 4-4 4'/>"
-    "<path d='m16 4-4 4-4-4'/><path d='m8 20 4-4 4 4'/>"
-    "</g>"
-    "<g transform='translate(550 450) rotate(-15 12 12) scale(0.95)'>"
-    "<path d='M9 18V5l12-2v13'/>"
-    "<circle cx='6' cy='18' r='3'/><circle cx='18' cy='16' r='3'/>"
-    "</g>"
+    ("music_double", 38, 235, 5, 1.0),
+    ("smile", 142, 250, -15, 0.85),
+    ("star", 240, 230, 12, 0.9),
+    ("heart", 340, 245, -8, 0.95),
+    ("music_double", 440, 240, 18, 1.05),
+    ("wine", 540, 235, -5, 1.0),
+    # Row 4 (offset)
+    ("wine", 85, 340, 15, 0.9),
+    ("vinyl", 190, 325, -10, 1.0),
+    ("calendar", 290, 335, 8, 0.95),
+    ("smile", 390, 330, -8, 0.9),
+    ("cowboy_hat", 492, 340, 12, 0.95),
     # Row 5
-    "<g transform='translate(80 540) rotate(15 12 12) scale(0.9)'>"
-    "<polygon points='12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02"
-    " 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2'/>"
-    "</g>"
-    "<g transform='translate(240 540) rotate(-8 12 12)'>"
-    "<path d='M17.5 19a4.5 4.5 0 1 0 0-9h-1.8A7 7 0 1 0 4 14.9'/>"
-    "</g>"
-    "<g transform='translate(400 540) scale(0.85)'>"
-    "<circle cx='12' cy='12' r='10'/>"
-    "<circle cx='12' cy='12' r='6'/>"
-    "<circle cx='12' cy='12' r='3'/>"
-    "</g>"
-    "<g transform='translate(540 550) rotate(-10 12 12) scale(0.85)'>"
-    "<path d='M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582"
-    "a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135"
-    "a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.582"
-    "a.5.5 0 0 1 0 .962L15.5 14.063a2 2 0 0 0-1.437 1.437"
-    "l-1.582 6.135a.5.5 0 0 1-.963 0z'/>"
-    "</g>"
-    "</g></svg>"
-)
+    ("mic", 38, 425, -15, 1.0),
+    ("martini", 140, 415, 10, 0.95),
+    ("vinyl", 242, 420, 0, 0.85),
+    ("cowboy_hat", 340, 430, -10, 0.9),
+    ("sparkles", 440, 415, 12, 1.0),
+    ("heart", 540, 425, -5, 1.05),
+    # Row 6 (offset)
+    ("calendar", 88, 515, -8, 0.9),
+    ("music_double", 188, 505, 15, 1.0),
+    ("coffee", 290, 520, 5, 0.95),
+    ("sound_waves", 388, 510, -12, 1.0),
+    ("star", 490, 505, 10, 0.85),
+]
+
+
+def _build_doodle_svg() -> str:
+    """Assemble the dark-mode doodle tile from the icon dict + placement list."""
+    parts: list[str] = [
+        "<svg xmlns='http://www.w3.org/2000/svg' width='600' height='600'"
+        " viewBox='0 0 600 600'>",
+        "<g fill='none' stroke='#334155' stroke-width='1.4'"
+        " stroke-linecap='round' stroke-linejoin='round'>",
+    ]
+    for name, x, y, rot, scale in _DOODLE_PLACEMENTS:
+        transform = f"translate({x} {y})"
+        if rot:
+            transform += f" rotate({rot} 12 12)"
+        if scale != 1.0:
+            transform += f" scale({scale})"
+        parts.append(f"<g transform='{transform}'>{_DOODLE_ICONS[name]}</g>")
+    parts.append("</g></svg>")
+    return "".join(parts)
+
+
+_DARK_DOODLE_SVG = _build_doodle_svg()
 
 # Pre-build the data-URI string once. We URL-encode aggressively (just keep
 # a handful of common SVG punctuation characters as-is) so the result is
