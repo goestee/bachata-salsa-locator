@@ -69,9 +69,25 @@ _HTML_TEMPLATE = """<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>DFW Bachata &amp; Salsa Events</title>
+<script>
+  /* Apply saved theme BEFORE first paint so dark-mode users don't see a
+     light flash. We deliberately ignore prefers-color-scheme; Chrome's
+     "force dark mode" experiment used to clobber our colors when we let
+     it through, so dark mode is strictly an opt-in toggle. */
+  (function () {{
+    try {{
+      if (localStorage.getItem('theme') === 'dark') {{
+        document.documentElement.setAttribute('data-theme', 'dark');
+      }}
+    }} catch (e) {{}}
+  }})();
+</script>
 <style>
-  /* Force light scheme so browser dark-mode forcing doesn't tint colors. */
+  /* Default to light scheme. We only flip to dark when the user toggles
+     it (via data-theme="dark" set on <html>). This stops Chrome's
+     "force dark mode" from tinting our light theme. */
   :root {{ color-scheme: light; }}
+  html[data-theme="dark"] {{ color-scheme: dark; }}
   * {{ box-sizing: border-box; }}
   html {{ background: #f7f7f8; }}
   body {{
@@ -249,10 +265,148 @@ _HTML_TEMPLATE = """<!doctype html>
     .modal-card {{ max-height: 92vh; max-width: 100%;
                    border-radius: 16px 16px 0 0; }}
   }}
+
+  /* ---------- Theme toggle button (sits next to the H1) -------------- */
+  .page-head {{
+    display: flex; align-items: center; justify-content: space-between;
+    gap: 12px; margin-bottom: 4px;
+  }}
+  .page-head h1 {{ margin: 0; }}
+  .theme-toggle {{
+    background: transparent; border: 1px solid #d1d5db; border-radius: 999px;
+    padding: 6px 12px; cursor: pointer; font: inherit; font-size: 13px;
+    display: inline-flex; align-items: center; gap: 6px; color: #4b5563;
+    transition: background 0.15s ease, border-color 0.15s ease,
+                color 0.15s ease;
+    flex-shrink: 0;
+  }}
+  .theme-toggle:hover {{ background: #f3f4f6; }}
+  .theme-toggle svg {{ width: 16px; height: 16px; }}
+  .theme-toggle .icon-sun {{ display: none; }}
+  .theme-toggle .icon-moon {{ display: inline-flex; }}
+
+  /* ---------- Dark mode skin (user-toggle, not OS-auto) -------------- *
+     Triggered by <html data-theme="dark">. We override colors on the
+     existing classes rather than refactoring everything to CSS variables
+     so the diff is contained and the light theme is unchanged.
+   * ------------------------------------------------------------------- */
+  html[data-theme="dark"] {{ background: #0b1220; }}
+  html[data-theme="dark"] body {{ background: #0b1220; color: #e2e8f0; }}
+  html[data-theme="dark"] h1 {{ color: #f1f5f9; }}
+  html[data-theme="dark"] .meta {{ color: #94a3b8; }}
+  html[data-theme="dark"] .filters input[type=search] {{
+    background: #111b2e; color: #e2e8f0; border-color: #334155;
+  }}
+  html[data-theme="dark"] .filters input[type=search]::placeholder {{
+    color: #64748b;
+  }}
+  html[data-theme="dark"] .filters button {{
+    background: #111b2e; color: #e2e8f0; border-color: #334155;
+  }}
+  html[data-theme="dark"] .filters button.active {{
+    background: #3b82f6; color: #ffffff; border-color: #3b82f6;
+  }}
+  html[data-theme="dark"] .new-banner {{
+    background: #27200f; border-color: #92400e; color: #fed7aa;
+  }}
+  html[data-theme="dark"] .day {{ border-top-color: #1f2937; }}
+  html[data-theme="dark"] .day h2 {{ color: #f1f5f9; }}
+  html[data-theme="dark"] .card {{
+    background: #111b2e; border-color: #1f2937;
+  }}
+  html[data-theme="dark"] .card:hover {{
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.45);
+  }}
+  html[data-theme="dark"] .card.is-new {{ border-left-color: #fb923c; }}
+  html[data-theme="dark"] .card-title {{ color: #f1f5f9; }}
+  html[data-theme="dark"] .card .where,
+  html[data-theme="dark"] .card .when {{ color: #94a3b8; }}
+  html[data-theme="dark"] .card .when .time {{ color: #60a5fa; }}
+  html[data-theme="dark"] .card-thumb {{ background-color: #1f2937; }}
+  html[data-theme="dark"] .tag {{ background: #1e293b; color: #a5b4fc; }}
+  html[data-theme="dark"] .price {{
+    background: #1e3a8a; color: #bfdbfe; border-color: #1e40af;
+  }}
+  html[data-theme="dark"] .price.free {{
+    background: #14532d; color: #86efac; border-color: #166534;
+  }}
+  html[data-theme="dark"] .price.varies {{
+    background: #1f2937; color: #9ca3af; border-color: #374151;
+  }}
+  html[data-theme="dark"] .src,
+  html[data-theme="dark"] .empty {{ color: #94a3b8; }}
+
+  /* Modal overrides */
+  html[data-theme="dark"] .modal-overlay {{ background: rgba(0, 0, 0, 0.7); }}
+  html[data-theme="dark"] .modal-card {{
+    background: #111b2e; color: #e2e8f0;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6);
+  }}
+  html[data-theme="dark"] .modal-header {{ border-bottom-color: #1f2937; }}
+  html[data-theme="dark"] .modal-title {{ color: #f1f5f9; }}
+  html[data-theme="dark"] .modal-close {{ color: #64748b; }}
+  html[data-theme="dark"] .modal-close:hover {{
+    background: #1e293b; color: #f1f5f9;
+  }}
+  html[data-theme="dark"] .modal-image-wrap {{ background: #1e293b; }}
+  html[data-theme="dark"] .modal-image-empty {{
+    background: #1e293b; color: #64748b;
+  }}
+  html[data-theme="dark"] .modal-venue-name {{ color: #f1f5f9; }}
+  html[data-theme="dark"] .modal-address {{ color: #94a3b8; }}
+  html[data-theme="dark"] .modal-meta .row {{ border-bottom-color: #1f2937; }}
+  html[data-theme="dark"] .modal-meta .row .label,
+  html[data-theme="dark"] .modal-meta .row .label .icon {{ color: #94a3b8; }}
+  html[data-theme="dark"] .modal-meta .row .value {{ color: #f1f5f9; }}
+  html[data-theme="dark"] .modal-meta .row .value-pill {{
+    background: #1e293b; color: #e2e8f0;
+  }}
+  html[data-theme="dark"] .modal-about-label {{ color: #94a3b8; }}
+  html[data-theme="dark"] .modal-about-body {{ color: #e2e8f0; }}
+  html[data-theme="dark"] .modal-actions {{ border-top-color: #1f2937; }}
+  html[data-theme="dark"] .modal-btn-primary {{
+    background: #f1f5f9; color: #0f172a;
+  }}
+  html[data-theme="dark"] .modal-btn-secondary {{
+    background: #1e293b; color: #e2e8f0;
+  }}
+  html[data-theme="dark"] .modal-btn-secondary:hover {{ background: #334155; }}
+
+  /* Theme-toggle dark-mode tweaks + icon flip */
+  html[data-theme="dark"] .theme-toggle {{
+    border-color: #334155; color: #cbd5e1;
+  }}
+  html[data-theme="dark"] .theme-toggle:hover {{ background: #1e293b; }}
+  html[data-theme="dark"] .theme-toggle .icon-sun {{ display: inline-flex; }}
+  html[data-theme="dark"] .theme-toggle .icon-moon {{ display: none; }}
 </style>
 </head>
 <body>
-<h1>DFW Bachata &amp; Salsa Events</h1>
+<div class="page-head">
+  <h1>DFW Bachata &amp; Salsa Events</h1>
+  <button type="button" class="theme-toggle" id="theme-toggle"
+          aria-label="Toggle dark mode" aria-pressed="false">
+    <!-- Moon icon shows in light mode (click to go dark). -->
+    <svg class="icon-moon" viewBox="0 0 24 24" fill="none"
+         stroke="currentColor" stroke-width="2" stroke-linecap="round"
+         stroke-linejoin="round" aria-hidden="true">
+      <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79Z"/>
+    </svg>
+    <!-- Sun icon shows in dark mode (click to go light). -->
+    <svg class="icon-sun" viewBox="0 0 24 24" fill="none"
+         stroke="currentColor" stroke-width="2" stroke-linecap="round"
+         stroke-linejoin="round" aria-hidden="true">
+      <circle cx="12" cy="12" r="4"/>
+      <path d="M12 2v2"/><path d="M12 20v2"/>
+      <path d="m4.93 4.93 1.41 1.41"/>
+      <path d="m17.66 17.66 1.41 1.41"/>
+      <path d="M2 12h2"/><path d="M20 12h2"/>
+      <path d="m6.34 17.66-1.41 1.41"/>
+      <path d="m19.07 4.93-1.41 1.41"/>
+    </svg>
+    <span class="theme-toggle-label" id="theme-toggle-label">Dark</span>
+  </button>
+</div>
 <div class="meta">
   Last update: <strong>{updated}</strong> &middot; {total} upcoming events &middot;
   Sources: {sources} &middot; All times Central (DFW local)
@@ -336,6 +490,30 @@ _HTML_TEMPLATE = """<!doctype html>
 </div>
 
 <script>
+  /* ---------- Theme toggle (light <-> dark) ----------------------- */
+  const themeBtn = document.getElementById('theme-toggle');
+  const themeLabel = document.getElementById('theme-toggle-label');
+  function applyTheme(theme) {{
+    if (theme === 'dark') {{
+      document.documentElement.setAttribute('data-theme', 'dark');
+      themeBtn.setAttribute('aria-pressed', 'true');
+      themeLabel.textContent = 'Light';
+    }} else {{
+      document.documentElement.removeAttribute('data-theme');
+      themeBtn.setAttribute('aria-pressed', 'false');
+      themeLabel.textContent = 'Dark';
+    }}
+  }}
+  /* Sync label with whatever the head-script already applied. */
+  applyTheme(document.documentElement.getAttribute('data-theme') === 'dark'
+             ? 'dark' : 'light');
+  themeBtn.addEventListener('click', () => {{
+    const next = document.documentElement.getAttribute('data-theme') === 'dark'
+                 ? 'light' : 'dark';
+    applyTheme(next);
+    try {{ localStorage.setItem('theme', next); }} catch (e) {{}}
+  }});
+
   /* ---------- Filtering / search (unchanged behavior) -------------- */
   const q = document.getElementById('q');
   const buttons = document.querySelectorAll('.filters button');
