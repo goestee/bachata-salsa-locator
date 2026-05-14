@@ -146,20 +146,33 @@ sources:
   instagram:
     # Backed by Apify's `apify/instagram-scraper` actor. Set the
     # APIFY_TOKEN env var locally, or the same name as a GitHub Actions
-    # repo secret in CI. ~$0.30 per 1000 results — at our volume that's
-    # roughly $1-2/month, well inside Apify's free $5/mo credit.
+    # repo secret in CI. ~$0.30 per 1000 results — at our current volume
+    # (13 accounts x 5 posts daily) this is roughly $5/month, right at
+    # the edge of Apify's free $5/mo credit. If we add more accounts,
+    # drop posts_per_account to 4 to keep a buffer.
     #
     # Add accounts as you find dance promoters / venues / studios on IG.
     # Verify each handle exists before adding (Apify returns a `not_found`
     # error for typos, just clutters logs).
     enabled: true
-    posts_per_account: 8
+    posts_per_account: 5
     accounts:
+      # Studios / instructor accounts — high salsa/bachata event signal.
       - alphamidway          # Alpha Midway Dance Studio (Dallas)
       - studio22dallas       # Studio 22 Dallas
       - salsadallas          # Salsa Dallas (congresses + Bishop Arts socials)
       - salsavida            # SalsaVida community
       - golatindance         # GoLatinDance newsletter & socials
+      # Venues and promoters Orlando flagged on 2026-05-13 — these post
+      # full portrait flyers (DanceUS only gives us 728x269 banner crops).
+      - vidorracocina        # Vidorra Cocina de Mexico (Dallas - Deep Ellum)
+      - gigisbarandlounge    # GIGI's Bar & Lounge (Plano)
+      - mexbars              # Mexican Bar Company (Plano)
+      - alamirarlington      # Al Amir (Arlington)
+      - alamiraddison1       # Al Amir (Addison)
+      - gloriasnightlife     # Gloria's Nightlife
+      - saboreslatinhouse    # Sabores Latin House
+      - hearsayarlington     # Hearsay (Arlington)
     # Hashtag pulls aren't yet wired through Apify in this source; harmless
     # to leave configured for the future.
     hashtags_enabled: false

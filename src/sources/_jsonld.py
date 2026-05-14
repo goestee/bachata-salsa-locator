@@ -8,8 +8,9 @@ from __future__ import annotations
 
 import json
 import logging
+import re
 from typing import Iterator
-from urllib.parse import urljoin
+from urllib.parse import unquote, urljoin
 
 from bs4 import BeautifulSoup
 
@@ -28,6 +29,47 @@ _PLACEHOLDER_IMAGE_FRAGMENTS = (
 )
 
 
+# Pattern: Eventbrite's image proxy `img.evbuc.com/<percent-encoded-cdn-url>`.
+# Stripping the proxy gives us the un-cropped original on cdn.evbuc.com.
+_EVENTBRITE_PROXY = re.compile(r"^https?://img\.evbuc\.com/(https?[^?]+)")
+
+# Pattern: Meetup `classic-events` thumbnails like .../<id>/676x676.jpg.
+# The /original.jpg sibling on the same dir is the un-cropped upload.
+_MEETUP_CLASSIC = re.compile(
+    r"^(https?://secure-content\.meetupstatic\.com/images/classic-events/\d+/)"
+    r"\d+x\d+\.jpe?g$"
+)
+
+# Pattern: Meetup photo URLs like .../<dirs>/600_<id>.jpeg.
+# Swapping the size prefix to `highres_` upgrades to the original aspect.
+_MEETUP_PHOTOS = re.compile(
+    r"^(https?://secure\.meetupstatic\.com/photos/event/(?:[^/]+/)+)"
+    r"\d+_(\d+\.jpe?g)$"
+)
+
+
+def _upgrade_image_url(url: str) -> str:
+    """Rewrite known thumbnail URLs to their full-size original.
+
+    All transformations are pure string rewrites; we never need to fetch
+    the URL just to discover a better one. Failed matches return the
+    URL unchanged.
+    """
+    m = _EVENTBRITE_PROXY.match(url)
+    if m:
+        return unquote(m.group(1))
+
+    m = _MEETUP_CLASSIC.match(url)
+    if m:
+        return m.group(1) + "original.jpg"
+
+    m = _MEETUP_PHOTOS.match(url)
+    if m:
+        return m.group(1) + "highres_" + m.group(2)
+
+    return url
+
+
 def _normalize_image(image, fallback_url: str) -> str | None:
     """Clean up an image URL pulled from JSON-LD.
 
@@ -35,6 +77,8 @@ def _normalize_image(image, fallback_url: str) -> str | None:
     - Resolves protocol-relative and path-relative URLs against the page
       they were scraped from, so downstream consumers get something they
       can actually render.
+    - Swaps known thumbnail URLs (Eventbrite img.evbuc.com proxies,
+      Meetup 676x676 crops) for their un-cropped originals.
     """
     if not isinstance(image, str):
         return None
@@ -43,9 +87,9 @@ def _normalize_image(image, fallback_url: str) -> str | None:
         return None
     if any(frag in image for frag in _PLACEHOLDER_IMAGE_FRAGMENTS):
         return None
-    if image.startswith(("http://", "https://")):
-        return image
-    return urljoin(fallback_url, image)
+    if not image.startswith(("http://", "https://")):
+        image = urljoin(fallback_url, image)
+    return _upgrade_image_url(image)
 
 
 def _walk(node, out: list) -> None:

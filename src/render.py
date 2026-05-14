@@ -15,6 +15,35 @@ from .models import Event
 # DST automatically (CST in winter, CDT in summer).
 LOCAL_TZ = ZoneInfo("America/Chicago")
 
+import re
+
+# Tags we consider "dance genres" for the detail-modal "Style" pill.
+# Everything else (social, lesson, workshop, free, …) lives in the tag
+# pill strip and is excluded from this field.
+_DANCE_GENRE_TAGS = {
+    "salsa", "bachata", "kizomba", "merengue", "cumbia",
+    "cha-cha", "cha cha", "zouk", "reggaeton", "mambo",
+}
+
+# Strip markdown link syntax `[text](url)` -> `text`. Captions and
+# Eventbrite descriptions come back peppered with this, and we don't
+# want naked URLs cluttering the modal's About section.
+_MD_LINK = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
+# Collapse 3+ newlines down to a single blank line for tighter rendering.
+_MULTI_BLANKS = re.compile(r"\n{3,}")
+
+
+def _clean_description(text: str | None, max_chars: int = 800) -> str:
+    """Render a description as plain prose, no markdown link clutter."""
+    if not text:
+        return ""
+    cleaned = _MD_LINK.sub(r"\1", text)
+    cleaned = _MULTI_BLANKS.sub("\n\n", cleaned)
+    cleaned = cleaned.strip()
+    if len(cleaned) > max_chars:
+        cleaned = cleaned[:max_chars].rsplit(" ", 1)[0].rstrip() + "…"
+    return cleaned
+
 
 _HEADER = """# DFW Bachata & Salsa Events
 
@@ -75,22 +104,19 @@ _HTML_TEMPLATE = """<!doctype html>
     background: #ffffff; border: 1px solid #e5e7eb; border-radius: 12px;
     padding: 14px 16px; margin-bottom: 10px;
     display: flex; gap: 14px; align-items: flex-start;
+    cursor: pointer; transition: box-shadow 0.15s ease, transform 0.15s ease;
+  }}
+  .card:hover {{
+    box-shadow: 0 4px 12px rgba(15, 23, 42, 0.08);
+    transform: translateY(-1px);
   }}
   .card.is-new {{ border-left: 4px solid #f97316; }}
   .card-body {{ flex: 1; min-width: 0; }}
   .card-head {{ display: flex; align-items: flex-start; gap: 10px; flex-wrap: wrap; }}
-  /* All link states explicit so :visited / browser dark-mode tinting
-     can't override our color choice. !important is the safety belt. */
-  .card-title,
-  .card-title:link,
-  .card-title:visited,
-  .card-title:hover,
-  .card-title:active {{
-    color: #0f172a !important;
-    text-decoration: none; font-weight: 600;
-    font-size: 16px; line-height: 1.3; flex: 1; min-width: 0;
+  .card-title {{
+    color: #0f172a; font-weight: 600; font-size: 16px; line-height: 1.3;
+    flex: 1; min-width: 0;
   }}
-  .card-title:hover {{ text-decoration: underline; }}
   .card .where {{ color: #4b5563; font-size: 14px; margin-top: 4px; }}
   .card .when {{ color: #4b5563; font-size: 14px; margin-top: 2px; }}
   .card .when .time {{ color: #2563eb; font-weight: 500; }}
@@ -117,6 +143,112 @@ _HTML_TEMPLATE = """<!doctype html>
                    font-weight: 500; }}
   .src {{ color: #6b7280; font-size: 12px; }}
   .empty {{ color: #6b7280; padding: 40px; text-align: center; }}
+
+  /* ---------- Event detail modal ------------------------------------- */
+  .modal-overlay {{
+    position: fixed; inset: 0; z-index: 1000;
+    background: rgba(15, 23, 42, 0.55);
+    display: flex; align-items: center; justify-content: center;
+    padding: 16px;
+    opacity: 0; pointer-events: none; transition: opacity 0.15s ease;
+  }}
+  .modal-overlay.open {{ opacity: 1; pointer-events: auto; }}
+  .modal-card {{
+    background: #ffffff; color: #111827;
+    width: 100%; max-width: 440px; max-height: 92vh;
+    border-radius: 16px; overflow: hidden;
+    display: flex; flex-direction: column;
+    box-shadow: 0 20px 50px rgba(15, 23, 42, 0.25);
+    transform: translateY(8px); transition: transform 0.15s ease;
+  }}
+  .modal-overlay.open .modal-card {{ transform: translateY(0); }}
+  .modal-header {{
+    display: flex; align-items: center; justify-content: space-between;
+    gap: 12px; padding: 16px 18px;
+    border-bottom: 1px solid #f1f5f9;
+  }}
+  .modal-title {{ font-size: 18px; font-weight: 700; color: #0f172a;
+                  margin: 0; line-height: 1.3; }}
+  .modal-close {{
+    background: transparent; border: 0; font-size: 24px;
+    line-height: 1; color: #94a3b8; cursor: pointer; padding: 4px 8px;
+    border-radius: 6px;
+  }}
+  .modal-close:hover {{ background: #f1f5f9; color: #0f172a; }}
+  .modal-body {{ overflow-y: auto; padding: 0 18px 8px; }}
+  .modal-image-wrap {{
+    width: 100%; background: #f1f5f9; border-radius: 12px;
+    overflow: hidden; margin: 8px 0 16px;
+    display: block;
+  }}
+  .modal-image {{
+    width: 100%; height: auto; display: block;
+  }}
+  .modal-image-empty {{
+    width: 100%; padding: 64px 12px; text-align: center;
+    color: #94a3b8; font-size: 13px; font-style: italic;
+    background: #f1f5f9;
+  }}
+  .modal-venue {{ margin-bottom: 4px; }}
+  .modal-venue-name {{ font-weight: 700; color: #0f172a; font-size: 16px;
+                        letter-spacing: 0.01em; }}
+  .modal-address {{ color: #64748b; font-size: 13px; margin-top: 4px;
+                    line-height: 1.45; }}
+  .modal-meta {{
+    margin: 14px 0 0; padding: 0;
+  }}
+  .modal-meta .row {{
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 12px 0; border-bottom: 1px solid #f1f5f9;
+    gap: 12px; font-size: 14px;
+  }}
+  .modal-meta .row:last-child {{ border-bottom: 0; }}
+  .modal-meta .row .label {{
+    color: #64748b; display: flex; align-items: center; gap: 10px;
+    font-weight: 500;
+  }}
+  .modal-meta .row .label .icon {{
+    display: inline-flex; width: 18px; justify-content: center;
+    font-size: 16px; color: #64748b;
+  }}
+  .modal-meta .row .value {{ color: #0f172a; font-weight: 600; text-align: right; }}
+  .modal-meta .row .value-pill {{
+    display: inline-block; padding: 4px 12px; border-radius: 999px;
+    background: #f1f5f9; color: #0f172a; font-size: 13px;
+    font-weight: 500;
+  }}
+  .modal-about {{ padding-top: 14px; }}
+  .modal-about-label {{
+    color: #64748b; font-size: 13px; font-weight: 500;
+    margin-bottom: 6px;
+  }}
+  .modal-about-body {{
+    color: #0f172a; font-size: 14px; line-height: 1.55;
+    white-space: pre-wrap; word-break: break-word;
+  }}
+  .modal-actions {{
+    padding: 14px 18px 18px; border-top: 1px solid #f1f5f9;
+    display: flex; flex-direction: column; gap: 10px;
+  }}
+  .modal-btn {{
+    display: flex; align-items: center; justify-content: center; gap: 10px;
+    padding: 14px 16px; border-radius: 999px; text-decoration: none;
+    font-weight: 600; font-size: 15px; line-height: 1;
+    transition: opacity 0.15s ease, background 0.15s ease;
+  }}
+  .modal-btn:hover {{ opacity: 0.92; }}
+  .modal-btn svg {{ width: 18px; height: 18px; flex-shrink: 0; }}
+  .modal-btn-primary {{ background: #0f172a; color: #ffffff; }}
+  .modal-btn-secondary {{
+    background: #f1f5f9; color: #0f172a; border: 0;
+  }}
+  .modal-btn-secondary:hover {{ background: #e2e8f0; opacity: 1; }}
+  body.modal-open {{ overflow: hidden; }}
+  @media (max-width: 480px) {{
+    .modal-overlay {{ padding: 0; align-items: flex-end; }}
+    .modal-card {{ max-height: 92vh; max-width: 100%;
+                   border-radius: 16px 16px 0 0; }}
+  }}
 </style>
 </head>
 <body>
@@ -143,7 +275,68 @@ _HTML_TEMPLATE = """<!doctype html>
 {body}
 </div>
 
+<!-- Event detail modal. Populated by JS on card click. -->
+<div class="modal-overlay" id="event-modal" aria-hidden="true">
+  <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal-header">
+      <h2 class="modal-title" id="modal-title"></h2>
+      <button class="modal-close" type="button" aria-label="Close">&times;</button>
+    </div>
+    <div class="modal-body">
+      <div class="modal-image-wrap" id="modal-image-wrap"></div>
+      <div class="modal-venue">
+        <div class="modal-venue-name" id="modal-venue-name"></div>
+        <div class="modal-address" id="modal-address"></div>
+      </div>
+      <div class="modal-meta">
+        <div class="row">
+          <span class="label"><span class="icon">&#128197;</span>Date</span>
+          <span class="value" id="modal-date"></span>
+        </div>
+        <div class="row">
+          <span class="label"><span class="icon">&#128336;</span>Time</span>
+          <span class="value" id="modal-time"></span>
+        </div>
+        <div class="row">
+          <span class="label"><span class="icon">$</span>Cover</span>
+          <span class="value" id="modal-cover"></span>
+        </div>
+        <div class="row" id="modal-row-lesson">
+          <span class="label"><span class="icon">&#127891;</span>Lesson</span>
+          <span class="value" id="modal-lesson"></span>
+        </div>
+        <div class="row" id="modal-row-style">
+          <span class="label"><span class="icon">&#10024;</span>Style</span>
+          <span class="value"><span class="value-pill" id="modal-style"></span></span>
+        </div>
+      </div>
+      <div class="modal-about" id="modal-about-section">
+        <div class="modal-about-label">About</div>
+        <div class="modal-about-body" id="modal-about-body"></div>
+      </div>
+    </div>
+    <div class="modal-actions">
+      <a class="modal-btn modal-btn-secondary" id="modal-source-btn"
+         target="_blank" rel="noopener noreferrer">
+        <span id="modal-source-icon" aria-hidden="true"></span>
+        <span id="modal-source-label">View source</span>
+      </a>
+      <a class="modal-btn modal-btn-primary" id="modal-map-btn"
+         target="_blank" rel="noopener noreferrer">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"
+             stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+             aria-hidden="true">
+          <path d="M20 10c0 7-8 13-8 13s-8-6-8-13a8 8 0 0 1 16 0Z"/>
+          <circle cx="12" cy="10" r="3"/>
+        </svg>
+        <span>Open in Maps</span>
+      </a>
+    </div>
+  </div>
+</div>
+
 <script>
+  /* ---------- Filtering / search (unchanged behavior) -------------- */
   const q = document.getElementById('q');
   const buttons = document.querySelectorAll('.filters button');
   let activeTag = '';
@@ -166,6 +359,143 @@ _HTML_TEMPLATE = """<!doctype html>
     activeTag = b.dataset.tag;
     apply();
   }}));
+
+  /* ---------- Event detail modal ----------------------------------- */
+  const modal = document.getElementById('event-modal');
+  const elTitle = document.getElementById('modal-title');
+  const elImgWrap = document.getElementById('modal-image-wrap');
+  const elVenue = document.getElementById('modal-venue-name');
+  const elAddr = document.getElementById('modal-address');
+  const elDate = document.getElementById('modal-date');
+  const elTime = document.getElementById('modal-time');
+  const elCover = document.getElementById('modal-cover');
+  const elLesson = document.getElementById('modal-lesson');
+  const elStyle = document.getElementById('modal-style');
+  const elRowLesson = document.getElementById('modal-row-lesson');
+  const elRowStyle = document.getElementById('modal-row-style');
+  const elAboutSection = document.getElementById('modal-about-section');
+  const elAboutBody = document.getElementById('modal-about-body');
+  const elMapBtn = document.getElementById('modal-map-btn');
+  const elSrcBtn = document.getElementById('modal-source-btn');
+  const elSrcLabel = document.getElementById('modal-source-label');
+  const elSrcIcon = document.getElementById('modal-source-icon');
+
+  /* Stroked line icons (Lucide-flavored) — kept inline to avoid an extra
+     network request. `currentColor` makes them inherit button text color. */
+  const ICON_INSTAGRAM = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect width="20" height="20" x="2" y="2" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37Z"/><line x1="17.5" x2="17.51" y1="6.5" y2="6.5"/></svg>';
+  const ICON_TICKET = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 9a3 3 0 0 1 0 6v2a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-2a3 3 0 0 1 0-6V7a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2Z"/><path d="M13 5v2"/><path d="M13 17v2"/><path d="M13 11v2"/></svg>';
+  const ICON_USERS = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>';
+  const ICON_LINK = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" x2="21" y1="14" y2="3"/></svg>';
+
+  /* Friendly labels + per-source icons. Keep keys lowercase. */
+  const SOURCE_META = {{
+    instagram:    {{ label: 'Instagram',    icon: ICON_INSTAGRAM }},
+    eventbrite:   {{ label: 'Eventbrite',   icon: ICON_TICKET    }},
+    meetup:       {{ label: 'Meetup',       icon: ICON_USERS     }},
+    danceus:      {{ label: 'DanceUS',      icon: ICON_LINK      }},
+    golatindance: {{ label: 'GoLatinDance', icon: ICON_LINK      }},
+    salsavida:    {{ label: 'SalsaVida',    icon: ICON_LINK      }},
+    studio22:     {{ label: 'Studio 22',    icon: ICON_LINK      }},
+  }};
+
+  function openModal(card) {{
+    const d = card.dataset;
+    elTitle.textContent = d.title || 'Event';
+
+    // Image area: real flyer if we have one, otherwise a subtle empty state.
+    if (d.image) {{
+      const img = new Image();
+      img.className = 'modal-image';
+      img.alt = '';
+      img.src = d.image;
+      elImgWrap.innerHTML = '';
+      elImgWrap.appendChild(img);
+      elImgWrap.style.display = '';
+    }} else {{
+      elImgWrap.innerHTML = '<div class="modal-image-empty">No flyer was posted for this event</div>';
+      elImgWrap.style.display = '';
+    }}
+
+    elVenue.textContent = d.venue || '';
+    elVenue.style.display = d.venue ? '' : 'none';
+    elAddr.textContent = d.address || '';
+    elAddr.style.display = d.address ? '' : 'none';
+
+    elDate.textContent = d.date || '—';
+    elTime.textContent = d.time || '—';
+    elCover.textContent = d.cover || 'Varies';
+
+    /* Lesson row: only show when this event includes a lesson. */
+    if (d.hasLesson === '1') {{
+      elLesson.textContent = 'Dance lesson included';
+      elRowLesson.style.display = '';
+    }} else {{
+      elRowLesson.style.display = 'none';
+    }}
+
+    /* Style pill: only show when we know the dance genre(s). */
+    if (d.style) {{
+      elStyle.textContent = d.style;
+      elRowStyle.style.display = '';
+    }} else {{
+      elRowStyle.style.display = 'none';
+    }}
+
+    /* About section: hide entirely if no description. */
+    if (d.about) {{
+      elAboutBody.textContent = d.about;
+      elAboutSection.style.display = '';
+    }} else {{
+      elAboutSection.style.display = 'none';
+    }}
+
+    /* Map button: link to Google Maps using whatever location info we have. */
+    const mapQuery = [d.venue, d.address].filter(Boolean).join(', ');
+    if (mapQuery) {{
+      elMapBtn.href = 'https://www.google.com/maps/search/?api=1&query='
+                       + encodeURIComponent(mapQuery);
+      elMapBtn.style.display = '';
+    }} else {{
+      elMapBtn.style.display = 'none';
+    }}
+
+    /* Source button: label + line-icon based on which scraper found the event. */
+    if (d.sourceUrl) {{
+      const meta = SOURCE_META[(d.source || '').toLowerCase()]
+                     || {{ label: 'source', icon: ICON_LINK }};
+      elSrcBtn.href = d.sourceUrl;
+      elSrcIcon.innerHTML = meta.icon;
+      elSrcLabel.textContent = meta.label;
+      elSrcBtn.style.display = '';
+    }} else {{
+      elSrcBtn.style.display = 'none';
+    }}
+
+    modal.classList.add('open');
+    modal.setAttribute('aria-hidden', 'false');
+    document.body.classList.add('modal-open');
+  }}
+
+  function closeModal() {{
+    modal.classList.remove('open');
+    modal.setAttribute('aria-hidden', 'true');
+    document.body.classList.remove('modal-open');
+  }}
+
+  document.querySelectorAll('.card').forEach(card => {{
+    card.addEventListener('click', e => {{
+      if (e.target.closest('a')) return;  /* don't intercept inner links */
+      openModal(card);
+    }});
+  }});
+
+  modal.addEventListener('click', e => {{
+    if (e.target === modal) closeModal();
+  }});
+  modal.querySelector('.modal-close').addEventListener('click', closeModal);
+  document.addEventListener('keydown', e => {{
+    if (e.key === 'Escape' && modal.classList.contains('open')) closeModal();
+  }});
 </script>
 </body>
 </html>
@@ -253,15 +583,40 @@ def render_html(
             when_bits.append(f'<span class="time">{_html_escape(_fmt_time(ev))}</span>')
             when_html = ' • '.join(when_bits)
 
+            # Data the modal needs when this card is clicked. We stash
+            # everything on data-* attributes so we don't have to ship a
+            # separate JSON blob or look up rows by id.
+            modal_date = _fmt_day_inline(start_dt.date()) if start_dt else ""
+            modal_time = _fmt_time(ev)
+            modal_cover = ev.price or "Varies"
+            tags_lower = {t.lower() for t in (ev.tags or [])}
+            modal_style = " & ".join(
+                t.title() for t in (ev.tags or [])
+                if t.lower() in _DANCE_GENRE_TAGS
+            )
+            modal_has_lesson = "1" if "lesson" in tags_lower else "0"
+            modal_about = _clean_description(ev.description)
+
             parts.append(
                 f'<div class="card{" is-new" if is_new else ""}" '
                 f'data-search="{_html_escape(search_blob, attr=True)}" '
-                f'data-tags="{_html_escape(" ".join(tag_set), attr=True)}">'
+                f'data-tags="{_html_escape(" ".join(tag_set), attr=True)}" '
+                f'data-title="{_html_escape(ev.title, attr=True)}" '
+                f'data-image="{_html_escape(ev.image_url or "", attr=True)}" '
+                f'data-venue="{_html_escape(ev.venue or "", attr=True)}" '
+                f'data-address="{_html_escape(ev.address or "", attr=True)}" '
+                f'data-date="{_html_escape(modal_date, attr=True)}" '
+                f'data-time="{_html_escape(modal_time, attr=True)}" '
+                f'data-cover="{_html_escape(modal_cover, attr=True)}" '
+                f'data-style="{_html_escape(modal_style, attr=True)}" '
+                f'data-has-lesson="{modal_has_lesson}" '
+                f'data-about="{_html_escape(modal_about, attr=True)}" '
+                f'data-source="{_html_escape(ev.source, attr=True)}" '
+                f'data-source-url="{_html_escape(ev.source_url or "", attr=True)}">'
                 f'{thumb_html}'
                 f'<div class="card-body">'
                 f'<div class="card-head">'
-                f'<a class="card-title" href="{_html_escape(ev.source_url, attr=True)}" '
-                f'target="_blank" rel="noopener noreferrer">{_html_escape(ev.title)}</a>'
+                f'<span class="card-title">{_html_escape(ev.title)}</span>'
                 f'{price_html}'
                 f'</div>'
                 f'{where_html}'
