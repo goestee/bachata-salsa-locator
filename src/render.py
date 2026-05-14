@@ -272,15 +272,19 @@ _HTML_TEMPLATE = """<!doctype html>
     gap: 12px; margin-bottom: 4px;
   }}
   .page-head h1 {{ margin: 0; }}
+  /* The toggle previews the destination mode: in light mode it looks
+     dark (click to go dark); in dark mode it looks light (click to go
+     light). So we just paint it in the *opposite* palette to whatever
+     theme is currently active. */
   .theme-toggle {{
-    background: transparent; border: 1px solid #d1d5db; border-radius: 999px;
+    background: #0f172a; border: 1px solid #0f172a; border-radius: 999px;
     padding: 6px 12px; cursor: pointer; font: inherit; font-size: 13px;
-    display: inline-flex; align-items: center; gap: 6px; color: #4b5563;
+    display: inline-flex; align-items: center; gap: 6px; color: #f1f5f9;
     transition: background 0.15s ease, border-color 0.15s ease,
                 color 0.15s ease;
     flex-shrink: 0;
   }}
-  .theme-toggle:hover {{ background: #f3f4f6; }}
+  .theme-toggle:hover {{ background: #1e293b; border-color: #1e293b; }}
   .theme-toggle svg {{ width: 16px; height: 16px; }}
   .theme-toggle .icon-sun {{ display: none; }}
   .theme-toggle .icon-moon {{ display: inline-flex; }}
@@ -372,11 +376,14 @@ _HTML_TEMPLATE = """<!doctype html>
   }}
   html[data-theme="dark"] .modal-btn-secondary:hover {{ background: #334155; }}
 
-  /* Theme-toggle dark-mode tweaks + icon flip */
+  /* In dark mode the button flips to a light-painted pill so it now
+     previews the light theme you'd jump to on click. */
   html[data-theme="dark"] .theme-toggle {{
-    border-color: #334155; color: #cbd5e1;
+    background: #f1f5f9; border-color: #f1f5f9; color: #0f172a;
   }}
-  html[data-theme="dark"] .theme-toggle:hover {{ background: #1e293b; }}
+  html[data-theme="dark"] .theme-toggle:hover {{
+    background: #ffffff; border-color: #ffffff;
+  }}
   html[data-theme="dark"] .theme-toggle .icon-sun {{ display: inline-flex; }}
   html[data-theme="dark"] .theme-toggle .icon-moon {{ display: none; }}
 </style>
