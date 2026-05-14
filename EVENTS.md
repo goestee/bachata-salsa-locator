@@ -1,18 +1,14 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-05-14 04:49 AM CDT**
+> Auto-generated. Last update: **2026-05-14 02:27 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 97 upcoming events tracked. **8 new** since last run.
+> 97 upcoming events tracked. **6 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Salsa Dance Class for Beginners](https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1978750438829)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Sat, May 16, 2026 • all day  
-   `social` `lesson` `salsa` _via eventbrite_
 - **[Secret Latin Dance Night happens every Saturday at MBC — and the night has a few tricks up its sleeve.](https://www.instagram.com/p/DXz17tiJqbs/)** **_Varies_**  
    MBC  
    Sat, May 16, 2026 • all day  
@@ -21,10 +17,6 @@
    Rotate Bar & Kitchen · Frisco  
    Tue, May 19, 2026 • 7:15 PM  
    `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
-- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/314553163/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, May 19, 2026 • 8:00 PM  
-   `social` `lesson` `salsa` _via meetup_
 - **[Secret Latin Dance Night happens every Saturday at MBC — and the night has a few tricks up its sleeve.](https://www.instagram.com/p/DXz17tiJqbs/)** **_Varies_**  
    MBC  
    Sat, May 23, 2026 • all day  
