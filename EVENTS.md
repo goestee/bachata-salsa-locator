@@ -1,74 +1,83 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-05-14 02:27 PM CDT**
+> Auto-generated. Last update: **2026-05-15 05:10 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 97 upcoming events tracked. **6 new** since last run.
+> 105 upcoming events tracked. **16 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Secret Latin Dance Night happens every Saturday at MBC — and the night has a few tricks up its sleeve.](https://www.instagram.com/p/DXz17tiJqbs/)** **_Varies_**  
-   MBC  
-   Sat, May 16, 2026 • all day  
-   `lesson` `social` _via instagram_
-- **[Caliente TUES @ ROTATE in Frisco ●FREE  SALSA & BACHATA class @ 7:30pm ● FOOD](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314778435/)** **_Varies_**  
-   Rotate Bar & Kitchen · Frisco  
-   Tue, May 19, 2026 • 7:15 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
-- **[Secret Latin Dance Night happens every Saturday at MBC — and the night has a few tricks up its sleeve.](https://www.instagram.com/p/DXz17tiJqbs/)** **_Varies_**  
-   MBC  
-   Sat, May 23, 2026 • all day  
-   `lesson` `social` _via instagram_
+- **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
+   Vidorra Dallas  
+   Wed, May 20, 2026 • all day  
+   `social` `lesson` `salsa` _via danceus_
+- **[Live Latin Night With Havana NRG at Sambuca360](https://www.danceus.org/event/165524211650016/live-latin-night-with-havana-nrg-at-sambuca-plano-tx/)** **_Varies_**  
+   Sambuca360 · Plano  
+   Wed, May 20, 2026 • all day  
+   `social` _via danceus_
+- **[Salseando and Bachateando Nights at El Botanero](https://www.danceus.org/event/16552421287400/salseando-and-bachateando-nights-at-el-botanero-dallas-tx/)** **_Varies_**  
+   El Botanero Bar · Dallas  
+   Wed, May 20, 2026 • all day  
+   `social` `salsa` `bachata` _via danceus_
+- **[Wednesday Salsa Social at Stratos](https://www.danceus.org/event/16552421361930/wednesday-salsa-social-at-stratos-dallas-tx/)** **_Varies_**  
+   Stratos Greek Taverna · Dallas  
+   Wed, May 20, 2026 • all day  
+   `social` `salsa` _via danceus_
+- **[Bachata is definitely a love language of its own. ✨](https://www.instagram.com/p/DYVNYnCssqO/)** **_Varies_**  
+   Gigi  
+   Wed, May 20, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
+- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
+   Merkado · Frisco  
+   Thu, May 21, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Thu, May 21, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
+   Hangout · Irving  
+   Thu, May 21, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Sabroso Sundays at Al-Amir](https://golatindance.com/event/sabroso-sundays-at-al-amir/2026-05-24/)** **_Free_**  
+   Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States  
+   Sun, May 24, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-05-26/)** **_Free_**  
+   Rotate Social, 5454 Main st., Frisco, TX, United States  
+   Tue, May 26, 2026 • 7:30 PM – 11:30 PM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
+- **[Bachata is definitely a love language of its own. ✨](https://www.instagram.com/p/DYVNYnCssqO/)** **_Varies_**  
+   Gigi  
+   Wed, May 27, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/314734343/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Fri, May 29, 2026 • 7:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
-- **[Secret Latin Dance Night happens every Saturday at MBC — and the night has a few tricks up its sleeve.](https://www.instagram.com/p/DXz17tiJqbs/)** **_Varies_**  
-   MBC  
-   Sat, May 30, 2026 • all day  
-   `lesson` `social` _via instagram_
-- **[Secret Latin Dance Night happens every Saturday at MBC — and the night has a few tricks up its sleeve.](https://www.instagram.com/p/DXz17tiJqbs/)** **_Varies_**  
-   MBC  
-   Sat, Jun 6, 2026 • all day  
-   `lesson` `social` _via instagram_
+- **[Bachata is definitely a love language of its own. ✨](https://www.instagram.com/p/DYVNYnCssqO/)** **_Varies_**  
+   Gigi  
+   Wed, Jun 3, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
+- **[Bachata is definitely a love language of its own. ✨](https://www.instagram.com/p/DYVNYnCssqO/)** **_Varies_**  
+   Gigi  
+   Wed, Jun 10, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
+- **[Bachata is definitely a love language of its own. ✨](https://www.instagram.com/p/DYVNYnCssqO/)** **_Varies_**  
+   Gigi  
+   Wed, Jun 17, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
+- **[Bachata is definitely a love language of its own. ✨](https://www.instagram.com/p/DYVNYnCssqO/)** **_Varies_**  
+   Gigi  
+   Wed, Jun 24, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 
 ---
 
 ## Upcoming
 
-
-### Thursday, May 14, 2026
-
-- **[Learn to Dance Salsa: with Diego Velasquez & Elkin Pautt](https://www.eventbrite.com/e/learn-to-dance-salsa-with-diego-velasquez-elkin-pautt-tickets-1988762994653)** **_Varies_**  
-   The Wild Detectives · Dallas  
-   Thu, May 14, 2026 • all day  
-   `workshop` `salsa` _via eventbrite_
-- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
-   Merkado · Frisco  
-   Thu, May 14, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Thu, May 14, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
-   Hangout · Irving  
-   Thu, May 14, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Salsa Night @ El Chingon Dallas](https://golatindance.com/event/salsa-night-el-chingon-dallas/)** **_Free_**  
-   El Chingon Dallas, 3404 Ross Ave, Dallas, TX, 75204, United States  
-   Thu, May 14, 2026 • 5:00 PM – 10:00 PM  
-   `social` `lesson` `salsa` `bachata` _via golatindance_
-- **[Salsa & bachata Thursdays advanced beginner/intermediate](https://www.meetup.com/salsa-with-jo/events/314468004/)** **_Varies_**  
-   Green Space Arts Collective · Denton  
-   Thu, May 14, 2026 • 7:30 PM  
-   `lesson` `salsa` `bachata` _via meetup_
-- **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-05-14/)** **_Free_**  
-   Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
-   Thu, May 14, 2026 • 9:00 PM – 1:00 AM  
-   `social` `lesson` `salsa` _via golatindance_
 
 ### Friday, May 15, 2026
 
@@ -271,6 +280,22 @@
 
 ### Wednesday, May 20, 2026
 
+- **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
+   Vidorra Dallas  
+   Wed, May 20, 2026 • all day  
+   `social` `lesson` `salsa` _via danceus_
+- **[Live Latin Night With Havana NRG at Sambuca360](https://www.danceus.org/event/165524211650016/live-latin-night-with-havana-nrg-at-sambuca-plano-tx/)** **_Varies_**  
+   Sambuca360 · Plano  
+   Wed, May 20, 2026 • all day  
+   `social` _via danceus_
+- **[Salseando and Bachateando Nights at El Botanero](https://www.danceus.org/event/16552421287400/salseando-and-bachateando-nights-at-el-botanero-dallas-tx/)** **_Varies_**  
+   El Botanero Bar · Dallas  
+   Wed, May 20, 2026 • all day  
+   `social` `salsa` `bachata` _via danceus_
+- **[Wednesday Salsa Social at Stratos](https://www.danceus.org/event/16552421361930/wednesday-salsa-social-at-stratos-dallas-tx/)** **_Varies_**  
+   Stratos Greek Taverna · Dallas  
+   Wed, May 20, 2026 • all day  
+   `social` `salsa` _via danceus_
 - **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
    Dallas-Fort Worth  
    Wed, May 20, 2026 • 7:00 PM – 11:00 PM  
@@ -283,9 +308,25 @@
    Dallas-Fort Worth  
    Wed, May 20, 2026 • 9:30 PM – 2:00 AM  
    `social` `lesson` `salsa` `bachata` _via salsavida_
+- **[Bachata is definitely a love language of its own. ✨](https://www.instagram.com/p/DYVNYnCssqO/)** **_Varies_**  
+   Gigi  
+   Wed, May 20, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 
 ### Thursday, May 21, 2026
 
+- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
+   Merkado · Frisco  
+   Thu, May 21, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Thu, May 21, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
+   Hangout · Irving  
+   Thu, May 21, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
 - **[FREE Beginner Salsa & Bachata | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/314618067/)** **_Varies_**  
    Kumbala Dance Studio · Farmers Branch  
    Thu, May 21, 2026 • 7:00 PM  
@@ -379,6 +420,10 @@
    Dallas-Fort Worth  
    Sun, May 24, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` `merengue` _via salsavida_
+- **[Sabroso Sundays at Al-Amir](https://golatindance.com/event/sabroso-sundays-at-al-amir/2026-05-24/)** **_Free_**  
+   Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States  
+   Sun, May 24, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
 
 ### Monday, May 25, 2026
 
@@ -397,6 +442,10 @@
    Gary W Irvin · Dallas  
    Tue, May 26, 2026 • 7:00 PM  
    `social` `salsa` _via meetup_
+- **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-05-26/)** **_Free_**  
+   Rotate Social, 5454 Main st., Frisco, TX, United States  
+   Tue, May 26, 2026 • 7:30 PM – 11:30 PM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
 
 ### Wednesday, May 27, 2026
 
@@ -408,6 +457,10 @@
    Dallas-Fort Worth  
    Wed, May 27, 2026 • 9:30 PM – 2:00 AM  
    `social` `lesson` `salsa` `bachata` _via salsavida_
+- **[Bachata is definitely a love language of its own. ✨](https://www.instagram.com/p/DYVNYnCssqO/)** **_Varies_**  
+   Gigi  
+   Wed, May 27, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 
 ### Friday, May 29, 2026
 
@@ -464,6 +517,10 @@
    Dallas-Fort Worth  
    Wed, Jun 3, 2026 • 9:30 PM – 2:00 AM  
    `social` `lesson` `salsa` `bachata` _via salsavida_
+- **[Bachata is definitely a love language of its own. ✨](https://www.instagram.com/p/DYVNYnCssqO/)** **_Varies_**  
+   Gigi  
+   Wed, Jun 3, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 
 ### Saturday, June 6, 2026
 
@@ -479,6 +536,27 @@
    Dallas-Fort Worth  
    Sat, Jun 6, 2026 • 11:00 PM – 2:00 AM  
    `social` _via salsavida_
+
+### Wednesday, June 10, 2026
+
+- **[Bachata is definitely a love language of its own. ✨](https://www.instagram.com/p/DYVNYnCssqO/)** **_Varies_**  
+   Gigi  
+   Wed, Jun 10, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
+
+### Wednesday, June 17, 2026
+
+- **[Bachata is definitely a love language of its own. ✨](https://www.instagram.com/p/DYVNYnCssqO/)** **_Varies_**  
+   Gigi  
+   Wed, Jun 17, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
+
+### Wednesday, June 24, 2026
+
+- **[Bachata is definitely a love language of its own. ✨](https://www.instagram.com/p/DYVNYnCssqO/)** **_Varies_**  
+   Gigi  
+   Wed, Jun 24, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 
 ### Friday, July 24, 2026
 
