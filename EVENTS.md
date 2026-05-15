@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-05-15 05:10 AM CDT**
+> Auto-generated. Last update: **2026-05-15 01:18 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 105 upcoming events tracked. **16 new** since last run.
+> 105 upcoming events tracked. **15 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -53,10 +53,6 @@
    Gigi  
    Wed, May 27, 2026 • 9:30 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
-- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/314734343/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Fri, May 29, 2026 • 7:30 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
 - **[Bachata is definitely a love language of its own. ✨](https://www.instagram.com/p/DYVNYnCssqO/)** **_Varies_**  
    Gigi  
    Wed, Jun 3, 2026 • 9:30 PM  
