@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-05-18 02:18 PM CDT**
+> Auto-generated. Last update: **2026-05-19 07:30 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 93 upcoming events tracked. **7 new** since last run.
+> 92 upcoming events tracked. **7 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -42,13 +42,6 @@
 
 ## Upcoming
 
-
-### Monday, May 18, 2026
-
-- **[Mondays just got a whole lot better.](https://www.instagram.com/p/DW2Bdh3gOG2/)** **_Varies_**  
-   Alphamidway  
-   Mon, May 18, 2026 • 7:00 PM – 9:00 PM  
-   `salsa` `lesson` _via instagram_
 
 ### Tuesday, May 19, 2026
 
