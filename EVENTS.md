@@ -1,14 +1,18 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-05-21 02:35 PM CDT**
+> Auto-generated. Last update: **2026-05-22 06:38 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 89 upcoming events tracked. **5 new** since last run.
+> 85 upcoming events tracked. **7 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
+- **[Things are heating up in the Park!](https://www.instagram.com/p/DYlYU2ZMAvu/)** **_Free_**  
+   Studio22Dallas  
+   Fri, May 22, 2026 • 6:00 PM – 10:00 PM  
+   `salsa` `lesson` `social` _via instagram_
 - **[Caliente TUES @ ROTATE in Frisco ●FREE  SALSA & BACHATA class @ 7:30pm ● FOOD](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314885411/)** **_Varies_**  
    Rotate Bar & Kitchen · Frisco  
    Tue, May 26, 2026 • 7:15 PM  
@@ -29,38 +33,15 @@
    Stratos Greek Taverna · Dallas  
    Wed, May 27, 2026 • all day  
    `social` `salsa` _via danceus_
+- **[Beginner Cha Cha Dance Class](https://www.meetup.com/dfwyoungsocial/events/314724977/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Thu, May 28, 2026 • 7:00 PM  
+   `social` `lesson` `cha-cha` _via meetup_
 
 ---
 
 ## Upcoming
 
-
-### Thursday, May 21, 2026
-
-- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
-   Merkado · Frisco  
-   Thu, May 21, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Thu, May 21, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
-   Hangout · Irving  
-   Thu, May 21, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[FREE Beginner Salsa & Bachata | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/314618067/)** **_Varies_**  
-   Kumbala Dance Studio · Farmers Branch  
-   Thu, May 21, 2026 • 7:00 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[Beginner Cha Cha Dance Class](https://www.meetup.com/dfwyoungsocial/events/314588316/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Thu, May 21, 2026 • 7:00 PM  
-   `social` `lesson` `cha-cha` _via meetup_
-- **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-05-21/)** **_Free_**  
-   Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
-   Thu, May 21, 2026 • 9:00 PM – 1:00 AM  
-   `social` `lesson` `salsa` _via golatindance_
 
 ### Friday, May 22, 2026
 
@@ -76,11 +57,15 @@
    Klydewarrenpark  
    Fri, May 22, 2026 • 6:00 PM  
    `salsa` `lesson` `social` _via instagram_
+- **[Things are heating up in the Park!](https://www.instagram.com/p/DYlYU2ZMAvu/)** **_Free_**  
+   Studio22Dallas  
+   Fri, May 22, 2026 • 6:00 PM – 10:00 PM  
+   `salsa` `lesson` `social` _via instagram_
 - **[BIG FRIDAY SALSA & bachata class in Addison ● We go eat & dance after ●](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314603118/)** **_Varies_**  
    You Can Dance Dallas  
    Fri, May 22, 2026 • 7:30 PM  
    `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
-- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/314603271/)** **_Varies_**  
+- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/314603272/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Fri, May 22, 2026 • 7:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
@@ -115,10 +100,6 @@
    Ocho Latin Cuisine Events · Dallas  
    Sat, May 23, 2026 • all day  
    `social` `lesson` `salsa` _via eventbrite_
-- **[Beginner Bachata Dance Class](https://www.eventbrite.com/e/beginner-bachata-dance-class-tickets-1978076231256)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Sat, May 23, 2026 • all day  
-   `social` `lesson` `bachata` _via eventbrite_
 - **[Bachata Dance Class](https://www.eventbrite.com/e/bachata-dance-class-tickets-1978750655477)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Sat, May 23, 2026 • all day  
@@ -139,6 +120,10 @@
    DFW Young & Social · Farmers Branch  
    Sat, May 23, 2026 • all day  
    `social` `lesson` `salsa` _via eventbrite_
+- **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/314589217/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, May 23, 2026 • 4:00 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 - **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/314589534/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Sat, May 23, 2026 • 5:00 PM  
@@ -298,6 +283,10 @@
 
 ### Thursday, May 28, 2026
 
+- **[Beginner Cha Cha Dance Class](https://www.meetup.com/dfwyoungsocial/events/314724977/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Thu, May 28, 2026 • 7:00 PM  
+   `social` `lesson` `cha-cha` _via meetup_
 - **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-05-28/)** **_Free_**  
    Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
    Thu, May 28, 2026 • 9:00 PM – 1:00 AM  
