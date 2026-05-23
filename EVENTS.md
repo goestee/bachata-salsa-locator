@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-05-23 03:40 AM CDT**
+> Auto-generated. Last update: **2026-05-23 11:20 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 81 upcoming events tracked. **8 new** since last run.
+> 83 upcoming events tracked. **9 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -21,10 +21,14 @@
    Hangout · Irving  
    Thu, May 28, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Beginner Cha Cha Dance Class](https://www.meetup.com/dfwyoungsocial/events/314724977/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Thu, May 28, 2026 • 7:00 PM  
-   `social` `lesson` `cha-cha` _via meetup_
+- **[Noches Latinas Fridays at Los Lupes](https://www.danceus.org/event/16552421183470/noches-latinas-fridays-at-los-lupes-addison-tx/)** **_Varies_**  
+   Los Lupes Addison  
+   Fri, May 29, 2026 • all day  
+   `salsa` `bachata` `merengue` _via danceus_
+- **[Friday Latin at Al-Amir Arlington](https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/)** **_Varies_**  
+   Al-Amir Arlington  
+   Fri, May 29, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via danceus_
 - **[BIG FRIDAY SALSA & bachata class in Addison ● We go eat & dance after ●](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314724913/)** **_Varies_**  
    You Can Dance Dallas  
    Fri, May 29, 2026 • 7:30 PM  
@@ -263,6 +267,14 @@
 
 ### Friday, May 29, 2026
 
+- **[Noches Latinas Fridays at Los Lupes](https://www.danceus.org/event/16552421183470/noches-latinas-fridays-at-los-lupes-addison-tx/)** **_Varies_**  
+   Los Lupes Addison  
+   Fri, May 29, 2026 • all day  
+   `salsa` `bachata` `merengue` _via danceus_
+- **[Friday Latin at Al-Amir Arlington](https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/)** **_Varies_**  
+   Al-Amir Arlington  
+   Fri, May 29, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via danceus_
 - **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/314734281/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Fri, May 29, 2026 • 7:30 PM  
