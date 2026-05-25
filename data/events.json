@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-24T16:44:55.454460+00:00",
-  "count": 99,
+  "updated_at": "2026-05-25T12:59:01.045847+00:00",
+  "count": 88,
   "events": [
     {
       "title": "BIG TEXAS  Salsa & Bachata Latin Dance Festival 2026",
@@ -66,75 +66,8 @@
       "price": null,
       "id": "e6952231d972248a",
       "first_seen_at": "2026-05-04T20:31:49.642806+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859045+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
-    },
-    {
-      "title": "La Vibra – Dallas Salsa & Bachata Social",
-      "start": "2026-05-23T22:00:00",
-      "source": "salsavida",
-      "source_url": "https://www.salsavida.com/event/texas/dallas-fort-worth/la-vibra-dallas-salsa-bachata-social/",
-      "end": "2025-12-31T02:00:00",
-      "venue": "Dallas-Fort Worth",
-      "address": "Tropik Vybe Studio 2701 Custer Pkwy Suite 911 Richardson TX 75080 USA",
-      "city": null,
-      "description": "La Vibra is a premier monthly salsa and bachata social hosted at Tropik Vybe Studio in Richardson, TX. Taking place on select Saturdays, this late-night social features top local DJs, professional performances, and a beginner-friendly lesson at the start of the evening.\n\nDancers gather from across the metroplex to enjoy an energetic and inclusive dance floor, free valet (tips appreciated), and BYOB hospitality. With an upscale vibe and warm community, La Vibra offers one of the best Latin dance atmospheres in Dallas.\n\nCheck Tropik Vybe’s website or social media for featured DJs and special themes each month.",
-      "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
-      "tags": [
-        "social",
-        "lesson",
-        "salsa",
-        "bachata"
-      ],
-      "price": "$20",
-      "id": "f771f53cf510ed39",
-      "first_seen_at": "2026-05-04T20:31:49.642998+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859230+00:00",
-      "submitted_to_supabase": null
-    },
-    {
-      "title": "Salsa Saturdays at Blue Mesa Grill",
-      "start": "2026-05-23T22:00:00",
-      "source": "salsavida",
-      "source_url": "https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-saturdays-at-blue-mesa-grill/",
-      "end": "2026-05-24T03:00:00",
-      "venue": "Dallas-Fort Worth",
-      "address": "Blue Mesa Grill 14866 Montfort Dr Dallas, TX 75254 United States",
-      "city": null,
-      "description": "Salsa Saturdays at Blue Mesa Grill in Addison, Texas, offer a vibrant weekly Latin dance experience. Every Saturday night, guests can enjoy a free salsa class followed by a lively social dance party featuring a mix of Salsa, Bachata, Merengue, and more. \n\nThe event runs from 10:00 PM to 3:00 AM, providing ample time for dancing and socializing. Attendees are encouraged to dress in casual nice attire, and free parking is available on-site. The venue also offers drink specials throughout the night, enhancing the festive atmosphere. \n\nWith a cover charge of $8, Salsa Saturdays provide an accessible and exciting opportunity for both novice and experienced dancers to immerse themselves in Latin rhythms and culture.\n\nCurrent update: this listing now points to the best current official organizer or venue source we found. The public source does not clearly confirm every future occurrence, so please verify the latest date, time, and location directly with the organizer before attending.",
-      "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
-      "tags": [
-        "social",
-        "lesson",
-        "salsa",
-        "bachata",
-        "merengue"
-      ],
-      "price": "$8",
-      "id": "d8d038a211cac5e7",
-      "first_seen_at": "2026-05-04T20:31:49.643000+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859232+00:00",
-      "submitted_to_supabase": null
-    },
-    {
-      "title": "Gloria’s Nightlife",
-      "start": "2026-05-23T23:00:00",
-      "source": "salsavida",
-      "source_url": "https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/",
-      "end": "2026-05-24T02:00:00",
-      "venue": "Dallas-Fort Worth",
-      "address": "Gloria's Latin Cuisine 5100 Belt Line Rd, Suite #864 Addison, TX 75254 United States",
-      "city": null,
-      "description": "Gloria's Nightlife in Addison, Texas, transforms the dining experience into a vibrant Latin dance party every Saturday night. Starting at 11:00 PM, guests can enjoy live Latin music from Havana NRG and dynamic DJ sets by DJ Insanity, keeping the energy high until 2:00 AM. The venue enforces a smart, upscale dress code, ensuring an elegant atmosphere for all attendees. \n\nWith no cover charge, it's an accessible and exciting opportunity for both novice and experienced dancers to immerse themselves in Latin rhythms and culture. For those seeking an elevated experience, VIP Table & Bottle Service is available, with a special offer of $100 off for a limited time. Whether you're celebrating a special occasion or simply looking for a lively night out, Gloria's Nightlife offers an unforgettable evening of music, dancing, and Latin flair.",
-      "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
-      "tags": [
-        "social"
-      ],
-      "price": "Free",
-      "id": "7176bb6ab47420b2",
-      "first_seen_at": "2026-05-04T20:31:49.643003+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859234+00:00",
-      "submitted_to_supabase": null
+      "last_seen_at": "2026-05-25T12:58:59.756365+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Fuego Sundays at Longhorn Icehouse",
@@ -157,8 +90,8 @@
       "price": "$10",
       "id": "d4a599f61d5e695c",
       "first_seen_at": "2026-05-04T20:31:49.643005+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859235+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756822+00:00",
+      "submitted_to_supabase": null
     },
     {
       "title": "Sabroso Sundays at Al-Amir Addison",
@@ -180,8 +113,8 @@
       "price": "$10",
       "id": "b052954a4ba78c38",
       "first_seen_at": "2026-05-04T20:31:49.643007+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859237+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756827+00:00",
+      "submitted_to_supabase": null
     },
     {
       "title": "Son y Sabor at The Victoria",
@@ -203,8 +136,8 @@
       "price": "$7",
       "id": "130977b8bf81ebae",
       "first_seen_at": "2026-05-04T20:31:49.643009+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859239+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756832+00:00",
+      "submitted_to_supabase": null
     },
     {
       "title": "Salsa Sunday at Lola’s Cuban Food",
@@ -227,8 +160,8 @@
       "price": "Free",
       "id": "3e5e7e0f881f147e",
       "first_seen_at": "2026-05-04T20:31:49.643011+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859241+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756838+00:00",
+      "submitted_to_supabase": null
     },
     {
       "title": "Wednesday Salsa & Bachata at Stratos",
@@ -250,8 +183,8 @@
       "price": "Free",
       "id": "35a83507cfb75a37",
       "first_seen_at": "2026-05-04T20:31:49.643013+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859242+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756844+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Salsa Wednesdays at Vidorra Dallas",
@@ -274,8 +207,8 @@
       "price": "Free",
       "id": "75d585455eee489c",
       "first_seen_at": "2026-05-04T20:31:49.643015+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859244+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756849+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Salsa Saturdays at Blue Mesa Grill",
@@ -298,8 +231,8 @@
       "price": "$8",
       "id": "fd5e875ac9bd2d2c",
       "first_seen_at": "2026-05-04T20:31:49.643017+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859246+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756855+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Gloria’s Nightlife",
@@ -318,8 +251,8 @@
       "price": "Free",
       "id": "a0c30f2f1fe1fe56",
       "first_seen_at": "2026-05-04T20:31:49.643019+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859248+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756860+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Fuego Sundays at Longhorn Icehouse",
@@ -342,8 +275,8 @@
       "price": "$10",
       "id": "09755b61b63856b9",
       "first_seen_at": "2026-05-04T20:31:49.643021+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859250+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756865+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Sabroso Sundays at Al-Amir Addison",
@@ -365,8 +298,8 @@
       "price": "$10",
       "id": "b9ed11ae19c69351",
       "first_seen_at": "2026-05-04T20:31:49.643023+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859252+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756871+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Son y Sabor at The Victoria",
@@ -388,8 +321,8 @@
       "price": "$7",
       "id": "cf1041b3ba324a83",
       "first_seen_at": "2026-05-04T20:31:49.643025+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859254+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756876+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Salsa Sunday at Lola’s Cuban Food",
@@ -412,8 +345,8 @@
       "price": "Free",
       "id": "2187136de2eb00e4",
       "first_seen_at": "2026-05-04T20:31:49.643026+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859255+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756881+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Wednesday Salsa & Bachata at Stratos",
@@ -435,8 +368,8 @@
       "price": "Free",
       "id": "788b7824bff20772",
       "first_seen_at": "2026-05-04T20:31:49.643028+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859257+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756886+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Salsa Wednesdays at Vidorra Dallas",
@@ -459,8 +392,8 @@
       "price": "Free",
       "id": "f72a23900f3c9ece",
       "first_seen_at": "2026-05-04T20:31:49.643030+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859259+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756892+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Salsa Saturdays at Blue Mesa Grill",
@@ -483,8 +416,8 @@
       "price": "$8",
       "id": "156d81f2ab3531fe",
       "first_seen_at": "2026-05-04T20:31:49.643032+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859261+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756898+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Gloria’s Nightlife",
@@ -503,8 +436,8 @@
       "price": "Free",
       "id": "31de0913f484c81c",
       "first_seen_at": "2026-05-04T20:31:49.643034+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859263+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756903+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "MARTÍN GONZÁLEZ CONFIRMED",
@@ -676,76 +609,8 @@
       "price": null,
       "id": "7c6e85a6b86631b0",
       "first_seen_at": "2026-05-09T07:29:30.181072+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859067+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
-    },
-    {
-      "title": "Latin Saturday at Mexican Bar Company",
-      "start": "2026-05-23T22:00:00-05:00",
-      "source": "golatindance",
-      "source_url": "https://golatindance.com/event/latin-saturday-at-mexican-bar-company/2026-05-23/",
-      "end": "2026-05-24T02:00:00-05:00",
-      "venue": "Mexican Bar Company, 6121 West Park Blvd Ste RS-10, Plano, TX, 75093, United States",
-      "address": "Mexican Bar Company, 6121 West Park Blvd Ste RS-10, Plano, TX, 75093, United States",
-      "city": null,
-      "description": "Tonight…Esta Noche..The best Salsa & Latin party in DFW.\nFree Salsa & Bachata lessons. Free parking.\nTop DJs playing the best Salsa, Bachata, Merengue, Cumbia and more!!!\nGreat Dance Floor & Patio.\nSee you tonight!!!",
-      "image_url": null,
-      "tags": [
-        "social",
-        "lesson",
-        "salsa",
-        "bachata",
-        "merengue"
-      ],
-      "price": "Free",
-      "id": "f483e04aea3bb70f",
-      "first_seen_at": "2026-05-10T16:14:40.688366+00:00",
-      "last_seen_at": "2026-05-23T16:20:00.330648+00:00",
-      "submitted_to_supabase": "2026-05-23T16:20:00.331060+00:00"
-    },
-    {
-      "title": "Sabados de Gazadera at Al-Amir Arlington",
-      "start": "2026-05-23T22:00:00-05:00",
-      "source": "golatindance",
-      "source_url": "https://golatindance.com/event/sabados-de-gazadera-at-al-amir-arlington/2026-05-23/",
-      "end": "2026-05-24T02:00:00-05:00",
-      "venue": "Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States",
-      "address": "Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States",
-      "city": null,
-      "description": "Con la música de Dj Christian Remix and  Dj Boriplayer\nCover: $10 starts at 10:00 pm for men\nNo cover for women\nDress code: Casual\nDine in: 6:00 pm to 1:00 am\nNight Club until 2:00 am\nPatio with Hookah Bar\n701 106th St, Arlington, TX 76011\n(817)649-2647\n#Reggaeton #Salsa #Cumbias #Bachata",
-      "image_url": null,
-      "tags": [
-        "social",
-        "salsa",
-        "bachata"
-      ],
-      "price": "$10",
-      "id": "c81e7be6231cbf79",
-      "first_seen_at": "2026-05-10T16:14:40.688370+00:00",
-      "last_seen_at": "2026-05-23T16:20:00.330652+00:00",
-      "submitted_to_supabase": "2026-05-23T16:20:00.331060+00:00"
-    },
-    {
-      "title": "Rumba Tropical en Reys's Sports Bar",
-      "start": "2026-05-23T22:00:00-05:00",
-      "source": "golatindance",
-      "source_url": "https://golatindance.com/event/rumba-tropical-en-reyss-sports-bar/2026-05-23/",
-      "end": "2026-05-24T02:00:00-05:00",
-      "venue": "Reys Sports Bar, 2836 N Oconnor Rd, Irving, TX, United States",
-      "address": "Reys Sports Bar, 2836 N Oconnor Rd, Irving, TX, United States",
-      "city": null,
-      "description": "Venue: Rey’s Restaurant Sports Bar \nEvent: Mambole Latin Band Presents Tropical Rumba \nWhen: 10 PM, Every Saturday \nMusic Genres: Salsa | Bachata | Merengue | Cumbia \nAdmission: Free Entry / No Cover \nParking: Free Parking \nLocation: Address: 2836 N O’Connor Rd, Irving, TX 75062 \n***************************************************** \nCada Sábado la Rumba se prende en Rey’s Restaurant Sports Bar \nMambole Banda Latina en vivo \nHora: 10 PM\nLugar: 2836 N O’Connor Rd, Irving, TX 75062\nEntrada y Estacionamiento GRATIS \nNo cover toda la Noche \nSalsa • Bachata • Merengue • Cumbia \nVen con tus amigos y vive la Rumba Tropical todos los Sábados!",
-      "image_url": null,
-      "tags": [
-        "salsa",
-        "bachata",
-        "merengue"
-      ],
-      "price": "Free",
-      "id": "e7378bb30a1c4202",
-      "first_seen_at": "2026-05-10T16:14:40.688373+00:00",
-      "last_seen_at": "2026-05-23T16:20:00.330656+00:00",
-      "submitted_to_supabase": "2026-05-23T16:20:00.331060+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756389+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "7:00-11:00 4TH SATURDAY BALLROOM DANCE PARTY &  EAST COAST SWING CLASS",
@@ -814,27 +679,6 @@
     },
     {
       "title": "Secret Latin Dance Night happens every Saturday at MBC — and the night has a few tricks up its sleeve.",
-      "start": "2026-05-23T00:00:00-05:00",
-      "source": "instagram",
-      "source_url": "https://www.instagram.com/p/DXz17tiJqbs/",
-      "end": null,
-      "venue": "MBC",
-      "address": null,
-      "city": null,
-      "description": "🌙🔥 Secret Latin Dance Night happens every Saturday at MBC — and the night has a few tricks up its sleeve.\nA DJ, a dance class, a guest instructor, a live band, Ora Loca, and a Secret Cocktail just for the ladies. 🍹😏\nEvery Saturday:\n🎶 9:30 | DJ sets the vibe\n💃 10:15 | Dance class — no excuses\n🕺 10:30 | Guest instructor takes the floor\n🎺 10:45 | Band hits their first set\n🔥 11:30 | Hora Loca\nKitchen open LATE all summer 🌶️\nThe Secret Cocktail changes every Saturday. You’ll have to show up to find o",
-      "image_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.71878-15/682127699_803095729259996_2000894424426921890_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEzp2JJ1ZT9-uqCWzB98N-VuwJrIopYw1GZXjwCBRw0Qvpce1CAPEXQkpvxpceLdqM&_nc_ohc=e5-NGe_pzygQ7kNvwE8rH8U&_nc_gid=Z4cp8BCgQLIXMZPtqufRWg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af4KP7HQr8BFFRYJw5eDc8eXC7Qeh4dJjVFTBDa5wQd7ww&oe=6A0E11BD&_nc_sid=10d13b",
-      "tags": [
-        "lesson",
-        "social"
-      ],
-      "price": null,
-      "id": "b77e2cfe2bd09f51",
-      "first_seen_at": "2026-05-14T04:01:52.641043+00:00",
-      "last_seen_at": "2026-05-16T08:26:08.438644+00:00",
-      "submitted_to_supabase": "2026-05-16T08:26:08.438901+00:00"
-    },
-    {
-      "title": "Secret Latin Dance Night happens every Saturday at MBC — and the night has a few tricks up its sleeve.",
       "start": "2026-05-30T00:00:00-05:00",
       "source": "instagram",
       "source_url": "https://www.instagram.com/p/DXz17tiJqbs/",
@@ -879,13 +723,13 @@
       "title": "7:30-9:00 Social Salsa & Bachata Class",
       "start": "2026-05-30T00:30:00.000Z",
       "source": "meetup",
-      "source_url": "https://www.meetup.com/you-can-dance-dallas/events/314734343/",
+      "source_url": "https://www.meetup.com/you-can-dance-dallas/events/314734281/",
       "end": null,
       "venue": "You Can Dance Dallas",
-      "address": "14833 Inwood Rd #600, Addison, TX, Addison, TX",
+      "address": "14833 Inwood Road, Addison, TX, Addison, TX",
       "city": "Addison",
-      "description": "Come on out and learn some Salsa & Bachata so you can join the Latin dance craze! Classes are social level and typically go out after class to eat and dance! Classes are taught by David Herrera, an award winning instructor!",
-      "image_url": "https://secure-content.meetupstatic.com/images/classic-events/533470268/original.jpg",
+      "description": "Join David Herrera as he takes you thru the basics and some cool moves for the hottest social dances in town - salsa & bachata. Classes are fun and friendly in a gorgeous, large studio, You Can Dance Dallas.\n\nClass is from 7:30-9:00 and then join us to go eat and dance the night away!",
+      "image_url": "https://secure-content.meetupstatic.com/images/classic-events/533471210/original.jpg",
       "tags": [
         "social",
         "lesson",
@@ -895,8 +739,8 @@
       "price": null,
       "id": "c286371ce77609e0",
       "first_seen_at": "2026-05-14T09:49:14.875648+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859074+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756397+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Sabroso Sundays at Al-Amir",
@@ -942,8 +786,8 @@
       "price": "Free",
       "id": "8ebc6caa1620291b",
       "first_seen_at": "2026-05-15T10:10:27.533170+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859138+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756537+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Bachata is definitely a love language of its own. ✨",
@@ -1061,104 +905,6 @@
       "submitted_to_supabase": "2026-05-15T10:10:27.533611+00:00"
     },
     {
-      "title": "BIG FRIDAY SALSA & bachata class in Addison ● We go eat & dance after ●",
-      "start": "2026-05-23T00:30:00.000Z",
-      "source": "meetup",
-      "source_url": "https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314603118/",
-      "end": null,
-      "venue": "You Can Dance Dallas",
-      "address": "14540 E Beltwood Pkwy Ste 600-A, Dallas, TX, Dallas, TX",
-      "city": "Dallas",
-      "description": "FRIDAYS SALSA LA style & BACHATA all styles DANCE class 7:30pm-9pm\n@ You Can Dance Dallas studio\nin Addison , TX\n\\*\\*\\*\n14833 Inwood Rd. Suite #600\nAddison,TX 75001\n\\*\\*\\*\n\" Biggest studio in dfw \"\n\\*\\*\\*\nRSVP RECOMMENDED\n\\*\\*\\*\n50 % off\n●● DANCE CLASS is ONLY $15 a person\nor $45 for the month for 4 classes\n\\*\\*\\*\n●● NO PARTNER NEEDED\n\\*\\*\\*\n\n* Beginner friendly\n\nAnd some social level material repeated for 2 weeks .\n\\*\\*\\*\n●● Now 24 yrs performance experience\n●● As seen on TV\nDavid Herrera is trained by salsa , bachata & ballroom dance champions\n\\*\\*\\*\n👍Meet new friends easily , relieve stress , get a low impact workout etc .\n\\*\\*\\*\n●● After class we go eat & dance\n●●Text/Call 214-434-3560\n●● www.davidherrera-ent.com\n\\*\\*\\*\nClass starts with 15 minutes of salsa styling and footwork / solo dancing for men and women\nThen 30 minutes of salsa partner work with combinations etc\nThen the last 45 minutes of class is bachata Everything is taught for 2 weeks .\nThen we move on to something new . A old fashioned / salsa congress / WORKSHOP style of teaching .\nSee results in as little as 1 month.\n\\*\\*\\*\nCome learn some styling , footwork, new combinations & have fun.\n\\*\\*\\*\n(LOS ANGELES STYLE SALSA) \" Is a combination of everything from tango,swing , afro cuban and ballroom infused into salsa dancing .\nIt is known to be a flashy , clean, show /entertaining cabaret style, with great musicality ,tricks , footwork and styling \"\n\\*\\*\\*\nIt is one of the two most popular styles in the world,now almost 30 years old.\n\\*\\*\\*\nAs far as Davids bachata it is a FUSION OF AMERICAN & ARGENTINE STYLES OF TANGO INTO BACHATA WITH ALSO THE FOOTWORK AND BODY MOVEMENT OF THE DOMINICAN STYLE.\nWhile not leaving out the modern , urban and romantic styles of bachata .\n\\*\\*\\*\nMy goal,vision and purpose is to impact , instruct , influence and educate individuals & community in a positive way culturally through the art of dance , media , events , classes and competitions .\n\\*\\*\\*\nLadies wear comfortable non rubber sole shoes and no street heels .\nUntil you get latin dance shoes. Men wear non rubber sole shoes .\nTill you are ready for dance shoes.\n\\*\\*\\*\nDANCING IS A \"ART\" ,LEARNING HOW TO CONTROL YOUR BODY AND INTERPRET / EXPRESS THE MUSIC. ANYONE CAN DANCE IT JUST DEPENDS HOW BAD YOU WANT TO AND HOW MUCH YOU\nPRACTICE",
-      "image_url": "https://secure-content.meetupstatic.com/images/classic-events/527710431/original.jpg",
-      "tags": [
-        "social",
-        "workshop",
-        "lesson",
-        "festival",
-        "salsa",
-        "bachata"
-      ],
-      "price": null,
-      "id": "0641959c6181f0ef",
-      "first_seen_at": "2026-05-16T08:26:08.438313+00:00",
-      "last_seen_at": "2026-05-22T19:19:53.276157+00:00",
-      "submitted_to_supabase": "2026-05-22T19:19:53.276763+00:00"
-    },
-    {
-      "title": "7:30-9:00 Social Salsa & Bachata Class",
-      "start": "2026-05-23T00:30:00.000Z",
-      "source": "meetup",
-      "source_url": "https://www.meetup.com/you-can-dance-dallas/events/314603272/",
-      "end": null,
-      "venue": "You Can Dance Dallas",
-      "address": "14833 Inwood Rd #600, Addison, TX, Addison, TX",
-      "city": "Addison",
-      "description": "Come on out and learn some Salsa & Bachata so you can join the Latin dance craze! Classes are social level and typically go out after class to eat and dance! Classes are taught by David Herrera, an award winning instructor!",
-      "image_url": "https://secure-content.meetupstatic.com/images/classic-events/533470268/original.jpg",
-      "tags": [
-        "social",
-        "lesson",
-        "salsa",
-        "bachata"
-      ],
-      "price": null,
-      "id": "cc191989d1e0b473",
-      "first_seen_at": "2026-05-16T08:26:08.438323+00:00",
-      "last_seen_at": "2026-05-22T19:19:53.276207+00:00",
-      "submitted_to_supabase": "2026-05-22T19:19:53.276763+00:00"
-    },
-    {
-      "title": "25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after",
-      "start": "2026-05-23T00:30:00.000Z",
-      "source": "meetup",
-      "source_url": "https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314603057/",
-      "end": null,
-      "venue": "You Can Dance Dallas",
-      "address": "14833 Inwood Rd #600, Addison, TX, Addison, TX",
-      "city": "Addison",
-      "description": "25 % off FRIDAYS SALSA LA STYLE & BACHATA (all styles) Dance Class\n7:30pm to 9pm\n\n\" A weekly tradition of years \"\n@ YOU CAN DANCE STUDIO\n\\*\\*\\*\n14833 Inwood Rd. Suite 600 Addison, TX 75001\nSPECIAL ENDS after SUMMER\n\\*\\*\\*\n(CASH preferred. Credit / debit cards , venmo , cashapp , paypal , zelle )\nOnly $20 a person or $60 for the month for 4 classes .\n\\*\\*\\*\nNO PARTNER NEEDED....\nSome of the longest running latin group classes of years in dfw ..\nClass starts with 15 minutes of salsa styling and footwork / solo dancing for men and women\n\nThen 30 minutes of salsa partner work with combinations etc\nThen the last 45 minutes of class is bachata Everything is taught for 2 weeks .\n\nThen we move on to something new . A old fashioned / salsa congress / WORKSHOP style of teaching .\nSee results in as little as 1 month.\n\\*\\*\\*\nClass has a good weekly turnout. With new faces every week.\nLadies wear comfortable non rubber sole shoes and no street heels .\nUntil you get latin dance shoes. Men wear non rubber sole shoes .\nTill you are ready for dance shoes\n\\*\\*\\*\nFor more info\n-(TEXT/CALL) 214-434-3560\n\\*\\*\\*\nAfter class we go eat & dance\n\\*\\*\\*\n-26 years of dance experience teaching,performing & competing\n\n* The original and first LA style salsa dance teacher in Dallas & Fort worth\n\n\"As seen on nationwide spanish & american TV \"\n\\*\\*\\*\nCome learn some styling,footwork,new combinations & have fun.\n\\*\\*\\*\n(LOS ANGELES STYLE SALSA) \" Is a combination of everything from tango,swing and ballroom infused into salsa dancing .\nIt is known to be a flashy,clean,show /entertaining cabaret style,with great musicality,tricks ,footwork and styling \"\n\\*\\*\\*\nIt is one of the two most popular styles in the world,now almost 30 years old.\n\\*\\*\\*\nAs far as Davids bachata it is a FUSION OF AMERICAN & ARGENTINE STYLES OF TANGO INTO BACHATA WITH ALSO THE FOOTWORK AND BODY MOVEMENT OF THE DOMINICAN STYLE.\nWhile not leaving out the modern , urban and romantic styles of bachata .\n\\*\\*\\*\nMy goal,vision and purpose is to impact ,instruct,influence and educate individuals & community in a positive way culturally through the art of dance,media,events,classes and competitions\n\\*\\*\\*\n” Always hosting the best latin nights in DFW for years “\n\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\nDance lessons are also an excellent way to relieve stress, meet new friends, and achieve (and maintain!) fitness goals.\nOr goals to become a good social or competitive dancer.\n\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\nDANCING IS A \"ART\" ,LEARNING HOW TO CONTROL YOUR BODY AND INTERPRET / EXPRESS THE MUSIC. ANYONE CAN DANCE IT JUST DEPENDS HOW BAD YOU WANT TO AND HOW MUCH YOU\nPRACTICE\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\n[http://www.davidherrera-ent.com](http://www.davidherrera-ent.com/)\n[www.youtube.com/HerreraDance](http://www.youtube.com/HerreraDance)\n[www.youtube.com/danceteacher30](http://www.youtube.com/danceteacher30)\n[www.youtube.com/DavidHerreraEnt](http://www.youtube.com/DavidHerreraEnt)\n[https://www.facebook.com/Mr.David.Herrera](https://www.facebook.com/Mr.David.Herrera)",
-      "image_url": "https://secure-content.meetupstatic.com/images/classic-events/533797173/original.jpg",
-      "tags": [
-        "social",
-        "workshop",
-        "lesson",
-        "festival",
-        "salsa",
-        "bachata"
-      ],
-      "price": null,
-      "id": "76020ad4f7c84b07",
-      "first_seen_at": "2026-05-16T08:26:08.438337+00:00",
-      "last_seen_at": "2026-05-22T19:19:53.276192+00:00",
-      "submitted_to_supabase": "2026-05-22T19:19:53.276763+00:00"
-    },
-    {
-      "title": "25 % off FRIDAY salsa & bachata class in Addison",
-      "start": "2026-05-23T00:30:00.000Z",
-      "source": "meetup",
-      "source_url": "https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314603058/",
-      "end": null,
-      "venue": "You Can Dance Dallas",
-      "address": "14833 Inwood Rd #600, Addison, TX, Addison, TX",
-      "city": "Addison",
-      "description": "25 % off FRIDAYS SALSA LA STYLE & BACHATA (all styles) Dance Class\n7:30pm to 9pm\n\n\" A weekly tradition of years \"\n@ YOU CAN DANCE STUDIO\n\\*\\*\\*\n14833 Inwood Rd. Suite 600 Addison, TX 75001\nSPECIAL ENDS after SUMMER\n\\*\\*\\*\n(CASH preferred. Credit / debit cards , venmo , cashapp , paypal , zelle )\nOnly $20 a person or $60 for the month for 4 classes .\n\\*\\*\\*\nNO PARTNER NEEDED....\nSome of the longest running latin group classes of years in dfw ..\nClass starts with 15 minutes of salsa styling and footwork / solo dancing for men and women\n\nThen 30 minutes of salsa partner work with combinations etc\nThen the last 45 minutes of class is bachata Everything is taught for 2 weeks .\n\nThen we move on to something new . A old fashioned / salsa congress / WORKSHOP style of teaching .\nSee results in as little as 1 month.\n\\*\\*\\*\nClass has a good weekly turnout. With new faces every week.\nLadies wear comfortable non rubber sole shoes and no street heels .\nUntil you get latin dance shoes. Men wear non rubber sole shoes .\nTill you are ready for dance shoes\n\\*\\*\\*\nFor more info\n-(TEXT/CALL) 214-434-3560\n\\*\\*\\*\nAfter class we go eat & dance\n\\*\\*\\*\n-26 years of dance experience teaching,performing & competing\n\n* The original and first LA style salsa dance teacher in Dallas & Fort worth\n\n\"As seen on nationwide spanish & american TV \"\n\\*\\*\\*\nCome learn some styling,footwork,new combinations & have fun.\n\\*\\*\\*\n(LOS ANGELES STYLE SALSA) \" Is a combination of everything from tango,swing and ballroom infused into salsa dancing .\nIt is known to be a flashy,clean,show /entertaining cabaret style,with great musicality,tricks ,footwork and styling \"\n\\*\\*\\*\nIt is one of the two most popular styles in the world,now almost 30 years old.\n\\*\\*\\*\nAs far as Davids bachata it is a FUSION OF AMERICAN & ARGENTINE STYLES OF TANGO INTO BACHATA WITH ALSO THE FOOTWORK AND BODY MOVEMENT OF THE DOMINICAN STYLE.\nWhile not leaving out the modern , urban and romantic styles of bachata .\n\\*\\*\\*\nMy goal,vision and purpose is to impact ,instruct,influence and educate individuals & community in a positive way culturally through the art of dance,media,events,classes and competitions\n\\*\\*\\*\n” Always hosting the best latin nights in DFW for years “\n\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\nDance lessons are also an excellent way to relieve stress, meet new friends, and achieve (and maintain!) fitness goals.\nOr goals to become a good social or competitive dancer.\n\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\nDANCING IS A \"ART\" ,LEARNING HOW TO CONTROL YOUR BODY AND INTERPRET / EXPRESS THE MUSIC. ANYONE CAN DANCE IT JUST DEPENDS HOW BAD YOU WANT TO AND HOW MUCH YOU\nPRACTICE\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\n[http://www.davidherrera-ent.com](http://www.davidherrera-ent.com/)\n[www.youtube.com/HerreraDance](http://www.youtube.com/HerreraDance)\n[www.youtube.com/danceteacher30](http://www.youtube.com/danceteacher30)\n[www.youtube.com/DavidHerreraEnt](http://www.youtube.com/DavidHerreraEnt)\n[https://www.facebook.com/Mr.David.Herrera](https://www.facebook.com/Mr.David.Herrera)",
-      "image_url": "https://secure-content.meetupstatic.com/images/classic-events/533797173/original.jpg",
-      "tags": [
-        "social",
-        "workshop",
-        "lesson",
-        "festival",
-        "salsa",
-        "bachata"
-      ],
-      "price": null,
-      "id": "6ba3f1390ee75d90",
-      "first_seen_at": "2026-05-16T08:26:08.438341+00:00",
-      "last_seen_at": "2026-05-22T19:19:53.276187+00:00",
-      "submitted_to_supabase": "2026-05-22T19:19:53.276763+00:00"
-    },
-    {
       "title": "DCD | FREE BACHATA | EVERY 4TH WEDNESDAY",
       "start": "2026-05-27T21:00:00-05:00",
       "source": "golatindance",
@@ -1177,8 +923,8 @@
       "price": "Free",
       "id": "ed7059c467178c07",
       "first_seen_at": "2026-05-16T08:26:08.438515+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859144+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756549+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Latin Night at Gigis",
@@ -1201,8 +947,8 @@
       "price": "Free",
       "id": "5f31cff1919e512c",
       "first_seen_at": "2026-05-16T08:26:08.438519+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859147+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756558+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Latin Thursdays at Massey Shots",
@@ -1223,98 +969,8 @@
       "price": "Free",
       "id": "5eb24d3164c31976",
       "first_seen_at": "2026-05-16T08:26:08.438523+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859151+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
-    },
-    {
-      "title": "SALSA DEL BARRIO",
-      "start": "2026-05-23",
-      "source": "eventbrite",
-      "source_url": "https://www.eventbrite.com/e/salsa-del-barrio-tickets-1983990825968",
-      "end": "2026-05-24",
-      "venue": "Ocho Latin Cuisine Events",
-      "address": "369 Jefferson Boulevard, Dallas, TX, 75208",
-      "city": "Dallas",
-      "description": "Salsa del Barrio at OCHO  - Free salsa class at 9:30PM - RSVP required.\n Dance night 9PM–1AM. \nFull Dinner & Cocktails  Available all Night",
-      "image_url": null,
-      "tags": [
-        "social",
-        "lesson",
-        "salsa"
-      ],
-      "price": null,
-      "id": "c4db2432ab2959ad",
-      "first_seen_at": "2026-05-17T08:42:39.663469+00:00",
-      "last_seen_at": "2026-05-22T19:19:53.276116+00:00",
-      "submitted_to_supabase": "2026-05-22T19:19:53.276763+00:00"
-    },
-    {
-      "title": "Beginner Bachata Dance Class",
-      "start": "2026-05-23T21:00:00.000Z",
-      "source": "meetup",
-      "source_url": "https://www.meetup.com/dfwyoungsocial/events/314589217/",
-      "end": null,
-      "venue": "DFW Young & Social",
-      "address": "2309 Springlake Rd, Suite 600, Farmers Branch, tx, Farmers Branch, tx",
-      "city": "Farmers Branch",
-      "description": "Looking for a fun way to spend your Saturday? Join us for a beginner-friendly Bachata class that will get you moving and connecting with others!\n\n**4:00 PM – Beginner Bachata**\n\n*Have some bachata experience? Join us for our 3pm Intermediate class!*\n\n**Pricing:**\n\n* Single Class $15 for a single class\n* Two Class Special $25 \\| Want more rhythm in your Saturday? Stick around for Salsa at 5PM\n\n**Dance Class Packs (Usable at all dance classes):**\n\n* $52 for 4 classes *($13 per class)* \\| $88 for 8 classes *($11 per class)* \\| $108 for 12 classes *($9 per class)*\n* $199 Monthly for Unlimited Dance Classes & Social Events\n\nOne time special for everyone - $45 dollars for 5 classes, making it only $9 dollars each!\n\n\\*\\*[Click here to Purchase and Reserve your spot! ](https://seluqd.pushpress.com/landing/calendar)\\*\\*or **pay at the door with Cash/Card/Zelle/Venmo**\n\n\\*\\*\\*\nPlease use our **[discord server](https://discord.gg/7Egum6UvMe)** for any day-of-event communications, updates, or to locate us if you're running late. We strive to be fully present during our events, so we may not be on our phones constantly, but we'll do our best to connect with everyone.\n\nAll DFW Young & Social events are for adults 18+ only. All purchases are non-refundable and non-transferable to others.",
-      "image_url": "https://secure-content.meetupstatic.com/images/classic-events/524402259/original.jpg",
-      "tags": [
-        "social",
-        "lesson",
-        "salsa",
-        "bachata"
-      ],
-      "price": null,
-      "id": "b03cdae8e405b427",
-      "first_seen_at": "2026-05-17T08:42:39.663486+00:00",
-      "last_seen_at": "2026-05-23T16:20:00.330592+00:00",
-      "submitted_to_supabase": "2026-05-23T16:20:00.331060+00:00"
-    },
-    {
-      "title": "Bachata Dance Class",
-      "start": "2026-05-23",
-      "source": "eventbrite",
-      "source_url": "https://www.eventbrite.com/e/bachata-dance-class-tickets-1978750655477",
-      "end": "2026-05-23",
-      "venue": "DFW Young & Social",
-      "address": "2309 Springlake Rd, Farmers Branch, TX, 75234",
-      "city": "Farmers Branch",
-      "description": "Immerse yourself in the sensual beats of Bachata with our dance classes every Saturday.",
-      "image_url": "https://cdn.evbuc.com/images/840943759/1042446429203/1/original.20240904-002822",
-      "tags": [
-        "social",
-        "lesson",
-        "bachata"
-      ],
-      "price": null,
-      "id": "822241b92303760c",
-      "first_seen_at": "2026-05-17T08:42:39.663491+00:00",
-      "last_seen_at": "2026-05-22T19:19:53.276141+00:00",
-      "submitted_to_supabase": "2026-05-22T19:19:53.276763+00:00"
-    },
-    {
-      "title": "Beginner Salsa Dance Class",
-      "start": "2026-05-23T22:00:00.000Z",
-      "source": "meetup",
-      "source_url": "https://www.meetup.com/dfwyoungsocial/events/314589534/",
-      "end": null,
-      "venue": "DFW Young & Social",
-      "address": "2309 Springlake Rd, Suite 600, Farmers Branch, tx, Farmers Branch, tx",
-      "city": "Farmers Branch",
-      "description": "Fast-paced, Flirty, fun and danceable to hundreds of today’s top Latin pop hits, Salsa is a fantastic dance to have in your pocket! You don’t have to bring a partner! We rotate throughout the classes, so everyone gets plenty of opportunities to dance and meet new people.\n\n[Head to our Member's System to Pay head of time! ](https://seluqd.pushpress.com/landing/calendar)Or feel free to pay at the door with cash/card/venmo/zelle.\n\n**Schedule:**\n\n* 5:00pm - Beginner or Level 1\n* Ready for level 2? Join us at 6pm!\n\n**Pricing:**\n\n* Single Class $15 for a single class\n* Two Class Special $25 \\| Come an hour early and warm up with Bachata at 4PM\n\n**Dance Class Packs (Usable at all dance classes):**\n\n* $52 for 4 classes *($13 per class)* \\| $88 for 8 classes *($11 per class)* \\| $108 for 12 classes *($9 per class)*\n* $199 Monthly for Unlimited Dance Classes & Social Events\n\nOne time special for everyone - $45 dollars for 5 classes, making it only $9 dollars each!\n\n\\*\\*\\*\nPlease use our **[discord server](https://discord.gg/7Egum6UvMe)** for any day-of-event communications, updates, or to locate us if you're running late. We strive to be fully present during our events, so we may not be on our phones constantly, but we'll do our best to connect with everyone.\n\nAll DFW Young & Social events are for adults 18+ only. All purchases are non-refundable and non-transferable to others.",
-      "image_url": "https://secure-content.meetupstatic.com/images/classic-events/527047029/original.jpg",
-      "tags": [
-        "social",
-        "lesson",
-        "salsa",
-        "bachata"
-      ],
-      "price": null,
-      "id": "d6d720317aa1a73d",
-      "first_seen_at": "2026-05-17T08:42:39.663495+00:00",
-      "last_seen_at": "2026-05-23T16:20:00.330513+00:00",
-      "submitted_to_supabase": "2026-05-23T16:20:00.331060+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756567+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Friday Latin at Al-Amir Arlington",
@@ -1336,8 +992,8 @@
       "price": null,
       "id": "02697fa1dc651b22",
       "first_seen_at": "2026-05-17T08:42:39.663681+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859154+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756576+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Rumba Fridays @ Taboo Lounge Dallas",
@@ -1359,8 +1015,8 @@
       "price": "$5–$15",
       "id": "62c71c2f17b0fe54",
       "first_seen_at": "2026-05-17T08:42:39.663685+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859157+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756583+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Latin Saturday at Mexican Bar Company",
@@ -1383,8 +1039,8 @@
       "price": "Free",
       "id": "6fb066c119064dc7",
       "first_seen_at": "2026-05-17T08:42:39.663688+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859160+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756591+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Sabados de Gazadera at Al-Amir Arlington",
@@ -1405,8 +1061,8 @@
       "price": "$10",
       "id": "58f31df8a209f2ff",
       "first_seen_at": "2026-05-17T08:42:39.663691+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859164+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756599+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Rumba Tropical en Reys's Sports Bar",
@@ -1427,73 +1083,8 @@
       "price": "Free",
       "id": "165311ac345df9fa",
       "first_seen_at": "2026-05-17T08:42:39.663695+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859168+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
-    },
-    {
-      "title": "Noches Latinas Saturdays at Los Lupes",
-      "start": "2026-05-23",
-      "source": "danceus",
-      "source_url": "https://www.danceus.org/event/16552421199670/noches-latinas-saturdays-at-los-lupes-addison-tx/",
-      "end": "2026-05-24",
-      "venue": "Los Lupes Addison",
-      "address": "3855 Belt Line Road, Addison, TX 75001, Addison, TX",
-      "city": "Addison",
-      "description": "Noches de salsa, merengue, bachata, cumbia, y mas en Los Lupes on Saturdays.",
-      "image_url": "https://www.danceus.org/events/images/165524211926164/noches-latinas-saturdays-at-los-lupes-cover.jpg",
-      "tags": [
-        "salsa",
-        "bachata",
-        "merengue"
-      ],
-      "price": null,
-      "id": "2c597fa0f72da73f",
-      "first_seen_at": "2026-05-17T16:20:32.123760+00:00",
-      "last_seen_at": "2026-05-23T16:20:00.330609+00:00",
-      "submitted_to_supabase": "2026-05-23T16:20:00.331060+00:00"
-    },
-    {
-      "title": "Salsa Bachata Night at Mexican Bar Company",
-      "start": "2026-05-23",
-      "source": "danceus",
-      "source_url": "https://www.danceus.org/event/16552421241878/salsa-bachata-night-at-mexican-bar-company-plano-tx/",
-      "end": "2026-05-24",
-      "venue": "Mexican Bar Company",
-      "address": "6121 West Park Blvd, Ste RS-10, Plano, TX 75093, Plano, TX",
-      "city": "Plano",
-      "description": "Bueno mi GenteEsta Noche. La verdadera Gozadera en dallas. The Secret!!! Best latin party in North Dallas! Lets go. Ladies no cover b4 11 pm. Dress to impress!!! Free Salsa lessons at 10:00 pm. Free",
-      "image_url": "https://www.danceus.org/events/images/165524212343216/salsa-bachata-night-at-mexican-bar-company-cover.jpg",
-      "tags": [
-        "social",
-        "lesson",
-        "salsa",
-        "bachata"
-      ],
-      "price": null,
-      "id": "71d0e90b895b078c",
-      "first_seen_at": "2026-05-17T16:20:32.123763+00:00",
-      "last_seen_at": "2026-05-23T16:20:00.330612+00:00",
-      "submitted_to_supabase": "2026-05-23T16:20:00.331060+00:00"
-    },
-    {
-      "title": "Latin Night at Mi Pueblito",
-      "start": "2026-05-23",
-      "source": "danceus",
-      "source_url": "https://www.danceus.org/event/165524211430824/latin-night-at-mi-pueblito-garland-tx/",
-      "end": "2026-05-24",
-      "venue": "Mi Pueblito",
-      "address": "2030 West Buckingham Road, Garland, TX 75042, Garland, TX",
-      "city": "Garland",
-      "description": "Latin Night at Mi Pueblito..See site for details.",
-      "image_url": "https://www.danceus.org/events/images/165524211354764/latin-night-at-mi-pueblito-cover.jpg",
-      "tags": [
-        "social"
-      ],
-      "price": null,
-      "id": "0cf4ab7c3dd06ffb",
-      "first_seen_at": "2026-05-17T16:20:32.123765+00:00",
-      "last_seen_at": "2026-05-23T16:20:00.330614+00:00",
-      "submitted_to_supabase": "2026-05-23T16:20:00.331060+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756606+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "50 % off SUNDAY Salsa & BACHATA class in addison • we go eat & dance after",
@@ -1563,8 +1154,8 @@
       "price": "Free",
       "id": "0d9240b5f4b1d29a",
       "first_seen_at": "2026-05-18T13:01:17.791816+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859171+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756614+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Salsa Sunday Night at Hearsay Arlington",
@@ -1585,8 +1176,8 @@
       "price": "Free",
       "id": "11b955a402002602",
       "first_seen_at": "2026-05-18T13:01:17.791820+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859175+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756622+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Son y Sabor – Salsa and Bachata at Victoria’s Restaurant",
@@ -1654,28 +1245,6 @@
       "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
     },
     {
-      "title": "Salsa Dance Class for Beginners",
-      "start": "2026-05-23",
-      "source": "eventbrite",
-      "source_url": "https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1978750439832",
-      "end": "2026-05-23",
-      "venue": "DFW Young & Social",
-      "address": "2309 Springlake Rd, Farmers Branch, TX, 75234",
-      "city": "Farmers Branch",
-      "description": "Experience the thrill of Salsa dancing with our vibrant and exciting Salsa Dance Class for Young Adults.",
-      "image_url": "https://cdn.evbuc.com/images/840943559/1042446429203/1/original.20240904-002758",
-      "tags": [
-        "social",
-        "lesson",
-        "salsa"
-      ],
-      "price": null,
-      "id": "67fdd32d6afa169e",
-      "first_seen_at": "2026-05-20T11:43:24.518330+00:00",
-      "last_seen_at": "2026-05-22T19:19:53.276096+00:00",
-      "submitted_to_supabase": "2026-05-22T19:19:53.276763+00:00"
-    },
-    {
       "title": "Beginner Salsa Dance Class",
       "start": "2026-05-27T01:00:00.000Z",
       "source": "meetup",
@@ -1694,8 +1263,8 @@
       "price": null,
       "id": "7758699c21309c92",
       "first_seen_at": "2026-05-20T11:43:24.518373+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859024+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756301+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Caliente TUES @ ROTATE in Frisco ●FREE  SALSA & BACHATA class @ 7:30pm ● FOOD",
@@ -1741,8 +1310,8 @@
       "price": "Free",
       "id": "33978e9c2f549345",
       "first_seen_at": "2026-05-20T11:43:24.518566+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859177+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756630+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Salsa Wednesday at Vidorra by DJ Wander",
@@ -1763,8 +1332,8 @@
       "price": null,
       "id": "542a669401561789",
       "first_seen_at": "2026-05-21T12:38:05.600839+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859095+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756457+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Live Latin Night With Havana NRG at Sambuca360",
@@ -1783,8 +1352,8 @@
       "price": null,
       "id": "151bc92507b5cd98",
       "first_seen_at": "2026-05-21T12:38:05.600841+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859096+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756461+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Salseando and Bachateando Nights at El Botanero",
@@ -1805,8 +1374,8 @@
       "price": null,
       "id": "4667c2285c333212",
       "first_seen_at": "2026-05-21T12:38:05.600843+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859098+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756467+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Wednesday Salsa Social at Stratos",
@@ -1826,8 +1395,8 @@
       "price": null,
       "id": "a684cfe971d38278",
       "first_seen_at": "2026-05-21T12:38:05.600846+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859100+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756471+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Caliente TUES @ ROTATE in Frisco ●FREE  SALSA & BACHATA class @ 7:30pm ● FOOD",
@@ -1850,8 +1419,8 @@
       "price": null,
       "id": "39649f4c21b7dfea",
       "first_seen_at": "2026-05-21T19:35:14.192473+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859086+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756435+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Beginner Cha Cha Dance Class",
@@ -1872,8 +1441,8 @@
       "price": null,
       "id": "3589d2bcb97761ab",
       "first_seen_at": "2026-05-22T11:38:35.947325+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859082+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756420+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Salsa Bachata Thursdays at Merkado",
@@ -1893,8 +1462,8 @@
       "price": null,
       "id": "2f7b124150a5f632",
       "first_seen_at": "2026-05-22T19:19:53.276257+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859102+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756476+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Kumbala Thursday’s at Al-Amir Addison",
@@ -1916,8 +1485,8 @@
       "price": null,
       "id": "01613332bcbae3a5",
       "first_seen_at": "2026-05-22T19:19:53.276260+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859104+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756481+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Latin Night at Hangout",
@@ -1939,8 +1508,8 @@
       "price": null,
       "id": "b0512cfcee635c82",
       "first_seen_at": "2026-05-22T19:19:53.276262+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859106+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756486+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "BIG FRIDAY SALSA & bachata class in Addison ● We go eat & dance after ●",
@@ -1964,8 +1533,8 @@
       "price": null,
       "id": "13083740a0b5a8c2",
       "first_seen_at": "2026-05-23T08:40:51.679590+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859032+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756315+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "7:30-9:00 Social Salsa & Bachata Class",
@@ -1987,8 +1556,8 @@
       "price": null,
       "id": "9343ef21affe49c4",
       "first_seen_at": "2026-05-23T08:40:51.679605+00:00",
-      "last_seen_at": "2026-05-23T16:20:00.330556+00:00",
-      "submitted_to_supabase": "2026-05-23T16:20:00.331060+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756348+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "25 % off FRIDAY salsa & bachata class in Addison",
@@ -2012,8 +1581,8 @@
       "price": null,
       "id": "69256206f746eb3e",
       "first_seen_at": "2026-05-23T08:40:51.679620+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859048+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756372+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after",
@@ -2037,8 +1606,8 @@
       "price": null,
       "id": "487ecf774f9c8764",
       "first_seen_at": "2026-05-23T08:40:51.679624+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859062+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756380+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Noches Latinas Fridays at Los Lupes",
@@ -2059,8 +1628,8 @@
       "price": null,
       "id": "4f51bd3a2bcea19a",
       "first_seen_at": "2026-05-23T16:20:00.330641+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859108+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756491+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Friday Latin at Al-Amir Arlington",
@@ -2082,8 +1651,8 @@
       "price": null,
       "id": "445b79977cf35fa2",
       "first_seen_at": "2026-05-23T16:20:00.330644+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859110+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756497+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Beginner Salsa Dance Class",
@@ -2105,8 +1674,8 @@
       "price": null,
       "id": "6a1208a6e3c3b0eb",
       "first_seen_at": "2026-05-24T09:29:59.682090+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859005+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756284+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Salsón - Salsa and bachata dance social",
@@ -2128,8 +1697,8 @@
       "price": null,
       "id": "4f2aef339bce0dd6",
       "first_seen_at": "2026-05-24T09:29:59.682134+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859053+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756324+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Beginner Bachata Dance Class",
@@ -2151,8 +1720,8 @@
       "price": null,
       "id": "b3262ab290007857",
       "first_seen_at": "2026-05-24T09:29:59.682162+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859078+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756412+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Noches Latinas Saturdays at Los Lupes",
@@ -2173,8 +1742,8 @@
       "price": null,
       "id": "5ed11c72784f932d",
       "first_seen_at": "2026-05-24T09:29:59.682202+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859111+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756502+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Salsa Bachata Night at Mexican Bar Company",
@@ -2196,8 +1765,8 @@
       "price": null,
       "id": "0939be722453e610",
       "first_seen_at": "2026-05-24T09:29:59.682204+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859123+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756507+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "Latin Night at Mi Pueblito",
@@ -2216,8 +1785,8 @@
       "price": null,
       "id": "b827008f9c8ae09f",
       "first_seen_at": "2026-05-24T09:29:59.682206+00:00",
-      "last_seen_at": "2026-05-24T16:44:53.859125+00:00",
-      "submitted_to_supabase": "2026-05-24T16:44:53.859463+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756512+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     },
     {
       "title": "SALSA & BACHATA SUNDAYS",
@@ -2229,7 +1798,7 @@
       "address": null,
       "city": null,
       "description": "🌴🔥 SALSA & BACHATA SUNDAYS 🔥🌴\n\nThis Sunday we’re bringing the best Latin vibes to Addison! 💃🏽🕺🏽\nJoin us for an evening full of Salsa, Bachata, great music, frozen margaritas, and nonstop dancing all night long!\n\n📍 AL-AMIR Addison\n🗓️ Sunday, May 17\n⏰ 6:00 PM – 10:00 PM\n🎧 Music by DJ Wander\n🍹 $5 Frozen Margaritas\n🍽️ Kitchen Open\n🌴 Patio Open\n🚫 NO COVER\n\nAnd the party keeps going until 2:00 AM! 🔥\n\n📍3885 Beltline Rd, Addison, TX 75001\n\nTag your dance partner and come enjoy the best Sunday social in ",
-      "image_url": "https://scontent-hou1-1.cdninstagram.com/v/t51.82787-15/705305462_18590458183032480_3500456838631847245_n.jpg?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gG4PYpfnROJvGV4XpkielPalcLJUljRRfyBdmkY9KrRAQ2T5dBc4atVggLVXTrp6PI&_nc_ohc=6G9OFjCwTpkQ7kNvwEJv4jG&_nc_gid=Fc5UIQOQfJAXdT4yODLPug&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6KMLsZW69k_XQ9TZlyw-mEsfzOcIwRrw_uJNB7-Ojmiw&oe=6A1894C9&_nc_sid=10d13b",
+      "image_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/705305462_18590458183032480_3500456838631847245_n.jpg?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEsiBEDtBKck96gHfgYxJi_7J8-f-e_7_Yxz5TK6Y2MwyW2ysCwGMFn_POdoALbgUs&_nc_ohc=6G9OFjCwTpkQ7kNvwH0pe92&_nc_gid=ZN9y6KdP5EZtYMurAOgNZQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af6_w682R3rqBkhFeQCJ9UCAG44T2CLIUCTnWXE7xIS8XQ&oe=6A1A1E89&_nc_sid=10d13b",
       "tags": [
         "salsa",
         "bachata",
@@ -2238,8 +1807,191 @@
       "price": "$5",
       "id": "aefd57ec9e8067d2",
       "first_seen_at": "2026-05-24T09:29:59.682376+00:00",
-      "last_seen_at": "2026-05-24T09:29:59.682376+00:00",
-      "submitted_to_supabase": "2026-05-24T09:29:59.682620+00:00"
+      "last_seen_at": "2026-05-25T12:58:59.756913+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
+    },
+    {
+      "title": "6:30-8:00 Social Salsa & Bachata Class",
+      "start": "2026-05-31T23:30:00.000Z",
+      "source": "meetup",
+      "source_url": "https://www.meetup.com/you-can-dance-dallas/events/314745616/",
+      "end": null,
+      "venue": "You Can Dance Dallas",
+      "address": "14833 Inwood Road, Addison, TX, Addison, TX",
+      "city": "Addison",
+      "description": "Join David Herrera as he takes you thru the basics and some cool moves for the hottest social dances in town - salsa & bachata. Classes are fun and friendly in a gorgeous, large studio, You Can Dance Dallas.\n\nClass is from 6:30-8:00 and then join us to go eat and dance the night away!",
+      "image_url": "https://secure-content.meetupstatic.com/images/classic-events/533957630/original.jpg",
+      "tags": [
+        "social",
+        "lesson",
+        "salsa",
+        "bachata"
+      ],
+      "price": null,
+      "id": "71570c4eb18dacc2",
+      "first_seen_at": "2026-05-25T12:58:59.756332+00:00",
+      "last_seen_at": "2026-05-25T12:58:59.756332+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
+    },
+    {
+      "title": "50 % off SUNDAY Salsa & BACHATA class in addison • we go eat & dance after",
+      "start": "2026-05-31T23:30:00.000Z",
+      "source": "meetup",
+      "source_url": "https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314745297/",
+      "end": null,
+      "venue": "You Can Dance Dallas",
+      "address": "14833 Inwood Rd #600, Addison, TX, Addison, TX",
+      "city": "Addison",
+      "description": "50 % off SUNDAYS SALSA LA STYLE & BACHATA (all styles) Dance Class\n\n6:30pm to 8pm\n\n\" A weekly tradition of years \"\n\n@ YOU CAN DANCE STUDIO\n\n***\n\n14833 Inwood Rd. Suite 600 Addison, TX 75001\n\nSPECIAL ENDS after SUMMER\n\n***\n\n(CASH preferred. Credit / debit cards , venmo , cashapp , paypal , zelle )\n\nOnly $15 a person or $45 for the month for 4 classes .\n\n***\n\nNO PARTNER NEEDED....\n\nSome of the longest running latin group classes of years in dfw ..\n\nClass starts with 15 minutes of salsa styling and footwork / solo dancing for men and women\n\nThen 30 minutes of salsa partner work with combinations etc\n\nThen the last 45 minutes of class is bachata Everything is taught for 2 weeks .\n\nThen we move on to something new . A old fashioned / salsa congress / WORKSHOP style of teaching .\n\nSee results in as little as 1 month.\n\n***\n\nClass has a good weekly turnout. With new faces every week.\n\nLadies wear comfortable non rubber sole shoes and no street heels .\n\nUntil you get latin dance shoes. Men wear non rubber sole shoes .\n\nTill you are ready for dance shoes\n\n***\n\nFor more info\n\n-(TEXT/CALL) 214-434-3560\n\n***\n\nAfter class we go eat & dance\n\n***\n\n-26 years of dance experience teaching,performing & competing\n\n* The original and first LA style salsa dance teacher in Dallas & Fort worth\n\n\"As seen on nationwide spanish & american TV \"\n\n***\n\nCome learn some styling,footwork,new combinations & have fun.\n\n***\n\n(LOS ANGELES STYLE SALSA) \" Is a combination of everything from tango,swing and ballroom infused into salsa dancing .\n\nIt is known to be a flashy,clean,show /entertaining cabaret style,with great musicality,tricks ,footwork and styling \"\n\n***\n\nIt is one of the two most popular styles in the world,now almost 30 years old.\n\n***\n\nAs far as Davids bachata it is a FUSION OF AMERICAN & ARGENTINE STYLES OF TANGO INTO BACHATA WITH ALSO THE FOOTWORK AND BODY MOVEMENT OF THE DOMINICAN STYLE.\n\nWhile not leaving out the modern , urban and romantic styles of bachata .\n\n***\n\nMy goal,vision and purpose is to impact ,instruct,influence and educate individuals & community in a positive way culturally through the art of dance,media,events,classes and competitions\n\n***\n\n” Always hosting the best latin nights in DFW for years “\n\n\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\nDance lessons are also an excellent way to relieve stress, meet new friends, and achieve (and maintain!) fitness goals.\n\nOr goals to become a good social or competitive dancer.\n\n\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\nDANCING IS A \"ART\" ,LEARNING HOW TO CONTROL YOUR BODY AND INTERPRET / EXPRESS THE MUSIC. ANYONE CAN DANCE IT JUST DEPENDS HOW BAD YOU WANT TO AND HOW MUCH YOU\n\nPRACTICE\n\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\nhttp://www.davidherrera-ent.com\n\nwww.youtube.com/HerreraDance\n\nwww.youtube.com/danceteacher30\n\nwww.youtube.com/DavidHerreraEnt\n\nhttps://www.facebook.com/Mr.David.Herrera",
+      "image_url": "https://secure-content.meetupstatic.com/images/classic-events/529437983/original.jpg",
+      "tags": [
+        "social",
+        "workshop",
+        "lesson",
+        "festival",
+        "salsa",
+        "bachata"
+      ],
+      "price": null,
+      "id": "10e0d81921b413f0",
+      "first_seen_at": "2026-05-25T12:58:59.756357+00:00",
+      "last_seen_at": "2026-05-25T12:58:59.756357+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
+    },
+    {
+      "title": "David Herrera Amateur Latin / Ballroom dance team summer tryouts",
+      "start": "2026-06-01T00:45:00.000Z",
+      "source": "meetup",
+      "source_url": "https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314744657/",
+      "end": null,
+      "venue": "You Can Dance Dallas",
+      "address": "14540 E Beltwood Pkwy Ste 600-A, Dallas, TX, Dallas, TX",
+      "city": "Dallas",
+      "description": "SPREAD the word ! !\n\nDAVID HERRERA amateur Latin / ballroom DANCE TEAM FALL SEASON tryouts\n\n@ YOU CAN DANCE DALLAS STUDIO in addison,TX\n\nSEE DATES\n******************************************\n$8 tryout fee includes technique , fitness drills , choreography etc\n\n-- Some dance experience is required-- No partner needed --\n\n- Learn technique , musicality , showmanship , tricks , take your dancing to the next level , perform locally and travel , a family atmosphere etc .\n\n- Learn how to dance cha cha cha on 2 , tango , paso doble , salsa LA style , ballroom rumba , afro cuban , swing , modern / romantic / urban bachata , bachata tango and dominican style bachata .\n\nBecoming a well rounded and educated dancer.\n\n********************************************\n\n--Team does a minimum 2 routines per year\n\n--It is a affordable monthly fee and team members have 2 to 3 weekly practices and some VIP treatment like\n\nSome FREE weekly GROUP CLASSES and some FREE admission to some events etc\n\nPerform at annual Dallas salsa congress in September , Dallas bachata festival in October, bachateando festival in miami September 2022 etc\n\n*******************************************\n\nDavid Herrera -20 yrs performance experience ,\n\n\" As seen on spanish and american TV \"\n\nHaving been trained by bachata , salsa , mambo and ballroom world champions\n\nwww.davidherrera-ent.com\n\nText / Call 214-434-3560\n\n\" WATCH VIDEOS on website",
+      "image_url": "https://secure-content.meetupstatic.com/images/classic-events/485641292/original.jpg",
+      "tags": [
+        "lesson",
+        "festival",
+        "salsa",
+        "bachata",
+        "cha-cha"
+      ],
+      "price": null,
+      "id": "0a483d3a30c494d7",
+      "first_seen_at": "2026-05-25T12:58:59.756405+00:00",
+      "last_seen_at": "2026-05-25T12:58:59.756405+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
+    },
+    {
+      "title": "Salsa & bachata Thursdays advanced beginner/intermediate",
+      "start": "2026-05-29T00:30:00.000Z",
+      "source": "meetup",
+      "source_url": "https://www.meetup.com/salsa-with-jo/events/314720227/",
+      "end": null,
+      "venue": "Green Space Arts Collective",
+      "address": "529 Malone St, Denton, TX, Denton, TX",
+      "city": "Denton",
+      "description": "Must have taken level 1\n\nThis class is for those who want to take your dancing further. You already know the basics and fundamentals now let's level up!\n\n• Connect better with the music & Partner\n\n• Be able to start executing your own pattern naturally\n\n• Invest in dance shoes to help you dance better\n\n• Apply better technique, posture and flow in your dancing",
+      "image_url": "https://secure-content.meetupstatic.com/images/classic-events/514364272/original.jpg",
+      "tags": [
+        "lesson",
+        "salsa",
+        "bachata"
+      ],
+      "price": null,
+      "id": "683a08781d8ae846",
+      "first_seen_at": "2026-05-25T12:58:59.756443+00:00",
+      "last_seen_at": "2026-05-25T12:58:59.756443+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
+    },
+    {
+      "title": "Latin Night",
+      "start": "2026-06-06T03:00:00.000Z",
+      "source": "meetup",
+      "source_url": "https://www.meetup.com/salsa-with-jo/events/314825604/",
+      "end": null,
+      "venue": "El Taco H",
+      "address": "213 E Hickory St, Denton, TX 76201, Denton, TX, Denton, TX",
+      "city": "Denton",
+      "description": "Mi gente, Get ready to dance the night away at our Latin night every 1st and 3rd Friday of the month now at El Taco H! 🎉🎶💃🕺\n\nJoin us for a night of Latin rhythms, amazing drinks, and delicious food. Our experienced dance instructors will guide you through basic steps and moves, so even if you've never danced before, you'll be able to keep up with the rhythm. 🔥🔥🔥\n\nBe ready for a fun night of dancing, learn new dance moves & meet new people.\nShare! Share! Share! feel free to tag your friends! 🤩🤩🤩\n\n*FREE Salsa and Bachata class by Jo at 10PM*\n*Salsa, Bachata, Merengue, Cumbia, Reggaeton, and more Latin music by our very own DJ Jojo*\n*Kitchen open until 2 AM*\n*NO COVER*\n*FREE parking*",
+      "image_url": "https://secure-content.meetupstatic.com/images/classic-events/513302121/original.jpg",
+      "tags": [
+        "social",
+        "lesson",
+        "salsa",
+        "bachata",
+        "merengue"
+      ],
+      "price": null,
+      "id": "620d0de7f53b10bd",
+      "first_seen_at": "2026-05-25T12:58:59.756451+00:00",
+      "last_seen_at": "2026-05-25T12:58:59.756451+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
+    },
+    {
+      "title": "Son y Sabor – Salsa and Bachata at Victoria’s Restaurant",
+      "start": "2026-05-31",
+      "source": "danceus",
+      "source_url": "https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/",
+      "end": "2026-05-31",
+      "venue": "Victoria’s Restaurant",
+      "address": "13435 Bee St, Dallas, TX 75234, Farmers Branch, TX",
+      "city": "Farmers Branch",
+      "description": "Salseros and Bachateros!! In collaboration with Los Comales, team Mambin and Dallas Can Dance. Son y Sabor SalsaBachata @Victorias Restaurant! We promise to bring you the same flavor to our new",
+      "image_url": "https://www.danceus.org/events/images/16552421299990/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-cover.jpg",
+      "tags": [
+        "salsa",
+        "bachata"
+      ],
+      "price": null,
+      "id": "1c9cec0be86a3042",
+      "first_seen_at": "2026-05-25T12:58:59.756518+00:00",
+      "last_seen_at": "2026-05-25T12:58:59.756518+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
+    },
+    {
+      "title": "Salsa Sundays at The Statler",
+      "start": "2026-05-31",
+      "source": "danceus",
+      "source_url": "https://www.danceus.org/event/16552421262550/salsa-sundays-at-the-statler-dallas-tx/",
+      "end": "2026-05-31",
+      "venue": "The Statler",
+      "address": "1914 Commerce St, Dallas, TX 75201, Dallas, TX",
+      "city": "Dallas",
+      "description": "Salsa Sundays at Scout inside The Statler hotel. Free early class by Wander Rosario Best music, amazing drinks and food. Lets go! Event Video Preview (Facebook).",
+      "image_url": "https://www.danceus.org/events/images/165524212529232/salsa-sundays-at-the-statler-cover.jpg",
+      "tags": [
+        "lesson",
+        "salsa"
+      ],
+      "price": null,
+      "id": "d22c6d145aff0f45",
+      "first_seen_at": "2026-05-25T12:58:59.756523+00:00",
+      "last_seen_at": "2026-05-25T12:58:59.756523+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
+    },
+    {
+      "title": "Sabroso Sunday at Al-Amir Addison",
+      "start": "2026-05-31",
+      "source": "danceus",
+      "source_url": "https://www.danceus.org/event/16552421219990/sabroso-sunday-at-al-amir-addison-addison-tx/",
+      "end": "2026-06-01",
+      "venue": "Al-Amir Addison",
+      "address": "3885 Belt Line Road, Addison, TX 75001, Addison, TX",
+      "city": "Addison",
+      "description": "Rumba every Sunday night featuring Salsa, Bachata, Merengue, Dembow, Reggaeton, Cubaton and more. No cover for ladies 21+. Free parking. Hookah. Event Video Preview (Facebook).",
+      "image_url": "https://www.danceus.org/events/images/165524212106116/sabroso-sunday-at-al-amir-addison-cover.jpg",
+      "tags": [
+        "social",
+        "salsa",
+        "bachata",
+        "merengue"
+      ],
+      "price": null,
+      "id": "e5d9307e92288556",
+      "first_seen_at": "2026-05-25T12:58:59.756527+00:00",
+      "last_seen_at": "2026-05-25T12:58:59.756527+00:00",
+      "submitted_to_supabase": "2026-05-25T12:58:59.757240+00:00"
     }
   ]
 }

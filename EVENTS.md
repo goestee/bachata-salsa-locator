@@ -1,106 +1,51 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-05-24 11:44 AM CDT**
+> Auto-generated. Last update: **2026-05-25 07:59 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 73 upcoming events tracked. **8 new** since last run.
+> 68 upcoming events tracked. **8 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Noches Latinas Fridays at Los Lupes](https://www.danceus.org/event/16552421183470/noches-latinas-fridays-at-los-lupes-addison-tx/)** **_Varies_**  
-   Los Lupes Addison  
-   Fri, May 29, 2026 • all day  
-   `salsa` `bachata` `merengue` _via danceus_
-- **[Friday Latin at Al-Amir Arlington](https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/)** **_Varies_**  
-   Al-Amir Arlington  
-   Fri, May 29, 2026 • all day  
+- **[Salsa & bachata Thursdays advanced beginner/intermediate](https://www.meetup.com/salsa-with-jo/events/314720227/)** **_Varies_**  
+   Green Space Arts Collective · Denton  
+   Thu, May 28, 2026 • 7:30 PM  
+   `lesson` `salsa` `bachata` _via meetup_
+- **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
+   Victoria’s Restaurant · Farmers Branch  
+   Sun, May 31, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Salsa Sundays at The Statler](https://www.danceus.org/event/16552421262550/salsa-sundays-at-the-statler-dallas-tx/)** **_Varies_**  
+   The Statler · Dallas  
+   Sun, May 31, 2026 • all day  
+   `lesson` `salsa` _via danceus_
+- **[Sabroso Sunday at Al-Amir Addison](https://www.danceus.org/event/16552421219990/sabroso-sunday-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Sun, May 31, 2026 • all day  
    `social` `salsa` `bachata` `merengue` _via danceus_
-- **[Noches Latinas Saturdays at Los Lupes](https://www.danceus.org/event/16552421199670/noches-latinas-saturdays-at-los-lupes-addison-tx/)** **_Varies_**  
-   Los Lupes Addison  
-   Sat, May 30, 2026 • all day  
-   `salsa` `bachata` `merengue` _via danceus_
-- **[Salsa Bachata Night at Mexican Bar Company](https://www.danceus.org/event/16552421241878/salsa-bachata-night-at-mexican-bar-company-plano-tx/)** **_Varies_**  
-   Mexican Bar Company · Plano  
-   Sat, May 30, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Mi Pueblito](https://www.danceus.org/event/165524211430824/latin-night-at-mi-pueblito-garland-tx/)** **_Varies_**  
-   Mi Pueblito · Garland  
-   Sat, May 30, 2026 • all day  
-   `social` _via danceus_
-- **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/314589250/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Sat, May 30, 2026 • 4:00 PM  
+- **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/314745616/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Sun, May 31, 2026 • 6:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
-- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/314589544/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Sat, May 30, 2026 • 5:00 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[Salsón - Salsa and bachata dance social](https://www.meetup.com/salsa-with-jo/events/314930492/)** **_Varies_**  
-   Kumbala Dance Studio · Farmers Branch  
-   Fri, Jun 12, 2026 • 9:30 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
+- **[50 % off SUNDAY Salsa & BACHATA class in addison • we go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314745297/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Sun, May 31, 2026 • 6:30 PM  
+   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
+- **[David Herrera Amateur Latin / Ballroom dance team summer tryouts](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314744657/)** **_Varies_**  
+   You Can Dance Dallas  
+   Sun, May 31, 2026 • 7:45 PM  
+   `lesson` `festival` `salsa` `bachata` `cha-cha` _via meetup_
+- **[Latin Night](https://www.meetup.com/salsa-with-jo/events/314825604/)** **_Varies_**  
+   El Taco H · Denton  
+   Fri, Jun 5, 2026 • 10:00 PM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
 
 ---
 
 ## Upcoming
 
-
-### Sunday, May 24, 2026
-
-- **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
-   Victoria’s Restaurant · Farmers Branch  
-   Sun, May 24, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Salsa Sundays at The Statler](https://www.danceus.org/event/16552421262550/salsa-sundays-at-the-statler-dallas-tx/)** **_Varies_**  
-   The Statler · Dallas  
-   Sun, May 24, 2026 • all day  
-   `lesson` `salsa` _via danceus_
-- **[Sabroso Sunday at Al-Amir Addison](https://www.danceus.org/event/16552421219990/sabroso-sunday-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Sun, May 24, 2026 • all day  
-   `social` `salsa` `bachata` `merengue` _via danceus_
-- **[Salsa Sunday at Lola’s Cuban Food](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-sunday-at-lolas-cuban-food/)** **_Free_**  
-   Dallas-Fort Worth  
-   Sun, May 24, 2026 • 3:00 PM – 6:00 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via salsavida_
-- **[Salsa Sunday at La Chingona](https://golatindance.com/event/salsa-sunday-at-la-chingona/2026-05-24/)** **_Free_**  
-   La Chingona, 2800 Bledsoe St #100, Fort Worth, TX, 76107, United States  
-   Sun, May 24, 2026 • 3:00 PM – 6:00 PM  
-   `lesson` `salsa` `bachata` _via golatindance_
-- **[Son y Sabor at The Victoria](https://www.salsavida.com/event/texas/dallas-fort-worth/son-y-sabor-at-the-victoria/)** **_$7_**  
-   Dallas-Fort Worth  
-   Sun, May 24, 2026 • 5:30 PM – 10:30 PM  
-   `social` `salsa` `bachata` `merengue` _via salsavida_
-- **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/314635402/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, May 24, 2026 • 6:30 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[50 % off SUNDAY Salsa & BACHATA class in addison • we go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314635395/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, May 24, 2026 • 6:30 PM  
-   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
-- **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-05-24/)** **_Free_**  
-   Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
-   Sun, May 24, 2026 • 7:00 PM – 11:00 PM  
-   `social` `lesson` `salsa` _via golatindance_
-- **[David Herrera Amateur Latin / Ballroom dance team summer tryouts](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314636104/)** **_Varies_**  
-   You Can Dance Dallas  
-   Sun, May 24, 2026 • 7:45 PM  
-   `lesson` `festival` `salsa` `bachata` `cha-cha` _via meetup_
-- **[Fuego Sundays at Longhorn Icehouse](https://www.salsavida.com/event/texas/dallas-fort-worth/fuego-sundays-at-longhorn-icehouse/)** **_$10_**  
-   Dallas-Fort Worth  
-   Sun, May 24, 2026 • 10:00 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via salsavida_
-- **[Sabroso Sundays at Al-Amir Addison](https://www.salsavida.com/event/texas/dallas-fort-worth/sabroso-sundays-at-al-amir-addison/)** **_$10_**  
-   Dallas-Fort Worth  
-   Sun, May 24, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` `merengue` _via salsavida_
-- **[Sabroso Sundays at Al-Amir](https://golatindance.com/event/sabroso-sundays-at-al-amir/2026-05-24/)** **_Free_**  
-   Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States  
-   Sun, May 24, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` `merengue` _via golatindance_
 
 ### Monday, May 25, 2026
 
@@ -189,6 +134,10 @@
    DFW Young & Social · Farmers Branch  
    Thu, May 28, 2026 • 7:00 PM  
    `social` `lesson` `cha-cha` _via meetup_
+- **[Salsa & bachata Thursdays advanced beginner/intermediate](https://www.meetup.com/salsa-with-jo/events/314720227/)** **_Varies_**  
+   Green Space Arts Collective · Denton  
+   Thu, May 28, 2026 • 7:30 PM  
+   `lesson` `salsa` `bachata` _via meetup_
 - **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-05-28/)** **_Free_**  
    Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
    Thu, May 28, 2026 • 9:00 PM – 1:00 AM  
@@ -204,7 +153,7 @@
    Al-Amir Arlington  
    Fri, May 29, 2026 • all day  
    `social` `salsa` `bachata` `merengue` _via danceus_
-- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/314734343/)** **_Varies_**  
+- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/314734281/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Fri, May 29, 2026 • 7:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
@@ -282,6 +231,18 @@
    Salsadallas  
    Sun, May 31, 2026 • all day  
    `salsa` `lesson` _via instagram_
+- **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
+   Victoria’s Restaurant · Farmers Branch  
+   Sun, May 31, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Salsa Sundays at The Statler](https://www.danceus.org/event/16552421262550/salsa-sundays-at-the-statler-dallas-tx/)** **_Varies_**  
+   The Statler · Dallas  
+   Sun, May 31, 2026 • all day  
+   `lesson` `salsa` _via danceus_
+- **[Sabroso Sunday at Al-Amir Addison](https://www.danceus.org/event/16552421219990/sabroso-sunday-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Sun, May 31, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via danceus_
 - **[Salsa Sunday at Lola’s Cuban Food](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-sunday-at-lolas-cuban-food/)** **_Free_**  
    Dallas-Fort Worth  
    Sun, May 31, 2026 • 3:00 PM – 6:00 PM  
@@ -294,10 +255,22 @@
    Dallas-Fort Worth  
    Sun, May 31, 2026 • 5:30 PM – 10:30 PM  
    `social` `salsa` `bachata` `merengue` _via salsavida_
+- **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/314745616/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Sun, May 31, 2026 • 6:30 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
+- **[50 % off SUNDAY Salsa & BACHATA class in addison • we go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314745297/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Sun, May 31, 2026 • 6:30 PM  
+   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
 - **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-05-31/)** **_Free_**  
    Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
    Sun, May 31, 2026 • 7:00 PM – 11:00 PM  
    `social` `lesson` `salsa` _via golatindance_
+- **[David Herrera Amateur Latin / Ballroom dance team summer tryouts](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314744657/)** **_Varies_**  
+   You Can Dance Dallas  
+   Sun, May 31, 2026 • 7:45 PM  
+   `lesson` `festival` `salsa` `bachata` `cha-cha` _via meetup_
 - **[Fuego Sundays at Longhorn Icehouse](https://www.salsavida.com/event/texas/dallas-fort-worth/fuego-sundays-at-longhorn-icehouse/)** **_$10_**  
    Dallas-Fort Worth  
    Sun, May 31, 2026 • 10:00 PM  
@@ -339,6 +312,10 @@
    You Can Dance Dallas · Addison  
    Fri, Jun 5, 2026 • 7:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
+- **[Latin Night](https://www.meetup.com/salsa-with-jo/events/314825604/)** **_Varies_**  
+   El Taco H · Denton  
+   Fri, Jun 5, 2026 • 10:00 PM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
 
 ### Saturday, June 6, 2026
 
