@@ -1,18 +1,38 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-05-25 07:59 AM CDT**
+> Auto-generated. Last update: **2026-05-25 01:22 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 68 upcoming events tracked. **8 new** since last run.
+> 73 upcoming events tracked. **13 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
+- **[Salsa Dance Class for Beginners](https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1984721436243)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, May 26, 2026 • all day  
+   `social` `lesson` `salsa` _via eventbrite_
+- **[Beginner Cha Cha Dance Class](https://www.eventbrite.com/e/beginner-cha-cha-dance-class-tickets-1988881837114)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Thu, May 28, 2026 • all day  
+   `social` `lesson` `cha-cha` _via eventbrite_
 - **[Salsa & bachata Thursdays advanced beginner/intermediate](https://www.meetup.com/salsa-with-jo/events/314720227/)** **_Varies_**  
    Green Space Arts Collective · Denton  
    Thu, May 28, 2026 • 7:30 PM  
    `lesson` `salsa` `bachata` _via meetup_
+- **[Zona Rosa Takeover at The Clubhouse Dallas | Latin Night, VIP Tables & Drin](https://www.eventbrite.com/e/zona-rosa-takeover-at-the-clubhouse-dallas-latin-night-vip-tables-drin-tickets-1989367039367)** **_Varies_**  
+   The Clubhouse · Dallas  
+   Fri, May 29, 2026 • all day  
+   `social` _via eventbrite_
+- **[SALSA DEL BARRIO](https://www.eventbrite.com/e/salsa-del-barrio-tickets-1983990826971)** **_Varies_**  
+   Ocho Latin Cuisine Events · Dallas  
+   Sat, May 30, 2026 • all day  
+   `social` `lesson` `salsa` _via eventbrite_
+- **[Bachata Dance Class](https://www.eventbrite.com/e/bachata-dance-class-tickets-1978750656480)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, May 30, 2026 • all day  
+   `social` `lesson` `bachata` _via eventbrite_
 - **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
    Victoria’s Restaurant · Farmers Branch  
    Sun, May 31, 2026 • all day  
@@ -60,6 +80,10 @@
    Rockler Woodworking and Hardware - Garland  
    Tue, May 26, 2026 • all day  
    `salsa` _via eventbrite_
+- **[Salsa Dance Class for Beginners](https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1984721436243)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, May 26, 2026 • all day  
+   `social` `lesson` `salsa` _via eventbrite_
 - **[🇲🇽🎉 Fiesta Familiar Mexicana](https://www.meetup.com/wolfpackdfw/events/314682459/)** **_Varies_**  
    Gary W Irvin · Dallas  
    Tue, May 26, 2026 • 7:00 PM  
@@ -130,6 +154,10 @@
    Hangout · Irving  
    Thu, May 28, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Beginner Cha Cha Dance Class](https://www.eventbrite.com/e/beginner-cha-cha-dance-class-tickets-1988881837114)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Thu, May 28, 2026 • all day  
+   `social` `lesson` `cha-cha` _via eventbrite_
 - **[Beginner Cha Cha Dance Class](https://www.meetup.com/dfwyoungsocial/events/314724977/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Thu, May 28, 2026 • 7:00 PM  
@@ -153,6 +181,10 @@
    Al-Amir Arlington  
    Fri, May 29, 2026 • all day  
    `social` `salsa` `bachata` `merengue` _via danceus_
+- **[Zona Rosa Takeover at The Clubhouse Dallas | Latin Night, VIP Tables & Drin](https://www.eventbrite.com/e/zona-rosa-takeover-at-the-clubhouse-dallas-latin-night-vip-tables-drin-tickets-1989367039367)** **_Varies_**  
+   The Clubhouse · Dallas  
+   Fri, May 29, 2026 • all day  
+   `social` _via eventbrite_
 - **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/314734281/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Fri, May 29, 2026 • 7:30 PM  
@@ -196,6 +228,14 @@
    Mi Pueblito · Garland  
    Sat, May 30, 2026 • all day  
    `social` _via danceus_
+- **[SALSA DEL BARRIO](https://www.eventbrite.com/e/salsa-del-barrio-tickets-1983990826971)** **_Varies_**  
+   Ocho Latin Cuisine Events · Dallas  
+   Sat, May 30, 2026 • all day  
+   `social` `lesson` `salsa` _via eventbrite_
+- **[Bachata Dance Class](https://www.eventbrite.com/e/bachata-dance-class-tickets-1978750656480)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, May 30, 2026 • all day  
+   `social` `lesson` `bachata` _via eventbrite_
 - **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/314589250/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Sat, May 30, 2026 • 4:00 PM  
