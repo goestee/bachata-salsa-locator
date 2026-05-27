@@ -1,14 +1,18 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-05-26 03:35 PM CDT**
+> Auto-generated. Last update: **2026-05-27 07:48 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 73 upcoming events tracked. **1 new** since last run.
+> 68 upcoming events tracked. **2 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/314777859/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Jun 2, 2026 • 8:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 - **[7:00-11:00 2ND SATURDAY BALLROOM DANCE PARTY & QUICKSTEP CLASS](https://www.meetup.com/you-can-dance-dallas/events/314942058/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sat, Jun 13, 2026 • 7:00 PM  
@@ -18,33 +22,6 @@
 
 ## Upcoming
 
-
-### Tuesday, May 26, 2026
-
-- **[Wood Turned Chips & Salsa Bowl](https://www.eventbrite.com/e/wood-turned-chips-salsa-bowl-tickets-1984077875335)** **_Varies_**  
-   Rockler Woodworking and Hardware - Garland  
-   Tue, May 26, 2026 • all day  
-   `salsa` _via eventbrite_
-- **[Salsa Dance Class for Beginners](https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1984721436243)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, May 26, 2026 • all day  
-   `social` `lesson` `salsa` _via eventbrite_
-- **[🇲🇽🎉 Fiesta Familiar Mexicana](https://www.meetup.com/wolfpackdfw/events/314682459/)** **_Varies_**  
-   Gary W Irvin · Dallas  
-   Tue, May 26, 2026 • 7:00 PM  
-   `social` `salsa` _via meetup_
-- **[Caliente TUES @ ROTATE in Frisco ●FREE  SALSA & BACHATA class @ 7:30pm ● FOOD](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314885411/)** **_Varies_**  
-   Rotate Bar & Kitchen · Frisco  
-   Tue, May 26, 2026 • 7:15 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
-- **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-05-26/)** **_Free_**  
-   Rotate Social, 5454 Main st., Frisco, TX, United States  
-   Tue, May 26, 2026 • 7:30 PM – 11:30 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/314669114/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, May 26, 2026 • 8:00 PM  
-   `social` `lesson` `salsa` _via meetup_
 
 ### Wednesday, May 27, 2026
 
@@ -275,6 +252,10 @@
    Rotate Bar & Kitchen · Frisco  
    Tue, Jun 2, 2026 • 7:15 PM  
    `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/314777859/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Jun 2, 2026 • 8:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 
 ### Wednesday, June 3, 2026
 
