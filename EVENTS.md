@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-05-28 08:00 AM CDT**
+> Auto-generated. Last update: **2026-05-28 04:20 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 61 upcoming events tracked. **3 new** since last run.
+> 66 upcoming events tracked. **7 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -17,10 +17,26 @@
    Salsa At The Gardens  
    Fri, May 29, 2026 • 10:00 PM  
    `salsa` `bachata` `merengue` `social` _via instagram_
-- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/314777859/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, Jun 2, 2026 • 8:00 PM  
-   `social` `lesson` `salsa` _via meetup_
+- **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
+   Vidorra Dallas  
+   Wed, Jun 3, 2026 • all day  
+   `social` `lesson` `salsa` _via danceus_
+- **[Live Latin Night With Havana NRG at Sambuca360](https://www.danceus.org/event/165524211650016/live-latin-night-with-havana-nrg-at-sambuca-plano-tx/)** **_Varies_**  
+   Sambuca360 · Plano  
+   Wed, Jun 3, 2026 • all day  
+   `social` _via danceus_
+- **[Salseando and Bachateando Nights at El Botanero](https://www.danceus.org/event/16552421287400/salseando-and-bachateando-nights-at-el-botanero-dallas-tx/)** **_Varies_**  
+   El Botanero Bar · Dallas  
+   Wed, Jun 3, 2026 • all day  
+   `social` `salsa` `bachata` _via danceus_
+- **[Wednesday Salsa Social at Stratos](https://www.danceus.org/event/16552421361930/wednesday-salsa-social-at-stratos-dallas-tx/)** **_Varies_**  
+   Stratos Greek Taverna · Dallas  
+   Wed, Jun 3, 2026 • all day  
+   `social` `salsa` _via danceus_
+- **[7:00-11:00 2ND SATURDAY BALLROOM DANCE PARTY & TANGO CLASS](https://www.meetup.com/you-can-dance-dallas/events/314942058/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Sat, Jun 13, 2026 • 7:00 PM  
+   `social` `lesson` _via meetup_
 
 ---
 
@@ -232,6 +248,22 @@
 
 ### Wednesday, June 3, 2026
 
+- **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
+   Vidorra Dallas  
+   Wed, Jun 3, 2026 • all day  
+   `social` `lesson` `salsa` _via danceus_
+- **[Live Latin Night With Havana NRG at Sambuca360](https://www.danceus.org/event/165524211650016/live-latin-night-with-havana-nrg-at-sambuca-plano-tx/)** **_Varies_**  
+   Sambuca360 · Plano  
+   Wed, Jun 3, 2026 • all day  
+   `social` _via danceus_
+- **[Salseando and Bachateando Nights at El Botanero](https://www.danceus.org/event/16552421287400/salseando-and-bachateando-nights-at-el-botanero-dallas-tx/)** **_Varies_**  
+   El Botanero Bar · Dallas  
+   Wed, Jun 3, 2026 • all day  
+   `social` `salsa` `bachata` _via danceus_
+- **[Wednesday Salsa Social at Stratos](https://www.danceus.org/event/16552421361930/wednesday-salsa-social-at-stratos-dallas-tx/)** **_Varies_**  
+   Stratos Greek Taverna · Dallas  
+   Wed, Jun 3, 2026 • all day  
+   `social` `salsa` _via danceus_
 - **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
    Dallas-Fort Worth  
    Wed, Jun 3, 2026 • 7:00 PM – 11:00 PM  
@@ -288,6 +320,10 @@
 ### Saturday, June 13, 2026
 
 - **[7:00-11:00 2ND SATURDAY BALLROOM DANCE PARTY & QUICKSTEP CLASS](https://www.meetup.com/you-can-dance-dallas/events/314942058/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Sat, Jun 13, 2026 • 7:00 PM  
+   `social` `lesson` _via meetup_
+- **[7:00-11:00 2ND SATURDAY BALLROOM DANCE PARTY & TANGO CLASS](https://www.meetup.com/you-can-dance-dallas/events/314942058/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sat, Jun 13, 2026 • 7:00 PM  
    `social` `lesson` _via meetup_
