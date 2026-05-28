@@ -209,14 +209,32 @@ def main(argv: list[str] | None = None) -> int:
             sink = SupabaseSink(table=sb_cfg.get("table", "pending_events"))
             if sink.configured:
                 today_iso = datetime.now(timezone.utc).date().isoformat()
+                # Optional source allowlist — when set, only events from
+                # the listed sources are forwarded to Supabase. The local
+                # store + GitHub Pages still see everything; this filter
+                # only narrows what hits the partner app's review queue.
+                allowed_sources = {
+                    s.lower() for s in (sb_cfg.get("sources") or [])
+                }
                 unsent = [
                     e for e in store.all()
                     if not e.submitted_to_supabase
                     and e.start and e.start[:10] >= today_iso
+                    and (not allowed_sources
+                         or (e.source or "").lower() in allowed_sources)
                 ]
                 if unsent:
-                    log.info("Supabase: submitting %d unsent upcoming events",
-                             len(unsent))
+                    if allowed_sources:
+                        log.info(
+                            "Supabase: submitting %d unsent upcoming events "
+                            "(allowlist: %s)",
+                            len(unsent), ", ".join(sorted(allowed_sources)),
+                        )
+                    else:
+                        log.info(
+                            "Supabase: submitting %d unsent upcoming events",
+                            len(unsent),
+                        )
                     sent_ts = datetime.now(timezone.utc).isoformat()
                     for ev in sink.submit(unsent):
                         ev.submitted_to_supabase = sent_ts

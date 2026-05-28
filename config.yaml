@@ -147,15 +147,15 @@ sources:
     # Backed by Apify's `apify/instagram-scraper` actor. Set the
     # APIFY_TOKEN env var locally, or the same name as a GitHub Actions
     # repo secret in CI. ~$0.30 per 1000 results — at our current volume
-    # (13 accounts x 5 posts daily) this is roughly $5/month, right at
-    # the edge of Apify's free $5/mo credit. If we add more accounts,
-    # drop posts_per_account to 4 to keep a buffer.
+    # (15 accounts x 4 posts daily = 60 results/day) this is roughly
+    # $5/month, just inside Apify's free $5/mo credit. Bump
+    # posts_per_account if you want deeper history, but watch the bill.
     #
     # Add accounts as you find dance promoters / venues / studios on IG.
     # Verify each handle exists before adding (Apify returns a `not_found`
     # error for typos, just clutters logs).
     enabled: true
-    posts_per_account: 5
+    posts_per_account: 4
     accounts:
       # Studios / instructor accounts — high salsa/bachata event signal.
       - alphamidway          # Alpha Midway Dance Studio (Dallas)
@@ -173,6 +173,9 @@ sources:
       - gloriasnightlife     # Gloria's Nightlife
       - saboreslatinhouse    # Sabores Latin House
       - hearsayarlington     # Hearsay (Arlington)
+      # Added 2026-05-27 (Orlando spreadsheet expansion).
+      - dallasdancescene     # Dallas Dance Scene aggregator
+      - salsa.at.the.gardens # Salsa at the Gardens (recurring socials)
     # Hashtag pulls aren't yet wired through Apify in this source; harmless
     # to leave configured for the future.
     hashtags_enabled: false
@@ -194,6 +197,17 @@ sinks:
     # secrets in CI).
     enabled: true
     table: pending_events
+    # Restrict which sources are forwarded to Supabase. The GitHub Pages
+    # site + EVENTS.md still aggregate every source — this filter only
+    # affects what hits Orlando's pending queue. Set to a list of source
+    # names, or omit / set to [] to push everything (the historical
+    # default).
+    #
+    # As of 2026-05-27 we're Instagram-only here: those listings ship
+    # full portrait flyers (DanceUS only gives banner crops), and the
+    # other sources were creating dupes in Orlando's review queue.
+    sources:
+      - instagram
 
 # ---------------------------------------------------------------------------
 # Output
