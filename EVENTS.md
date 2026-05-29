@@ -1,18 +1,14 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-05-29 07:37 AM CDT**
+> Auto-generated. Last update: **2026-05-29 04:14 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 67 upcoming events tracked. **15 new** since last run.
+> 67 upcoming events tracked. **14 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[DALLAS… THE PARTY STARTS HERE](https://www.instagram.com/p/DY3mcuQjRQN/)** **_$5–$15_**  
-   Salsa At The Gardens  
-   Fri, May 29, 2026 • 10:00 PM  
-   `salsa` `bachata` `merengue` `social` _via instagram_
 - **[Salsa Dance Class for Beginners](https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1978750440835)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Sat, May 30, 2026 • all day  
