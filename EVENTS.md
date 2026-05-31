@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-05-31 05:06 AM CDT**
+> Auto-generated. Last update: **2026-05-31 11:50 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 56 upcoming events tracked. **12 new** since last run.
+> 59 upcoming events tracked. **9 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -13,26 +13,6 @@
    DFW Young & Social · Farmers Branch  
    Tue, Jun 2, 2026 • all day  
    `social` `lesson` `salsa` _via eventbrite_
-- **[Noches Latinas Fridays at Los Lupes](https://www.danceus.org/event/16552421183470/noches-latinas-fridays-at-los-lupes-addison-tx/)** **_Varies_**  
-   Los Lupes Addison  
-   Fri, Jun 5, 2026 • all day  
-   `salsa` `bachata` `merengue` _via danceus_
-- **[Friday Latin at Al-Amir Arlington](https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/)** **_Varies_**  
-   Al-Amir Arlington  
-   Fri, Jun 5, 2026 • all day  
-   `social` `salsa` `bachata` `merengue` _via danceus_
-- **[BIG FRIDAY SALSA & bachata class in Addison ● We go eat & dance after ●](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314824135/)** **_Varies_**  
-   You Can Dance Dallas  
-   Fri, Jun 5, 2026 • 7:30 PM  
-   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
-- **[25 % off FRIDAY salsa & bachata class in Addison](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314824099/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Fri, Jun 5, 2026 • 7:30 PM  
-   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
-- **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314824098/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Fri, Jun 5, 2026 • 7:30 PM  
-   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
 - **[SALSA DEL BARRIO](https://www.eventbrite.com/e/salsa-del-barrio-tickets-1983990827974)** **_Varies_**  
    Ocho Latin Cuisine Events · Dallas  
    Sat, Jun 6, 2026 • all day  
@@ -41,6 +21,18 @@
    DFW Young & Social · Farmers Branch  
    Sat, Jun 6, 2026 • all day  
    `social` `lesson` `bachata` _via eventbrite_
+- **[Noches Latinas Saturdays at Los Lupes](https://www.danceus.org/event/16552421199670/noches-latinas-saturdays-at-los-lupes-addison-tx/)** **_Varies_**  
+   Los Lupes Addison  
+   Sat, Jun 6, 2026 • all day  
+   `salsa` `bachata` `merengue` _via danceus_
+- **[Salsa Bachata Night at Mexican Bar Company](https://www.danceus.org/event/16552421241878/salsa-bachata-night-at-mexican-bar-company-plano-tx/)** **_Varies_**  
+   Mexican Bar Company · Plano  
+   Sat, Jun 6, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Latin Night at Mi Pueblito](https://www.danceus.org/event/165524211430824/latin-night-at-mi-pueblito-garland-tx/)** **_Varies_**  
+   Mi Pueblito · Garland  
+   Sat, Jun 6, 2026 • all day  
+   `social` _via danceus_
 - **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/314832012/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Sat, Jun 6, 2026 • 4:00 PM  
@@ -49,10 +41,6 @@
    DFW Young & Social · Farmers Branch  
    Sat, Jun 6, 2026 • 5:00 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
-- **[Salsa and Bachata dancing @salsonsocial every 2nd Friday of the month!](https://www.instagram.com/p/DY53vdWu7CY/)** **_$17–$20_**  
-   Kumbaladancestudio  
-   Fri, Jun 12, 2026 • 9:30 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/314988252/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Tue, Jun 16, 2026 • 8:00 PM  
@@ -236,6 +224,18 @@
    DFW Young & Social · Farmers Branch  
    Sat, Jun 6, 2026 • all day  
    `social` `lesson` `bachata` _via eventbrite_
+- **[Noches Latinas Saturdays at Los Lupes](https://www.danceus.org/event/16552421199670/noches-latinas-saturdays-at-los-lupes-addison-tx/)** **_Varies_**  
+   Los Lupes Addison  
+   Sat, Jun 6, 2026 • all day  
+   `salsa` `bachata` `merengue` _via danceus_
+- **[Salsa Bachata Night at Mexican Bar Company](https://www.danceus.org/event/16552421241878/salsa-bachata-night-at-mexican-bar-company-plano-tx/)** **_Varies_**  
+   Mexican Bar Company · Plano  
+   Sat, Jun 6, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Latin Night at Mi Pueblito](https://www.danceus.org/event/165524211430824/latin-night-at-mi-pueblito-garland-tx/)** **_Varies_**  
+   Mi Pueblito · Garland  
+   Sat, Jun 6, 2026 • all day  
+   `social` _via danceus_
 - **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/314832012/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Sat, Jun 6, 2026 • 4:00 PM  
