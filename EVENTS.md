@@ -1,6 +1,6 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-06-01 02:38 PM CDT**
+> Auto-generated. Last update: **2026-06-01 05:39 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
 > 115 upcoming events tracked. **70 new** since last run.
 > All times shown in **Central** (DFW local).
