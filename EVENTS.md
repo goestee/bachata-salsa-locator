@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-06-01 05:39 PM CDT**
+> Auto-generated. Last update: **2026-06-02 12:58 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 115 upcoming events tracked. **70 new** since last run.
+> 118 upcoming events tracked. **73 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -25,6 +25,10 @@
    4801 Spring Valley Rd suite 118 · Farmers Branch  
    Fri, Jun 5, 2026 • 7:00 PM  
    `social` `workshop` `lesson` `salsa` _via meetup_
+- **[Now’s your chance to catch @laalemana_official in the casa this Friday June 5th](https://www.instagram.com/p/DZDDB_5ORnv/)** **_Varies_**  
+   Echalesalsita Dallas  
+   Fri, Jun 5, 2026 • 9:00 PM  
+   `bachata` `lesson` _via instagram_
 - **[Friday Latin at Al-Amir Arlington](https://golatindance.com/event/friday-rumba-nights-at-al-amir-arlington/2026-06-05/)** **_Varies_**  
    Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
    Fri, Jun 5, 2026 • 10:00 PM – 2:00 AM  
@@ -105,10 +109,6 @@
    Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States  
    Sun, Jun 7, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` `merengue` _via golatindance_
-- **[Fuego Sundays at Longhorn Icehouse](https://www.salsavida.com/event/texas/dallas-fort-worth/fuego-sundays-at-longhorn-icehouse/)** **_$10_**  
-   Dallas-Fort Worth  
-   Sun, Jun 7, 2026 • 10:00 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via salsavida_
 
 ---
 
@@ -226,6 +226,10 @@
    You Can Dance Dallas · Addison  
    Fri, Jun 5, 2026 • 7:30 PM  
    `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
+- **[Now’s your chance to catch @laalemana_official in the casa this Friday June 5th](https://www.instagram.com/p/DZDDB_5ORnv/)** **_Varies_**  
+   Echalesalsita Dallas  
+   Fri, Jun 5, 2026 • 9:00 PM  
+   `bachata` `lesson` _via instagram_
 - **[Latin Night](https://www.meetup.com/salsa-with-jo/events/314825604/)** **_Varies_**  
    El Taco H · Denton  
    Fri, Jun 5, 2026 • 10:00 PM  
@@ -408,6 +412,10 @@
 
 ### Friday, June 12, 2026
 
+- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/314929478/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Fri, Jun 12, 2026 • 7:30 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 - **[Salson Social](https://golatindance.com/event/salson-social/2026-06-12/)** **_$15–$18_**  
    Kumbala Dance Studio, 4340 Spring Valley Road, Suite 4340, Farmers Branch, TX, 75244, United States  
    Fri, Jun 12, 2026 • 9:00 PM – 2:00 AM  
@@ -574,6 +582,13 @@
    Dallas-Fort Worth  
    Wed, Jun 24, 2026 • 9:30 PM – 2:00 AM  
    `social` `lesson` `salsa` `bachata` _via salsavida_
+
+### Friday, June 26, 2026
+
+- **[Extra Level 2 Salsa/Bachata Group Class | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315046084/)** **_Varies_**  
+   4801 Spring Valley Rd suite 118 · Farmers Branch  
+   Fri, Jun 26, 2026 • 7:00 PM  
+   `social` `workshop` `lesson` `salsa` `bachata` _via meetup_
 
 ### Saturday, June 27, 2026
 
