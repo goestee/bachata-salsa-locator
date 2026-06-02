@@ -1,114 +1,26 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-06-02 12:58 PM CDT**
+> Auto-generated. Last update: **2026-06-02 05:16 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 118 upcoming events tracked. **73 new** since last run.
+> 118 upcoming events tracked. **3 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-06-02/)** **_Free_**  
-   Rotate Social, 5454 Main st., Frisco, TX, United States  
-   Tue, Jun 2, 2026 • 7:30 PM – 11:30 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Latin Night at Gigis](https://golatindance.com/event/latin-night-at-gigis/2026-06-03/)** **_Free_**  
-   Gigis, 7300 Lone Star Drive C150, Plano, TX, 75024, United States  
-   Wed, Jun 3, 2026 • 9:00 PM – 2:00 AM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-06-04/)** **_Free_**  
-   Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
-   Thu, Jun 4, 2026 • 9:00 PM – 1:00 AM  
-   `social` `lesson` `salsa` _via golatindance_
-- **[Level 1.5 Salsa Group Class | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315046035/)** **_Varies_**  
-   4801 Spring Valley Rd suite 118 · Farmers Branch  
-   Fri, Jun 5, 2026 • 7:00 PM  
-   `social` `workshop` `lesson` `salsa` _via meetup_
 - **[Now’s your chance to catch @laalemana_official in the casa this Friday June 5th](https://www.instagram.com/p/DZDDB_5ORnv/)** **_Varies_**  
    Echalesalsita Dallas  
    Fri, Jun 5, 2026 • 9:00 PM  
    `bachata` `lesson` _via instagram_
-- **[Friday Latin at Al-Amir Arlington](https://golatindance.com/event/friday-rumba-nights-at-al-amir-arlington/2026-06-05/)** **_Varies_**  
-   Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
-   Fri, Jun 5, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` `merengue` _via golatindance_
-- **[Echale Salsita Dallas](https://golatindance.com/event/echale-salsita-dallas-2/2026-06-05/)** **_$17–$25_**  
-   2600 North Stemmons Fwy #188, 2600 North Stemmons Fwy #188, Dallas, TX, 75207, United States  
-   Fri, Jun 5, 2026 • 10:00 PM – 2:00 AM  
-   `social` `lesson` `festival` `salsa` `bachata` _via golatindance_
-- **[Rumba Fridays @ Taboo Lounge Dallas](https://golatindance.com/event/rumba-fridays-taboo-lounge-dallas/2026-06-05/)** **_$5–$15_**  
-   Taboo Dallas, 1418 N Riverfront, Dallas, TX, 75207, United States  
-   Fri, Jun 5, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` `merengue` _via golatindance_
-- **[Salsa on the sand at The Strand](https://golatindance.com/event/salsa-on-the-sand-at-the-strand/2026-06-06/)** **_Varies_**  
-   The Strand, 150 Continental Dr, Lewisville, TX, 75067, United States  
-   Sat, Jun 6, 2026 • 7:00 PM – 12:00 AM  
-   `salsa` _via golatindance_
-- **[Dallas Can Dance Saturday Social](https://golatindance.com/event/dcd-mas-bachata-every-1st-saturday-of-the-month-90-bachata/2026-06-06/)** **_$20–$25_**  
-   Dallas Can Dance – The Academy, 2650 Midway Rd #130, Carrollton, TX, 75006, United States  
-   Sat, Jun 6, 2026 • 9:00 PM – 3:00 AM  
-   `social` `lesson` `salsa` `bachata` `kizomba` _via golatindance_
-- **[Latin Saturday at Mexican Bar Company](https://golatindance.com/event/latin-saturday-at-mexican-bar-company/2026-06-06/)** **_Free_**  
-   Mexican Bar Company, 6121 West Park Blvd Ste RS-10, Plano, TX, 75093, United States  
-   Sat, Jun 6, 2026 • 10:00 PM – 2:00 AM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Sabados de Gazadera at Al-Amir Arlington](https://golatindance.com/event/sabados-de-gazadera-at-al-amir-arlington/2026-06-06/)** **_$10_**  
-   Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
-   Sat, Jun 6, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` _via golatindance_
-- **[Rumba Tropical en Reys's Sports Bar](https://golatindance.com/event/rumba-tropical-en-reyss-sports-bar/2026-06-06/)** **_Free_**  
-   Reys Sports Bar, 2836 N Oconnor Rd, Irving, TX, United States  
-   Sat, Jun 6, 2026 • 10:00 PM – 2:00 AM  
-   `salsa` `bachata` `merengue` _via golatindance_
-- **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
-   Victoria’s Restaurant · Farmers Branch  
-   Sun, Jun 7, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Salsa Sundays at The Statler](https://www.danceus.org/event/16552421262550/salsa-sundays-at-the-statler-dallas-tx/)** **_Varies_**  
-   The Statler · Dallas  
-   Sun, Jun 7, 2026 • all day  
-   `lesson` `salsa` _via danceus_
-- **[Sabroso Sunday at Al-Amir Addison](https://www.danceus.org/event/16552421219990/sabroso-sunday-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Sun, Jun 7, 2026 • all day  
-   `social` `salsa` `bachata` `merengue` _via danceus_
-- **[Salsa Sunday at La Chingona](https://golatindance.com/event/salsa-sunday-at-la-chingona/2026-06-07/)** **_Free_**  
-   La Chingona, 2800 Bledsoe St #100, Fort Worth, TX, 76107, United States  
-   Sun, Jun 7, 2026 • 3:00 PM – 6:00 PM  
-   `lesson` `salsa` `bachata` _via golatindance_
-- **[Salsa Sunday at Lola’s Cuban Food](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-sunday-at-lolas-cuban-food/)** **_Free_**  
-   Dallas-Fort Worth  
-   Sun, Jun 7, 2026 • 3:00 PM – 6:00 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via salsavida_
-- **[Son y Sabor at The Victoria](https://www.salsavida.com/event/texas/dallas-fort-worth/son-y-sabor-at-the-victoria/)** **_$7_**  
-   Dallas-Fort Worth  
-   Sun, Jun 7, 2026 • 5:30 PM – 10:30 PM  
-   `social` `salsa` `bachata` `merengue` _via salsavida_
-- **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/314854107/)** **_Varies_**  
+- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/314929478/)** **_Varies_**  
    You Can Dance Dallas · Addison  
-   Sun, Jun 7, 2026 • 6:30 PM  
+   Fri, Jun 12, 2026 • 7:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
-- **[50 % off SUNDAY Salsa & BACHATA class in addison • we go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314854093/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Jun 7, 2026 • 6:30 PM  
-   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
-- **[FREE Beginner Salsa & Bachata | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315045804/)** **_Varies_**  
-   Kumbala Dance Studio · Farmers Branch  
-   Sun, Jun 7, 2026 • 7:00 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-06-07/)** **_Free_**  
-   Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
-   Sun, Jun 7, 2026 • 7:00 PM – 11:00 PM  
-   `social` `lesson` `salsa` _via golatindance_
-- **[David Herrera Amateur Latin / Ballroom dance team summer tryouts](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314854763/)** **_Varies_**  
-   You Can Dance Dallas  
-   Sun, Jun 7, 2026 • 7:45 PM  
-   `lesson` `festival` `salsa` `bachata` `cha-cha` _via meetup_
-- **[Sabroso Sundays at Al-Amir](https://golatindance.com/event/sabroso-sundays-at-al-amir/2026-06-07/)** **_Free_**  
-   Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States  
-   Sun, Jun 7, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[Extra Level 2 Salsa/Bachata Group Class | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315046084/)** **_Varies_**  
+   4801 Spring Valley Rd suite 118 · Farmers Branch  
+   Fri, Jun 26, 2026 • 7:00 PM  
+   `social` `workshop` `lesson` `salsa` `bachata` _via meetup_
 
 ---
 
