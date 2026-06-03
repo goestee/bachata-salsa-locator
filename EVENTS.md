@@ -1,18 +1,14 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-06-03 01:17 PM CDT**
+> Auto-generated. Last update: **2026-06-03 05:21 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 117 upcoming events tracked. **6 new** since last run.
+> 117 upcoming events tracked. **3 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Now’s your chance to catch @laalemana_official in the casa this Friday June 5th](https://www.instagram.com/p/DZDDB_5ORnv/)** **_Varies_**  
-   Echalesalsita Dallas  
-   Fri, Jun 5, 2026 • 9:00 PM  
-   `bachata` `lesson` _via instagram_
 - **[NOCHE LATINA in Oak Cliff](https://www.instagram.com/p/DZGQofyiUnt/)** **_Free_**  
    Halperin Park  
    Sun, Jun 7, 2026 • 7:00 PM  
@@ -25,14 +21,6 @@
    DFW Young & Social · Farmers Branch  
    Tue, Jun 9, 2026 • 8:00 PM  
    `social` `lesson` `salsa` _via meetup_
-- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/314929478/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Fri, Jun 12, 2026 • 7:30 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[Extra Level 2 Salsa/Bachata Group Class | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315046084/)** **_Varies_**  
-   4801 Spring Valley Rd suite 118 · Farmers Branch  
-   Fri, Jun 26, 2026 • 7:00 PM  
-   `social` `workshop` `lesson` `salsa` `bachata` _via meetup_
 
 ---
 
