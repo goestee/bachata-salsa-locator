@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-06-02 05:16 PM CDT**
+> Auto-generated. Last update: **2026-06-03 01:17 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 118 upcoming events tracked. **3 new** since last run.
+> 117 upcoming events tracked. **6 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -13,6 +13,18 @@
    Echalesalsita Dallas  
    Fri, Jun 5, 2026 • 9:00 PM  
    `bachata` `lesson` _via instagram_
+- **[NOCHE LATINA in Oak Cliff](https://www.instagram.com/p/DZGQofyiUnt/)** **_Free_**  
+   Halperin Park  
+   Sun, Jun 7, 2026 • 7:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
+- **[Caliente TUES @ ROTATE in Frisco ●FREE  SALSA & BACHATA class @ 7:30pm ● FOOD](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314885025/)** **_Varies_**  
+   Rotate Bar & Kitchen · Frisco  
+   Tue, Jun 9, 2026 • 7:15 PM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/314885567/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Jun 9, 2026 • 8:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 - **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/314929478/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Fri, Jun 12, 2026 • 7:30 PM  
@@ -26,25 +38,6 @@
 
 ## Upcoming
 
-
-### Tuesday, June 2, 2026
-
-- **[Salsa Dance Class for Beginners](https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1984721437246)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, Jun 2, 2026 • all day  
-   `social` `lesson` `salsa` _via eventbrite_
-- **[Caliente TUES @ ROTATE in Frisco ●FREE  SALSA & BACHATA class @ 7:30pm ● FOOD](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314776956/)** **_Varies_**  
-   Rotate Bar & Kitchen · Frisco  
-   Tue, Jun 2, 2026 • 7:15 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
-- **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-06-02/)** **_Free_**  
-   Rotate Social, 5454 Main st., Frisco, TX, United States  
-   Tue, Jun 2, 2026 • 7:30 PM – 11:30 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/314777859/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, Jun 2, 2026 • 8:00 PM  
-   `social` `lesson` `salsa` _via meetup_
 
 ### Wednesday, June 3, 2026
 
@@ -264,6 +257,10 @@
    Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
    Sun, Jun 7, 2026 • 7:00 PM – 11:00 PM  
    `social` `lesson` `salsa` _via golatindance_
+- **[NOCHE LATINA in Oak Cliff](https://www.instagram.com/p/DZGQofyiUnt/)** **_Free_**  
+   Halperin Park  
+   Sun, Jun 7, 2026 • 7:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[David Herrera Amateur Latin / Ballroom dance team summer tryouts](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314854763/)** **_Varies_**  
    You Can Dance Dallas  
    Sun, Jun 7, 2026 • 7:45 PM  
@@ -283,10 +280,18 @@
 
 ### Tuesday, June 9, 2026
 
+- **[Caliente TUES @ ROTATE in Frisco ●FREE  SALSA & BACHATA class @ 7:30pm ● FOOD](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/314885025/)** **_Varies_**  
+   Rotate Bar & Kitchen · Frisco  
+   Tue, Jun 9, 2026 • 7:15 PM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
 - **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-06-09/)** **_Free_**  
    Rotate Social, 5454 Main st., Frisco, TX, United States  
    Tue, Jun 9, 2026 • 7:30 PM – 11:30 PM  
    `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/314885567/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Jun 9, 2026 • 8:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 
 ### Wednesday, June 10, 2026
 
