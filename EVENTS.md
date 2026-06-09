@@ -1,38 +1,18 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-06-08 11:52 AM CDT**
+> Auto-generated. Last update: **2026-06-09 12:09 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 106 upcoming events tracked. **16 new** since last run.
+> 107 upcoming events tracked. **11 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Salsa Dance Class for Beginners](https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1984721438249)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, Jun 9, 2026 • all day  
-   `social` `lesson` `salsa` _via eventbrite_
-- **[SALSA DEL BARRIO](https://www.eventbrite.com/e/salsa-del-barrio-tickets-1983990828977)** **_Varies_**  
-   Ocho Latin Cuisine Events · Dallas  
-   Sat, Jun 13, 2026 • all day  
-   `social` `lesson` `salsa` _via eventbrite_
-- **[Bachata Dance Class](https://www.eventbrite.com/e/bachata-dance-class-tickets-1978750658486)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Sat, Jun 13, 2026 • all day  
-   `social` `lesson` `bachata` _via eventbrite_
-- **[Noches Latinas Saturdays at Los Lupes](https://www.danceus.org/event/16552421199670/noches-latinas-saturdays-at-los-lupes-addison-tx/)** **_Varies_**  
-   Los Lupes Addison  
-   Sat, Jun 13, 2026 • all day  
-   `salsa` `bachata` `merengue` _via danceus_
-- **[Salsa Bachata Night at Mexican Bar Company](https://www.danceus.org/event/16552421241878/salsa-bachata-night-at-mexican-bar-company-plano-tx/)** **_Varies_**  
-   Mexican Bar Company · Plano  
-   Sat, Jun 13, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Mi Pueblito](https://www.danceus.org/event/165524211430824/latin-night-at-mi-pueblito-garland-tx/)** **_Varies_**  
-   Mi Pueblito · Garland  
-   Sat, Jun 13, 2026 • all day  
-   `social` _via danceus_
+- **[Mi gente, Join us for an awesome time with friends and family! Be ready for a night of Latin dancing, beach volleyball,](https://www.instagram.com/p/DZWBFkdTrmm/)** **_$7–$15_**  
+   Mambole Dallas  
+   Sat, Jun 13, 2026 • 7:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
    Victoria’s Restaurant · Farmers Branch  
    Sun, Jun 14, 2026 • all day  
@@ -257,6 +237,10 @@
    You Can Dance Dallas · Addison  
    Sat, Jun 13, 2026 • 7:00 PM  
    `social` `lesson` _via meetup_
+- **[Mi gente, Join us for an awesome time with friends and family! Be ready for a night of Latin dancing, beach volleyball,](https://www.instagram.com/p/DZWBFkdTrmm/)** **_$7–$15_**  
+   Mambole Dallas  
+   Sat, Jun 13, 2026 • 7:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[Latin Saturday at Mexican Bar Company](https://golatindance.com/event/latin-saturday-at-mexican-bar-company/2026-06-13/)** **_Free_**  
    Mexican Bar Company, 6121 West Park Blvd Ste RS-10, Plano, TX, 75093, United States  
    Sat, Jun 13, 2026 • 10:00 PM – 2:00 AM  
