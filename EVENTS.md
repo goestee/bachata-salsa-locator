@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-06-10 12:22 AM CDT**
+> Auto-generated. Last update: **2026-06-10 11:39 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 111 upcoming events tracked. **9 new** since last run.
+> 111 upcoming events tracked. **8 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -13,10 +13,6 @@
    Salsadallas  
    Sat, Jun 13, 2026 • 6:30 PM  
    `salsa` `lesson` `social` `festival` _via instagram_
-- **[Mi gente, Join us for an awesome time with friends and family! Be ready for a night of Latin dancing, beach volleyball,](https://www.instagram.com/p/DZWBFkdTrmm/)** **_$7–$15_**  
-   Mambole Dallas  
-   Sat, Jun 13, 2026 • 7:00 PM  
-   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[SALSA NIGHT @ ILUSION](https://www.instagram.com/p/DZWwmquFatW/)** **_Free_**  
    Salsa At The Gardens  
    Wed, Jun 17, 2026 • 6:30 PM – 9:30 PM  
