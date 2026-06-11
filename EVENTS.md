@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-06-11 12:33 AM CDT**
+> Auto-generated. Last update: **2026-06-11 11:58 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 102 upcoming events tracked. **9 new** since last run.
+> 111 upcoming events tracked. **10 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -13,38 +13,42 @@
    Salsonsocial  
    Fri, Jun 12, 2026 • 9:30 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
-- **[FREE SALSA LESSONS IN ADDISON, TX](https://www.instagram.com/p/DZWnvPVERQf/)** **_Free_**  
-   Salsadallas  
-   Sat, Jun 13, 2026 • 6:30 PM  
-   `salsa` `lesson` `social` `festival` _via instagram_
-- **[SALSA NIGHT @ ILUSION](https://www.instagram.com/p/DZWwmquFatW/)** **_Free_**  
-   Salsa At The Gardens  
-   Wed, Jun 17, 2026 • 6:30 PM – 9:30 PM  
-   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
-- **[FREE SALSA LESSONS IN ADDISON, TX](https://www.instagram.com/p/DZWnvPVERQf/)** **_Free_**  
-   Salsadallas  
-   Sat, Jun 20, 2026 • 6:30 PM  
-   `salsa` `lesson` `social` `festival` _via instagram_
-- **[FREE SALSA LESSONS IN ADDISON, TX](https://www.instagram.com/p/DZWnvPVERQf/)** **_Free_**  
-   Salsadallas  
-   Sat, Jun 27, 2026 • 6:30 PM  
-   `salsa` `lesson` `social` `festival` _via instagram_
-- **[FREE SALSA LESSONS IN ADDISON, TX](https://www.instagram.com/p/DZWnvPVERQf/)** **_Free_**  
-   Salsadallas  
-   Sat, Jul 4, 2026 • 6:30 PM  
-   `salsa` `lesson` `social` `festival` _via instagram_
-- **[FREE SALSA LESSONS IN ADDISON, TX](https://www.instagram.com/p/DZWnvPVERQf/)** **_Free_**  
-   Salsadallas  
-   Sat, Jul 11, 2026 • 6:30 PM  
-   `salsa` `lesson` `social` `festival` _via instagram_
-- **[FREE SALSA LESSONS IN ADDISON, TX](https://www.instagram.com/p/DZWnvPVERQf/)** **_Free_**  
-   Salsadallas  
-   Sat, Jul 18, 2026 • 6:30 PM  
-   `salsa` `lesson` `social` `festival` _via instagram_
-- **[FREE SALSA LESSONS IN ADDISON, TX](https://www.instagram.com/p/DZWnvPVERQf/)** **_Free_**  
-   Salsadallas  
-   Thu, Aug 20, 2026 • 6:30 PM  
-   `salsa` `lesson` `social` `festival` _via instagram_
+- **[Salsa Dance Class for Beginners](https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1978750442841)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, Jun 13, 2026 • all day  
+   `social` `lesson` `salsa` _via eventbrite_
+- **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
+   Vidorra Dallas  
+   Wed, Jun 17, 2026 • all day  
+   `social` `lesson` `salsa` _via danceus_
+- **[Live Latin Night With Havana NRG at Sambuca360](https://www.danceus.org/event/165524211650016/live-latin-night-with-havana-nrg-at-sambuca-plano-tx/)** **_Varies_**  
+   Sambuca360 · Plano  
+   Wed, Jun 17, 2026 • all day  
+   `social` _via danceus_
+- **[Salseando and Bachateando Nights at El Botanero](https://www.danceus.org/event/16552421287400/salseando-and-bachateando-nights-at-el-botanero-dallas-tx/)** **_Varies_**  
+   El Botanero Bar · Dallas  
+   Wed, Jun 17, 2026 • all day  
+   `social` `salsa` `bachata` _via danceus_
+- **[Wednesday Salsa Social at Stratos](https://www.danceus.org/event/16552421361930/wednesday-salsa-social-at-stratos-dallas-tx/)** **_Varies_**  
+   Stratos Greek Taverna · Dallas  
+   Wed, Jun 17, 2026 • all day  
+   `social` `salsa` _via danceus_
+- **[The Salsa Romantica Social - DALLAS](https://www.eventbrite.com/e/the-salsa-romantica-social-dallas-tickets-1991519349986)** **_Varies_**  
+   Kumbala Dance Studio · Farmers Branch  
+   Fri, Jun 19, 2026 • all day  
+   `social` `salsa` `bachata` _via eventbrite_
+- **[Wood Turned Chips & Salsa Bowl](https://www.eventbrite.com/e/wood-turned-chips-salsa-bowl-tickets-1986544763865)** **_Varies_**  
+   Rockler Woodworking and Hardware - Garland  
+   Sat, Jun 20, 2026 • all day  
+   `salsa` _via eventbrite_
+- **[Salsa Sunday at La Chingona](https://golatindance.com/event/salsa-sunday-at-la-chingona/2026-06-21/)** **_Free_**  
+   La Chingona, 2800 Bledsoe St #100, Fort Worth, TX, 76107, United States  
+   Sun, Jun 21, 2026 • 3:00 PM – 6:00 PM  
+   `lesson` `salsa` `bachata` _via golatindance_
+- **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-06-21/)** **_Free_**  
+   Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
+   Sun, Jun 21, 2026 • 7:00 PM – 11:00 PM  
+   `social` `lesson` `salsa` _via golatindance_
 
 ---
 
@@ -151,6 +155,10 @@
    Mi Pueblito · Garland  
    Sat, Jun 13, 2026 • all day  
    `social` _via danceus_
+- **[Salsa Dance Class for Beginners](https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1978750442841)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, Jun 13, 2026 • all day  
+   `social` `lesson` `salsa` _via eventbrite_
 - **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/314940303/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Sat, Jun 13, 2026 • 4:00 PM  
@@ -268,6 +276,22 @@
 
 ### Wednesday, June 17, 2026
 
+- **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
+   Vidorra Dallas  
+   Wed, Jun 17, 2026 • all day  
+   `social` `lesson` `salsa` _via danceus_
+- **[Live Latin Night With Havana NRG at Sambuca360](https://www.danceus.org/event/165524211650016/live-latin-night-with-havana-nrg-at-sambuca-plano-tx/)** **_Varies_**  
+   Sambuca360 · Plano  
+   Wed, Jun 17, 2026 • all day  
+   `social` _via danceus_
+- **[Salseando and Bachateando Nights at El Botanero](https://www.danceus.org/event/16552421287400/salseando-and-bachateando-nights-at-el-botanero-dallas-tx/)** **_Varies_**  
+   El Botanero Bar · Dallas  
+   Wed, Jun 17, 2026 • all day  
+   `social` `salsa` `bachata` _via danceus_
+- **[Wednesday Salsa Social at Stratos](https://www.danceus.org/event/16552421361930/wednesday-salsa-social-at-stratos-dallas-tx/)** **_Varies_**  
+   Stratos Greek Taverna · Dallas  
+   Wed, Jun 17, 2026 • all day  
+   `social` `salsa` _via danceus_
 - **[SALSA NIGHT @ ILUSION](https://www.instagram.com/p/DZWwmquFatW/)** **_Free_**  
    Salsa At The Gardens  
    Wed, Jun 17, 2026 • 6:30 PM – 9:30 PM  
@@ -302,6 +326,10 @@
 
 ### Friday, June 19, 2026
 
+- **[The Salsa Romantica Social - DALLAS](https://www.eventbrite.com/e/the-salsa-romantica-social-dallas-tickets-1991519349986)** **_Varies_**  
+   Kumbala Dance Studio · Farmers Branch  
+   Fri, Jun 19, 2026 • all day  
+   `social` `salsa` `bachata` _via eventbrite_
 - **[Una Aventura Salsa Social at Studio 22 Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/una-aventura-salsa-social-at-studio-22-dallas/)** **_$18_**  
    Dallas-Fort Worth  
    Fri, Jun 19, 2026 • 8:00 PM  
@@ -329,6 +357,10 @@
 
 ### Saturday, June 20, 2026
 
+- **[Wood Turned Chips & Salsa Bowl](https://www.eventbrite.com/e/wood-turned-chips-salsa-bowl-tickets-1986544763865)** **_Varies_**  
+   Rockler Woodworking and Hardware - Garland  
+   Sat, Jun 20, 2026 • all day  
+   `salsa` _via eventbrite_
 - **[FREE SALSA LESSONS IN ADDISON, TX](https://www.instagram.com/p/DZWnvPVERQf/)** **_Free_**  
    Salsadallas  
    Sat, Jun 20, 2026 • 6:30 PM  
@@ -364,10 +396,18 @@
    Dallas-Fort Worth  
    Sun, Jun 21, 2026 • 3:00 PM – 6:00 PM  
    `social` `lesson` `salsa` `bachata` `merengue` _via salsavida_
+- **[Salsa Sunday at La Chingona](https://golatindance.com/event/salsa-sunday-at-la-chingona/2026-06-21/)** **_Free_**  
+   La Chingona, 2800 Bledsoe St #100, Fort Worth, TX, 76107, United States  
+   Sun, Jun 21, 2026 • 3:00 PM – 6:00 PM  
+   `lesson` `salsa` `bachata` _via golatindance_
 - **[Son y Sabor at The Victoria](https://www.salsavida.com/event/texas/dallas-fort-worth/son-y-sabor-at-the-victoria/)** **_$7_**  
    Dallas-Fort Worth  
    Sun, Jun 21, 2026 • 5:30 PM – 10:30 PM  
    `social` `salsa` `bachata` `merengue` _via salsavida_
+- **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-06-21/)** **_Free_**  
+   Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
+   Sun, Jun 21, 2026 • 7:00 PM – 11:00 PM  
+   `social` `lesson` `salsa` _via golatindance_
 - **[Fuego Sundays at Longhorn Icehouse](https://www.salsavida.com/event/texas/dallas-fort-worth/fuego-sundays-at-longhorn-icehouse/)** **_$10_**  
    Dallas-Fort Worth  
    Sun, Jun 21, 2026 • 10:00 PM  
