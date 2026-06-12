@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-06-11 11:58 AM CDT**
+> Auto-generated. Last update: **2026-06-12 12:54 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 111 upcoming events tracked. **10 new** since last run.
+> 109 upcoming events tracked. **14 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -13,10 +13,18 @@
    Salsonsocial  
    Fri, Jun 12, 2026 • 9:30 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
+- **[Fri 6/12 is annual fathers day salsa party @ VALENTINAS● LIVE MUSIC● DINNER](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315224428/)** **_Varies_**  
+   Valentinas Steak House · Dallas  
+   Fri, Jun 12, 2026 • 9:45 PM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
 - **[Salsa Dance Class for Beginners](https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1978750442841)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Sat, Jun 13, 2026 • all day  
    `social` `lesson` `salsa` _via eventbrite_
+- **[We’re so excited for Essence of Dance this month! With out of town guest instructors on both dance floors, awesome shows](https://www.instagram.com/p/DZbLIOeufiX/)** **_$20–$25_**  
+   Jasymiguelbachata  
+   Sat, Jun 13, 2026 • all day  
+   `salsa` `bachata` `kizomba` `lesson` `social` _via instagram_
 - **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
    Vidorra Dallas  
    Wed, Jun 17, 2026 • all day  
@@ -49,38 +57,19 @@
    Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
    Sun, Jun 21, 2026 • 7:00 PM – 11:00 PM  
    `social` `lesson` `salsa` _via golatindance_
+- **[Sabroso Sundays at Al-Amir](https://golatindance.com/event/sabroso-sundays-at-al-amir/2026-06-21/)** **_Free_**  
+   Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States  
+   Sun, Jun 21, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-06-23/)** **_Free_**  
+   Rotate Social, 5454 Main st., Frisco, TX, United States  
+   Tue, Jun 23, 2026 • 7:30 PM – 11:30 PM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
 
 ---
 
 ## Upcoming
 
-
-### Thursday, June 11, 2026
-
-- **[Beginner Cha Cha Dance Class](https://www.eventbrite.com/e/beginner-cha-cha-dance-class-tickets-1988881839120)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Thu, Jun 11, 2026 • all day  
-   `social` `lesson` `cha-cha` _via eventbrite_
-- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
-   Merkado · Frisco  
-   Thu, Jun 11, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Thu, Jun 11, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
-   Hangout · Irving  
-   Thu, Jun 11, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Beginner Cha Cha Dance Class](https://www.meetup.com/dfwyoungsocial/events/314917322/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Thu, Jun 11, 2026 • 7:00 PM  
-   `social` `lesson` `cha-cha` _via meetup_
-- **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-06-11/)** **_Free_**  
-   Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
-   Thu, Jun 11, 2026 • 9:00 PM – 1:00 AM  
-   `social` `lesson` `salsa` _via golatindance_
 
 ### Friday, June 12, 2026
 
@@ -124,6 +113,10 @@
    Salsonsocial  
    Fri, Jun 12, 2026 • 9:30 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
+- **[Fri 6/12 is annual fathers day salsa party @ VALENTINAS● LIVE MUSIC● DINNER](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315224428/)** **_Varies_**  
+   Valentinas Steak House · Dallas  
+   Fri, Jun 12, 2026 • 9:45 PM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
 - **[Friday Latin at Al-Amir Arlington](https://golatindance.com/event/friday-rumba-nights-at-al-amir-arlington/2026-06-12/)** **_Varies_**  
    Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
    Fri, Jun 12, 2026 • 10:00 PM – 2:00 AM  
@@ -159,6 +152,10 @@
    DFW Young & Social · Farmers Branch  
    Sat, Jun 13, 2026 • all day  
    `social` `lesson` `salsa` _via eventbrite_
+- **[We’re so excited for Essence of Dance this month! With out of town guest instructors on both dance floors, awesome shows](https://www.instagram.com/p/DZbLIOeufiX/)** **_$20–$25_**  
+   Jasymiguelbachata  
+   Sat, Jun 13, 2026 • all day  
+   `salsa` `bachata` `kizomba` `lesson` `social` _via instagram_
 - **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/314940303/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Sat, Jun 13, 2026 • 4:00 PM  
@@ -416,6 +413,10 @@
    Dallas-Fort Worth  
    Sun, Jun 21, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` `merengue` _via salsavida_
+- **[Sabroso Sundays at Al-Amir](https://golatindance.com/event/sabroso-sundays-at-al-amir/2026-06-21/)** **_Free_**  
+   Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States  
+   Sun, Jun 21, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
 
 ### Monday, June 22, 2026
 
@@ -423,6 +424,13 @@
    Kumbala Dance Studio · Farmers Branch  
    Mon, Jun 22, 2026 • 7:00 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
+
+### Tuesday, June 23, 2026
+
+- **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-06-23/)** **_Free_**  
+   Rotate Social, 5454 Main st., Frisco, TX, United States  
+   Tue, Jun 23, 2026 • 7:30 PM – 11:30 PM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
 
 ### Wednesday, June 24, 2026
 
