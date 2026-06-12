@@ -1,18 +1,14 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-06-12 12:54 AM CDT**
+> Auto-generated. Last update: **2026-06-12 11:22 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 109 upcoming events tracked. **14 new** since last run.
+> 112 upcoming events tracked. **16 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Salsa With Jo and Team Mambin would like to invite you all to SalSon social every 2nd Friday of the month.](https://www.instagram.com/p/DZbHEj9kdAJ/)** **_$17–$20_**  
-   Salsonsocial  
-   Fri, Jun 12, 2026 • 9:30 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[Fri 6/12 is annual fathers day salsa party @ VALENTINAS● LIVE MUSIC● DINNER](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315224428/)** **_Varies_**  
    Valentinas Steak House · Dallas  
    Fri, Jun 12, 2026 • 9:45 PM  
@@ -41,6 +37,18 @@
    Stratos Greek Taverna · Dallas  
    Wed, Jun 17, 2026 • all day  
    `social` `salsa` _via danceus_
+- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
+   Merkado · Frisco  
+   Thu, Jun 18, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Thu, Jun 18, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
+   Hangout · Irving  
+   Thu, Jun 18, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
 - **[The Salsa Romantica Social - DALLAS](https://www.eventbrite.com/e/the-salsa-romantica-social-dallas-tickets-1991519349986)** **_Varies_**  
    Kumbala Dance Studio · Farmers Branch  
    Fri, Jun 19, 2026 • all day  
@@ -312,6 +320,18 @@
 
 ### Thursday, June 18, 2026
 
+- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
+   Merkado · Frisco  
+   Thu, Jun 18, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Thu, Jun 18, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
+   Hangout · Irving  
+   Thu, Jun 18, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
 - **[FREE Beginner Salsa & Bachata | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315045825/)** **_Varies_**  
    Kumbala Dance Studio · Farmers Branch  
    Thu, Jun 18, 2026 • 7:00 PM  
