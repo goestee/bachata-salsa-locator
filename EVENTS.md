@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-06-17 01:16 AM CDT**
+> Auto-generated. Last update: **2026-06-17 11:43 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 106 upcoming events tracked. **4 new** since last run.
+> 106 upcoming events tracked. **2 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -16,14 +16,6 @@
 - **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315029958/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Tue, Jun 23, 2026 • 8:00 PM  
-   `social` `lesson` `salsa` _via meetup_
-- **[@yayita_finin is traveling from Houston to give you an opportunity to take her salsa class It will start at 9pm on Frida](https://www.instagram.com/p/DZnH91aOvIh/)** **_Varies_**  
-   Echalesalsita Dallas  
-   Fri, Jul 3, 2026 • 9:00 PM  
-   `salsa` `bachata` `lesson` _via instagram_
-- **[Salsa en el parke / salsa in the park](https://www.meetup.com/dallas-spanish/events/315264843/)** **_Varies_**  
-   3850 Vitruvian Way, Addison, TX  
-   Sat, Aug 8, 2026 • 6:00 PM  
    `social` `lesson` `salsa` _via meetup_
 
 ---
