@@ -1,22 +1,30 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-06-18 12:59 AM CDT**
+> Auto-generated. Last update: **2026-06-18 11:36 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 99 upcoming events tracked. **4 new** since last run.
+> 103 upcoming events tracked. **6 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Salsa Dance Class for Beginners](https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1978750443844)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Sat, Jun 20, 2026 • all day  
-   `social` `lesson` `salsa` _via eventbrite_
-- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315029958/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, Jun 23, 2026 • 8:00 PM  
-   `social` `lesson` `salsa` _via meetup_
+- **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
+   Vidorra Dallas  
+   Wed, Jun 24, 2026 • all day  
+   `social` `lesson` `salsa` _via danceus_
+- **[Live Latin Night With Havana NRG at Sambuca360](https://www.danceus.org/event/165524211650016/live-latin-night-with-havana-nrg-at-sambuca-plano-tx/)** **_Varies_**  
+   Sambuca360 · Plano  
+   Wed, Jun 24, 2026 • all day  
+   `social` _via danceus_
+- **[Salseando and Bachateando Nights at El Botanero](https://www.danceus.org/event/16552421287400/salseando-and-bachateando-nights-at-el-botanero-dallas-tx/)** **_Varies_**  
+   El Botanero Bar · Dallas  
+   Wed, Jun 24, 2026 • all day  
+   `social` `salsa` `bachata` _via danceus_
+- **[Wednesday Salsa Social at Stratos](https://www.danceus.org/event/16552421361930/wednesday-salsa-social-at-stratos-dallas-tx/)** **_Varies_**  
+   Stratos Greek Taverna · Dallas  
+   Wed, Jun 24, 2026 • all day  
+   `social` `salsa` _via danceus_
 - **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-06-28/)** **_Free_**  
    Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
    Sun, Jun 28, 2026 • 7:00 PM – 11:00 PM  
@@ -263,6 +271,22 @@
 
 ### Wednesday, June 24, 2026
 
+- **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
+   Vidorra Dallas  
+   Wed, Jun 24, 2026 • all day  
+   `social` `lesson` `salsa` _via danceus_
+- **[Live Latin Night With Havana NRG at Sambuca360](https://www.danceus.org/event/165524211650016/live-latin-night-with-havana-nrg-at-sambuca-plano-tx/)** **_Varies_**  
+   Sambuca360 · Plano  
+   Wed, Jun 24, 2026 • all day  
+   `social` _via danceus_
+- **[Salseando and Bachateando Nights at El Botanero](https://www.danceus.org/event/16552421287400/salseando-and-bachateando-nights-at-el-botanero-dallas-tx/)** **_Varies_**  
+   El Botanero Bar · Dallas  
+   Wed, Jun 24, 2026 • all day  
+   `social` `salsa` `bachata` _via danceus_
+- **[Wednesday Salsa Social at Stratos](https://www.danceus.org/event/16552421361930/wednesday-salsa-social-at-stratos-dallas-tx/)** **_Varies_**  
+   Stratos Greek Taverna · Dallas  
+   Wed, Jun 24, 2026 • all day  
+   `social` `salsa` _via danceus_
 - **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
    Dallas-Fort Worth  
    Wed, Jun 24, 2026 • 7:00 PM – 11:00 PM  
