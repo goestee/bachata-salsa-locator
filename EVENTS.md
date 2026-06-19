@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-06-18 11:36 AM CDT**
+> Auto-generated. Last update: **2026-06-19 01:23 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 103 upcoming events tracked. **6 new** since last run.
+> 97 upcoming events tracked. **7 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -33,42 +33,15 @@
    Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States  
    Sun, Jun 28, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-06-30/)** **_Free_**  
+   Rotate Social, 5454 Main st., Frisco, TX, United States  
+   Tue, Jun 30, 2026 • 7:30 PM – 11:30 PM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
 
 ---
 
 ## Upcoming
 
-
-### Thursday, June 18, 2026
-
-- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
-   Merkado · Frisco  
-   Thu, Jun 18, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Thu, Jun 18, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
-   Hangout · Irving  
-   Thu, Jun 18, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Beginner Cha Cha Dance Class](https://www.eventbrite.com/e/beginner-cha-cha-dance-class-tickets-1988881840123)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Thu, Jun 18, 2026 • all day  
-   `social` `lesson` `cha-cha` _via eventbrite_
-- **[FREE Beginner Salsa & Bachata | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315045825/)** **_Varies_**  
-   Kumbala Dance Studio · Farmers Branch  
-   Thu, Jun 18, 2026 • 7:00 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[Beginner Cha Cha Dance Class](https://www.meetup.com/dfwyoungsocial/events/315019314/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Thu, Jun 18, 2026 • 7:00 PM  
-   `social` `lesson` `cha-cha` _via meetup_
-- **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-06-18/)** **_Free_**  
-   Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
-   Thu, Jun 18, 2026 • 9:00 PM – 1:00 AM  
-   `social` `lesson` `salsa` _via golatindance_
 
 ### Friday, June 19, 2026
 
@@ -403,6 +376,13 @@
    Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States  
    Sun, Jun 28, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` `merengue` _via golatindance_
+
+### Tuesday, June 30, 2026
+
+- **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-06-30/)** **_Free_**  
+   Rotate Social, 5454 Main st., Frisco, TX, United States  
+   Tue, Jun 30, 2026 • 7:30 PM – 11:30 PM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
 
 ### Wednesday, July 1, 2026
 
