@@ -1,14 +1,22 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-06-22 01:33 AM CDT**
+> Auto-generated. Last update: **2026-06-22 12:43 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 72 upcoming events tracked. **8 new** since last run.
+> 80 upcoming events tracked. **14 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
+- **[Salsa Dance Class for Beginners](https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1984721440255)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Jun 23, 2026 • all day  
+   `social` `lesson` `salsa` _via eventbrite_
+- **[Beginner Cha Cha Dance Class](https://www.eventbrite.com/e/beginner-cha-cha-dance-class-tickets-1988881841126)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Thu, Jun 25, 2026 • all day  
+   `social` `lesson` `cha-cha` _via eventbrite_
 - **[Noches Latinas Saturdays at Los Lupes](https://www.danceus.org/event/16552421199670/noches-latinas-saturdays-at-los-lupes-addison-tx/)** **_Varies_**  
    Los Lupes Addison  
    Sat, Jun 27, 2026 • all day  
@@ -21,14 +29,26 @@
    Mi Pueblito · Garland  
    Sat, Jun 27, 2026 • all day  
    `social` _via danceus_
-- **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/315030324/)** **_Varies_**  
+- **[SALSA DEL BARRIO](https://www.eventbrite.com/e/salsa-del-barrio-tickets-1983990830983)** **_Varies_**  
+   Ocho Latin Cuisine Events · Dallas  
+   Sat, Jun 27, 2026 • all day  
+   `social` `lesson` `salsa` _via eventbrite_
+- **[Bachata Dance Class](https://www.eventbrite.com/e/bachata-dance-class-tickets-1978750660492)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
-   Sat, Jun 27, 2026 • 4:00 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315030636/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Sat, Jun 27, 2026 • 5:00 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
+   Sat, Jun 27, 2026 • all day  
+   `social` `lesson` `bachata` _via eventbrite_
+- **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
+   Victoria’s Restaurant · Farmers Branch  
+   Sun, Jun 28, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Salsa Sundays at The Statler](https://www.danceus.org/event/16552421262550/salsa-sundays-at-the-statler-dallas-tx/)** **_Varies_**  
+   The Statler · Dallas  
+   Sun, Jun 28, 2026 • all day  
+   `lesson` `salsa` _via danceus_
+- **[Sabroso Sunday at Al-Amir Addison](https://www.danceus.org/event/16552421219990/sabroso-sunday-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Sun, Jun 28, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via danceus_
 - **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/315176856/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sun, Jun 28, 2026 • 6:30 PM  
@@ -41,6 +61,10 @@
    You Can Dance Dallas  
    Sun, Jun 28, 2026 • 7:45 PM  
    `lesson` `festival` `salsa` `bachata` `cha-cha` _via meetup_
+- **[Wood Turned Chips & Salsa Bowl](https://www.eventbrite.com/e/wood-turned-chips-salsa-bowl-tickets-1986544769883)** **_Varies_**  
+   Rockler Woodworking and Hardware - Garland  
+   Tue, Jun 30, 2026 • all day  
+   `salsa` _via eventbrite_
 
 ---
 
@@ -56,6 +80,10 @@
 
 ### Tuesday, June 23, 2026
 
+- **[Salsa Dance Class for Beginners](https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1984721440255)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Jun 23, 2026 • all day  
+   `social` `lesson` `salsa` _via eventbrite_
 - **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-06-23/)** **_Free_**  
    Rotate Social, 5454 Main st., Frisco, TX, United States  
    Tue, Jun 23, 2026 • 7:30 PM – 11:30 PM  
@@ -114,6 +142,10 @@
    Hangout · Irving  
    Thu, Jun 25, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Beginner Cha Cha Dance Class](https://www.eventbrite.com/e/beginner-cha-cha-dance-class-tickets-1988881841126)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Thu, Jun 25, 2026 • all day  
+   `social` `lesson` `cha-cha` _via eventbrite_
 - **[Beginner Cha Cha Dance Class](https://www.meetup.com/dfwyoungsocial/events/315030104/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Thu, Jun 25, 2026 • 7:00 PM  
@@ -184,6 +216,14 @@
    Mi Pueblito · Garland  
    Sat, Jun 27, 2026 • all day  
    `social` _via danceus_
+- **[SALSA DEL BARRIO](https://www.eventbrite.com/e/salsa-del-barrio-tickets-1983990830983)** **_Varies_**  
+   Ocho Latin Cuisine Events · Dallas  
+   Sat, Jun 27, 2026 • all day  
+   `social` `lesson` `salsa` _via eventbrite_
+- **[Bachata Dance Class](https://www.eventbrite.com/e/bachata-dance-class-tickets-1978750660492)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, Jun 27, 2026 • all day  
+   `social` `lesson` `bachata` _via eventbrite_
 - **[18th annual WORLD CUP salsa pool party @ Indigo hotel ● BUFFET● CLASS ● TOP DJS](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315114069/)** **_Varies_**  
    Indigo Hotel Las Colinas · Irving  
    Sat, Jun 27, 2026 • 12:00 PM  
@@ -231,6 +271,18 @@
 
 ### Sunday, June 28, 2026
 
+- **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
+   Victoria’s Restaurant · Farmers Branch  
+   Sun, Jun 28, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Salsa Sundays at The Statler](https://www.danceus.org/event/16552421262550/salsa-sundays-at-the-statler-dallas-tx/)** **_Varies_**  
+   The Statler · Dallas  
+   Sun, Jun 28, 2026 • all day  
+   `lesson` `salsa` _via danceus_
+- **[Sabroso Sunday at Al-Amir Addison](https://www.danceus.org/event/16552421219990/sabroso-sunday-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Sun, Jun 28, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via danceus_
 - **[Salsa Sunday at Lola’s Cuban Food](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-sunday-at-lolas-cuban-food/)** **_Free_**  
    Dallas-Fort Worth  
    Sun, Jun 28, 2026 • 3:00 PM – 6:00 PM  
@@ -274,6 +326,10 @@
 
 ### Tuesday, June 30, 2026
 
+- **[Wood Turned Chips & Salsa Bowl](https://www.eventbrite.com/e/wood-turned-chips-salsa-bowl-tickets-1986544769883)** **_Varies_**  
+   Rockler Woodworking and Hardware - Garland  
+   Tue, Jun 30, 2026 • all day  
+   `salsa` _via eventbrite_
 - **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-06-30/)** **_Free_**  
    Rotate Social, 5454 Main st., Frisco, TX, United States  
    Tue, Jun 30, 2026 • 7:30 PM – 11:30 PM  
