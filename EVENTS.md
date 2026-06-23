@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-06-22 12:43 PM CDT**
+> Auto-generated. Last update: **2026-06-23 12:04 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 80 upcoming events tracked. **14 new** since last run.
+> 82 upcoming events tracked. **17 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -65,18 +65,23 @@
    Rockler Woodworking and Hardware - Garland  
    Tue, Jun 30, 2026 • all day  
    `salsa` _via eventbrite_
+- **[Level 1.5 Bachata Group Class | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315376632/)** **_Varies_**  
+   4801 Spring Valley Rd suite 118 · Farmers Branch  
+   Fri, Jul 3, 2026 • 7:00 PM  
+   `social` `workshop` `lesson` `bachata` _via meetup_
+- **[FREE Beginner Salsa & Bachata | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315376456/)** **_Varies_**  
+   Kumbala Dance Studio · Farmers Branch  
+   Sun, Jul 5, 2026 • 7:00 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
+- **[Student Social | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315377485/)** **_Varies_**  
+   4801 Spring Valley Rd suite 118 · Farmers Branch  
+   Mon, Jul 6, 2026 • 9:00 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 
 ---
 
 ## Upcoming
 
-
-### Monday, June 22, 2026
-
-- **[FREE Beginner Salsa & Bachata | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315045829/)** **_Varies_**  
-   Kumbala Dance Studio · Farmers Branch  
-   Mon, Jun 22, 2026 • 7:00 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
 
 ### Tuesday, June 23, 2026
 
@@ -348,6 +353,10 @@
 
 ### Friday, July 3, 2026
 
+- **[Level 1.5 Bachata Group Class | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315376632/)** **_Varies_**  
+   4801 Spring Valley Rd suite 118 · Farmers Branch  
+   Fri, Jul 3, 2026 • 7:00 PM  
+   `social` `workshop` `lesson` `bachata` _via meetup_
 - **[@yayita_finin is traveling from Houston to give you an opportunity to take her salsa class It will start at 9pm on Frida](https://www.instagram.com/p/DZnH91aOvIh/)** **_Varies_**  
    Echalesalsita Dallas  
    Fri, Jul 3, 2026 • 9:00 PM  
@@ -371,6 +380,20 @@
    Dallas-Fort Worth  
    Sat, Jul 4, 2026 • 11:00 PM – 2:00 AM  
    `social` _via salsavida_
+
+### Sunday, July 5, 2026
+
+- **[FREE Beginner Salsa & Bachata | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315376456/)** **_Varies_**  
+   Kumbala Dance Studio · Farmers Branch  
+   Sun, Jul 5, 2026 • 7:00 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
+
+### Monday, July 6, 2026
+
+- **[Student Social | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315377485/)** **_Varies_**  
+   4801 Spring Valley Rd suite 118 · Farmers Branch  
+   Mon, Jul 6, 2026 • 9:00 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 
 ### Friday, July 10, 2026
 
