@@ -1,50 +1,30 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-06-23 10:55 AM CDT**
+> Auto-generated. Last update: **2026-06-24 12:06 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 85 upcoming events tracked. **14 new** since last run.
+> 85 upcoming events tracked. **9 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Salsa Dance Class for Beginners](https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1984721440255)** **_Varies_**  
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315029972/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
-   Tue, Jun 23, 2026 • all day  
-   `social` `lesson` `salsa` _via eventbrite_
-- **[Beginner Cha Cha Dance Class](https://www.eventbrite.com/e/beginner-cha-cha-dance-class-tickets-1988881841126)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Thu, Jun 25, 2026 • all day  
-   `social` `lesson` `cha-cha` _via eventbrite_
-- **[SALSA DEL BARRIO](https://www.eventbrite.com/e/salsa-del-barrio-tickets-1983990830983)** **_Varies_**  
-   Ocho Latin Cuisine Events · Dallas  
-   Sat, Jun 27, 2026 • all day  
-   `social` `lesson` `salsa` _via eventbrite_
-- **[Bachata Dance Class](https://www.eventbrite.com/e/bachata-dance-class-tickets-1978750660492)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Sat, Jun 27, 2026 • all day  
-   `social` `lesson` `bachata` _via eventbrite_
-- **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
-   Victoria’s Restaurant · Farmers Branch  
-   Sun, Jun 28, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Salsa Sundays at The Statler](https://www.danceus.org/event/16552421262550/salsa-sundays-at-the-statler-dallas-tx/)** **_Varies_**  
-   The Statler · Dallas  
-   Sun, Jun 28, 2026 • all day  
-   `lesson` `salsa` _via danceus_
-- **[Sabroso Sunday at Al-Amir Addison](https://www.danceus.org/event/16552421219990/sabroso-sunday-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Sun, Jun 28, 2026 • all day  
-   `social` `salsa` `bachata` `merengue` _via danceus_
-- **[Wood Turned Chips & Salsa Bowl](https://www.eventbrite.com/e/wood-turned-chips-salsa-bowl-tickets-1986544769883)** **_Varies_**  
-   Rockler Woodworking and Hardware - Garland  
-   Tue, Jun 30, 2026 • all day  
-   `salsa` _via eventbrite_
+   Tue, Jun 30, 2026 • 8:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 - **[Level 1.5 Bachata Group Class | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315376632/)** **_Varies_**  
    4801 Spring Valley Rd suite 118 · Farmers Branch  
    Fri, Jul 3, 2026 • 7:00 PM  
    `social` `workshop` `lesson` `bachata` _via meetup_
+- **[July 3rd we’re back with our 50/50 bachata/salsa social with one of the largest indoor dance spaces in Texas](https://www.instagram.com/p/DZ5T-1RM2ot/)** **_Varies_**  
+   Dallaszouklambadafestival  
+   Fri, Jul 3, 2026 • 9:00 PM  
+   `salsa` `bachata` `lesson` `social` `festival` _via instagram_
+- **[July 3rd we’re back with our 50/50 bachata/salsa social with one of the largest indoor dance spaces in Texas](https://www.instagram.com/p/DZ5T-1RM2ot/)** **_Varies_**  
+   Dallaszouklambadafestival  
+   Sat, Jul 4, 2026 • 9:00 PM  
+   `salsa` `bachata` `lesson` `social` `festival` _via instagram_
 - **[FREE Beginner Salsa & Bachata | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315376456/)** **_Varies_**  
    Kumbala Dance Studio · Farmers Branch  
    Sun, Jul 5, 2026 • 7:00 PM  
@@ -70,21 +50,6 @@
 
 ## Upcoming
 
-
-### Tuesday, June 23, 2026
-
-- **[Salsa Dance Class for Beginners](https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1984721440255)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, Jun 23, 2026 • all day  
-   `social` `lesson` `salsa` _via eventbrite_
-- **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-06-23/)** **_Free_**  
-   Rotate Social, 5454 Main st., Frisco, TX, United States  
-   Tue, Jun 23, 2026 • 7:30 PM – 11:30 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315029958/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, Jun 23, 2026 • 8:00 PM  
-   `social` `lesson` `salsa` _via meetup_
 
 ### Wednesday, June 24, 2026
 
@@ -327,6 +292,10 @@
    Rotate Social, 5454 Main st., Frisco, TX, United States  
    Tue, Jun 30, 2026 • 7:30 PM – 11:30 PM  
    `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315029972/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Jun 30, 2026 • 8:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 
 ### Wednesday, July 1, 2026
 
@@ -349,6 +318,10 @@
    Echalesalsita Dallas  
    Fri, Jul 3, 2026 • 9:00 PM  
    `salsa` `bachata` `lesson` _via instagram_
+- **[July 3rd we’re back with our 50/50 bachata/salsa social with one of the largest indoor dance spaces in Texas](https://www.instagram.com/p/DZ5T-1RM2ot/)** **_Varies_**  
+   Dallaszouklambadafestival  
+   Fri, Jul 3, 2026 • 9:00 PM  
+   `salsa` `bachata` `lesson` `social` `festival` _via instagram_
 
 ### Saturday, July 4, 2026
 
@@ -360,6 +333,10 @@
    Salsadallas  
    Sat, Jul 4, 2026 • 6:30 PM  
    `salsa` `lesson` `social` `festival` _via instagram_
+- **[July 3rd we’re back with our 50/50 bachata/salsa social with one of the largest indoor dance spaces in Texas](https://www.instagram.com/p/DZ5T-1RM2ot/)** **_Varies_**  
+   Dallaszouklambadafestival  
+   Sat, Jul 4, 2026 • 9:00 PM  
+   `salsa` `bachata` `lesson` `social` `festival` _via instagram_
 - **[Salsa Saturdays at Blue Mesa Grill](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-saturdays-at-blue-mesa-grill/)** **_$8_**  
    Dallas-Fort Worth  
    Sat, Jul 4, 2026 • 10:00 PM – 3:00 AM  
