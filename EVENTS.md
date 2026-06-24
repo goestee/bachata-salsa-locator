@@ -1,22 +1,22 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-06-24 12:06 AM CDT**
+> Auto-generated. Last update: **2026-06-24 10:37 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 85 upcoming events tracked. **9 new** since last run.
+> 87 upcoming events tracked. **8 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
+- **[Salsa Dance Class for Beginners](https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1978750444847)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, Jun 27, 2026 • all day  
+   `social` `lesson` `salsa` _via eventbrite_
 - **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315029972/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Tue, Jun 30, 2026 • 8:00 PM  
    `social` `lesson` `salsa` _via meetup_
-- **[Level 1.5 Bachata Group Class | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315376632/)** **_Varies_**  
-   4801 Spring Valley Rd suite 118 · Farmers Branch  
-   Fri, Jul 3, 2026 • 7:00 PM  
-   `social` `workshop` `lesson` `bachata` _via meetup_
 - **[July 3rd we’re back with our 50/50 bachata/salsa social with one of the largest indoor dance spaces in Texas](https://www.instagram.com/p/DZ5T-1RM2ot/)** **_Varies_**  
    Dallaszouklambadafestival  
    Fri, Jul 3, 2026 • 9:00 PM  
@@ -25,14 +25,6 @@
    Dallaszouklambadafestival  
    Sat, Jul 4, 2026 • 9:00 PM  
    `salsa` `bachata` `lesson` `social` `festival` _via instagram_
-- **[FREE Beginner Salsa & Bachata | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315376456/)** **_Varies_**  
-   Kumbala Dance Studio · Farmers Branch  
-   Sun, Jul 5, 2026 • 7:00 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[Student Social | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315377485/)** **_Varies_**  
-   4801 Spring Valley Rd suite 118 · Farmers Branch  
-   Mon, Jul 6, 2026 • 9:00 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
 - **[FREE Beginner Salsa & Bachata | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315376516/)** **_Varies_**  
    Kumbala Dance Studio · Farmers Branch  
    Thu, Jul 16, 2026 • 7:00 PM  
@@ -45,6 +37,10 @@
    4801 Spring Valley Rd suite 118 · Farmers Branch  
    Fri, Jul 24, 2026 • 7:00 PM  
    `social` `workshop` `lesson` `salsa` `bachata` _via meetup_
+- **[Salsa en el parke / salsa in the park](https://www.meetup.com/dallas-spanish/events/315264899/)** **_Varies_**  
+   3850 Vitruvian Way, Addison, TX  
+   Sat, Aug 22, 2026 • 6:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 
 ---
 
@@ -182,6 +178,10 @@
    DFW Young & Social · Farmers Branch  
    Sat, Jun 27, 2026 • all day  
    `social` `lesson` `bachata` _via eventbrite_
+- **[Salsa Dance Class for Beginners](https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1978750444847)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, Jun 27, 2026 • all day  
+   `social` `lesson` `salsa` _via eventbrite_
 - **[18th annual WORLD CUP salsa pool party @ Indigo hotel ● BUFFET● CLASS ● TOP DJS](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315114069/)** **_Varies_**  
    Indigo Hotel Las Colinas · Irving  
    Sat, Jun 27, 2026 • 12:00 PM  
@@ -442,6 +442,13 @@
    Salsadallas  
    Thu, Aug 20, 2026 • 6:30 PM  
    `salsa` `lesson` `social` `festival` _via instagram_
+
+### Saturday, August 22, 2026
+
+- **[Salsa en el parke / salsa in the park](https://www.meetup.com/dallas-spanish/events/315264899/)** **_Varies_**  
+   3850 Vitruvian Way, Addison, TX  
+   Sat, Aug 22, 2026 • 6:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 
 ### Friday, August 28, 2026
 
