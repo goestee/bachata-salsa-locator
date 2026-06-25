@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-06-24 10:37 AM CDT**
+> Auto-generated. Last update: **2026-06-25 12:10 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 87 upcoming events tracked. **8 new** since last run.
+> 80 upcoming events tracked. **6 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -21,22 +21,14 @@
    Dallaszouklambadafestival  
    Fri, Jul 3, 2026 • 9:00 PM  
    `salsa` `bachata` `lesson` `social` `festival` _via instagram_
+- **[Echale Salsita Dallas ft. DJ Ricky Campanelli](https://www.instagram.com/p/DZ-AVgGuH5-/)** **_$18–$25_**  
+   Echale Salsita for the ultimate dance eve  
+   Fri, Jul 3, 2026 • 10:00 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[July 3rd we’re back with our 50/50 bachata/salsa social with one of the largest indoor dance spaces in Texas](https://www.instagram.com/p/DZ5T-1RM2ot/)** **_Varies_**  
    Dallaszouklambadafestival  
    Sat, Jul 4, 2026 • 9:00 PM  
    `salsa` `bachata` `lesson` `social` `festival` _via instagram_
-- **[FREE Beginner Salsa & Bachata | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315376516/)** **_Varies_**  
-   Kumbala Dance Studio · Farmers Branch  
-   Thu, Jul 16, 2026 • 7:00 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[FREE Beginner Salsa & Bachata | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315376478/)** **_Varies_**  
-   Kumbala Dance Studio · Farmers Branch  
-   Mon, Jul 20, 2026 • 7:00 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[Extra Level 2 Salsa/Bachata Group Class | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315376675/)** **_Varies_**  
-   4801 Spring Valley Rd suite 118 · Farmers Branch  
-   Fri, Jul 24, 2026 • 7:00 PM  
-   `social` `workshop` `lesson` `salsa` `bachata` _via meetup_
 - **[Salsa en el parke / salsa in the park](https://www.meetup.com/dallas-spanish/events/315264899/)** **_Varies_**  
    3850 Vitruvian Way, Addison, TX  
    Sat, Aug 22, 2026 • 6:00 PM  
@@ -46,41 +38,6 @@
 
 ## Upcoming
 
-
-### Wednesday, June 24, 2026
-
-- **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
-   Vidorra Dallas  
-   Wed, Jun 24, 2026 • all day  
-   `social` `lesson` `salsa` _via danceus_
-- **[Live Latin Night With Havana NRG at Sambuca360](https://www.danceus.org/event/165524211650016/live-latin-night-with-havana-nrg-at-sambuca-plano-tx/)** **_Varies_**  
-   Sambuca360 · Plano  
-   Wed, Jun 24, 2026 • all day  
-   `social` _via danceus_
-- **[Salseando and Bachateando Nights at El Botanero](https://www.danceus.org/event/16552421287400/salseando-and-bachateando-nights-at-el-botanero-dallas-tx/)** **_Varies_**  
-   El Botanero Bar · Dallas  
-   Wed, Jun 24, 2026 • all day  
-   `social` `salsa` `bachata` _via danceus_
-- **[Wednesday Salsa Social at Stratos](https://www.danceus.org/event/16552421361930/wednesday-salsa-social-at-stratos-dallas-tx/)** **_Varies_**  
-   Stratos Greek Taverna · Dallas  
-   Wed, Jun 24, 2026 • all day  
-   `social` `salsa` _via danceus_
-- **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
-   Dallas-Fort Worth  
-   Wed, Jun 24, 2026 • 7:00 PM – 11:00 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via salsavida_
-- **[Latin Night at Gigis](https://golatindance.com/event/latin-night-at-gigis/2026-06-24/)** **_Free_**  
-   Gigis, 7300 Lone Star Drive C150, Plano, TX, 75024, United States  
-   Wed, Jun 24, 2026 • 9:00 PM – 2:00 AM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Bachata is definitely a love language of its own. ✨](https://www.instagram.com/p/DYVNYnCssqO/)** **_Varies_**  
-   Gigi  
-   Wed, Jun 24, 2026 • 9:30 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
-- **[Wednesday Salsa & Bachata at Stratos](https://www.salsavida.com/event/texas/dallas-fort-worth/wednesday-salsa-bachata-at-stratos/)** **_Free_**  
-   Dallas-Fort Worth  
-   Wed, Jun 24, 2026 • 9:30 PM – 2:00 AM  
-   `social` `lesson` `salsa` `bachata` _via salsavida_
 
 ### Thursday, June 25, 2026
 
@@ -322,6 +279,10 @@
    Dallaszouklambadafestival  
    Fri, Jul 3, 2026 • 9:00 PM  
    `salsa` `bachata` `lesson` `social` `festival` _via instagram_
+- **[Echale Salsita Dallas ft. DJ Ricky Campanelli](https://www.instagram.com/p/DZ-AVgGuH5-/)** **_$18–$25_**  
+   Echale Salsita for the ultimate dance eve  
+   Fri, Jul 3, 2026 • 10:00 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 
 ### Saturday, July 4, 2026
 
