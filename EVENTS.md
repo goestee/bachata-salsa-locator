@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-06-25 12:10 AM CDT**
+> Auto-generated. Last update: **2026-06-25 10:43 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 80 upcoming events tracked. **6 new** since last run.
+> 84 upcoming events tracked. **7 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -13,22 +13,26 @@
    DFW Young & Social · Farmers Branch  
    Sat, Jun 27, 2026 • all day  
    `social` `lesson` `salsa` _via eventbrite_
-- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315029972/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, Jun 30, 2026 • 8:00 PM  
-   `social` `lesson` `salsa` _via meetup_
-- **[July 3rd we’re back with our 50/50 bachata/salsa social with one of the largest indoor dance spaces in Texas](https://www.instagram.com/p/DZ5T-1RM2ot/)** **_Varies_**  
-   Dallaszouklambadafestival  
-   Fri, Jul 3, 2026 • 9:00 PM  
-   `salsa` `bachata` `lesson` `social` `festival` _via instagram_
+- **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
+   Vidorra Dallas  
+   Wed, Jul 1, 2026 • all day  
+   `social` `lesson` `salsa` _via danceus_
+- **[Live Latin Night With Havana NRG at Sambuca360](https://www.danceus.org/event/165524211650016/live-latin-night-with-havana-nrg-at-sambuca-plano-tx/)** **_Varies_**  
+   Sambuca360 · Plano  
+   Wed, Jul 1, 2026 • all day  
+   `social` _via danceus_
+- **[Salseando and Bachateando Nights at El Botanero](https://www.danceus.org/event/16552421287400/salseando-and-bachateando-nights-at-el-botanero-dallas-tx/)** **_Varies_**  
+   El Botanero Bar · Dallas  
+   Wed, Jul 1, 2026 • all day  
+   `social` `salsa` `bachata` _via danceus_
+- **[Wednesday Salsa Social at Stratos](https://www.danceus.org/event/16552421361930/wednesday-salsa-social-at-stratos-dallas-tx/)** **_Varies_**  
+   Stratos Greek Taverna · Dallas  
+   Wed, Jul 1, 2026 • all day  
+   `social` `salsa` _via danceus_
 - **[Echale Salsita Dallas ft. DJ Ricky Campanelli](https://www.instagram.com/p/DZ-AVgGuH5-/)** **_$18–$25_**  
    Echale Salsita for the ultimate dance eve  
    Fri, Jul 3, 2026 • 10:00 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
-- **[July 3rd we’re back with our 50/50 bachata/salsa social with one of the largest indoor dance spaces in Texas](https://www.instagram.com/p/DZ5T-1RM2ot/)** **_Varies_**  
-   Dallaszouklambadafestival  
-   Sat, Jul 4, 2026 • 9:00 PM  
-   `salsa` `bachata` `lesson` `social` `festival` _via instagram_
 - **[Salsa en el parke / salsa in the park](https://www.meetup.com/dallas-spanish/events/315264899/)** **_Varies_**  
    3850 Vitruvian Way, Addison, TX  
    Sat, Aug 22, 2026 • 6:00 PM  
@@ -256,6 +260,22 @@
 
 ### Wednesday, July 1, 2026
 
+- **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
+   Vidorra Dallas  
+   Wed, Jul 1, 2026 • all day  
+   `social` `lesson` `salsa` _via danceus_
+- **[Live Latin Night With Havana NRG at Sambuca360](https://www.danceus.org/event/165524211650016/live-latin-night-with-havana-nrg-at-sambuca-plano-tx/)** **_Varies_**  
+   Sambuca360 · Plano  
+   Wed, Jul 1, 2026 • all day  
+   `social` _via danceus_
+- **[Salseando and Bachateando Nights at El Botanero](https://www.danceus.org/event/16552421287400/salseando-and-bachateando-nights-at-el-botanero-dallas-tx/)** **_Varies_**  
+   El Botanero Bar · Dallas  
+   Wed, Jul 1, 2026 • all day  
+   `social` `salsa` `bachata` _via danceus_
+- **[Wednesday Salsa Social at Stratos](https://www.danceus.org/event/16552421361930/wednesday-salsa-social-at-stratos-dallas-tx/)** **_Varies_**  
+   Stratos Greek Taverna · Dallas  
+   Wed, Jul 1, 2026 • all day  
+   `social` `salsa` _via danceus_
 - **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
    Dallas-Fort Worth  
    Wed, Jul 1, 2026 • 7:00 PM – 11:00 PM  
