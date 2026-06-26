@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-06-26 12:12 AM CDT**
+> Auto-generated. Last update: **2026-06-26 10:27 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 79 upcoming events tracked. **6 new** since last run.
+> 79 upcoming events tracked. **5 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -25,10 +25,6 @@
    Stratos Greek Taverna · Dallas  
    Wed, Jul 1, 2026 • all day  
    `social` `salsa` _via danceus_
-- **[Echale Salsita Dallas ft. DJ Ricky Campanelli](https://www.instagram.com/p/DZ-AVgGuH5-/)** **_$18–$25_**  
-   Echale Salsita for the ultimate dance eve  
-   Fri, Jul 3, 2026 • 10:00 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[Salsa and Bachata dancing @salsonsocial every 2nd Friday of the month!](https://www.instagram.com/p/DZ_g-ZixWxc/)** **_$17–$20_**  
    Kumbaladancestudio  
    Fri, Jul 10, 2026 • 9:30 PM  
