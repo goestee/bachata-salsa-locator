@@ -1,34 +1,34 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-06-26 10:27 AM CDT**
+> Auto-generated. Last update: **2026-06-26 11:57 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 79 upcoming events tracked. **5 new** since last run.
+> 83 upcoming events tracked. **5 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
-   Vidorra Dallas  
-   Wed, Jul 1, 2026 • all day  
-   `social` `lesson` `salsa` _via danceus_
-- **[Live Latin Night With Havana NRG at Sambuca360](https://www.danceus.org/event/165524211650016/live-latin-night-with-havana-nrg-at-sambuca-plano-tx/)** **_Varies_**  
-   Sambuca360 · Plano  
-   Wed, Jul 1, 2026 • all day  
-   `social` _via danceus_
-- **[Salseando and Bachateando Nights at El Botanero](https://www.danceus.org/event/16552421287400/salseando-and-bachateando-nights-at-el-botanero-dallas-tx/)** **_Varies_**  
-   El Botanero Bar · Dallas  
-   Wed, Jul 1, 2026 • all day  
-   `social` `salsa` `bachata` _via danceus_
-- **[Wednesday Salsa Social at Stratos](https://www.danceus.org/event/16552421361930/wednesday-salsa-social-at-stratos-dallas-tx/)** **_Varies_**  
-   Stratos Greek Taverna · Dallas  
-   Wed, Jul 1, 2026 • all day  
-   `social` `salsa` _via danceus_
+- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
+   Merkado · Frisco  
+   Thu, Jul 2, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Thu, Jul 2, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
+   Hangout · Irving  
+   Thu, Jul 2, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
 - **[Salsa and Bachata dancing @salsonsocial every 2nd Friday of the month!](https://www.instagram.com/p/DZ_g-ZixWxc/)** **_$17–$20_**  
    Kumbaladancestudio  
    Fri, Jul 10, 2026 • 9:30 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
+- **[The countdown is on!](https://www.instagram.com/p/DaDyOTdHyQB/)** **_Free_**  
+   Salsadallas  
+   Sat, Aug 1, 2026 • 6:00 PM  
+   `salsa` `lesson` `social` `festival` _via instagram_
 
 ---
 
@@ -250,6 +250,21 @@
    Wed, Jul 1, 2026 • 9:30 PM – 2:00 AM  
    `social` `lesson` `salsa` `bachata` _via salsavida_
 
+### Thursday, July 2, 2026
+
+- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
+   Merkado · Frisco  
+   Thu, Jul 2, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Thu, Jul 2, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
+   Hangout · Irving  
+   Thu, Jul 2, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
+
 ### Friday, July 3, 2026
 
 - **[Level 1.5 Bachata Group Class | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315376632/)** **_Varies_**  
@@ -374,6 +389,13 @@
    Salsadallas  
    Sat, Jul 25, 2026 • all day  
    `salsa` `lesson` `festival` _via instagram_
+
+### Saturday, August 1, 2026
+
+- **[The countdown is on!](https://www.instagram.com/p/DaDyOTdHyQB/)** **_Free_**  
+   Salsadallas  
+   Sat, Aug 1, 2026 • 6:00 PM  
+   `salsa` `lesson` `social` `festival` _via instagram_
 
 ### Saturday, August 8, 2026
 
