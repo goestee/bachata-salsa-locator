@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-06-28 12:21 AM CDT**
+> Auto-generated. Last update: **2026-06-28 09:52 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 72 upcoming events tracked. **20 new** since last run.
+> 75 upcoming events tracked. **19 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -17,18 +17,6 @@
    Al-Amir Addison for an unforgettable nigh  
    Sun, Jun 28, 2026 • 9:00 PM  
    `salsa` `social` _via instagram_
-- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
-   Merkado · Frisco  
-   Thu, Jul 2, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Thu, Jul 2, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
-   Hangout · Irving  
-   Thu, Jul 2, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
 - **[Noches Latinas Fridays at Los Lupes](https://www.danceus.org/event/16552421183470/noches-latinas-fridays-at-los-lupes-addison-tx/)** **_Varies_**  
    Los Lupes Addison  
    Fri, Jul 3, 2026 • all day  
@@ -57,6 +45,18 @@
    Salsadallas  
    Sat, Jul 4, 2026 • all day  
    `salsa` `lesson` `social` `festival` _via instagram_
+- **[Noches Latinas Saturdays at Los Lupes](https://www.danceus.org/event/16552421199670/noches-latinas-saturdays-at-los-lupes-addison-tx/)** **_Varies_**  
+   Los Lupes Addison  
+   Sat, Jul 4, 2026 • all day  
+   `salsa` `bachata` `merengue` _via danceus_
+- **[Salsa Bachata Night at Mexican Bar Company](https://www.danceus.org/event/16552421241878/salsa-bachata-night-at-mexican-bar-company-plano-tx/)** **_Varies_**  
+   Mexican Bar Company · Plano  
+   Sat, Jul 4, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Latin Night at Mi Pueblito](https://www.danceus.org/event/165524211430824/latin-night-at-mi-pueblito-garland-tx/)** **_Varies_**  
+   Mi Pueblito · Garland  
+   Sat, Jul 4, 2026 • all day  
+   `social` _via danceus_
 - **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/315260753/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Sat, Jul 4, 2026 • 4:00 PM  
@@ -80,10 +80,6 @@
 - **[The countdown has begun!](https://www.instagram.com/p/DaGTqnrCYOt/)** **_Free_**  
    Salsadallas  
    Sat, Aug 1, 2026 • all day  
-   `salsa` `lesson` `social` `festival` _via instagram_
-- **[The countdown is on!](https://www.instagram.com/p/DaDyOTdHyQB/)** **_Free_**  
-   Salsadallas  
-   Sat, Aug 1, 2026 • 6:00 PM  
    `salsa` `lesson` `social` `festival` _via instagram_
 - **[The countdown has begun!](https://www.instagram.com/p/DaGTqnrCYOt/)** **_Free_**  
    Salsadallas  
@@ -268,6 +264,18 @@
    Salsadallas  
    Sat, Jul 4, 2026 • all day  
    `salsa` `lesson` `social` `festival` _via instagram_
+- **[Noches Latinas Saturdays at Los Lupes](https://www.danceus.org/event/16552421199670/noches-latinas-saturdays-at-los-lupes-addison-tx/)** **_Varies_**  
+   Los Lupes Addison  
+   Sat, Jul 4, 2026 • all day  
+   `salsa` `bachata` `merengue` _via danceus_
+- **[Salsa Bachata Night at Mexican Bar Company](https://www.danceus.org/event/16552421241878/salsa-bachata-night-at-mexican-bar-company-plano-tx/)** **_Varies_**  
+   Mexican Bar Company · Plano  
+   Sat, Jul 4, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Latin Night at Mi Pueblito](https://www.danceus.org/event/165524211430824/latin-night-at-mi-pueblito-garland-tx/)** **_Varies_**  
+   Mi Pueblito · Garland  
+   Sat, Jul 4, 2026 • all day  
+   `social` _via danceus_
 - **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/315260753/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Sat, Jul 4, 2026 • 4:00 PM  
