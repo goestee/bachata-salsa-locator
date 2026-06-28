@@ -1,14 +1,22 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-06-27 09:45 AM CDT**
+> Auto-generated. Last update: **2026-06-28 12:21 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 81 upcoming events tracked. **10 new** since last run.
+> 72 upcoming events tracked. **20 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
+- **[FORT WORTH — get ready to MOVE!](https://www.instagram.com/p/DaG4NbmjyBF/)** **_Free_**  
+   La Chingona is back June 28  
+   Sun, Jun 28, 2026 • 3:00 PM – 6:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
+- **[Dallas, are you ready for the hottest Latin Sunday Night?](https://www.instagram.com/p/DaHSrzNxic9/)** **_Free_**  
+   Al-Amir Addison for an unforgettable nigh  
+   Sun, Jun 28, 2026 • 9:00 PM  
+   `salsa` `social` _via instagram_
 - **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
    Merkado · Frisco  
    Thu, Jul 2, 2026 • all day  
@@ -45,94 +53,47 @@
    You Can Dance Dallas · Addison  
    Fri, Jul 3, 2026 • 7:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
+- **[The countdown has begun!](https://www.instagram.com/p/DaGTqnrCYOt/)** **_Free_**  
+   Salsadallas  
+   Sat, Jul 4, 2026 • all day  
+   `salsa` `lesson` `social` `festival` _via instagram_
+- **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/315260753/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, Jul 4, 2026 • 4:00 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315261280/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, Jul 4, 2026 • 5:00 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
+- **[The countdown has begun!](https://www.instagram.com/p/DaGTqnrCYOt/)** **_Free_**  
+   Salsadallas  
+   Sat, Jul 11, 2026 • all day  
+   `salsa` `lesson` `social` `festival` _via instagram_
+- **[The countdown has begun!](https://www.instagram.com/p/DaGTqnrCYOt/)** **_Free_**  
+   Salsadallas  
+   Sat, Jul 18, 2026 • all day  
+   `salsa` `lesson` `social` `festival` _via instagram_
+- **[The countdown has begun!](https://www.instagram.com/p/DaGTqnrCYOt/)** **_Free_**  
+   Salsadallas  
+   Sat, Jul 25, 2026 • all day  
+   `salsa` `lesson` `social` `festival` _via instagram_
+- **[The countdown has begun!](https://www.instagram.com/p/DaGTqnrCYOt/)** **_Free_**  
+   Salsadallas  
+   Sat, Aug 1, 2026 • all day  
+   `salsa` `lesson` `social` `festival` _via instagram_
 - **[The countdown is on!](https://www.instagram.com/p/DaDyOTdHyQB/)** **_Free_**  
    Salsadallas  
    Sat, Aug 1, 2026 • 6:00 PM  
+   `salsa` `lesson` `social` `festival` _via instagram_
+- **[The countdown has begun!](https://www.instagram.com/p/DaGTqnrCYOt/)** **_Free_**  
+   Salsadallas  
+   Sat, Aug 8, 2026 • all day  
    `salsa` `lesson` `social` `festival` _via instagram_
 
 ---
 
 ## Upcoming
 
-
-### Saturday, June 27, 2026
-
-- **[18th Annual World Cup Salsa Pool Party](https://www.eventbrite.com/e/18th-annual-world-cup-salsa-pool-party-registration-1990988591473)** **_Varies_**  
-   Hotel Indigo Irving Las Colinas, an IHG Hotel  
-   Sat, Jun 27, 2026 • all day  
-   `social` `salsa` _via eventbrite_
-- **[FREE Salsa Festival in Addison, TX  | Vitruvian Salsa Festival 2026](https://www.instagram.com/p/DZlAi6WEk4a/)** **_Free_**  
-   Salsadallas  
-   Sat, Jun 27, 2026 • all day  
-   `salsa` `lesson` `festival` _via instagram_
-- **[Noches Latinas Saturdays at Los Lupes](https://www.danceus.org/event/16552421199670/noches-latinas-saturdays-at-los-lupes-addison-tx/)** **_Varies_**  
-   Los Lupes Addison  
-   Sat, Jun 27, 2026 • all day  
-   `salsa` `bachata` `merengue` _via danceus_
-- **[Salsa Bachata Night at Mexican Bar Company](https://www.danceus.org/event/16552421241878/salsa-bachata-night-at-mexican-bar-company-plano-tx/)** **_Varies_**  
-   Mexican Bar Company · Plano  
-   Sat, Jun 27, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Mi Pueblito](https://www.danceus.org/event/165524211430824/latin-night-at-mi-pueblito-garland-tx/)** **_Varies_**  
-   Mi Pueblito · Garland  
-   Sat, Jun 27, 2026 • all day  
-   `social` _via danceus_
-- **[SALSA DEL BARRIO](https://www.eventbrite.com/e/salsa-del-barrio-tickets-1983990830983)** **_Varies_**  
-   Ocho Latin Cuisine Events · Dallas  
-   Sat, Jun 27, 2026 • all day  
-   `social` `lesson` `salsa` _via eventbrite_
-- **[Bachata Dance Class](https://www.eventbrite.com/e/bachata-dance-class-tickets-1978750660492)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Sat, Jun 27, 2026 • all day  
-   `social` `lesson` `bachata` _via eventbrite_
-- **[Salsa Dance Class for Beginners](https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1978750444847)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Sat, Jun 27, 2026 • all day  
-   `social` `lesson` `salsa` _via eventbrite_
-- **[18th annual WORLD CUP salsa pool party @ Indigo hotel ● BUFFET● CLASS ● TOP DJS](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315114069/)** **_Varies_**  
-   Indigo Hotel Las Colinas · Irving  
-   Sat, Jun 27, 2026 • 12:00 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
-- **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/315030324/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Sat, Jun 27, 2026 • 4:00 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315030636/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Sat, Jun 27, 2026 • 5:00 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[FREE SALSA LESSONS IN ADDISON, TX](https://www.instagram.com/p/DZWnvPVERQf/)** **_Free_**  
-   Salsadallas  
-   Sat, Jun 27, 2026 • 6:30 PM  
-   `salsa` `lesson` `social` `festival` _via instagram_
-- **[7:00-11:00 4TH SATURDAY BALLROOM DANCE PARTY& CHA CHA CLASS](https://www.meetup.com/you-can-dance-dallas/events/314998357/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sat, Jun 27, 2026 • 7:00 PM  
-   `social` `lesson` `cha-cha` _via meetup_
-- **[La Vibra – Dallas Salsa & Bachata Social](https://www.salsavida.com/event/texas/dallas-fort-worth/la-vibra-dallas-salsa-bachata-social/)** **_$20_**  
-   Dallas-Fort Worth  
-   Sat, Jun 27, 2026 • 10:00 PM  
-   `social` `lesson` `salsa` `bachata` _via salsavida_
-- **[Salsa Saturdays at Blue Mesa Grill](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-saturdays-at-blue-mesa-grill/)** **_$8_**  
-   Dallas-Fort Worth  
-   Sat, Jun 27, 2026 • 10:00 PM – 3:00 AM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via salsavida_
-- **[Latin Saturday at Mexican Bar Company](https://golatindance.com/event/latin-saturday-at-mexican-bar-company/2026-06-27/)** **_Free_**  
-   Mexican Bar Company, 6121 West Park Blvd Ste RS-10, Plano, TX, 75093, United States  
-   Sat, Jun 27, 2026 • 10:00 PM – 2:00 AM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Sabados de Gazadera at Al-Amir Arlington](https://golatindance.com/event/sabados-de-gazadera-at-al-amir-arlington/2026-06-27/)** **_$10_**  
-   Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
-   Sat, Jun 27, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` _via golatindance_
-- **[Rumba Tropical en Reys's Sports Bar](https://golatindance.com/event/rumba-tropical-en-reyss-sports-bar/2026-06-27/)** **_Free_**  
-   Reys Sports Bar, 2836 N Oconnor Rd, Irving, TX, United States  
-   Sat, Jun 27, 2026 • 10:00 PM – 2:00 AM  
-   `salsa` `bachata` `merengue` _via golatindance_
-- **[Gloria’s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
-   Dallas-Fort Worth  
-   Sat, Jun 27, 2026 • 11:00 PM – 2:00 AM  
-   `social` _via salsavida_
 
 ### Sunday, June 28, 2026
 
@@ -156,6 +117,10 @@
    La Chingona, 2800 Bledsoe St #100, Fort Worth, TX, 76107, United States  
    Sun, Jun 28, 2026 • 3:00 PM – 6:00 PM  
    `lesson` `salsa` `bachata` _via golatindance_
+- **[FORT WORTH — get ready to MOVE!](https://www.instagram.com/p/DaG4NbmjyBF/)** **_Free_**  
+   La Chingona is back June 28  
+   Sun, Jun 28, 2026 • 3:00 PM – 6:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[Son y Sabor at The Victoria](https://www.salsavida.com/event/texas/dallas-fort-worth/son-y-sabor-at-the-victoria/)** **_$7_**  
    Dallas-Fort Worth  
    Sun, Jun 28, 2026 • 5:30 PM – 10:30 PM  
@@ -176,6 +141,10 @@
    You Can Dance Dallas  
    Sun, Jun 28, 2026 • 7:45 PM  
    `lesson` `festival` `salsa` `bachata` `cha-cha` _via meetup_
+- **[Dallas, are you ready for the hottest Latin Sunday Night?](https://www.instagram.com/p/DaHSrzNxic9/)** **_Free_**  
+   Al-Amir Addison for an unforgettable nigh  
+   Sun, Jun 28, 2026 • 9:00 PM  
+   `salsa` `social` _via instagram_
 - **[Fuego Sundays at Longhorn Icehouse](https://www.salsavida.com/event/texas/dallas-fort-worth/fuego-sundays-at-longhorn-icehouse/)** **_$10_**  
    Dallas-Fort Worth  
    Sun, Jun 28, 2026 • 10:00 PM  
@@ -295,6 +264,18 @@
    Salsadallas  
    Sat, Jul 4, 2026 • all day  
    `salsa` `lesson` `festival` _via instagram_
+- **[The countdown has begun!](https://www.instagram.com/p/DaGTqnrCYOt/)** **_Free_**  
+   Salsadallas  
+   Sat, Jul 4, 2026 • all day  
+   `salsa` `lesson` `social` `festival` _via instagram_
+- **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/315260753/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, Jul 4, 2026 • 4:00 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315261280/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, Jul 4, 2026 • 5:00 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 - **[FREE SALSA LESSONS IN ADDISON, TX](https://www.instagram.com/p/DZWnvPVERQf/)** **_Free_**  
    Salsadallas  
    Sat, Jul 4, 2026 • 6:30 PM  
@@ -343,6 +324,10 @@
    Salsadallas  
    Sat, Jul 11, 2026 • all day  
    `salsa` `lesson` `festival` _via instagram_
+- **[The countdown has begun!](https://www.instagram.com/p/DaGTqnrCYOt/)** **_Free_**  
+   Salsadallas  
+   Sat, Jul 11, 2026 • all day  
+   `salsa` `lesson` `social` `festival` _via instagram_
 - **[FREE SALSA LESSONS IN ADDISON, TX](https://www.instagram.com/p/DZWnvPVERQf/)** **_Free_**  
    Salsadallas  
    Sat, Jul 11, 2026 • 6:30 PM  
@@ -365,6 +350,10 @@
    Salsadallas  
    Sat, Jul 18, 2026 • all day  
    `salsa` `lesson` `festival` _via instagram_
+- **[The countdown has begun!](https://www.instagram.com/p/DaGTqnrCYOt/)** **_Free_**  
+   Salsadallas  
+   Sat, Jul 18, 2026 • all day  
+   `salsa` `lesson` `social` `festival` _via instagram_
 - **[FREE SALSA LESSONS IN ADDISON, TX](https://www.instagram.com/p/DZWnvPVERQf/)** **_Free_**  
    Salsadallas  
    Sat, Jul 18, 2026 • 6:30 PM  
@@ -394,9 +383,17 @@
    Salsadallas  
    Sat, Jul 25, 2026 • all day  
    `salsa` `lesson` `festival` _via instagram_
+- **[The countdown has begun!](https://www.instagram.com/p/DaGTqnrCYOt/)** **_Free_**  
+   Salsadallas  
+   Sat, Jul 25, 2026 • all day  
+   `salsa` `lesson` `social` `festival` _via instagram_
 
 ### Saturday, August 1, 2026
 
+- **[The countdown has begun!](https://www.instagram.com/p/DaGTqnrCYOt/)** **_Free_**  
+   Salsadallas  
+   Sat, Aug 1, 2026 • all day  
+   `salsa` `lesson` `social` `festival` _via instagram_
 - **[The countdown is on!](https://www.instagram.com/p/DaDyOTdHyQB/)** **_Free_**  
    Salsadallas  
    Sat, Aug 1, 2026 • 6:00 PM  
@@ -404,6 +401,10 @@
 
 ### Saturday, August 8, 2026
 
+- **[The countdown has begun!](https://www.instagram.com/p/DaGTqnrCYOt/)** **_Free_**  
+   Salsadallas  
+   Sat, Aug 8, 2026 • all day  
+   `salsa` `lesson` `social` `festival` _via instagram_
 - **[Salsa en el parke / salsa in the park](https://www.meetup.com/dallas-spanish/events/315264843/)** **_Varies_**  
    3850 Vitruvian Way, Addison, TX  
    Sat, Aug 8, 2026 • 6:00 PM  
