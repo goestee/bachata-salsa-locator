@@ -1,22 +1,14 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-06-30 12:07 AM CDT**
+> Auto-generated. Last update: **2026-06-30 10:31 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 68 upcoming events tracked. **8 new** since last run.
+> 69 upcoming events tracked. **7 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Salsa Dance Class for Beginners](https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1984721441258)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, Jun 30, 2026 • all day  
-   `social` `lesson` `salsa` _via eventbrite_
-- **[SALSA DEL BARRIO](https://www.eventbrite.com/e/salsa-del-barrio-tickets-1983990831986)** **_Varies_**  
-   Ocho Latin Cuisine Events · Dallas  
-   Sat, Jul 4, 2026 • all day  
-   `social` `lesson` `salsa` _via eventbrite_
 - **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
    Victoria’s Restaurant · Farmers Branch  
    Sun, Jul 5, 2026 • all day  
@@ -41,6 +33,10 @@
    You Can Dance Dallas  
    Sun, Jul 5, 2026 • 7:45 PM  
    `lesson` `festival` `salsa` `bachata` `cha-cha` _via meetup_
+- **[7:00-11:00 2ND SATURDAY BALLROOM DANCE PARTY & QUICKSTEP CLASS](https://www.meetup.com/you-can-dance-dallas/events/315361418/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Sat, Jul 11, 2026 • 7:00 PM  
+   `social` `lesson` _via meetup_
 
 ---
 
@@ -265,6 +261,10 @@
    Salsadallas  
    Sat, Jul 11, 2026 • 6:30 PM  
    `salsa` `lesson` `social` `festival` _via instagram_
+- **[7:00-11:00 2ND SATURDAY BALLROOM DANCE PARTY & QUICKSTEP CLASS](https://www.meetup.com/you-can-dance-dallas/events/315361418/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Sat, Jul 11, 2026 • 7:00 PM  
+   `social` `lesson` _via meetup_
 
 ### Thursday, July 16, 2026
 
