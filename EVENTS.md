@@ -1,18 +1,14 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-07-01 10:45 AM CDT**
+> Auto-generated. Last update: **2026-07-02 12:01 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 133 upcoming events tracked. **69 new** since last run.
+> 128 upcoming events tracked. **69 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Latin Night at Gigis](https://golatindance.com/event/latin-night-at-gigis/2026-07-01/)** **_Free_**  
-   Gigis, 7300 Lone Star Drive C150, Plano, TX, 75024, United States  
-   Wed, Jul 1, 2026 • 9:00 PM – 2:00 AM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
 - **[Looking for fun & dancing this Thursday?](https://www.instagram.com/p/DaM4W94lcpt/)** **_Varies_**  
    Salsa At The Gardens  
    Thu, Jul 2, 2026 • 6:00 PM  
@@ -25,6 +21,10 @@
    Rockler Woodworking and Hardware - Garland  
    Fri, Jul 3, 2026 • all day  
    `salsa` _via eventbrite_
+- **[RUMBA COLOMBIANA @ TABOO DALLAS!](https://www.instagram.com/p/DaPTM1MFYBA/)** **_$10–$20_**  
+   Salsa At The Gardens  
+   Fri, Jul 3, 2026 • 6:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 - **[We cannot believe it’s already this week, July 3rd we’re back with our 50/50 bachata/salsa social with one of the larges](https://www.instagram.com/p/DaK5Z3ZuSDw/)** **_Varies_**  
    Dallaszouklambadafestival  
    Fri, Jul 3, 2026 • 9:00 PM  
@@ -115,37 +115,6 @@
 ## Upcoming
 
 
-### Wednesday, July 1, 2026
-
-- **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
-   Vidorra Dallas  
-   Wed, Jul 1, 2026 • all day  
-   `social` `lesson` `salsa` _via danceus_
-- **[Live Latin Night With Havana NRG at Sambuca360](https://www.danceus.org/event/165524211650016/live-latin-night-with-havana-nrg-at-sambuca-plano-tx/)** **_Varies_**  
-   Sambuca360 · Plano  
-   Wed, Jul 1, 2026 • all day  
-   `social` _via danceus_
-- **[Salseando and Bachateando Nights at El Botanero](https://www.danceus.org/event/16552421287400/salseando-and-bachateando-nights-at-el-botanero-dallas-tx/)** **_Varies_**  
-   El Botanero Bar · Dallas  
-   Wed, Jul 1, 2026 • all day  
-   `social` `salsa` `bachata` _via danceus_
-- **[Wednesday Salsa Social at Stratos](https://www.danceus.org/event/16552421361930/wednesday-salsa-social-at-stratos-dallas-tx/)** **_Varies_**  
-   Stratos Greek Taverna · Dallas  
-   Wed, Jul 1, 2026 • all day  
-   `social` `salsa` _via danceus_
-- **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
-   Dallas-Fort Worth  
-   Wed, Jul 1, 2026 • 7:00 PM – 11:00 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via salsavida_
-- **[Latin Night at Gigis](https://golatindance.com/event/latin-night-at-gigis/2026-07-01/)** **_Free_**  
-   Gigis, 7300 Lone Star Drive C150, Plano, TX, 75024, United States  
-   Wed, Jul 1, 2026 • 9:00 PM – 2:00 AM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Wednesday Salsa & Bachata at Stratos](https://www.salsavida.com/event/texas/dallas-fort-worth/wednesday-salsa-bachata-at-stratos/)** **_Free_**  
-   Dallas-Fort Worth  
-   Wed, Jul 1, 2026 • 9:30 PM – 2:00 AM  
-   `social` `lesson` `salsa` `bachata` _via salsavida_
-
 ### Thursday, July 2, 2026
 
 - **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
@@ -183,6 +152,10 @@
    Rockler Woodworking and Hardware - Garland  
    Fri, Jul 3, 2026 • all day  
    `salsa` _via eventbrite_
+- **[RUMBA COLOMBIANA @ TABOO DALLAS!](https://www.instagram.com/p/DaPTM1MFYBA/)** **_$10–$20_**  
+   Salsa At The Gardens  
+   Fri, Jul 3, 2026 • 6:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 - **[Level 1.5 Bachata Group Class | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315376632/)** **_Varies_**  
    4801 Spring Valley Rd suite 118 · Farmers Branch  
    Fri, Jul 3, 2026 • 7:00 PM  
@@ -494,6 +467,10 @@
    Dallas-Fort Worth  
    Sun, Jul 12, 2026 • 5:30 PM – 10:30 PM  
    `social` `salsa` `bachata` `merengue` _via salsavida_
+- **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-07-12/)** **_Free_**  
+   Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
+   Sun, Jul 12, 2026 • 7:00 PM – 11:00 PM  
+   `social` `lesson` `salsa` _via golatindance_
 - **[Fuego Sundays at Longhorn Icehouse](https://www.salsavida.com/event/texas/dallas-fort-worth/fuego-sundays-at-longhorn-icehouse/)** **_$10_**  
    Dallas-Fort Worth  
    Sun, Jul 12, 2026 • 10:00 PM  
