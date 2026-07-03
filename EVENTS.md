@@ -1,18 +1,14 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-07-02 11:45 PM CDT**
+> Auto-generated. Last update: **2026-07-03 10:15 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 134 upcoming events tracked. **8 new** since last run.
+> 132 upcoming events tracked. **9 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[RUMBA COLOMBIANA @ TABOO DALLAS!](https://www.instagram.com/p/DaPTM1MFYBA/)** **_$10–$20_**  
-   Salsa At The Gardens  
-   Fri, Jul 3, 2026 • 6:00 PM  
-   `salsa` `bachata` `merengue` `social` _via instagram_
 - **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
    Vidorra Dallas  
    Wed, Jul 8, 2026 • all day  
@@ -29,10 +25,18 @@
    Stratos Greek Taverna · Dallas  
    Wed, Jul 8, 2026 • all day  
    `social` `salsa` _via danceus_
-- **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-07-12/)** **_Free_**  
-   Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
-   Sun, Jul 12, 2026 • 7:00 PM – 11:00 PM  
-   `social` `lesson` `salsa` _via golatindance_
+- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
+   Merkado · Frisco  
+   Thu, Jul 9, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Thu, Jul 9, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
+   Hangout · Irving  
+   Thu, Jul 9, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
 - **[Sabroso Sundays at Al-Amir](https://golatindance.com/event/sabroso-sundays-at-al-amir/2026-07-12/)** **_Free_**  
    Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States  
    Sun, Jul 12, 2026 • 10:00 PM – 2:00 AM  
@@ -46,29 +50,6 @@
 
 ## Upcoming
 
-
-### Thursday, July 2, 2026
-
-- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
-   Merkado · Frisco  
-   Thu, Jul 2, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Thu, Jul 2, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
-   Hangout · Irving  
-   Thu, Jul 2, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Looking for fun & dancing this Thursday?](https://www.instagram.com/p/DaTWalJhvQX/)** **_Varies_**  
-   Salsa At The Gardens  
-   Thu, Jul 2, 2026 • 6:00 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
-- **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-07-02/)** **_Free_**  
-   Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
-   Thu, Jul 2, 2026 • 9:00 PM – 1:00 AM  
-   `social` `lesson` `salsa` _via golatindance_
 
 ### Friday, July 3, 2026
 
@@ -330,6 +311,18 @@
 
 ### Thursday, July 9, 2026
 
+- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
+   Merkado · Frisco  
+   Thu, Jul 9, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Thu, Jul 9, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
+   Hangout · Irving  
+   Thu, Jul 9, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
 - **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-07-09/)** **_Free_**  
    Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
    Thu, Jul 9, 2026 • 9:00 PM – 1:00 AM  
