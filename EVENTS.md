@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-07-03 11:39 PM CDT**
+> Auto-generated. Last update: **2026-07-04 09:40 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 134 upcoming events tracked. **7 new** since last run.
+> 125 upcoming events tracked. **12 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -21,14 +21,34 @@
    Hangout · Irving  
    Thu, Jul 9, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Sabroso Sundays at Al-Amir](https://golatindance.com/event/sabroso-sundays-at-al-amir/2026-07-12/)** **_Free_**  
-   Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States  
-   Sun, Jul 12, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` `merengue` _via golatindance_
-- **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-07-14/)** **_Free_**  
-   Rotate Social, 5454 Main st., Frisco, TX, United States  
-   Tue, Jul 14, 2026 • 7:30 PM – 11:30 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
+- **[Noches Latinas Fridays at Los Lupes](https://www.danceus.org/event/16552421183470/noches-latinas-fridays-at-los-lupes-addison-tx/)** **_Varies_**  
+   Los Lupes Addison  
+   Fri, Jul 10, 2026 • all day  
+   `salsa` `bachata` `merengue` _via danceus_
+- **[Friday Latin at Al-Amir Arlington](https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/)** **_Varies_**  
+   Al-Amir Arlington  
+   Fri, Jul 10, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via danceus_
+- **[BIG FRIDAY SALSA & bachata class in Addison ● We go eat & dance after ●](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315348540/)** **_Varies_**  
+   You Can Dance Dallas  
+   Fri, Jul 10, 2026 • 7:30 PM  
+   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
+- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/315348566/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Fri, Jul 10, 2026 • 7:30 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
+- **[25 % off FRIDAY salsa & bachata class in Addison](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315348531/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Fri, Jul 10, 2026 • 7:30 PM  
+   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
+- **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315348530/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Fri, Jul 10, 2026 • 7:30 PM  
+   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
+- **[Wood Turned Chips & Salsa Bowl](https://www.eventbrite.com/e/wood-turned-chips-salsa-bowl-tickets-1988915258077)** **_Varies_**  
+   Rockler Woodworking and Hardware - Garland  
+   Wed, Jul 15, 2026 • all day  
+   `salsa` _via eventbrite_
 - **[Latin Night at Gigis](https://golatindance.com/event/latin-night-at-gigis/2026-07-15/)** **_Free_**  
    Gigis, 7300 Lone Star Drive C150, Plano, TX, 75024, United States  
    Wed, Jul 15, 2026 • 9:00 PM – 2:00 AM  
@@ -42,73 +62,6 @@
 
 ## Upcoming
 
-
-### Friday, July 3, 2026
-
-- **[Noches Latinas Fridays at Los Lupes](https://www.danceus.org/event/16552421183470/noches-latinas-fridays-at-los-lupes-addison-tx/)** **_Varies_**  
-   Los Lupes Addison  
-   Fri, Jul 3, 2026 • all day  
-   `salsa` `bachata` `merengue` _via danceus_
-- **[Friday Latin at Al-Amir Arlington](https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/)** **_Varies_**  
-   Al-Amir Arlington  
-   Fri, Jul 3, 2026 • all day  
-   `social` `salsa` `bachata` `merengue` _via danceus_
-- **[Wood Turned Chips & Salsa Bowl](https://www.eventbrite.com/e/wood-turned-chips-salsa-bowl-tickets-1988915233002)** **_Varies_**  
-   Rockler Woodworking and Hardware - Garland  
-   Fri, Jul 3, 2026 • all day  
-   `salsa` _via eventbrite_
-- **[RUMBA COLOMBIANA @ TABOO DALLAS!](https://www.instagram.com/p/DaPTM1MFYBA/)** **_$10–$20_**  
-   Salsa At The Gardens  
-   Fri, Jul 3, 2026 • 6:00 PM  
-   `salsa` `bachata` `merengue` `social` _via instagram_
-- **[Level 1.5 Bachata Group Class | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315376632/)** **_Varies_**  
-   4801 Spring Valley Rd suite 118 · Farmers Branch  
-   Fri, Jul 3, 2026 • 7:00 PM  
-   `social` `workshop` `lesson` `bachata` _via meetup_
-- **[BIG FRIDAY SALSA & bachata class in Addison ● We go eat & dance after ●](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315249491/)** **_Varies_**  
-   You Can Dance Dallas  
-   Fri, Jul 3, 2026 • 7:30 PM  
-   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
-- **[25 % off FRIDAY salsa & bachata class in Addison](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315249481/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Fri, Jul 3, 2026 • 7:30 PM  
-   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
-- **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315249480/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Fri, Jul 3, 2026 • 7:30 PM  
-   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
-- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/315249515/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Fri, Jul 3, 2026 • 7:30 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[@yayita_finin is traveling from Houston to give you an opportunity to take her salsa class It will start at 9pm on Frida](https://www.instagram.com/p/DZnH91aOvIh/)** **_Varies_**  
-   Echalesalsita Dallas  
-   Fri, Jul 3, 2026 • 9:00 PM  
-   `salsa` `bachata` `lesson` _via instagram_
-- **[July 3rd we’re back with our 50/50 bachata/salsa social with one of the largest indoor dance spaces in Texas](https://www.instagram.com/p/DZ5T-1RM2ot/)** **_Varies_**  
-   Dallaszouklambadafestival  
-   Fri, Jul 3, 2026 • 9:00 PM  
-   `salsa` `bachata` `lesson` `social` `festival` _via instagram_
-- **[We cannot believe it’s already this week, July 3rd we’re back with our 50/50 bachata/salsa social with one of the larges](https://www.instagram.com/p/DaK5Z3ZuSDw/)** **_Varies_**  
-   Dallaszouklambadafestival  
-   Fri, Jul 3, 2026 • 9:00 PM  
-   `salsa` `bachata` `lesson` `social` `festival` _via instagram_
-- **[Echale Salsita Dallas ft. DJ Ricky Campanelli](https://www.instagram.com/p/DZ-AVgGuH5-/)** **_$18–$25_**  
-   Echale Salsita for the ultimate dance eve  
-   Fri, Jul 3, 2026 • 10:00 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
-- **[Friday Latin at Al-Amir Arlington](https://golatindance.com/event/friday-rumba-nights-at-al-amir-arlington/2026-07-03/)** **_Varies_**  
-   Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
-   Fri, Jul 3, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` `merengue` _via golatindance_
-- **[Echale Salsita Dallas](https://golatindance.com/event/echale-salsita-dallas-2/2026-07-03/)** **_$17–$25_**  
-   2600 North Stemmons Fwy #188, 2600 North Stemmons Fwy #188, Dallas, TX, 75207, United States  
-   Fri, Jul 3, 2026 • 10:00 PM – 2:00 AM  
-   `social` `lesson` `festival` `salsa` `bachata` _via golatindance_
-- **[Rumba Fridays @ Taboo Lounge Dallas](https://golatindance.com/event/rumba-fridays-taboo-lounge-dallas/2026-07-03/)** **_$5–$15_**  
-   Taboo Dallas, 1418 N Riverfront, Dallas, TX, 75207, United States  
-   Fri, Jul 3, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` `merengue` _via golatindance_
 
 ### Saturday, July 4, 2026
 
@@ -322,6 +275,30 @@
 
 ### Friday, July 10, 2026
 
+- **[Noches Latinas Fridays at Los Lupes](https://www.danceus.org/event/16552421183470/noches-latinas-fridays-at-los-lupes-addison-tx/)** **_Varies_**  
+   Los Lupes Addison  
+   Fri, Jul 10, 2026 • all day  
+   `salsa` `bachata` `merengue` _via danceus_
+- **[Friday Latin at Al-Amir Arlington](https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/)** **_Varies_**  
+   Al-Amir Arlington  
+   Fri, Jul 10, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via danceus_
+- **[BIG FRIDAY SALSA & bachata class in Addison ● We go eat & dance after ●](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315348540/)** **_Varies_**  
+   You Can Dance Dallas  
+   Fri, Jul 10, 2026 • 7:30 PM  
+   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
+- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/315348566/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Fri, Jul 10, 2026 • 7:30 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
+- **[25 % off FRIDAY salsa & bachata class in Addison](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315348531/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Fri, Jul 10, 2026 • 7:30 PM  
+   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
+- **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315348530/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Fri, Jul 10, 2026 • 7:30 PM  
+   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
 - **[Salson Social](https://golatindance.com/event/salson-social/2026-07-10/)** **_$15–$18_**  
    Kumbala Dance Studio, 4340 Spring Valley Road, Suite 4340, Farmers Branch, TX, 75244, United States  
    Fri, Jul 10, 2026 • 9:00 PM – 2:00 AM  
@@ -426,6 +403,10 @@
 
 ### Wednesday, July 15, 2026
 
+- **[Wood Turned Chips & Salsa Bowl](https://www.eventbrite.com/e/wood-turned-chips-salsa-bowl-tickets-1988915258077)** **_Varies_**  
+   Rockler Woodworking and Hardware - Garland  
+   Wed, Jul 15, 2026 • all day  
+   `salsa` _via eventbrite_
 - **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
    Dallas-Fort Worth  
    Wed, Jul 15, 2026 • 7:00 PM – 11:00 PM  
