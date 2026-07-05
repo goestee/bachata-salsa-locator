@@ -1,26 +1,22 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-07-04 09:40 AM CDT**
+> Auto-generated. Last update: **2026-07-04 11:59 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 125 upcoming events tracked. **12 new** since last run.
+> 133 upcoming events tracked. **17 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
-   Merkado · Frisco  
-   Thu, Jul 9, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Thu, Jul 9, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
-   Hangout · Irving  
-   Thu, Jul 9, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Salseros y Bachateros, the place to be tonight is the 4th of July Salsa Celebration @ Taboo Dallas!](https://www.instagram.com/p/DaYvMjUBpkG/)** **_$10_**  
+   Salsa At The Gardens  
+   Sat, Jul 4, 2026 • 4:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
+- **[⚽ WORLD SOCCER SUNDAY @ HEARSAY ARLINGTON ⚽](https://www.instagram.com/p/DaZFXWDFaoj/)** **_Free_**  
+   Hearsay  
+   Sun, Jul 5, 2026 • 6:00 PM  
+   `salsa` `social` _via instagram_
 - **[Noches Latinas Fridays at Los Lupes](https://www.danceus.org/event/16552421183470/noches-latinas-fridays-at-los-lupes-addison-tx/)** **_Varies_**  
    Los Lupes Addison  
    Fri, Jul 10, 2026 • all day  
@@ -45,6 +41,14 @@
    You Can Dance Dallas · Addison  
    Fri, Jul 10, 2026 • 7:30 PM  
    `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
+- **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/315359565/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, Jul 11, 2026 • 4:00 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315360121/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, Jul 11, 2026 • 5:00 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 - **[Wood Turned Chips & Salsa Bowl](https://www.eventbrite.com/e/wood-turned-chips-salsa-bowl-tickets-1988915258077)** **_Varies_**  
    Rockler Woodworking and Hardware - Garland  
    Wed, Jul 15, 2026 • all day  
@@ -57,6 +61,22 @@
    Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
    Thu, Jul 16, 2026 • 9:00 PM – 1:00 AM  
    `social` `lesson` `salsa` _via golatindance_
+- **[Una Aventura: Salsa Social](https://golatindance.com/event/una-aventura-salsa-social/2026-07-17/)** **_$15–$18_**  
+   Studio 22 Dallas, 14902 Preston Road #400, Dallas, TX, 75254, United States  
+   Fri, Jul 17, 2026 • 8:00 PM – 12:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[Pura Ft Worth Salsa and Bachata Social](https://golatindance.com/event/pura-ft-worth-salsa-and-bachata-social/2026-07-17/)** **_$17_**  
+   Dance Makers of Texas, 6125 SW Loop 820 Ste 140, Fort Worth, TX, 76132, United States  
+   Fri, Jul 17, 2026 • 8:30 PM – 1:00 AM  
+   `social` `lesson` `salsa` `bachata` _via golatindance_
+- **[Friday Latin at Al-Amir Arlington](https://golatindance.com/event/friday-rumba-nights-at-al-amir-arlington/2026-07-17/)** **_Varies_**  
+   Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
+   Fri, Jul 17, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[Rumba Fridays @ Taboo Lounge Dallas](https://golatindance.com/event/rumba-fridays-taboo-lounge-dallas/2026-07-17/)** **_$5–$15_**  
+   Taboo Dallas, 1418 N Riverfront, Dallas, TX, 75207, United States  
+   Fri, Jul 17, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
 
 ---
 
@@ -97,6 +117,10 @@
    DFW Young & Social · Farmers Branch  
    Sat, Jul 4, 2026 • 4:00 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
+- **[Salseros y Bachateros, the place to be tonight is the 4th of July Salsa Celebration @ Taboo Dallas!](https://www.instagram.com/p/DaYvMjUBpkG/)** **_$10_**  
+   Salsa At The Gardens  
+   Sat, Jul 4, 2026 • 4:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 - **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315261280/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Sat, Jul 4, 2026 • 5:00 PM  
@@ -168,6 +192,10 @@
    Dallas-Fort Worth  
    Sun, Jul 5, 2026 • 5:30 PM – 10:30 PM  
    `social` `salsa` `bachata` `merengue` _via salsavida_
+- **[⚽ WORLD SOCCER SUNDAY @ HEARSAY ARLINGTON ⚽](https://www.instagram.com/p/DaZFXWDFaoj/)** **_Free_**  
+   Hearsay  
+   Sun, Jul 5, 2026 • 6:00 PM  
+   `salsa` `social` _via instagram_
 - **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/315277805/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sun, Jul 5, 2026 • 6:30 PM  
@@ -307,7 +335,7 @@
    Kumbala Dance Studio · Farmers Branch  
    Fri, Jul 10, 2026 • 9:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
-- **[Salsa and Bachata dancing @salsonsocial every 2nd Friday of the month!](https://www.instagram.com/p/DZ_g-ZixWxc/)** **_$17–$20_**  
+- **[Salsa and Bachata dancing @salsonsocial every 2nd Friday of the month!](https://www.instagram.com/p/DaY5lZkkfOL/)** **_$17–$20_**  
    Kumbaladancestudio  
    Fri, Jul 10, 2026 • 9:30 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
@@ -330,6 +358,14 @@
    Salsadallas  
    Sat, Jul 11, 2026 • all day  
    `salsa` `lesson` `social` `festival` _via instagram_
+- **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/315359565/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, Jul 11, 2026 • 4:00 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315360121/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, Jul 11, 2026 • 5:00 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 - **[Vitruvian Salsa Festival 2025](https://www.salsavida.com/event/texas/dallas-fort-worth/vitruvian-salsa-festival/)** **_Free_**  
    Dallas-Fort Worth  
    Sat, Jul 11, 2026 • 6:00 PM  
@@ -437,10 +473,26 @@
    Dallas-Fort Worth  
    Fri, Jul 17, 2026 • 8:00 PM  
    `social` `lesson` `salsa` `bachata` `merengue` _via salsavida_
+- **[Una Aventura: Salsa Social](https://golatindance.com/event/una-aventura-salsa-social/2026-07-17/)** **_$15–$18_**  
+   Studio 22 Dallas, 14902 Preston Road #400, Dallas, TX, 75254, United States  
+   Fri, Jul 17, 2026 • 8:00 PM – 12:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[Pura Ft Worth Salsa and Bachata Social](https://golatindance.com/event/pura-ft-worth-salsa-and-bachata-social/2026-07-17/)** **_$17_**  
+   Dance Makers of Texas, 6125 SW Loop 820 Ste 140, Fort Worth, TX, 76132, United States  
+   Fri, Jul 17, 2026 • 8:30 PM – 1:00 AM  
+   `social` `lesson` `salsa` `bachata` _via golatindance_
 - **[Pura Fort Worth 3rd Friday Salsa & Bachata Social](https://www.salsavida.com/event/texas/dallas-fort-worth/pura-fort-worth-3rd-friday-salsa-bachata-social/)** **_$10_**  
    Dallas-Fort Worth  
    Fri, Jul 17, 2026 • 9:30 PM – 3:00 AM  
    `social` `lesson` `salsa` `bachata` _via salsavida_
+- **[Friday Latin at Al-Amir Arlington](https://golatindance.com/event/friday-rumba-nights-at-al-amir-arlington/2026-07-17/)** **_Varies_**  
+   Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
+   Fri, Jul 17, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[Rumba Fridays @ Taboo Lounge Dallas](https://golatindance.com/event/rumba-fridays-taboo-lounge-dallas/2026-07-17/)** **_$5–$15_**  
+   Taboo Dallas, 1418 N Riverfront, Dallas, TX, 75207, United States  
+   Fri, Jul 17, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
 
 ### Saturday, July 18, 2026
 
