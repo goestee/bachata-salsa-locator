@@ -1,26 +1,22 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-07-06 11:24 AM CDT**
+> Auto-generated. Last update: **2026-07-06 11:55 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 112 upcoming events tracked. **14 new** since last run.
+> 115 upcoming events tracked. **14 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Noches Latinas Saturdays at Los Lupes](https://www.danceus.org/event/16552421199670/noches-latinas-saturdays-at-los-lupes-addison-tx/)** **_Varies_**  
-   Los Lupes Addison  
+- **[Salsa Dance Class for Beginners](https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1992296834463)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Jul 7, 2026 • all day  
+   `social` `lesson` `salsa` _via eventbrite_
+- **[SALSA DEL BARRIO](https://www.eventbrite.com/e/salsa-del-barrio-tickets-1983990832989)** **_Varies_**  
+   Ocho Latin Cuisine Events · Dallas  
    Sat, Jul 11, 2026 • all day  
-   `salsa` `bachata` `merengue` _via danceus_
-- **[Salsa Bachata Night at Mexican Bar Company](https://www.danceus.org/event/16552421241878/salsa-bachata-night-at-mexican-bar-company-plano-tx/)** **_Varies_**  
-   Mexican Bar Company · Plano  
-   Sat, Jul 11, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Mi Pueblito](https://www.danceus.org/event/165524211430824/latin-night-at-mi-pueblito-garland-tx/)** **_Varies_**  
-   Mi Pueblito · Garland  
-   Sat, Jul 11, 2026 • all day  
-   `social` _via danceus_
+   `social` `lesson` `salsa` _via eventbrite_
 - **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
    Victoria’s Restaurant · Farmers Branch  
    Sun, Jul 12, 2026 • all day  
@@ -37,6 +33,10 @@
    You Can Dance Dallas · Addison  
    Sun, Jul 12, 2026 • 4:45 PM  
    `lesson` `salsa` `bachata` `cha-cha` _via meetup_
+- **[30 % OFF CHA CHA CHA & mambo in addison](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315579016/)** **_Varies_**  
+   You Can Dance Dallas  
+   Sun, Jul 12, 2026 • 4:45 PM  
+   `cha-cha` _via meetup_
 - **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/315377092/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sun, Jul 12, 2026 • 6:30 PM  
@@ -80,6 +80,10 @@
 
 ### Tuesday, July 7, 2026
 
+- **[Salsa Dance Class for Beginners](https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1992296834463)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Jul 7, 2026 • all day  
+   `social` `lesson` `salsa` _via eventbrite_
 - **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-07-07/)** **_Free_**  
    Rotate Social, 5454 Main st., Frisco, TX, United States  
    Tue, Jul 7, 2026 • 7:30 PM – 11:30 PM  
@@ -212,6 +216,10 @@
    Mi Pueblito · Garland  
    Sat, Jul 11, 2026 • all day  
    `social` _via danceus_
+- **[SALSA DEL BARRIO](https://www.eventbrite.com/e/salsa-del-barrio-tickets-1983990832989)** **_Varies_**  
+   Ocho Latin Cuisine Events · Dallas  
+   Sat, Jul 11, 2026 • all day  
+   `social` `lesson` `salsa` _via eventbrite_
 - **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/315359565/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Sat, Jul 11, 2026 • 4:00 PM  
@@ -279,6 +287,10 @@
    You Can Dance Dallas · Addison  
    Sun, Jul 12, 2026 • 4:45 PM  
    `lesson` `salsa` `bachata` `cha-cha` _via meetup_
+- **[30 % OFF CHA CHA CHA & mambo in addison](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315579016/)** **_Varies_**  
+   You Can Dance Dallas  
+   Sun, Jul 12, 2026 • 4:45 PM  
+   `cha-cha` _via meetup_
 - **[Son y Sabor at The Victoria](https://www.salsavida.com/event/texas/dallas-fort-worth/son-y-sabor-at-the-victoria/)** **_$7_**  
    Dallas-Fort Worth  
    Sun, Jul 12, 2026 • 5:30 PM – 10:30 PM  
