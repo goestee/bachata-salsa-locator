@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-07-07 10:46 AM CDT**
+> Auto-generated. Last update: **2026-07-07 11:18 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 114 upcoming events tracked. **10 new** since last run.
+> 117 upcoming events tracked. **6 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -17,38 +17,22 @@
    Ocho Latin Cuisine Events · Dallas  
    Sat, Jul 11, 2026 • all day  
    `social` `lesson` `salsa` _via eventbrite_
-- **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
-   Victoria’s Restaurant · Farmers Branch  
-   Sun, Jul 12, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Salsa Sundays at The Statler](https://www.danceus.org/event/16552421262550/salsa-sundays-at-the-statler-dallas-tx/)** **_Varies_**  
-   The Statler · Dallas  
-   Sun, Jul 12, 2026 • all day  
-   `lesson` `salsa` _via danceus_
-- **[Sabroso Sunday at Al-Amir Addison](https://www.danceus.org/event/16552421219990/sabroso-sunday-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Sun, Jul 12, 2026 • all day  
-   `social` `salsa` `bachata` `merengue` _via danceus_
-- **[4:15 Cha Cha on 2](https://www.meetup.com/you-can-dance-dallas/events/315567153/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Jul 12, 2026 • 4:45 PM  
-   `lesson` `salsa` `bachata` `cha-cha` _via meetup_
 - **[30 % OFF CHA CHA CHA & mambo in addison](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315579016/)** **_Varies_**  
    You Can Dance Dallas  
    Sun, Jul 12, 2026 • 4:45 PM  
    `cha-cha` _via meetup_
-- **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/315377092/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Jul 12, 2026 • 6:30 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[50 % off SUNDAY Salsa & BACHATA class in addison • we go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315377043/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Jul 12, 2026 • 6:30 PM  
-   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
-- **[David Herrera Amateur Latin / Ballroom dance team summer tryouts](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315377714/)** **_Varies_**  
-   You Can Dance Dallas  
-   Sun, Jul 12, 2026 • 7:45 PM  
-   `lesson` `festival` `salsa` `bachata` `cha-cha` _via meetup_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315406242/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Jul 14, 2026 • 8:00 PM  
+   `social` `lesson` `salsa` _via meetup_
+- **[⚽ INTERNATIONAL SOCCER SALSA PARTY ⚽](https://www.instagram.com/p/Daetwt5Ddg7/)** **_Free_**  
+   Texas Live  
+   Fri, Jul 17, 2026 • 9:00 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
+- **[Rumba Tropical en Reys's Sports Bar](https://golatindance.com/event/rumba-tropical-en-reyss-sports-bar/2026-07-18/)** **_Free_**  
+   Reys Sports Bar, 2836 N Oconnor Rd, Irving, TX, United States  
+   Sat, Jul 18, 2026 • 10:00 PM – 2:00 AM  
+   `salsa` `bachata` `merengue` _via golatindance_
 
 ---
 
@@ -158,7 +142,7 @@
    Kumbala Dance Studio · Farmers Branch  
    Fri, Jul 10, 2026 • 9:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
-- **[Salsa and Bachata dancing @salsonsocial every 2nd Friday of the month!](https://www.instagram.com/p/DaY5lZkkfOL/)** **_$17–$20_**  
+- **[Salsa and Bachata dancing @salsonsocial every 2nd Friday of the month!](https://www.instagram.com/p/DaeYik9RWky/)** **_$17–$20_**  
    Kumbaladancestudio  
    Fri, Jul 10, 2026 • 9:30 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
@@ -307,6 +291,10 @@
    Rotate Social, 5454 Main st., Frisco, TX, United States  
    Tue, Jul 14, 2026 • 7:30 PM – 11:30 PM  
    `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315406242/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Jul 14, 2026 • 8:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 
 ### Wednesday, July 15, 2026
 
@@ -352,6 +340,10 @@
    Dance Makers of Texas, 6125 SW Loop 820 Ste 140, Fort Worth, TX, 76132, United States  
    Fri, Jul 17, 2026 • 8:30 PM – 1:00 AM  
    `social` `lesson` `salsa` `bachata` _via golatindance_
+- **[⚽ INTERNATIONAL SOCCER SALSA PARTY ⚽](https://www.instagram.com/p/Daetwt5Ddg7/)** **_Free_**  
+   Texas Live  
+   Fri, Jul 17, 2026 • 9:00 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[Pura Fort Worth 3rd Friday Salsa & Bachata Social](https://www.salsavida.com/event/texas/dallas-fort-worth/pura-fort-worth-3rd-friday-salsa-bachata-social/)** **_$10_**  
    Dallas-Fort Worth  
    Fri, Jul 17, 2026 • 9:30 PM – 3:00 AM  
@@ -407,6 +399,10 @@
    Dallas Can Dance – The Academy, 2650 Midway Rd #130, Carrollton, TX, 75006, United States  
    Sat, Jul 18, 2026 • 10:00 PM – 2:00 AM  
    `social` `lesson` `salsa` `bachata` `kizomba` _via golatindance_
+- **[Rumba Tropical en Reys's Sports Bar](https://golatindance.com/event/rumba-tropical-en-reyss-sports-bar/2026-07-18/)** **_Free_**  
+   Reys Sports Bar, 2836 N Oconnor Rd, Irving, TX, United States  
+   Sat, Jul 18, 2026 • 10:00 PM – 2:00 AM  
+   `salsa` `bachata` `merengue` _via golatindance_
 - **[Gloria’s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
    Dallas-Fort Worth  
    Sat, Jul 18, 2026 • 11:00 PM – 2:00 AM  
