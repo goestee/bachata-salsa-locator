@@ -1,14 +1,18 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-07-08 10:25 AM CDT**
+> Auto-generated. Last update: **2026-07-08 11:56 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 115 upcoming events tracked. **4 new** since last run.
+> 118 upcoming events tracked. **7 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
+- **[SALSA SUNDAY AT LA CHINGONA – FORT WORTH](https://www.instagram.com/p/DahLvKblRPH/)** **_Free_**  
+   Farrington Field  
+   Sun, Jul 12, 2026 • 3:00 PM  
+   `salsa` `bachata` `merengue` `lesson` _via instagram_
 - **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315406242/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Tue, Jul 14, 2026 • 8:00 PM  
@@ -21,10 +25,18 @@
    Reys Sports Bar, 2836 N Oconnor Rd, Irving, TX, United States  
    Sat, Jul 18, 2026 • 10:00 PM – 2:00 AM  
    `salsa` `bachata` `merengue` _via golatindance_
+- **[Salsa Sunday at La Chingona](https://golatindance.com/event/salsa-sunday-at-la-chingona/2026-07-19/)** **_Free_**  
+   La Chingona, 2800 Bledsoe St #100, Fort Worth, TX, 76107, United States  
+   Sun, Jul 19, 2026 • 3:00 PM – 6:00 PM  
+   `lesson` `salsa` `bachata` _via golatindance_
 - **[7:00-11:00 4TH SATURDAY BALLROOM DANCE PARTY &  EAST COAST SWING CLASS](https://www.meetup.com/you-can-dance-dallas/events/315564707/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sat, Jul 25, 2026 • 7:00 PM  
    `social` `lesson` _via meetup_
+- **[Save the date: August 7th](https://www.instagram.com/p/Daij7GqurtV/)** **_Varies_**  
+   Echalesalsita Dallas  
+   Fri, Aug 7, 2026 • all day  
+   `salsa` `bachata` `social` _via instagram_
 
 ---
 
@@ -119,7 +131,7 @@
    Kumbala Dance Studio · Farmers Branch  
    Fri, Jul 10, 2026 • 9:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
-- **[Salsa and Bachata dancing @salsonsocial every 2nd Friday of the month!](https://www.instagram.com/p/DaeYik9RWky/)** **_$17–$20_**  
+- **[Salsa and Bachata dancing @salsonsocial every 2nd Friday of the month!](https://www.instagram.com/p/DaY5lZkkfOL/)** **_$17–$20_**  
    Kumbaladancestudio  
    Fri, Jul 10, 2026 • 9:30 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
@@ -221,6 +233,10 @@
    Dallas-Fort Worth  
    Sun, Jul 12, 2026 • 3:00 PM – 6:00 PM  
    `social` `lesson` `salsa` `bachata` `merengue` _via salsavida_
+- **[SALSA SUNDAY AT LA CHINGONA – FORT WORTH](https://www.instagram.com/p/DahLvKblRPH/)** **_Free_**  
+   Farrington Field  
+   Sun, Jul 12, 2026 • 3:00 PM  
+   `salsa` `bachata` `merengue` `lesson` _via instagram_
 - **[4:15 Cha Cha on 2](https://www.meetup.com/you-can-dance-dallas/events/315567153/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sun, Jul 12, 2026 • 4:45 PM  
@@ -391,6 +407,10 @@
    Dallas-Fort Worth  
    Sun, Jul 19, 2026 • 3:00 PM – 6:00 PM  
    `social` `lesson` `salsa` `bachata` `merengue` _via salsavida_
+- **[Salsa Sunday at La Chingona](https://golatindance.com/event/salsa-sunday-at-la-chingona/2026-07-19/)** **_Free_**  
+   La Chingona, 2800 Bledsoe St #100, Fort Worth, TX, 76107, United States  
+   Sun, Jul 19, 2026 • 3:00 PM – 6:00 PM  
+   `lesson` `salsa` `bachata` _via golatindance_
 - **[Son y Sabor at The Victoria](https://www.salsavida.com/event/texas/dallas-fort-worth/son-y-sabor-at-the-victoria/)** **_$7_**  
    Dallas-Fort Worth  
    Sun, Jul 19, 2026 • 5:30 PM – 10:30 PM  
@@ -512,6 +532,13 @@
    Dallas-Fort Worth  
    Sat, Aug 1, 2026 • 11:00 PM – 2:00 AM  
    `social` _via salsavida_
+
+### Friday, August 7, 2026
+
+- **[Save the date: August 7th](https://www.instagram.com/p/Daij7GqurtV/)** **_Varies_**  
+   Echalesalsita Dallas  
+   Fri, Aug 7, 2026 • all day  
+   `salsa` `bachata` `social` _via instagram_
 
 ### Saturday, August 8, 2026
 
