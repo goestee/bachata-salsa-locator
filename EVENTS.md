@@ -1,18 +1,34 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-07-09 10:59 AM CDT**
+> Auto-generated. Last update: **2026-07-09 11:56 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 114 upcoming events tracked. **8 new** since last run.
+> 128 upcoming events tracked. **21 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
+- **[SALSEROS Y BACHATEROS… YOUR WEEKEND STARTS HERE!](https://www.instagram.com/p/Daj09JkFUJO/)** **_$5–$200_**  
+   Salsa At The Gardens  
+   Fri, Jul 10, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
+- **[CALLING ALL SALSEROS FROM DFW!](https://www.instagram.com/p/DamW-OipU_C/)** **_$5–$200_**  
+   Taboo Dallas is where DFW's Latin dance c  
+   Fri, Jul 10, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
+- **[Sábados con la Rumba – A Otro Nivel at Luna Azul](https://www.salsavida.com/event/texas/dallas-fort-worth/sabados-con-la-rumba-a-otro-nivel-at-luna-azul/)** **_Free_**  
+   Dallas-Fort Worth  
+   Sat, Jul 11, 2026 • 9:00 PM – 1:00 AM  
+   `social` `salsa` _via salsavida_
 - **[SALSA SUNDAY AT LA CHINGONA – FORT WORTH](https://www.instagram.com/p/DahLvKblRPH/)** **_Free_**  
    Farrington Field  
    Sun, Jul 12, 2026 • 3:00 PM  
    `salsa` `bachata` `merengue` `lesson` _via instagram_
+- **[Salsa Sunday Night @ Hearsay Arlington](https://www.instagram.com/p/Daj0rI2FXaA/)** **_$10_**  
+   Salsa At The Gardens  
+   Sun, Jul 12, 2026 • 7:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
    Vidorra Dallas  
    Wed, Jul 15, 2026 • all day  
@@ -29,18 +45,54 @@
    Stratos Greek Taverna · Dallas  
    Wed, Jul 15, 2026 • all day  
    `social` `salsa` _via danceus_
+- **[CALLING ALL SALSEROS FROM DFW!](https://www.instagram.com/p/DamW-OipU_C/)** **_$5–$200_**  
+   Taboo Dallas is where DFW's Latin dance c  
+   Fri, Jul 17, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
+- **[Sábados con la Rumba – A Otro Nivel at Luna Azul](https://www.salsavida.com/event/texas/dallas-fort-worth/sabados-con-la-rumba-a-otro-nivel-at-luna-azul/)** **_Free_**  
+   Dallas-Fort Worth  
+   Sat, Jul 18, 2026 • 9:00 PM – 1:00 AM  
+   `social` `salsa` _via salsavida_
 - **[Salsa Sunday at La Chingona](https://golatindance.com/event/salsa-sunday-at-la-chingona/2026-07-19/)** **_Free_**  
    La Chingona, 2800 Bledsoe St #100, Fort Worth, TX, 76107, United States  
    Sun, Jul 19, 2026 • 3:00 PM – 6:00 PM  
    `lesson` `salsa` `bachata` _via golatindance_
-- **[7:00-11:00 4TH SATURDAY BALLROOM DANCE PARTY &  EAST COAST SWING CLASS](https://www.meetup.com/you-can-dance-dallas/events/315564707/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sat, Jul 25, 2026 • 7:00 PM  
-   `social` `lesson` _via meetup_
+- **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-07-19/)** **_Free_**  
+   Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
+   Sun, Jul 19, 2026 • 7:00 PM – 11:00 PM  
+   `social` `lesson` `salsa` _via golatindance_
+- **[Sabroso Sundays at Al-Amir](https://golatindance.com/event/sabroso-sundays-at-al-amir/2026-07-19/)** **_Free_**  
+   Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States  
+   Sun, Jul 19, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[CALLING ALL SALSEROS FROM DFW!](https://www.instagram.com/p/DamW-OipU_C/)** **_$5–$200_**  
+   Taboo Dallas is where DFW's Latin dance c  
+   Fri, Jul 24, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
+- **[Sábados con la Rumba – A Otro Nivel at Luna Azul](https://www.salsavida.com/event/texas/dallas-fort-worth/sabados-con-la-rumba-a-otro-nivel-at-luna-azul/)** **_Free_**  
+   Dallas-Fort Worth  
+   Sat, Jul 25, 2026 • 9:00 PM – 1:00 AM  
+   `social` `salsa` _via salsavida_
+- **[CALLING ALL SALSEROS FROM DFW!](https://www.instagram.com/p/DamW-OipU_C/)** **_$5–$200_**  
+   Taboo Dallas is where DFW's Latin dance c  
+   Fri, Jul 31, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
+- **[Sábados con la Rumba – A Otro Nivel at Luna Azul](https://www.salsavida.com/event/texas/dallas-fort-worth/sabados-con-la-rumba-a-otro-nivel-at-luna-azul/)** **_Free_**  
+   Dallas-Fort Worth  
+   Sat, Aug 1, 2026 • 9:00 PM – 1:00 AM  
+   `social` `salsa` _via salsavida_
 - **[Save the date: August 7th](https://www.instagram.com/p/Daij7GqurtV/)** **_Varies_**  
    Echalesalsita Dallas  
    Fri, Aug 7, 2026 • all day  
    `salsa` `bachata` `social` _via instagram_
+- **[CALLING ALL SALSEROS FROM DFW!](https://www.instagram.com/p/DamW-OipU_C/)** **_$5–$200_**  
+   Taboo Dallas is where DFW's Latin dance c  
+   Fri, Aug 7, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
+- **[CALLING ALL SALSEROS FROM DFW!](https://www.instagram.com/p/DamW-OipU_C/)** **_$5–$200_**  
+   Taboo Dallas is where DFW's Latin dance c  
+   Fri, Aug 14, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 
 ---
 
@@ -112,6 +164,14 @@
    Taboo Dallas, 1418 N Riverfront, Dallas, TX, 75207, United States  
    Fri, Jul 10, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[SALSEROS Y BACHATEROS… YOUR WEEKEND STARTS HERE!](https://www.instagram.com/p/Daj09JkFUJO/)** **_$5–$200_**  
+   Salsa At The Gardens  
+   Fri, Jul 10, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
+- **[CALLING ALL SALSEROS FROM DFW!](https://www.instagram.com/p/DamW-OipU_C/)** **_$5–$200_**  
+   Taboo Dallas is where DFW's Latin dance c  
+   Fri, Jul 10, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 
 ### Saturday, July 11, 2026
 
@@ -159,6 +219,10 @@
    You Can Dance Dallas · Addison  
    Sat, Jul 11, 2026 • 7:00 PM  
    `social` `lesson` _via meetup_
+- **[Sábados con la Rumba – A Otro Nivel at Luna Azul](https://www.salsavida.com/event/texas/dallas-fort-worth/sabados-con-la-rumba-a-otro-nivel-at-luna-azul/)** **_Free_**  
+   Dallas-Fort Worth  
+   Sat, Jul 11, 2026 • 9:00 PM – 1:00 AM  
+   `social` `salsa` _via salsavida_
 - **[Latin Saturday at Mexican Bar Company](https://golatindance.com/event/latin-saturday-at-mexican-bar-company/2026-07-11/)** **_Free_**  
    Mexican Bar Company, 6121 West Park Blvd Ste RS-10, Plano, TX, 75093, United States  
    Sat, Jul 11, 2026 • 10:00 PM – 2:00 AM  
@@ -230,6 +294,10 @@
    Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
    Sun, Jul 12, 2026 • 7:00 PM – 11:00 PM  
    `social` `lesson` `salsa` _via golatindance_
+- **[Salsa Sunday Night @ Hearsay Arlington](https://www.instagram.com/p/Daj0rI2FXaA/)** **_$10_**  
+   Salsa At The Gardens  
+   Sun, Jul 12, 2026 • 7:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[David Herrera Amateur Latin / Ballroom dance team summer tryouts](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315377714/)** **_Varies_**  
    You Can Dance Dallas  
    Sun, Jul 12, 2026 • 7:45 PM  
@@ -334,6 +402,10 @@
    Taboo Dallas, 1418 N Riverfront, Dallas, TX, 75207, United States  
    Fri, Jul 17, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[CALLING ALL SALSEROS FROM DFW!](https://www.instagram.com/p/DamW-OipU_C/)** **_$5–$200_**  
+   Taboo Dallas is where DFW's Latin dance c  
+   Fri, Jul 17, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 
 ### Saturday, July 18, 2026
 
@@ -361,6 +433,10 @@
    The Strand, 150 Continental Dr, Lewisville, TX, 75067, United States  
    Sat, Jul 18, 2026 • 7:00 PM – 12:00 AM  
    `salsa` _via golatindance_
+- **[Sábados con la Rumba – A Otro Nivel at Luna Azul](https://www.salsavida.com/event/texas/dallas-fort-worth/sabados-con-la-rumba-a-otro-nivel-at-luna-azul/)** **_Free_**  
+   Dallas-Fort Worth  
+   Sat, Jul 18, 2026 • 9:00 PM – 1:00 AM  
+   `social` `salsa` _via salsavida_
 - **[Salsa Saturdays at Blue Mesa Grill](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-saturdays-at-blue-mesa-grill/)** **_$8_**  
    Dallas-Fort Worth  
    Sat, Jul 18, 2026 • 10:00 PM – 3:00 AM  
@@ -400,6 +476,10 @@
    Dallas-Fort Worth  
    Sun, Jul 19, 2026 • 5:30 PM – 10:30 PM  
    `social` `salsa` `bachata` `merengue` _via salsavida_
+- **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-07-19/)** **_Free_**  
+   Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
+   Sun, Jul 19, 2026 • 7:00 PM – 11:00 PM  
+   `social` `lesson` `salsa` _via golatindance_
 - **[Fuego Sundays at Longhorn Icehouse](https://www.salsavida.com/event/texas/dallas-fort-worth/fuego-sundays-at-longhorn-icehouse/)** **_$10_**  
    Dallas-Fort Worth  
    Sun, Jul 19, 2026 • 10:00 PM  
@@ -408,6 +488,10 @@
    Dallas-Fort Worth  
    Sun, Jul 19, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` `merengue` _via salsavida_
+- **[Sabroso Sundays at Al-Amir](https://golatindance.com/event/sabroso-sundays-at-al-amir/2026-07-19/)** **_Free_**  
+   Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States  
+   Sun, Jul 19, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
 
 ### Monday, July 20, 2026
 
@@ -437,6 +521,10 @@
    4801 Spring Valley Rd suite 118 · Farmers Branch  
    Fri, Jul 24, 2026 • 7:00 PM  
    `social` `workshop` `lesson` `salsa` `bachata` _via meetup_
+- **[CALLING ALL SALSEROS FROM DFW!](https://www.instagram.com/p/DamW-OipU_C/)** **_$5–$200_**  
+   Taboo Dallas is where DFW's Latin dance c  
+   Fri, Jul 24, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 
 ### Saturday, July 25, 2026
 
@@ -456,6 +544,10 @@
    You Can Dance Dallas · Addison  
    Sat, Jul 25, 2026 • 7:00 PM  
    `social` `lesson` _via meetup_
+- **[Sábados con la Rumba – A Otro Nivel at Luna Azul](https://www.salsavida.com/event/texas/dallas-fort-worth/sabados-con-la-rumba-a-otro-nivel-at-luna-azul/)** **_Free_**  
+   Dallas-Fort Worth  
+   Sat, Jul 25, 2026 • 9:00 PM – 1:00 AM  
+   `social` `salsa` _via salsavida_
 - **[La Vibra – Dallas Salsa & Bachata Social](https://www.salsavida.com/event/texas/dallas-fort-worth/la-vibra-dallas-salsa-bachata-social/)** **_$20_**  
    Dallas-Fort Worth  
    Sat, Jul 25, 2026 • 10:00 PM  
@@ -499,6 +591,13 @@
    Wed, Jul 29, 2026 • 9:30 PM – 2:00 AM  
    `social` `lesson` `salsa` `bachata` _via salsavida_
 
+### Friday, July 31, 2026
+
+- **[CALLING ALL SALSEROS FROM DFW!](https://www.instagram.com/p/DamW-OipU_C/)** **_$5–$200_**  
+   Taboo Dallas is where DFW's Latin dance c  
+   Fri, Jul 31, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
+
 ### Saturday, August 1, 2026
 
 - **[The countdown has begun!](https://www.instagram.com/p/DaGTqnrCYOt/)** **_Free_**  
@@ -509,6 +608,10 @@
    Salsadallas  
    Sat, Aug 1, 2026 • 6:00 PM  
    `salsa` `lesson` `social` `festival` _via instagram_
+- **[Sábados con la Rumba – A Otro Nivel at Luna Azul](https://www.salsavida.com/event/texas/dallas-fort-worth/sabados-con-la-rumba-a-otro-nivel-at-luna-azul/)** **_Free_**  
+   Dallas-Fort Worth  
+   Sat, Aug 1, 2026 • 9:00 PM – 1:00 AM  
+   `social` `salsa` _via salsavida_
 - **[Salsa Saturdays at Blue Mesa Grill](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-saturdays-at-blue-mesa-grill/)** **_$8_**  
    Dallas-Fort Worth  
    Sat, Aug 1, 2026 • 10:00 PM – 3:00 AM  
@@ -524,6 +627,10 @@
    Echalesalsita Dallas  
    Fri, Aug 7, 2026 • all day  
    `salsa` `bachata` `social` _via instagram_
+- **[CALLING ALL SALSEROS FROM DFW!](https://www.instagram.com/p/DamW-OipU_C/)** **_$5–$200_**  
+   Taboo Dallas is where DFW's Latin dance c  
+   Fri, Aug 7, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 
 ### Saturday, August 8, 2026
 
@@ -535,6 +642,13 @@
    3850 Vitruvian Way, Addison, TX  
    Sat, Aug 8, 2026 • 6:00 PM  
    `social` `lesson` `salsa` _via meetup_
+
+### Friday, August 14, 2026
+
+- **[CALLING ALL SALSEROS FROM DFW!](https://www.instagram.com/p/DamW-OipU_C/)** **_$5–$200_**  
+   Taboo Dallas is where DFW's Latin dance c  
+   Fri, Aug 14, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 
 ### Thursday, August 20, 2026
 
