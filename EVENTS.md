@@ -1,34 +1,26 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-07-13 10:48 AM CDT**
+> Auto-generated. Last update: **2026-07-13 11:01 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 110 upcoming events tracked. **16 new** since last run.
+> 125 upcoming events tracked. **26 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Salsa Dance Class for Beginners](https://www.eventbrite.com/e/salsa-dance-class-for-beginners-tickets-1992296835466)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, Jul 14, 2026 • all day  
-   `social` `lesson` `salsa` _via eventbrite_
-- **[SALSA DEL BARRIO](https://www.eventbrite.com/e/salsa-del-barrio-tickets-1983990833992)** **_Varies_**  
-   Ocho Latin Cuisine Events · Dallas  
+- **[Join us every Wednesday for our Salsa & Bachata Class at 9:30 PM, then keep the party going with social dancing until 2](https://www.instagram.com/p/Davf0GzMVGW/)** **_Varies_**  
+   Gigisbarandlounge  
+   Wed, Jul 15, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
+- **[⚽ INTERNATIONAL SOCCER SALSA PARTY at TEXAS LIVE ⚽](https://www.instagram.com/p/DawfHJnMKYQ/)** **_Free_**  
+   TEXAS LIVE  
+   Fri, Jul 17, 2026 • 9:00 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
+- **[Dallas, are you ready?](https://www.instagram.com/p/DawehcEDuDf/)** **_Free_**  
+   Salsadallas  
    Sat, Jul 18, 2026 • all day  
-   `social` `lesson` `salsa` _via eventbrite_
-- **[Noches Latinas Saturdays at Los Lupes](https://www.danceus.org/event/16552421199670/noches-latinas-saturdays-at-los-lupes-addison-tx/)** **_Varies_**  
-   Los Lupes Addison  
-   Sat, Jul 18, 2026 • all day  
-   `salsa` `bachata` `merengue` _via danceus_
-- **[Salsa Bachata Night at Mexican Bar Company](https://www.danceus.org/event/16552421241878/salsa-bachata-night-at-mexican-bar-company-plano-tx/)** **_Varies_**  
-   Mexican Bar Company · Plano  
-   Sat, Jul 18, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Mi Pueblito](https://www.danceus.org/event/165524211430824/latin-night-at-mi-pueblito-garland-tx/)** **_Varies_**  
-   Mi Pueblito · Garland  
-   Sat, Jul 18, 2026 • all day  
-   `social` _via danceus_
+   `salsa` `festival` _via instagram_
 - **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
    Victoria’s Restaurant · Farmers Branch  
    Sun, Jul 19, 2026 • all day  
@@ -41,6 +33,14 @@
    Al-Amir Addison  
    Sun, Jul 19, 2026 • all day  
    `social` `salsa` `bachata` `merengue` _via danceus_
+- **[30 % OFF CHA CHA CHA & mambo in addison](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315673932/)** **_Varies_**  
+   You Can Dance Dallas  
+   Sun, Jul 19, 2026 • 4:45 PM  
+   `cha-cha` _via meetup_
+- **[4:15 Cha Cha on 2](https://www.meetup.com/you-can-dance-dallas/events/315673942/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Sun, Jul 19, 2026 • 4:45 PM  
+   `lesson` `salsa` `bachata` `cha-cha` _via meetup_
 - **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/315477786/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sun, Jul 19, 2026 • 6:30 PM  
@@ -53,6 +53,14 @@
    You Can Dance Dallas  
    Sun, Jul 19, 2026 • 7:45 PM  
    `lesson` `festival` `salsa` `bachata` `cha-cha` _via meetup_
+- **[Join us every Wednesday for our Salsa & Bachata Class at 9:30 PM, then keep the party going with social dancing until 2](https://www.instagram.com/p/Davf0GzMVGW/)** **_Varies_**  
+   Gigisbarandlounge  
+   Wed, Jul 22, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
+- **[Dallas, are you ready?](https://www.instagram.com/p/DawehcEDuDf/)** **_Free_**  
+   Salsadallas  
+   Sat, Jul 25, 2026 • all day  
+   `salsa` `festival` _via instagram_
 - **[Latin Saturday at Mexican Bar Company](https://golatindance.com/event/latin-saturday-at-mexican-bar-company/2026-07-25/)** **_Free_**  
    Mexican Bar Company, 6121 West Park Blvd Ste RS-10, Plano, TX, 75093, United States  
    Sat, Jul 25, 2026 • 10:00 PM – 2:00 AM  
@@ -73,6 +81,34 @@
    You Can Dance Dallas · Addison  
    Sun, Jul 26, 2026 • 4:45 PM  
    `lesson` `salsa` `bachata` `cha-cha` _via meetup_
+- **[Join us every Wednesday for our Salsa & Bachata Class at 9:30 PM, then keep the party going with social dancing until 2](https://www.instagram.com/p/Davf0GzMVGW/)** **_Varies_**  
+   Gigisbarandlounge  
+   Wed, Jul 29, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
+- **[Dallas, are you ready?](https://www.instagram.com/p/DawehcEDuDf/)** **_Free_**  
+   Salsadallas  
+   Sat, Aug 1, 2026 • all day  
+   `salsa` `festival` _via instagram_
+- **[Join us every Wednesday for our Salsa & Bachata Class at 9:30 PM, then keep the party going with social dancing until 2](https://www.instagram.com/p/Davf0GzMVGW/)** **_Varies_**  
+   Gigisbarandlounge  
+   Wed, Aug 5, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
+- **[Dallas, are you ready?](https://www.instagram.com/p/DawehcEDuDf/)** **_Free_**  
+   Salsadallas  
+   Sat, Aug 8, 2026 • all day  
+   `salsa` `festival` _via instagram_
+- **[Join us every Wednesday for our Salsa & Bachata Class at 9:30 PM, then keep the party going with social dancing until 2](https://www.instagram.com/p/Davf0GzMVGW/)** **_Varies_**  
+   Gigisbarandlounge  
+   Wed, Aug 12, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
+- **[Dallas, are you ready?](https://www.instagram.com/p/DawehcEDuDf/)** **_Free_**  
+   Salsadallas  
+   Sat, Aug 15, 2026 • all day  
+   `salsa` `festival` _via instagram_
+- **[Join us every Wednesday for our Salsa & Bachata Class at 9:30 PM, then keep the party going with social dancing until 2](https://www.instagram.com/p/Davf0GzMVGW/)** **_Varies_**  
+   Gigisbarandlounge  
+   Wed, Aug 19, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 
 ---
 
@@ -128,6 +164,10 @@
    Dallas-Fort Worth  
    Wed, Jul 15, 2026 • 9:30 PM – 2:00 AM  
    `social` `lesson` `salsa` `bachata` _via salsavida_
+- **[Join us every Wednesday for our Salsa & Bachata Class at 9:30 PM, then keep the party going with social dancing until 2](https://www.instagram.com/p/Davf0GzMVGW/)** **_Varies_**  
+   Gigisbarandlounge  
+   Wed, Jul 15, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 
 ### Thursday, July 16, 2026
 
@@ -194,6 +234,10 @@
    Texas Live  
    Fri, Jul 17, 2026 • 9:00 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
+- **[⚽ INTERNATIONAL SOCCER SALSA PARTY at TEXAS LIVE ⚽](https://www.instagram.com/p/DawfHJnMKYQ/)** **_Free_**  
+   TEXAS LIVE  
+   Fri, Jul 17, 2026 • 9:00 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[Pura Fort Worth 3rd Friday Salsa & Bachata Social](https://www.salsavida.com/event/texas/dallas-fort-worth/pura-fort-worth-3rd-friday-salsa-bachata-social/)** **_$10_**  
    Dallas-Fort Worth  
    Fri, Jul 17, 2026 • 9:30 PM – 3:00 AM  
@@ -241,6 +285,10 @@
    Mi Pueblito · Garland  
    Sat, Jul 18, 2026 • all day  
    `social` _via danceus_
+- **[Dallas, are you ready?](https://www.instagram.com/p/DawehcEDuDf/)** **_Free_**  
+   Salsadallas  
+   Sat, Jul 18, 2026 • all day  
+   `salsa` `festival` _via instagram_
 - **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/315407773/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Sat, Jul 18, 2026 • 4:00 PM  
@@ -312,6 +360,14 @@
    La Chingona, 2800 Bledsoe St #100, Fort Worth, TX, 76107, United States  
    Sun, Jul 19, 2026 • 3:00 PM – 6:00 PM  
    `lesson` `salsa` `bachata` _via golatindance_
+- **[30 % OFF CHA CHA CHA & mambo in addison](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315673932/)** **_Varies_**  
+   You Can Dance Dallas  
+   Sun, Jul 19, 2026 • 4:45 PM  
+   `cha-cha` _via meetup_
+- **[4:15 Cha Cha on 2](https://www.meetup.com/you-can-dance-dallas/events/315673942/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Sun, Jul 19, 2026 • 4:45 PM  
+   `lesson` `salsa` `bachata` `cha-cha` _via meetup_
 - **[Son y Sabor at The Victoria](https://www.salsavida.com/event/texas/dallas-fort-worth/son-y-sabor-at-the-victoria/)** **_$7_**  
    Dallas-Fort Worth  
    Sun, Jul 19, 2026 • 5:30 PM – 10:30 PM  
@@ -373,6 +429,10 @@
    Dallas-Fort Worth  
    Wed, Jul 22, 2026 • 9:30 PM – 2:00 AM  
    `social` `lesson` `salsa` `bachata` _via salsavida_
+- **[Join us every Wednesday for our Salsa & Bachata Class at 9:30 PM, then keep the party going with social dancing until 2](https://www.instagram.com/p/Davf0GzMVGW/)** **_Varies_**  
+   Gigisbarandlounge  
+   Wed, Jul 22, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 
 ### Thursday, July 23, 2026
 
@@ -414,6 +474,10 @@
    Salsadallas  
    Sat, Jul 25, 2026 • all day  
    `salsa` `lesson` `social` `festival` _via instagram_
+- **[Dallas, are you ready?](https://www.instagram.com/p/DawehcEDuDf/)** **_Free_**  
+   Salsadallas  
+   Sat, Jul 25, 2026 • all day  
+   `salsa` `festival` _via instagram_
 - **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/315407778/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Sat, Jul 25, 2026 • 4:00 PM  
@@ -488,6 +552,10 @@
    Dallas-Fort Worth  
    Wed, Jul 29, 2026 • 9:30 PM – 2:00 AM  
    `social` `lesson` `salsa` `bachata` _via salsavida_
+- **[Join us every Wednesday for our Salsa & Bachata Class at 9:30 PM, then keep the party going with social dancing until 2](https://www.instagram.com/p/Davf0GzMVGW/)** **_Varies_**  
+   Gigisbarandlounge  
+   Wed, Jul 29, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 
 ### Friday, July 31, 2026
 
@@ -502,6 +570,10 @@
    Salsadallas  
    Sat, Aug 1, 2026 • all day  
    `salsa` `lesson` `social` `festival` _via instagram_
+- **[Dallas, are you ready?](https://www.instagram.com/p/DawehcEDuDf/)** **_Free_**  
+   Salsadallas  
+   Sat, Aug 1, 2026 • all day  
+   `salsa` `festival` _via instagram_
 - **[The countdown is on!](https://www.instagram.com/p/DaDyOTdHyQB/)** **_Free_**  
    Salsadallas  
    Sat, Aug 1, 2026 • 6:00 PM  
@@ -518,6 +590,13 @@
    Dallas-Fort Worth  
    Sat, Aug 1, 2026 • 11:00 PM – 2:00 AM  
    `social` _via salsavida_
+
+### Wednesday, August 5, 2026
+
+- **[Join us every Wednesday for our Salsa & Bachata Class at 9:30 PM, then keep the party going with social dancing until 2](https://www.instagram.com/p/Davf0GzMVGW/)** **_Varies_**  
+   Gigisbarandlounge  
+   Wed, Aug 5, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 
 ### Friday, August 7, 2026
 
@@ -536,10 +615,21 @@
    Salsadallas  
    Sat, Aug 8, 2026 • all day  
    `salsa` `lesson` `social` `festival` _via instagram_
+- **[Dallas, are you ready?](https://www.instagram.com/p/DawehcEDuDf/)** **_Free_**  
+   Salsadallas  
+   Sat, Aug 8, 2026 • all day  
+   `salsa` `festival` _via instagram_
 - **[Salsa en el parke / salsa in the park](https://www.meetup.com/dallas-spanish/events/315264843/)** **_Varies_**  
    3850 Vitruvian Way, Addison, TX  
    Sat, Aug 8, 2026 • 6:00 PM  
    `social` `lesson` `salsa` _via meetup_
+
+### Wednesday, August 12, 2026
+
+- **[Join us every Wednesday for our Salsa & Bachata Class at 9:30 PM, then keep the party going with social dancing until 2](https://www.instagram.com/p/Davf0GzMVGW/)** **_Varies_**  
+   Gigisbarandlounge  
+   Wed, Aug 12, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 
 ### Friday, August 14, 2026
 
@@ -551,6 +641,20 @@
    Taboo Dallas is where DFW's Latin dance c  
    Fri, Aug 14, 2026 • 10:00 PM  
    `salsa` `bachata` `merengue` `social` _via instagram_
+
+### Saturday, August 15, 2026
+
+- **[Dallas, are you ready?](https://www.instagram.com/p/DawehcEDuDf/)** **_Free_**  
+   Salsadallas  
+   Sat, Aug 15, 2026 • all day  
+   `salsa` `festival` _via instagram_
+
+### Wednesday, August 19, 2026
+
+- **[Join us every Wednesday for our Salsa & Bachata Class at 9:30 PM, then keep the party going with social dancing until 2](https://www.instagram.com/p/Davf0GzMVGW/)** **_Varies_**  
+   Gigisbarandlounge  
+   Wed, Aug 19, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 
 ### Thursday, August 20, 2026
 
@@ -565,6 +669,10 @@
 
 ### Saturday, August 22, 2026
 
+- **[Dallas, are you ready?](https://www.instagram.com/p/DawehcEDuDf/)** **_Free_**  
+   Salsadallas  
+   Sat, Aug 22, 2026 • all day  
+   `salsa` `festival` _via instagram_
 - **[Salsa en el parke / salsa in the park](https://www.meetup.com/dallas-spanish/events/315264899/)** **_Varies_**  
    3850 Vitruvian Way, Addison, TX  
    Sat, Aug 22, 2026 • 6:00 PM  
