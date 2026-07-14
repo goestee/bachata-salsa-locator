@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-07-13 11:01 PM CDT**
+> Auto-generated. Last update: **2026-07-14 09:55 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 125 upcoming events tracked. **26 new** since last run.
+> 125 upcoming events tracked. **21 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -61,26 +61,6 @@
    Salsadallas  
    Sat, Jul 25, 2026 • all day  
    `salsa` `festival` _via instagram_
-- **[Latin Saturday at Mexican Bar Company](https://golatindance.com/event/latin-saturday-at-mexican-bar-company/2026-07-25/)** **_Free_**  
-   Mexican Bar Company, 6121 West Park Blvd Ste RS-10, Plano, TX, 75093, United States  
-   Sat, Jul 25, 2026 • 10:00 PM – 2:00 AM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Sabados de Gazadera at Al-Amir Arlington](https://golatindance.com/event/sabados-de-gazadera-at-al-amir-arlington/2026-07-25/)** **_$10_**  
-   Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
-   Sat, Jul 25, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` _via golatindance_
-- **[Rumba Tropical en Reys's Sports Bar](https://golatindance.com/event/rumba-tropical-en-reyss-sports-bar/2026-07-25/)** **_Free_**  
-   Reys Sports Bar, 2836 N Oconnor Rd, Irving, TX, United States  
-   Sat, Jul 25, 2026 • 10:00 PM – 2:00 AM  
-   `salsa` `bachata` `merengue` _via golatindance_
-- **[30 % OFF CHA CHA CHA & mambo in addison](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315578423/)** **_Varies_**  
-   You Can Dance Dallas  
-   Sun, Jul 26, 2026 • 4:45 PM  
-   `cha-cha` _via meetup_
-- **[4:15 Cha Cha on 2](https://www.meetup.com/you-can-dance-dallas/events/315578523/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Jul 26, 2026 • 4:45 PM  
-   `lesson` `salsa` `bachata` `cha-cha` _via meetup_
 - **[Join us every Wednesday for our Salsa & Bachata Class at 9:30 PM, then keep the party going with social dancing until 2](https://www.instagram.com/p/Davf0GzMVGW/)** **_Varies_**  
    Gigisbarandlounge  
    Wed, Jul 29, 2026 • 9:30 PM  
@@ -109,6 +89,10 @@
    Gigisbarandlounge  
    Wed, Aug 19, 2026 • 9:30 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
+- **[Dallas, are you ready?](https://www.instagram.com/p/DawehcEDuDf/)** **_Free_**  
+   Salsadallas  
+   Sat, Aug 22, 2026 • all day  
+   `salsa` `festival` _via instagram_
 
 ---
 
