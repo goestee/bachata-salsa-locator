@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-07-15 09:53 AM CDT**
+> Auto-generated. Last update: **2026-07-15 11:13 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 128 upcoming events tracked. **6 new** since last run.
+> 130 upcoming events tracked. **8 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -10,6 +10,10 @@
 ## New since last run
 
 - **[COLOMBIA INDEPENDENCE DAY CELEBRATION](https://www.instagram.com/p/DayovZ3D78S/)** **_$5–$15_**  
+   Salsa At The Gardens  
+   Fri, Jul 17, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
+- **[COLOMBIA INDEPENDENCE DAY CELEBRATION @ TABOO DALLAS!](https://www.instagram.com/p/Da1VfzctSVH/)** **_$5–$15_**  
    Salsa At The Gardens  
    Fri, Jul 17, 2026 • 10:00 PM  
    `salsa` `bachata` `merengue` `social` _via instagram_
@@ -29,6 +33,10 @@
    La Chingona, 2800 Bledsoe St #100, Fort Worth, TX, 76107, United States  
    Sun, Jul 26, 2026 • 3:00 PM – 6:00 PM  
    `lesson` `salsa` `bachata` _via golatindance_
+- **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-07-26/)** **_Free_**  
+   Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
+   Sun, Jul 26, 2026 • 7:00 PM – 11:00 PM  
+   `social` `lesson` `salsa` _via golatindance_
 - **[MANSFIELD, ARE YOU READY? SALSA THURSDAY IS BACK!](https://www.instagram.com/p/Dawz0julUfl/)** **_Free_**  
    Salsa At The Gardens  
    Thu, Jul 30, 2026 • 6:30 PM  
@@ -164,6 +172,10 @@
    Fri, Jul 17, 2026 • 10:00 PM  
    `salsa` `bachata` `merengue` `social` _via instagram_
 - **[COLOMBIA INDEPENDENCE DAY CELEBRATION](https://www.instagram.com/p/DayovZ3D78S/)** **_$5–$15_**  
+   Salsa At The Gardens  
+   Fri, Jul 17, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
+- **[COLOMBIA INDEPENDENCE DAY CELEBRATION @ TABOO DALLAS!](https://www.instagram.com/p/Da1VfzctSVH/)** **_$5–$15_**  
    Salsa At The Gardens  
    Fri, Jul 17, 2026 • 10:00 PM  
    `salsa` `bachata` `merengue` `social` _via instagram_
@@ -462,6 +474,10 @@
    Dallas-Fort Worth  
    Sun, Jul 26, 2026 • 5:30 PM – 10:30 PM  
    `social` `salsa` `bachata` `merengue` _via salsavida_
+- **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-07-26/)** **_Free_**  
+   Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
+   Sun, Jul 26, 2026 • 7:00 PM – 11:00 PM  
+   `social` `lesson` `salsa` _via golatindance_
 - **[Fuego Sundays at Longhorn Icehouse](https://www.salsavida.com/event/texas/dallas-fort-worth/fuego-sundays-at-longhorn-icehouse/)** **_$10_**  
    Dallas-Fort Worth  
    Sun, Jul 26, 2026 • 10:00 PM  
