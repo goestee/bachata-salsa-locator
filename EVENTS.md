@@ -1,26 +1,14 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-07-18 09:24 AM CDT**
+> Auto-generated. Last update: **2026-07-18 11:26 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 146 upcoming events tracked. **11 new** since last run.
+> 150 upcoming events tracked. **12 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
-   Merkado · Frisco  
-   Thu, Jul 23, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Thu, Jul 23, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
-   Hangout · Irving  
-   Thu, Jul 23, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
 - **[Noches Latinas Fridays at Los Lupes](https://www.danceus.org/event/16552421183470/noches-latinas-fridays-at-los-lupes-addison-tx/)** **_Varies_**  
    Los Lupes Addison  
    Fri, Jul 24, 2026 • all day  
@@ -45,6 +33,10 @@
    You Can Dance Dallas · Addison  
    Fri, Jul 24, 2026 • 7:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315407779/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, Jul 25, 2026 • 5:00 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 - **[Latin Night at Gigis](https://golatindance.com/event/latin-night-at-gigis/2026-07-29/)** **_Free_**  
    Gigis, 7300 Lone Star Drive C150, Plano, TX, 75024, United States  
    Wed, Jul 29, 2026 • 9:00 PM – 2:00 AM  
@@ -53,6 +45,18 @@
    Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
    Thu, Jul 30, 2026 • 9:00 PM – 1:00 AM  
    `social` `lesson` `salsa` _via golatindance_
+- **[Friday Latin at Al-Amir Arlington](https://golatindance.com/event/friday-rumba-nights-at-al-amir-arlington/2026-07-31/)** **_Varies_**  
+   Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
+   Fri, Jul 31, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[Rumba Fridays @ Taboo Lounge Dallas](https://golatindance.com/event/rumba-fridays-taboo-lounge-dallas/2026-07-31/)** **_$5–$15_**  
+   Taboo Dallas, 1418 N Riverfront, Dallas, TX, 75207, United States  
+   Fri, Jul 31, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[The Vitruvian Salsa Festival is coming up!  Get ready to dance, laugh, and share an incredible night of rhythm and high](https://www.instagram.com/p/Da8V7q-MfJt/)** **_Varies_**  
+   Las Palmas in Addison and get your steps  
+   Sat, Aug 1, 2026 • all day  
+   `salsa` `lesson` `social` `festival` _via instagram_
 
 ---
 
@@ -434,6 +438,10 @@
    DFW Young & Social · Farmers Branch  
    Sat, Jul 25, 2026 • 4:00 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315407779/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, Jul 25, 2026 • 5:00 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 - **[7:00-11:00 4TH SATURDAY BALLROOM DANCE PARTY &  EAST COAST SWING CLASS](https://www.meetup.com/you-can-dance-dallas/events/315564707/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sat, Jul 25, 2026 • 7:00 PM  
@@ -585,6 +593,14 @@
    Taboo Dallas is where DFW's Latin dance c  
    Fri, Jul 31, 2026 • 10:00 PM  
    `salsa` `bachata` `merengue` `social` _via instagram_
+- **[Friday Latin at Al-Amir Arlington](https://golatindance.com/event/friday-rumba-nights-at-al-amir-arlington/2026-07-31/)** **_Varies_**  
+   Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
+   Fri, Jul 31, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[Rumba Fridays @ Taboo Lounge Dallas](https://golatindance.com/event/rumba-fridays-taboo-lounge-dallas/2026-07-31/)** **_$5–$15_**  
+   Taboo Dallas, 1418 N Riverfront, Dallas, TX, 75207, United States  
+   Fri, Jul 31, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
 
 ### Saturday, August 1, 2026
 
@@ -596,6 +612,10 @@
    Salsadallas  
    Sat, Aug 1, 2026 • all day  
    `salsa` `festival` _via instagram_
+- **[The Vitruvian Salsa Festival is coming up!  Get ready to dance, laugh, and share an incredible night of rhythm and high](https://www.instagram.com/p/Da8V7q-MfJt/)** **_Varies_**  
+   Las Palmas in Addison and get your steps  
+   Sat, Aug 1, 2026 • all day  
+   `salsa` `lesson` `social` `festival` _via instagram_
 - **[The countdown is on!](https://www.instagram.com/p/DaDyOTdHyQB/)** **_Free_**  
    Salsadallas  
    Sat, Aug 1, 2026 • 6:00 PM  
