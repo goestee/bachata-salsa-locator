@@ -1,22 +1,18 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-07-19 09:27 AM CDT**
+> Auto-generated. Last update: **2026-07-19 11:39 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 131 upcoming events tracked. **13 new** since last run.
+> 132 upcoming events tracked. **10 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Noches Latinas Fridays at Los Lupes](https://www.danceus.org/event/16552421183470/noches-latinas-fridays-at-los-lupes-addison-tx/)** **_Varies_**  
-   Los Lupes Addison  
-   Fri, Jul 24, 2026 • all day  
-   `salsa` `bachata` `merengue` _via danceus_
-- **[Friday Latin at Al-Amir Arlington](https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/)** **_Varies_**  
-   Al-Amir Arlington  
-   Fri, Jul 24, 2026 • all day  
-   `social` `salsa` `bachata` `merengue` _via danceus_
+- **[⚽ WORLD SOCCER SALSA SUNDAY @ HEARSAY ARLINGTON ⚽](https://www.instagram.com/p/Da9nAntDfOx/)** **_$10_**  
+   Hearsay Arlington  
+   Sun, Jul 19, 2026 • 7:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 - **[Noches Latinas Saturdays at Los Lupes](https://www.danceus.org/event/16552421199670/noches-latinas-saturdays-at-los-lupes-addison-tx/)** **_Varies_**  
    Los Lupes Addison  
    Sat, Jul 25, 2026 • all day  
@@ -33,14 +29,6 @@
    DFW Young & Social · Farmers Branch  
    Sat, Jul 25, 2026 • 5:00 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
-- **[Latin Night at Gigis](https://golatindance.com/event/latin-night-at-gigis/2026-07-29/)** **_Free_**  
-   Gigis, 7300 Lone Star Drive C150, Plano, TX, 75024, United States  
-   Wed, Jul 29, 2026 • 9:00 PM – 2:00 AM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-07-30/)** **_Free_**  
-   Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
-   Thu, Jul 30, 2026 • 9:00 PM – 1:00 AM  
-   `social` `lesson` `salsa` _via golatindance_
 - **[Friday Latin at Al-Amir Arlington](https://golatindance.com/event/friday-rumba-nights-at-al-amir-arlington/2026-07-31/)** **_Varies_**  
    Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
    Fri, Jul 31, 2026 • 10:00 PM – 2:00 AM  
@@ -145,6 +133,10 @@
    Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
    Sun, Jul 19, 2026 • 7:00 PM – 11:00 PM  
    `social` `lesson` `salsa` _via golatindance_
+- **[⚽ WORLD SOCCER SALSA SUNDAY @ HEARSAY ARLINGTON ⚽](https://www.instagram.com/p/Da9nAntDfOx/)** **_$10_**  
+   Hearsay Arlington  
+   Sun, Jul 19, 2026 • 7:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 - **[David Herrera Amateur Latin / Ballroom dance team summer tryouts](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315478486/)** **_Varies_**  
    You Can Dance Dallas  
    Sun, Jul 19, 2026 • 7:45 PM  
