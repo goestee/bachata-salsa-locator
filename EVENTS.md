@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-07-20 11:19 PM CDT**
+> Auto-generated. Last update: **2026-07-21 10:07 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 129 upcoming events tracked. **19 new** since last run.
+> 129 upcoming events tracked. **20 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -81,6 +81,10 @@
    El Taco H · Denton  
    Fri, Aug 7, 2026 • 10:00 PM  
    `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
+- **[FREE Beginner Salsa & Bachata | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315768723/)** **_Varies_**  
+   Kumbala Dance Studio · Farmers Branch  
+   Mon, Aug 10, 2026 • 7:00 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 - **[New Salsa & Bachata beginner course!](https://www.meetup.com/salsa-with-jo/events/315655488/)** **_Varies_**  
    Green Space Arts Collective · Denton  
    Mon, Sep 7, 2026 • 7:30 PM  
@@ -90,13 +94,6 @@
 
 ## Upcoming
 
-
-### Monday, July 20, 2026
-
-- **[FREE Beginner Salsa & Bachata | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315376478/)** **_Varies_**  
-   Kumbala Dance Studio · Farmers Branch  
-   Mon, Jul 20, 2026 • 7:00 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
 
 ### Tuesday, July 21, 2026
 
@@ -605,6 +602,13 @@
    3850 Vitruvian Way, Addison, TX  
    Sat, Aug 8, 2026 • 6:00 PM  
    `social` `lesson` `salsa` _via meetup_
+
+### Monday, August 10, 2026
+
+- **[FREE Beginner Salsa & Bachata | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315768723/)** **_Varies_**  
+   Kumbala Dance Studio · Farmers Branch  
+   Mon, Aug 10, 2026 • 7:00 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 
 ### Wednesday, August 12, 2026
 
