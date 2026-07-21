@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-07-20 10:15 AM CDT**
+> Auto-generated. Last update: **2026-07-20 11:19 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 127 upcoming events tracked. **22 new** since last run.
+> 129 upcoming events tracked. **19 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -13,18 +13,6 @@
    Green Space Arts Collective · Denton  
    Thu, Jul 23, 2026 • 7:30 PM  
    `lesson` `salsa` `bachata` _via meetup_
-- **[Noches Latinas Saturdays at Los Lupes](https://www.danceus.org/event/16552421199670/noches-latinas-saturdays-at-los-lupes-addison-tx/)** **_Varies_**  
-   Los Lupes Addison  
-   Sat, Jul 25, 2026 • all day  
-   `salsa` `bachata` `merengue` _via danceus_
-- **[Salsa Bachata Night at Mexican Bar Company](https://www.danceus.org/event/16552421241878/salsa-bachata-night-at-mexican-bar-company-plano-tx/)** **_Varies_**  
-   Mexican Bar Company · Plano  
-   Sat, Jul 25, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Mi Pueblito](https://www.danceus.org/event/165524211430824/latin-night-at-mi-pueblito-garland-tx/)** **_Varies_**  
-   Mi Pueblito · Garland  
-   Sat, Jul 25, 2026 • all day  
-   `social` _via danceus_
 - **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
    Victoria’s Restaurant · Farmers Branch  
    Sun, Jul 26, 2026 • all day  
@@ -49,14 +37,6 @@
    You Can Dance Dallas  
    Sun, Jul 26, 2026 • 7:45 PM  
    `lesson` `festival` `salsa` `bachata` `cha-cha` _via meetup_
-- **[Salsa Saturdays at Blue Mesa Grill](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-saturdays-at-blue-mesa-grill/)** **_$8_**  
-   Blue Mesa Grill · Dallas-Fort Worth  
-   Sat, Aug 1, 2026 • 10:00 PM – 3:00 AM  
-   `salsa` _via salsavida_
-- **[Gloria&#8217;s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
-   Gloria's Latin Cuisine · Addison  
-   Sat, Aug 1, 2026 • 11:00 PM – 2:00 AM  
-   `social` _via salsavida_
 - **[Fuego Sundays at Longhorn Icehouse](https://www.salsavida.com/event/texas/dallas-fort-worth/fuego-sundays-at-longhorn-icehouse/)** **_$10_**  
    Dallas  
    Sun, Aug 2, 2026 • all day  
@@ -89,6 +69,14 @@
    Al-Amir Addison  
    Sun, Aug 2, 2026 • 10:00 PM – 2:00 AM  
    `social` _via salsavida_
+- **[Student Social | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315769037/)** **_Varies_**  
+   4801 Spring Valley Rd suite 118 · Farmers Branch  
+   Mon, Aug 3, 2026 • 9:00 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
+- **[Level 1.5 Salsa Group Class | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315769083/)** **_Varies_**  
+   4801 Spring Valley Rd suite 118 · Farmers Branch  
+   Fri, Aug 7, 2026 • 7:00 PM  
+   `social` `workshop` `lesson` `salsa` _via meetup_
 - **[Latin Night](https://www.meetup.com/salsa-with-jo/events/315743857/)** **_Varies_**  
    El Taco H · Denton  
    Fri, Aug 7, 2026 • 10:00 PM  
@@ -570,6 +558,13 @@
    Sun, Aug 2, 2026 • 10:00 PM – 2:00 AM  
    `social` _via salsavida_
 
+### Monday, August 3, 2026
+
+- **[Student Social | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315769037/)** **_Varies_**  
+   4801 Spring Valley Rd suite 118 · Farmers Branch  
+   Mon, Aug 3, 2026 • 9:00 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
+
 ### Wednesday, August 5, 2026
 
 - **[Join us every Wednesday for our Salsa & Bachata Class at 9:30 PM, then keep the party going with social dancing until 2](https://www.instagram.com/p/Davf0GzMVGW/)** **_Varies_**  
@@ -583,6 +578,10 @@
    Echalesalsita Dallas  
    Fri, Aug 7, 2026 • all day  
    `salsa` `bachata` `social` _via instagram_
+- **[Level 1.5 Salsa Group Class | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315769083/)** **_Varies_**  
+   4801 Spring Valley Rd suite 118 · Farmers Branch  
+   Fri, Aug 7, 2026 • 7:00 PM  
+   `social` `workshop` `lesson` `salsa` _via meetup_
 - **[CALLING ALL SALSEROS FROM DFW!](https://www.instagram.com/p/DamW-OipU_C/)** **_$5–$200_**  
    Taboo Dallas is where DFW's Latin dance c  
    Fri, Aug 7, 2026 • 10:00 PM  
