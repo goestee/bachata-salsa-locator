@@ -1,18 +1,14 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-07-23 10:12 AM CDT**
+> Auto-generated. Last update: **2026-07-23 11:18 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 129 upcoming events tracked. **10 new** since last run.
+> 129 upcoming events tracked. **7 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315492769/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, Jul 28, 2026 • 8:00 PM  
-   `social` `lesson` `salsa` _via meetup_
 - **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
    Vidorra Dallas  
    Wed, Jul 29, 2026 • all day  
@@ -41,14 +37,6 @@
    Kumbaladancestudio  
    Fri, Aug 7, 2026 • all day  
    `salsa` `bachata` `lesson` `social` _via instagram_
-- **[FREE Beginner Salsa & Bachata | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315768830/)** **_Varies_**  
-   Kumbala Dance Studio · Farmers Branch  
-   Thu, Aug 20, 2026 • 7:00 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[FREE Beginner Salsa & Bachata | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315768891/)** **_Varies_**  
-   Kumbala Dance Studio · Farmers Branch  
-   Mon, Aug 24, 2026 • 7:00 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
 
 ---
 
@@ -266,7 +254,7 @@
    You Can Dance Dallas  
    Sun, Jul 26, 2026 • 4:45 PM  
    `cha-cha` _via meetup_
-- **[4:15 Cha Cha on 2](https://www.meetup.com/you-can-dance-dallas/events/315578523/)** **_Varies_**  
+- **[4:15 Cha Cha on 2](https://www.meetup.com/you-can-dance-dallas/events/315779375/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sun, Jul 26, 2026 • 4:45 PM  
    `lesson` `salsa` `bachata` `cha-cha` _via meetup_
