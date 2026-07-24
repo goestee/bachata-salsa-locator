@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-07-23 11:18 PM CDT**
+> Auto-generated. Last update: **2026-07-24 09:58 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 129 upcoming events tracked. **7 new** since last run.
+> 127 upcoming events tracked. **9 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -25,6 +25,18 @@
    Stratos Greek Taverna · Dallas  
    Wed, Jul 29, 2026 • all day  
    `social` `salsa` _via danceus_
+- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
+   Merkado · Frisco  
+   Thu, Jul 30, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Thu, Jul 30, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
+   Hangout · Irving  
+   Thu, Jul 30, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
 - **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
    Vidorra Cocina · Dallas-Fort Worth  
    Wed, Aug 5, 2026 • 7:00 PM – 11:00 PM  
@@ -33,38 +45,11 @@
    Stratos Bar & Grill · Dallas  
    Wed, Aug 5, 2026 • 9:30 PM – 2:00 AM  
    `salsa` `bachata` _via salsavida_
-- **[Summer has been  and we’re continuing the party with our 50/50 salsa/bachata social  with the best tunes every first Fri](https://www.instagram.com/p/DbGmf6TxZFP/)** **_Varies_**  
-   Kumbaladancestudio  
-   Fri, Aug 7, 2026 • all day  
-   `salsa` `bachata` `lesson` `social` _via instagram_
 
 ---
 
 ## Upcoming
 
-
-### Thursday, July 23, 2026
-
-- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
-   Merkado · Frisco  
-   Thu, Jul 23, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Thu, Jul 23, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
-   Hangout · Irving  
-   Thu, Jul 23, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Salsa & bachata Thursdays advanced beginner/intermediate](https://www.meetup.com/salsa-with-jo/events/315539497/)** **_Varies_**  
-   Green Space Arts Collective · Denton  
-   Thu, Jul 23, 2026 • 7:30 PM  
-   `lesson` `salsa` `bachata` _via meetup_
-- **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-07-23/)** **_Free_**  
-   Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
-   Thu, Jul 23, 2026 • 9:00 PM – 1:00 AM  
-   `social` `lesson` `salsa` _via golatindance_
 
 ### Friday, July 24, 2026
 
@@ -254,7 +239,7 @@
    You Can Dance Dallas  
    Sun, Jul 26, 2026 • 4:45 PM  
    `cha-cha` _via meetup_
-- **[4:15 Cha Cha on 2](https://www.meetup.com/you-can-dance-dallas/events/315779375/)** **_Varies_**  
+- **[4:15 Cha Cha on 2](https://www.meetup.com/you-can-dance-dallas/events/315578523/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sun, Jul 26, 2026 • 4:45 PM  
    `lesson` `salsa` `bachata` `cha-cha` _via meetup_
@@ -371,6 +356,18 @@
 
 ### Thursday, July 30, 2026
 
+- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
+   Merkado · Frisco  
+   Thu, Jul 30, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Thu, Jul 30, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
+   Hangout · Irving  
+   Thu, Jul 30, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
 - **[MANSFIELD, ARE YOU READY? SALSA THURSDAY IS BACK!](https://www.instagram.com/p/Dawz0julUfl/)** **_Free_**  
    Salsa At The Gardens  
    Thu, Jul 30, 2026 • 6:30 PM  
