@@ -1,26 +1,18 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-07-27 10:45 AM CDT**
+> Auto-generated. Last update: **2026-07-27 11:13 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 99 upcoming events tracked. **19 new** since last run.
+> 105 upcoming events tracked. **17 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Noches Latinas Saturdays at Los Lupes](https://www.danceus.org/event/16552421199670/noches-latinas-saturdays-at-los-lupes-addison-tx/)** **_Varies_**  
-   Los Lupes Addison  
-   Sat, Aug 1, 2026 • all day  
-   `salsa` `bachata` `merengue` _via danceus_
-- **[Salsa Bachata Night at Mexican Bar Company](https://www.danceus.org/event/16552421241878/salsa-bachata-night-at-mexican-bar-company-plano-tx/)** **_Varies_**  
-   Mexican Bar Company · Plano  
-   Sat, Aug 1, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Mi Pueblito](https://www.danceus.org/event/165524211430824/latin-night-at-mi-pueblito-garland-tx/)** **_Varies_**  
-   Mi Pueblito · Garland  
-   Sat, Aug 1, 2026 • all day  
-   `social` _via danceus_
+- **[Salsa Dancing at Klyde Warren Park | Dallas Salsa Social with Lily & Luis](https://www.instagram.com/p/DbTN7yfDCMr/)** **_Varies_**  
+   Klyde Warren Park  
+   Tue, Jul 28, 2026 • all day  
+   `salsa` `lesson` `social` _via instagram_
 - **[The Vitruvian Salsa Festival is Back!](https://www.instagram.com/p/DbQ1G6oFX1m/)** **_Free_**  
    Vitruvian Park for an unforgettable night  
    Sat, Aug 1, 2026 • all day  
@@ -53,22 +45,10 @@
    You Can Dance Dallas  
    Sun, Aug 2, 2026 • 7:45 PM  
    `lesson` `festival` `salsa` `bachata` `cha-cha` _via meetup_
-- **[Vitruvian Salsa Festival 2025](https://www.salsavida.com/event/texas/dallas-fort-worth/vitruvian-salsa-festival/)** **_Free_**  
-   Addison  
-   Sat, Aug 8, 2026 • all day  
-   `social` `lesson` `festival` `salsa` _via salsavida_
-- **[Vitruvian Salsa Festival 2025](https://www.salsavida.com/event/texas/dallas-fort-worth/vitruvian-salsa-festival/)** **_Free_**  
-   Vitruvian Park · Addison  
-   Sat, Aug 8, 2026 • 6:00 PM – 10:00 PM  
-   `festival` `salsa` _via salsavida_
-- **[Salsa Saturdays at Blue Mesa Grill](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-saturdays-at-blue-mesa-grill/)** **_$8_**  
-   Blue Mesa Grill · Dallas-Fort Worth  
-   Sat, Aug 8, 2026 • 10:00 PM – 3:00 AM  
-   `salsa` _via salsavida_
-- **[Gloria&#8217;s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
-   Gloria's Latin Cuisine · Addison  
-   Sat, Aug 8, 2026 • 11:00 PM – 2:00 AM  
-   `social` _via salsavida_
+- **[Salsa Dancing at Klyde Warren Park | Dallas Salsa Social with Lily & Luis](https://www.instagram.com/p/DbTN7yfDCMr/)** **_Varies_**  
+   Klyde Warren Park  
+   Tue, Aug 4, 2026 • all day  
+   `salsa` `lesson` `social` _via instagram_
 - **[Salsa Sunday at Lola&#8217;s Cuban Food](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-sunday-at-lolas-cuban-food/)** **_Free_**  
    Lola's Cuban Food · Dallas-Fort Worth  
    Sun, Aug 9, 2026 • 3:00 PM – 6:00 PM  
@@ -81,10 +61,22 @@
    Al-Amir Addison  
    Sun, Aug 9, 2026 • 10:00 PM – 2:00 AM  
    `social` _via salsavida_
-- **[7:00-11:00  4TH SATURDAY BALLROOM DANCE PARTY & PARTY & RUMBA CLASS](https://www.meetup.com/you-can-dance-dallas/events/315779662/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sat, Aug 22, 2026 • 7:00 PM  
-   `social` `lesson` _via meetup_
+- **[Salsa Dancing at Klyde Warren Park | Dallas Salsa Social with Lily & Luis](https://www.instagram.com/p/DbTN7yfDCMr/)** **_Varies_**  
+   Klyde Warren Park  
+   Tue, Aug 11, 2026 • all day  
+   `salsa` `lesson` `social` _via instagram_
+- **[Salsa Dancing at Klyde Warren Park | Dallas Salsa Social with Lily & Luis](https://www.instagram.com/p/DbTN7yfDCMr/)** **_Varies_**  
+   Klyde Warren Park  
+   Tue, Aug 18, 2026 • all day  
+   `salsa` `lesson` `social` _via instagram_
+- **[Salsa Dancing at Klyde Warren Park | Dallas Salsa Social with Lily & Luis](https://www.instagram.com/p/DbTN7yfDCMr/)** **_Varies_**  
+   Klyde Warren Park  
+   Tue, Aug 25, 2026 • all day  
+   `salsa` `lesson` `social` _via instagram_
+- **[Salsa Dancing at Klyde Warren Park | Dallas Salsa Social with Lily & Luis](https://www.instagram.com/p/DbTN7yfDCMr/)** **_Varies_**  
+   Klyde Warren Park  
+   Tue, Sep 1, 2026 • all day  
+   `salsa` `lesson` `social` _via instagram_
 
 ---
 
@@ -93,6 +85,10 @@
 
 ### Tuesday, July 28, 2026
 
+- **[Salsa Dancing at Klyde Warren Park | Dallas Salsa Social with Lily & Luis](https://www.instagram.com/p/DbTN7yfDCMr/)** **_Varies_**  
+   Klyde Warren Park  
+   Tue, Jul 28, 2026 • all day  
+   `salsa` `lesson` `social` _via instagram_
 - **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-07-28/)** **_Free_**  
    Rotate Social, 5454 Main st., Frisco, TX, United States  
    Tue, Jul 28, 2026 • 7:30 PM – 11:30 PM  
@@ -368,6 +364,13 @@
    Mon, Aug 3, 2026 • 9:00 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
 
+### Tuesday, August 4, 2026
+
+- **[Salsa Dancing at Klyde Warren Park | Dallas Salsa Social with Lily & Luis](https://www.instagram.com/p/DbTN7yfDCMr/)** **_Varies_**  
+   Klyde Warren Park  
+   Tue, Aug 4, 2026 • all day  
+   `salsa` `lesson` `social` _via instagram_
+
 ### Wednesday, August 5, 2026
 
 - **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
@@ -459,6 +462,13 @@
    Mon, Aug 10, 2026 • 7:00 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
 
+### Tuesday, August 11, 2026
+
+- **[Salsa Dancing at Klyde Warren Park | Dallas Salsa Social with Lily & Luis](https://www.instagram.com/p/DbTN7yfDCMr/)** **_Varies_**  
+   Klyde Warren Park  
+   Tue, Aug 11, 2026 • all day  
+   `salsa` `lesson` `social` _via instagram_
+
 ### Wednesday, August 12, 2026
 
 - **[Join us every Wednesday for our Salsa & Bachata Class at 9:30 PM, then keep the party going with social dancing until 2](https://www.instagram.com/p/Davf0GzMVGW/)** **_Varies_**  
@@ -483,6 +493,13 @@
    Salsadallas  
    Sat, Aug 15, 2026 • all day  
    `salsa` `festival` _via instagram_
+
+### Tuesday, August 18, 2026
+
+- **[Salsa Dancing at Klyde Warren Park | Dallas Salsa Social with Lily & Luis](https://www.instagram.com/p/DbTN7yfDCMr/)** **_Varies_**  
+   Klyde Warren Park  
+   Tue, Aug 18, 2026 • all day  
+   `salsa` `lesson` `social` _via instagram_
 
 ### Wednesday, August 19, 2026
 
@@ -528,11 +545,25 @@
    Mon, Aug 24, 2026 • 7:00 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
 
+### Tuesday, August 25, 2026
+
+- **[Salsa Dancing at Klyde Warren Park | Dallas Salsa Social with Lily & Luis](https://www.instagram.com/p/DbTN7yfDCMr/)** **_Varies_**  
+   Klyde Warren Park  
+   Tue, Aug 25, 2026 • all day  
+   `salsa` `lesson` `social` _via instagram_
+
 ### Friday, August 28, 2026
 
 - **[SHAKE YOUR GRASS IS BACK!](https://www.instagram.com/p/DWFbSR-NhH1/)** **_Free_**  
    Klydewarrenpark  
    Fri, Aug 28, 2026 • 6:00 PM  
+   `salsa` `lesson` `social` _via instagram_
+
+### Tuesday, September 1, 2026
+
+- **[Salsa Dancing at Klyde Warren Park | Dallas Salsa Social with Lily & Luis](https://www.instagram.com/p/DbTN7yfDCMr/)** **_Varies_**  
+   Klyde Warren Park  
+   Tue, Sep 1, 2026 • all day  
    `salsa` `lesson` `social` _via instagram_
 
 ### Friday, September 4, 2026
