@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-07-28 10:25 AM CDT**
+> Auto-generated. Last update: **2026-07-28 11:15 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 105 upcoming events tracked. **14 new** since last run.
+> 106 upcoming events tracked. **7 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -13,46 +13,18 @@
    Klyde Warren Park  
    Tue, Jul 28, 2026 • all day  
    `salsa` `lesson` `social` _via instagram_
-- **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
-   Victoria’s Restaurant · Farmers Branch  
-   Sun, Aug 2, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Salsa Sundays at The Statler](https://www.danceus.org/event/16552421262550/salsa-sundays-at-the-statler-dallas-tx/)** **_Varies_**  
-   The Statler · Dallas  
-   Sun, Aug 2, 2026 • all day  
-   `lesson` `salsa` _via danceus_
-- **[Sabroso Sunday at Al-Amir Addison](https://www.danceus.org/event/16552421219990/sabroso-sunday-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Sun, Aug 2, 2026 • all day  
-   `social` `salsa` `bachata` `merengue` _via danceus_
-- **[50 % off SUNDAY Salsa & BACHATA class in addison • we go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315674485/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Aug 2, 2026 • 6:30 PM  
-   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
-- **[David Herrera Amateur Latin / Ballroom dance team summer tryouts](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315675039/)** **_Varies_**  
-   You Can Dance Dallas  
-   Sun, Aug 2, 2026 • 7:45 PM  
-   `lesson` `festival` `salsa` `bachata` `cha-cha` _via meetup_
 - **[Salsa Dancing at Klyde Warren Park | Dallas Salsa Social with Lily & Luis](https://www.instagram.com/p/DbTN7yfDCMr/)** **_Varies_**  
    Klyde Warren Park  
    Tue, Aug 4, 2026 • all day  
    `salsa` `lesson` `social` _via instagram_
-- **[Salsa Sunday at Lola&#8217;s Cuban Food](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-sunday-at-lolas-cuban-food/)** **_Free_**  
-   Lola's Cuban Food · Dallas-Fort Worth  
-   Sun, Aug 9, 2026 • 3:00 PM – 6:00 PM  
-   `salsa` _via salsavida_
-- **[Son y Sabor at The Victoria](https://www.salsavida.com/event/texas/dallas-fort-worth/son-y-sabor-at-the-victoria/)** **_$7_**  
-   The Victoria Restaurant · Farmers Branch  
-   Sun, Aug 9, 2026 • 5:30 PM – 10:30 PM  
-   `social` _via salsavida_
-- **[Sabroso Sundays at Al-Amir Addison](https://www.salsavida.com/event/texas/dallas-fort-worth/sabroso-sundays-at-al-amir-addison/)** **_$10_**  
-   Al-Amir Addison  
-   Sun, Aug 9, 2026 • 10:00 PM – 2:00 AM  
-   `social` _via salsavida_
 - **[Salsa Dancing at Klyde Warren Park | Dallas Salsa Social with Lily & Luis](https://www.instagram.com/p/DbTN7yfDCMr/)** **_Varies_**  
    Klyde Warren Park  
    Tue, Aug 11, 2026 • all day  
    `salsa` `lesson` `social` _via instagram_
+- **[✨ FIESTA BLANCA SALSA PARTY at TEXAS LIVE ✨](https://www.instagram.com/p/DbUszv7FWKB/)** **_Free_**  
+   TEXAS LIVE  
+   Fri, Aug 14, 2026 • 9:00 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[Salsa Dancing at Klyde Warren Park | Dallas Salsa Social with Lily & Luis](https://www.instagram.com/p/DbTN7yfDCMr/)** **_Varies_**  
    Klyde Warren Park  
    Tue, Aug 18, 2026 • all day  
@@ -466,6 +438,10 @@
 
 ### Friday, August 14, 2026
 
+- **[✨ FIESTA BLANCA SALSA PARTY at TEXAS LIVE ✨](https://www.instagram.com/p/DbUszv7FWKB/)** **_Free_**  
+   TEXAS LIVE  
+   Fri, Aug 14, 2026 • 9:00 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[Salsón - Salsa and bachata dance social](https://www.meetup.com/salsa-with-jo/events/315068491/)** **_Varies_**  
    Kumbala Dance Studio · Farmers Branch  
    Fri, Aug 14, 2026 • 9:30 PM  
