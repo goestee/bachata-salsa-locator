@@ -1,62 +1,27 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-07-28 11:15 PM CDT**
+> Auto-generated. Last update: **2026-07-29 10:11 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 106 upcoming events tracked. **7 new** since last run.
+> 104 upcoming events tracked. **2 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Salsa Dancing at Klyde Warren Park | Dallas Salsa Social with Lily & Luis](https://www.instagram.com/p/DbTN7yfDCMr/)** **_Varies_**  
-   Klyde Warren Park  
-   Tue, Jul 28, 2026 • all day  
-   `salsa` `lesson` `social` _via instagram_
-- **[Salsa Dancing at Klyde Warren Park | Dallas Salsa Social with Lily & Luis](https://www.instagram.com/p/DbTN7yfDCMr/)** **_Varies_**  
-   Klyde Warren Park  
-   Tue, Aug 4, 2026 • all day  
-   `salsa` `lesson` `social` _via instagram_
-- **[Salsa Dancing at Klyde Warren Park | Dallas Salsa Social with Lily & Luis](https://www.instagram.com/p/DbTN7yfDCMr/)** **_Varies_**  
-   Klyde Warren Park  
-   Tue, Aug 11, 2026 • all day  
-   `salsa` `lesson` `social` _via instagram_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315702517/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Aug 4, 2026 • 8:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 - **[✨ FIESTA BLANCA SALSA PARTY at TEXAS LIVE ✨](https://www.instagram.com/p/DbUszv7FWKB/)** **_Free_**  
    TEXAS LIVE  
    Fri, Aug 14, 2026 • 9:00 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
-- **[Salsa Dancing at Klyde Warren Park | Dallas Salsa Social with Lily & Luis](https://www.instagram.com/p/DbTN7yfDCMr/)** **_Varies_**  
-   Klyde Warren Park  
-   Tue, Aug 18, 2026 • all day  
-   `salsa` `lesson` `social` _via instagram_
-- **[Salsa Dancing at Klyde Warren Park | Dallas Salsa Social with Lily & Luis](https://www.instagram.com/p/DbTN7yfDCMr/)** **_Varies_**  
-   Klyde Warren Park  
-   Tue, Aug 25, 2026 • all day  
-   `salsa` `lesson` `social` _via instagram_
-- **[Salsa Dancing at Klyde Warren Park | Dallas Salsa Social with Lily & Luis](https://www.instagram.com/p/DbTN7yfDCMr/)** **_Varies_**  
-   Klyde Warren Park  
-   Tue, Sep 1, 2026 • all day  
-   `salsa` `lesson` `social` _via instagram_
 
 ---
 
 ## Upcoming
 
-
-### Tuesday, July 28, 2026
-
-- **[Salsa Dancing at Klyde Warren Park | Dallas Salsa Social with Lily & Luis](https://www.instagram.com/p/DbTN7yfDCMr/)** **_Varies_**  
-   Klyde Warren Park  
-   Tue, Jul 28, 2026 • all day  
-   `salsa` `lesson` `social` _via instagram_
-- **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-07-28/)** **_Free_**  
-   Rotate Social, 5454 Main st., Frisco, TX, United States  
-   Tue, Jul 28, 2026 • 7:30 PM – 11:30 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315492769/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, Jul 28, 2026 • 8:00 PM  
-   `social` `lesson` `salsa` _via meetup_
 
 ### Wednesday, July 29, 2026
 
@@ -330,6 +295,10 @@
    Klyde Warren Park  
    Tue, Aug 4, 2026 • all day  
    `salsa` `lesson` `social` _via instagram_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315702517/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Aug 4, 2026 • 8:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 
 ### Wednesday, August 5, 2026
 
