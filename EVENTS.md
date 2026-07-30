@@ -1,18 +1,34 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-07-29 10:11 AM CDT**
+> Auto-generated. Last update: **2026-07-29 11:01 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 104 upcoming events tracked. **2 new** since last run.
+> 108 upcoming events tracked. **6 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
+- **[Salsa Thursday at Ilusion](https://www.instagram.com/p/DbZieTiR8y4/)** **_Free_**  
+   Ilusion  
+   Thu, Jul 30, 2026 • 6:30 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
+- **[RUMBA LATINA TROPICAL FRIDAYS @ TABOO DALLAS!](https://www.instagram.com/p/DbXdlfzFRcv/)** **_$5–$15_**  
+   Salsa At The Gardens  
+   Fri, Jul 31, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
+- **[Sundays Hit Different at Al-Amir Addison!](https://www.instagram.com/p/DbZnORrRE6U/)** **_Varies_**  
+   Al-Amir Addison  
+   Sun, Aug 2, 2026 • 9:00 PM  
+   `bachata` `social` _via instagram_
 - **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315702517/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Tue, Aug 4, 2026 • 8:00 PM  
    `social` `lesson` `salsa` _via meetup_
+- **[ONE YEAR. ONE COMMUNITY. COUNTLESS MEMORIES. ❤️](https://www.instagram.com/p/DbVyHnmRzWQ/)** **_Varies_**  
+   Gigi  
+   Wed, Aug 5, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[✨ FIESTA BLANCA SALSA PARTY at TEXAS LIVE ✨](https://www.instagram.com/p/DbUszv7FWKB/)** **_Free_**  
    TEXAS LIVE  
    Fri, Aug 14, 2026 • 9:00 PM  
@@ -88,8 +104,12 @@
    Hangout · Irving  
    Thu, Jul 30, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via danceus_
-- **[MANSFIELD, ARE YOU READY? SALSA THURSDAY IS BACK!](https://www.instagram.com/p/Dawz0julUfl/)** **_Free_**  
+- **[MANSFIELD, ARE YOU READY? SALSA THURSDAY IS BACK!](https://www.instagram.com/p/DbXeSO6lcpl/)** **_Free_**  
    Salsa At The Gardens  
+   Thu, Jul 30, 2026 • 6:30 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
+- **[Salsa Thursday at Ilusion](https://www.instagram.com/p/DbZieTiR8y4/)** **_Free_**  
+   Ilusion  
    Thu, Jul 30, 2026 • 6:30 PM  
    `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-07-30/)** **_Free_**  
@@ -135,6 +155,10 @@
    Taboo Dallas, 1418 N Riverfront, Dallas, TX, 75207, United States  
    Fri, Jul 31, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[RUMBA LATINA TROPICAL FRIDAYS @ TABOO DALLAS!](https://www.instagram.com/p/DbXdlfzFRcv/)** **_$5–$15_**  
+   Salsa At The Gardens  
+   Fri, Jul 31, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 
 ### Saturday, August 1, 2026
 
@@ -273,6 +297,10 @@
    You Can Dance Dallas  
    Sun, Aug 2, 2026 • 7:45 PM  
    `lesson` `festival` `salsa` `bachata` `cha-cha` _via meetup_
+- **[Sundays Hit Different at Al-Amir Addison!](https://www.instagram.com/p/DbZnORrRE6U/)** **_Varies_**  
+   Al-Amir Addison  
+   Sun, Aug 2, 2026 • 9:00 PM  
+   `bachata` `social` _via instagram_
 - **[Fuego Sundays at Longhorn Icehouse](https://www.salsavida.com/event/texas/dallas-fort-worth/fuego-sundays-at-longhorn-icehouse/)** **_$10_**  
    Longhorn Icehouse · Dallas  
    Sun, Aug 2, 2026 • 10:00 PM – 2:00 AM  
@@ -314,6 +342,10 @@
    Stratos Bar & Grill · Dallas  
    Wed, Aug 5, 2026 • 9:30 PM – 2:00 AM  
    `salsa` `bachata` _via salsavida_
+- **[ONE YEAR. ONE COMMUNITY. COUNTLESS MEMORIES. ❤️](https://www.instagram.com/p/DbVyHnmRzWQ/)** **_Varies_**  
+   Gigi  
+   Wed, Aug 5, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 
 ### Friday, August 7, 2026
 
