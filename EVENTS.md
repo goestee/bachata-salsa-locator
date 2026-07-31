@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-07-30 10:14 AM CDT**
+> Auto-generated. Last update: **2026-07-30 11:26 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 104 upcoming events tracked. **11 new** since last run.
+> 107 upcoming events tracked. **13 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -17,14 +17,22 @@
    Salsa At The Gardens  
    Fri, Jul 31, 2026 • 10:00 PM  
    `salsa` `bachata` `merengue` `social` _via instagram_
+- **[SALSA SUNDAY AT LA CHINGONA – FORT WORTH](https://www.instagram.com/p/DbaCzVEFenZ/)** **_Free_**  
+   Farrington Field  
+   Sun, Aug 2, 2026 • 3:00 PM  
+   `salsa` `bachata` `merengue` `lesson` _via instagram_
+- **[Noche Latina is back! ❤️‍](https://www.instagram.com/p/DbbLU_TjqAc/)** **_Free_**  
+   Mudanzamovement  
+   Sun, Aug 2, 2026 • 7:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
+- **[SALSA SUNDAY NIGHT @ HEARSAY](https://www.instagram.com/p/DbaDLSUlUVY/)** **_$10_**  
+   Salsa At The Gardens  
+   Sun, Aug 2, 2026 • 7:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[Sundays Hit Different at Al-Amir Addison!](https://www.instagram.com/p/DbZnORrRE6U/)** **_Varies_**  
    Al-Amir Addison  
    Sun, Aug 2, 2026 • 9:00 PM  
    `bachata` `social` _via instagram_
-- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315702517/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, Aug 4, 2026 • 8:00 PM  
-   `social` `lesson` `salsa` _via meetup_
 - **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
    Vidorra Dallas  
    Wed, Aug 5, 2026 • all day  
@@ -242,6 +250,10 @@
    Lola's Cuban Food · Dallas-Fort Worth  
    Sun, Aug 2, 2026 • 3:00 PM – 6:00 PM  
    `salsa` _via salsavida_
+- **[SALSA SUNDAY AT LA CHINGONA – FORT WORTH](https://www.instagram.com/p/DbaCzVEFenZ/)** **_Free_**  
+   Farrington Field  
+   Sun, Aug 2, 2026 • 3:00 PM  
+   `salsa` `bachata` `merengue` `lesson` _via instagram_
 - **[30 % OFF CHA CHA CHA & mambo in addison](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315673453/)** **_Varies_**  
    You Can Dance Dallas  
    Sun, Aug 2, 2026 • 4:45 PM  
@@ -262,6 +274,14 @@
    You Can Dance Dallas · Addison  
    Sun, Aug 2, 2026 • 6:30 PM  
    `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
+- **[Noche Latina is back! ❤️‍](https://www.instagram.com/p/DbbLU_TjqAc/)** **_Free_**  
+   Mudanzamovement  
+   Sun, Aug 2, 2026 • 7:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
+- **[SALSA SUNDAY NIGHT @ HEARSAY](https://www.instagram.com/p/DbaDLSUlUVY/)** **_$10_**  
+   Salsa At The Gardens  
+   Sun, Aug 2, 2026 • 7:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[David Herrera Amateur Latin / Ballroom dance team summer tryouts](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315675039/)** **_Varies_**  
    You Can Dance Dallas  
    Sun, Aug 2, 2026 • 7:45 PM  
