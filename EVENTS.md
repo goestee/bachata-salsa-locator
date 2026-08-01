@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-07-31 11:24 PM CDT**
+> Auto-generated. Last update: **2026-08-01 09:29 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 133 upcoming events tracked. **35 new** since last run.
+> 129 upcoming events tracked. **38 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -29,22 +29,10 @@
    Reys Sports Bar, 2836 N Oconnor Rd, Irving, TX, United States  
    Sat, Aug 1, 2026 • 10:00 PM – 2:00 AM  
    `salsa` `bachata` `merengue` _via golatindance_
-- **[SALSA SUNDAY AT LA CHINGONA – FORT WORTH](https://www.instagram.com/p/DbaCzVEFenZ/)** **_Free_**  
-   Farrington Field  
-   Sun, Aug 2, 2026 • 3:00 PM  
-   `salsa` `bachata` `merengue` `lesson` _via instagram_
 - **[Salsa Sunday at La Chingona](https://golatindance.com/event/salsa-sunday-at-la-chingona/2026-08-02/)** **_Free_**  
    La Chingona, 2800 Bledsoe St #100, Fort Worth, TX, 76107, United States  
    Sun, Aug 2, 2026 • 3:00 PM – 6:00 PM  
    `lesson` `salsa` `bachata` _via golatindance_
-- **[Noche Latina is back! ❤️‍](https://www.instagram.com/p/DbbLU_TjqAc/)** **_Free_**  
-   Mudanzamovement  
-   Sun, Aug 2, 2026 • 7:00 PM  
-   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
-- **[SALSA SUNDAY NIGHT @ HEARSAY](https://www.instagram.com/p/DbaDLSUlUVY/)** **_$10_**  
-   Salsa At The Gardens  
-   Sun, Aug 2, 2026 • 7:00 PM  
-   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-08-02/)** **_Free_**  
    Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
    Sun, Aug 2, 2026 • 7:00 PM – 11:00 PM  
@@ -77,6 +65,26 @@
    Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
    Thu, Aug 6, 2026 • 9:00 PM – 1:00 AM  
    `social` `lesson` `salsa` _via golatindance_
+- **[Noches Latinas Fridays at Los Lupes](https://www.danceus.org/event/16552421183470/noches-latinas-fridays-at-los-lupes-addison-tx/)** **_Varies_**  
+   Los Lupes Addison  
+   Fri, Aug 7, 2026 • all day  
+   `salsa` `bachata` `merengue` _via danceus_
+- **[Friday Latin at Al-Amir Arlington](https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/)** **_Varies_**  
+   Al-Amir Arlington  
+   Fri, Aug 7, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via danceus_
+- **[BIG FRIDAY SALSA & bachata class in Addison ● We go eat & dance after ●](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315742507/)** **_Varies_**  
+   You Can Dance Dallas  
+   Fri, Aug 7, 2026 • 7:30 PM  
+   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
+- **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315742496/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Fri, Aug 7, 2026 • 7:30 PM  
+   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
+- **[25 % off FRIDAY salsa & bachata class in Addison](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315742497/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Fri, Aug 7, 2026 • 7:30 PM  
+   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
 - **[Friday Latin at Al-Amir Arlington](https://golatindance.com/event/friday-rumba-nights-at-al-amir-arlington/2026-08-07/)** **_Varies_**  
    Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
    Fri, Aug 7, 2026 • 10:00 PM – 2:00 AM  
@@ -101,62 +109,11 @@
    Mexican Bar Company, 6121 West Park Blvd Ste RS-10, Plano, TX, 75093, United States  
    Sat, Aug 8, 2026 • 10:00 PM – 2:00 AM  
    `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Sabados de Gazadera at Al-Amir Arlington](https://golatindance.com/event/sabados-de-gazadera-at-al-amir-arlington/2026-08-08/)** **_$10_**  
-   Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
-   Sat, Aug 8, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` _via golatindance_
-- **[Rumba Tropical en Reys's Sports Bar](https://golatindance.com/event/rumba-tropical-en-reyss-sports-bar/2026-08-08/)** **_Free_**  
-   Reys Sports Bar, 2836 N Oconnor Rd, Irving, TX, United States  
-   Sat, Aug 8, 2026 • 10:00 PM – 2:00 AM  
-   `salsa` `bachata` `merengue` _via golatindance_
 
 ---
 
 ## Upcoming
 
-
-### Friday, July 31, 2026
-
-- **[Noches Latinas Fridays at Los Lupes](https://www.danceus.org/event/16552421183470/noches-latinas-fridays-at-los-lupes-addison-tx/)** **_Varies_**  
-   Los Lupes Addison  
-   Fri, Jul 31, 2026 • all day  
-   `salsa` `bachata` `merengue` _via danceus_
-- **[Friday Latin at Al-Amir Arlington](https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/)** **_Varies_**  
-   Al-Amir Arlington  
-   Fri, Jul 31, 2026 • all day  
-   `social` `salsa` `bachata` `merengue` _via danceus_
-- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/315648047/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Fri, Jul 31, 2026 • 7:30 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[BIG FRIDAY SALSA & bachata class in Addison ● We go eat & dance after ●](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315647990/)** **_Varies_**  
-   You Can Dance Dallas  
-   Fri, Jul 31, 2026 • 7:30 PM  
-   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
-- **[25 % off FRIDAY salsa & bachata class in Addison](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315647968/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Fri, Jul 31, 2026 • 7:30 PM  
-   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
-- **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315647967/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Fri, Jul 31, 2026 • 7:30 PM  
-   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
-- **[CALLING ALL SALSEROS FROM DFW!](https://www.instagram.com/p/DamW-OipU_C/)** **_$5–$200_**  
-   Taboo Dallas is where DFW's Latin dance c  
-   Fri, Jul 31, 2026 • 10:00 PM  
-   `salsa` `bachata` `merengue` `social` _via instagram_
-- **[Friday Latin at Al-Amir Arlington](https://golatindance.com/event/friday-rumba-nights-at-al-amir-arlington/2026-07-31/)** **_Varies_**  
-   Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
-   Fri, Jul 31, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` `merengue` _via golatindance_
-- **[Rumba Fridays @ Taboo Lounge Dallas](https://golatindance.com/event/rumba-fridays-taboo-lounge-dallas/2026-07-31/)** **_$5–$15_**  
-   Taboo Dallas, 1418 N Riverfront, Dallas, TX, 75207, United States  
-   Fri, Jul 31, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` `merengue` _via golatindance_
-- **[RUMBA LATINA TROPICAL FRIDAYS @ TABOO DALLAS!](https://www.instagram.com/p/DbeOW3vOe-t/)** **_Free_**  
-   Salsa At The Gardens  
-   Fri, Jul 31, 2026 • 10:00 PM  
-   `salsa` `bachata` `merengue` `social` _via instagram_
 
 ### Saturday, August 1, 2026
 
@@ -450,10 +407,30 @@
    Kumbaladancestudio  
    Fri, Aug 7, 2026 • all day  
    `salsa` `bachata` `lesson` `social` _via instagram_
+- **[Noches Latinas Fridays at Los Lupes](https://www.danceus.org/event/16552421183470/noches-latinas-fridays-at-los-lupes-addison-tx/)** **_Varies_**  
+   Los Lupes Addison  
+   Fri, Aug 7, 2026 • all day  
+   `salsa` `bachata` `merengue` _via danceus_
+- **[Friday Latin at Al-Amir Arlington](https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/)** **_Varies_**  
+   Al-Amir Arlington  
+   Fri, Aug 7, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via danceus_
 - **[Level 1.5 Salsa Group Class | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315769083/)** **_Varies_**  
    4801 Spring Valley Rd suite 118 · Farmers Branch  
    Fri, Aug 7, 2026 • 7:00 PM  
    `social` `workshop` `lesson` `salsa` _via meetup_
+- **[BIG FRIDAY SALSA & bachata class in Addison ● We go eat & dance after ●](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315742507/)** **_Varies_**  
+   You Can Dance Dallas  
+   Fri, Aug 7, 2026 • 7:30 PM  
+   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
+- **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315742496/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Fri, Aug 7, 2026 • 7:30 PM  
+   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
+- **[25 % off FRIDAY salsa & bachata class in Addison](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315742497/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Fri, Aug 7, 2026 • 7:30 PM  
+   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
 - **[CALLING ALL SALSEROS FROM DFW!](https://www.instagram.com/p/DamW-OipU_C/)** **_$5–$200_**  
    Taboo Dallas is where DFW's Latin dance c  
    Fri, Aug 7, 2026 • 10:00 PM  
@@ -596,6 +573,10 @@
 
 ### Friday, August 14, 2026
 
+- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/315838841/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Fri, Aug 14, 2026 • 7:30 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 - **[✨ FIESTA BLANCA SALSA PARTY at TEXAS LIVE ✨](https://www.instagram.com/p/DbUszv7FWKB/)** **_Free_**  
    TEXAS LIVE  
    Fri, Aug 14, 2026 • 9:00 PM  
