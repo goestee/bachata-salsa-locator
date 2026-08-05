@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-08-04 10:27 AM CDT**
+> Auto-generated. Last update: **2026-08-04 11:12 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 119 upcoming events tracked. **11 new** since last run.
+> 119 upcoming events tracked. **2 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -13,46 +13,10 @@
    Acapulquito Taquería  
    Thu, Aug 6, 2026 • 6:00 PM  
    `salsa` `lesson` `social` _via instagram_
-- **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
-   Victoria’s Restaurant · Farmers Branch  
-   Sun, Aug 9, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Salsa Sundays at The Statler](https://www.danceus.org/event/16552421262550/salsa-sundays-at-the-statler-dallas-tx/)** **_Varies_**  
-   The Statler · Dallas  
-   Sun, Aug 9, 2026 • all day  
-   `lesson` `salsa` _via danceus_
-- **[Sabroso Sunday at Al-Amir Addison](https://www.danceus.org/event/16552421219990/sabroso-sunday-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Sun, Aug 9, 2026 • all day  
-   `social` `salsa` `bachata` `merengue` _via danceus_
-- **[50 % off SUNDAY Salsa & BACHATA class in addison • we go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315768564/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Aug 9, 2026 • 6:30 PM  
-   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
 - **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/315969746/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sun, Aug 9, 2026 • 6:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
-- **[David Herrera Amateur Latin / Ballroom dance team summer tryouts](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315769188/)** **_Varies_**  
-   You Can Dance Dallas  
-   Sun, Aug 9, 2026 • 7:45 PM  
-   `lesson` `festival` `salsa` `bachata` `cha-cha` _via meetup_
-- **[Salsa Sunday at Lola&#8217;s Cuban Food](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-sunday-at-lolas-cuban-food/)** **_Free_**  
-   Lola's Cuban Food · Dallas-Fort Worth  
-   Sun, Aug 16, 2026 • 3:00 PM – 6:00 PM  
-   `salsa` _via salsavida_
-- **[Son y Sabor at The Victoria](https://www.salsavida.com/event/texas/dallas-fort-worth/son-y-sabor-at-the-victoria/)** **_$7_**  
-   The Victoria Restaurant · Farmers Branch  
-   Sun, Aug 16, 2026 • 5:30 PM – 10:30 PM  
-   `social` _via salsavida_
-- **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/315867099/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Aug 16, 2026 • 6:30 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[Sabroso Sundays at Al-Amir Addison](https://www.salsavida.com/event/texas/dallas-fort-worth/sabroso-sundays-at-al-amir-addison/)** **_$10_**  
-   Al-Amir Addison  
-   Sun, Aug 16, 2026 • 10:00 PM – 2:00 AM  
-   `social` _via salsavida_
 
 ---
 
@@ -257,14 +221,14 @@
    DFW Young & Social · Farmers Branch  
    Sat, Aug 8, 2026 • 5:00 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
-- **[Salsa en el parke / salsa in the park](https://www.meetup.com/dallas-spanish/events/315264843/)** **_Varies_**  
-   3850 Vitruvian Way, Addison, TX  
-   Sat, Aug 8, 2026 • 6:00 PM  
-   `social` `lesson` `salsa` _via meetup_
 - **[Vitruvian Salsa Festival 2025](https://www.salsavida.com/event/texas/dallas-fort-worth/vitruvian-salsa-festival/)** **_Free_**  
    Vitruvian Park · Addison  
    Sat, Aug 8, 2026 • 6:00 PM – 10:00 PM  
    `festival` `salsa` _via salsavida_
+- **[Salsa en el parke / salsa in the park](https://www.meetup.com/dallas-spanish/events/315264843/)** **_Varies_**  
+   3850 Vitruvian Way, Addison, TX  
+   Sat, Aug 8, 2026 • 6:30 PM  
+   `social` `lesson` `salsa` _via meetup_
 - **[Salsa on the sand at The Strand](https://golatindance.com/event/salsa-on-the-sand-at-the-strand/2026-08-08/)** **_Varies_**  
    The Strand, 150 Continental Dr, Lewisville, TX, 75067, United States  
    Sat, Aug 8, 2026 • 7:00 PM – 12:00 AM  
