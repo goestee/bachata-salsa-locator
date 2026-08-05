@@ -1,42 +1,23 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-08-04 11:12 PM CDT**
+> Auto-generated. Last update: **2026-08-05 10:16 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 119 upcoming events tracked. **2 new** since last run.
+> 117 upcoming events tracked. **1 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Salsa Thursday at Acapulquito Taquería – Arlington](https://www.instagram.com/p/DbmrJtpFc7p/)** **_Free_**  
-   Acapulquito Taquería  
-   Thu, Aug 6, 2026 • 6:00 PM  
-   `salsa` `lesson` `social` _via instagram_
-- **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/315969746/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Aug 9, 2026 • 6:30 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315798261/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Aug 11, 2026 • 8:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 
 ---
 
 ## Upcoming
 
-
-### Tuesday, August 4, 2026
-
-- **[Salsa Dancing at Klyde Warren Park | Dallas Salsa Social with Lily & Luis](https://www.instagram.com/p/DbTN7yfDCMr/)** **_Varies_**  
-   Klyde Warren Park  
-   Tue, Aug 4, 2026 • all day  
-   `salsa` `lesson` `social` _via instagram_
-- **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-08-04/)** **_Free_**  
-   Rotate Social, 5454 Main st., Frisco, TX, United States  
-   Tue, Aug 4, 2026 • 7:30 PM – 11:30 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315702517/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, Aug 4, 2026 • 8:00 PM  
-   `social` `lesson` `salsa` _via meetup_
 
 ### Wednesday, August 5, 2026
 
@@ -342,6 +323,10 @@
    Rotate Social, 5454 Main st., Frisco, TX, United States  
    Tue, Aug 11, 2026 • 7:30 PM – 11:30 PM  
    `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315798261/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Aug 11, 2026 • 8:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 
 ### Wednesday, August 12, 2026
 
