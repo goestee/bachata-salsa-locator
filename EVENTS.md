@@ -1,18 +1,50 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-08-05 10:16 AM CDT**
+> Auto-generated. Last update: **2026-08-05 11:15 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 117 upcoming events tracked. **1 new** since last run.
+> 125 upcoming events tracked. **9 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
+- **[Every Friday in Dallas!](https://www.instagram.com/p/DbpajalG-Xo/)** **_Free_**  
+   Alexander's Cantina & Cocina  
+   Fri, Aug 7, 2026 • 9:30 PM  
+   `salsa` `lesson` `social` _via instagram_
+- **[RUMBA SUDAMERICANA @ TABOO DALLAS](https://www.instagram.com/p/Dbpaw-glfj9/)** **_$5–$15_**  
+   Salsa At The Gardens  
+   Fri, Aug 7, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 - **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315798261/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Tue, Aug 11, 2026 • 8:00 PM  
    `social` `lesson` `salsa` _via meetup_
+- **[Every Friday in Dallas!](https://www.instagram.com/p/DbpajalG-Xo/)** **_Free_**  
+   Alexander's Cantina & Cocina  
+   Fri, Aug 14, 2026 • 9:30 PM  
+   `salsa` `lesson` `social` _via instagram_
+- **[Salsa Sunday at La Chingona](https://golatindance.com/event/salsa-sunday-at-la-chingona/2026-08-16/)** **_Free_**  
+   La Chingona, 2800 Bledsoe St #100, Fort Worth, TX, 76107, United States  
+   Sun, Aug 16, 2026 • 3:00 PM – 6:00 PM  
+   `lesson` `salsa` `bachata` _via golatindance_
+- **[Every Friday in Dallas!](https://www.instagram.com/p/DbpajalG-Xo/)** **_Free_**  
+   Alexander's Cantina & Cocina  
+   Fri, Aug 21, 2026 • 9:30 PM  
+   `salsa` `lesson` `social` _via instagram_
+- **[Every Friday in Dallas!](https://www.instagram.com/p/DbpajalG-Xo/)** **_Free_**  
+   Alexander's Cantina & Cocina  
+   Fri, Aug 28, 2026 • 9:30 PM  
+   `salsa` `lesson` `social` _via instagram_
+- **[Every Friday in Dallas!](https://www.instagram.com/p/DbpajalG-Xo/)** **_Free_**  
+   Alexander's Cantina & Cocina  
+   Fri, Sep 4, 2026 • 9:30 PM  
+   `salsa` `lesson` `social` _via instagram_
+- **[Every Friday in Dallas!](https://www.instagram.com/p/DbpajalG-Xo/)** **_Free_**  
+   Alexander's Cantina & Cocina  
+   Fri, Sep 11, 2026 • 9:30 PM  
+   `salsa` `lesson` `social` _via instagram_
 
 ---
 
@@ -131,6 +163,10 @@
    You Can Dance Dallas · Addison  
    Fri, Aug 7, 2026 • 7:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
+- **[Every Friday in Dallas!](https://www.instagram.com/p/DbpajalG-Xo/)** **_Free_**  
+   Alexander's Cantina & Cocina  
+   Fri, Aug 7, 2026 • 9:30 PM  
+   `salsa` `lesson` `social` _via instagram_
 - **[CALLING ALL SALSEROS FROM DFW!](https://www.instagram.com/p/DamW-OipU_C/)** **_$5–$200_**  
    Taboo Dallas is where DFW's Latin dance c  
    Fri, Aug 7, 2026 • 10:00 PM  
@@ -151,6 +187,10 @@
    Taboo Dallas, 1418 N Riverfront, Dallas, TX, 75207, United States  
    Fri, Aug 7, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[RUMBA SUDAMERICANA @ TABOO DALLAS](https://www.instagram.com/p/Dbpaw-glfj9/)** **_$5–$15_**  
+   Salsa At The Gardens  
+   Fri, Aug 7, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 
 ### Saturday, August 8, 2026
 
@@ -214,7 +254,7 @@
    The Strand, 150 Continental Dr, Lewisville, TX, 75067, United States  
    Sat, Aug 8, 2026 • 7:00 PM – 12:00 AM  
    `salsa` _via golatindance_
-- **[Mi gente, THE event of the summer is BACK! Join us for Salsa On The Sand! An awesome time with friends and family! Be re](https://www.instagram.com/p/DbcLdKWTh9R/)** **_$7–$15_**  
+- **[Mi gente, THE event of the summer is BACK! Join us for Salsa On The Sand! An awesome time with friends and family! Be re](https://www.instagram.com/p/DbosKLMzZ0d/)** **_$7–$15_**  
    Salsawithjo  
    Sat, Aug 8, 2026 • 7:00 PM  
    `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
@@ -376,6 +416,10 @@
    Kumbala Dance Studio · Farmers Branch  
    Fri, Aug 14, 2026 • 9:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
+- **[Every Friday in Dallas!](https://www.instagram.com/p/DbpajalG-Xo/)** **_Free_**  
+   Alexander's Cantina & Cocina  
+   Fri, Aug 14, 2026 • 9:30 PM  
+   `salsa` `lesson` `social` _via instagram_
 - **[CALLING ALL SALSEROS FROM DFW!](https://www.instagram.com/p/DamW-OipU_C/)** **_$5–$200_**  
    Taboo Dallas is where DFW's Latin dance c  
    Fri, Aug 14, 2026 • 10:00 PM  
@@ -438,6 +482,10 @@
    Lola's Cuban Food · Dallas-Fort Worth  
    Sun, Aug 16, 2026 • 3:00 PM – 6:00 PM  
    `salsa` _via salsavida_
+- **[Salsa Sunday at La Chingona](https://golatindance.com/event/salsa-sunday-at-la-chingona/2026-08-16/)** **_Free_**  
+   La Chingona, 2800 Bledsoe St #100, Fort Worth, TX, 76107, United States  
+   Sun, Aug 16, 2026 • 3:00 PM – 6:00 PM  
+   `lesson` `salsa` `bachata` _via golatindance_
 - **[Son y Sabor at The Victoria](https://www.salsavida.com/event/texas/dallas-fort-worth/son-y-sabor-at-the-victoria/)** **_$7_**  
    The Victoria Restaurant · Farmers Branch  
    Sun, Aug 16, 2026 • 5:30 PM – 10:30 PM  
@@ -480,6 +528,13 @@
    Thu, Aug 20, 2026 • 7:00 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
 
+### Friday, August 21, 2026
+
+- **[Every Friday in Dallas!](https://www.instagram.com/p/DbpajalG-Xo/)** **_Free_**  
+   Alexander's Cantina & Cocina  
+   Fri, Aug 21, 2026 • 9:30 PM  
+   `salsa` `lesson` `social` _via instagram_
+
 ### Saturday, August 22, 2026
 
 - **[Dallas, are you ready?](https://www.instagram.com/p/DawehcEDuDf/)** **_Free_**  
@@ -519,6 +574,10 @@
    Klydewarrenpark  
    Fri, Aug 28, 2026 • 6:00 PM  
    `salsa` `lesson` `social` _via instagram_
+- **[Every Friday in Dallas!](https://www.instagram.com/p/DbpajalG-Xo/)** **_Free_**  
+   Alexander's Cantina & Cocina  
+   Fri, Aug 28, 2026 • 9:30 PM  
+   `salsa` `lesson` `social` _via instagram_
 
 ### Saturday, August 29, 2026
 
@@ -540,6 +599,10 @@
    Hillton Anatole Resort · Dallas  
    Fri, Sep 4, 2026 • all day  
    `social` `lesson` `festival` `salsa` `bachata` _via eventbrite_
+- **[Every Friday in Dallas!](https://www.instagram.com/p/DbpajalG-Xo/)** **_Free_**  
+   Alexander's Cantina & Cocina  
+   Fri, Sep 4, 2026 • 9:30 PM  
+   `salsa` `lesson` `social` _via instagram_
 
 ### Saturday, September 5, 2026
 
@@ -554,6 +617,13 @@
    Green Space Arts Collective · Denton  
    Mon, Sep 7, 2026 • 7:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
+
+### Friday, September 11, 2026
+
+- **[Every Friday in Dallas!](https://www.instagram.com/p/DbpajalG-Xo/)** **_Free_**  
+   Alexander's Cantina & Cocina  
+   Fri, Sep 11, 2026 • 9:30 PM  
+   `salsa` `lesson` `social` _via instagram_
 
 ### Friday, September 25, 2026
 
