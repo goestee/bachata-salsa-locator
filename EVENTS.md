@@ -1,14 +1,22 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-08-07 09:16 AM CDT**
+> Auto-generated. Last update: **2026-08-07 09:58 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 124 upcoming events tracked. **13 new** since last run.
+> 126 upcoming events tracked. **15 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
+- **[Latin night @el.taco.h](https://www.instagram.com/p/DbwIqb8TX_l/)** **_Free_**  
+   Salsawithjo  
+   Fri, Aug 7, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
+- **[TOMORROW! Vitruvian Salsa Festival](https://www.instagram.com/p/DbwRAFsjWY4/)** **_Free_**  
+   Vitruvian Park  
+   Sat, Aug 8, 2026 • all day  
+   `salsa` `social` `festival` _via instagram_
 - **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
    Vidorra Dallas  
    Wed, Aug 12, 2026 • all day  
@@ -137,6 +145,10 @@
    Salsa At The Gardens  
    Fri, Aug 7, 2026 • 10:00 PM  
    `salsa` `bachata` `merengue` `social` _via instagram_
+- **[Latin night @el.taco.h](https://www.instagram.com/p/DbwIqb8TX_l/)** **_Free_**  
+   Salsawithjo  
+   Fri, Aug 7, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 
 ### Saturday, August 8, 2026
 
@@ -180,6 +192,10 @@
    Mi Pueblito · Garland  
    Sat, Aug 8, 2026 • all day  
    `social` _via danceus_
+- **[TOMORROW! Vitruvian Salsa Festival](https://www.instagram.com/p/DbwRAFsjWY4/)** **_Free_**  
+   Vitruvian Park  
+   Sat, Aug 8, 2026 • all day  
+   `salsa` `social` `festival` _via instagram_
 - **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/315753068/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Sat, Aug 8, 2026 • 4:00 PM  
