@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-08-08 08:48 AM CDT**
+> Auto-generated. Last update: **2026-08-08 10:05 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 121 upcoming events tracked. **20 new** since last run.
+> 123 upcoming events tracked. **16 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -21,18 +21,6 @@
    You Can Dance Dallas · Addison  
    Sun, Aug 9, 2026 • 4:45 PM  
    `lesson` `salsa` `bachata` `cha-cha` _via meetup_
-- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
-   Merkado · Frisco  
-   Thu, Aug 13, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Thu, Aug 13, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
-   Hangout · Irving  
-   Thu, Aug 13, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
 - **[Noches Latinas Fridays at Los Lupes](https://www.danceus.org/event/16552421183470/noches-latinas-fridays-at-los-lupes-addison-tx/)** **_Varies_**  
    Los Lupes Addison  
    Fri, Aug 14, 2026 • all day  
@@ -53,18 +41,14 @@
    You Can Dance Dallas · Addison  
    Fri, Aug 14, 2026 • 7:30 PM  
    `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
-- **[Salsa en el parke / salsa in the park](https://www.meetup.com/dallas-spanish/events/315264899/)** **_Varies_**  
-   3850 Vitruvian Way, Addison, TX  
-   Sat, Aug 15, 2026 • 6:00 PM  
-   `social` `lesson` `salsa` _via meetup_
-- **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-08-16/)** **_Free_**  
-   Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
-   Sun, Aug 16, 2026 • 7:00 PM – 11:00 PM  
-   `social` `lesson` `salsa` _via golatindance_
-- **[Sabroso Sundays at Al-Amir](https://golatindance.com/event/sabroso-sundays-at-al-amir/2026-08-16/)** **_Free_**  
-   Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States  
-   Sun, Aug 16, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/315850576/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, Aug 15, 2026 • 4:00 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315851107/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, Aug 15, 2026 • 5:00 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 - **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-08-18/)** **_Free_**  
    Rotate Social, 5454 Main st., Frisco, TX, United States  
    Tue, Aug 18, 2026 • 7:30 PM – 11:30 PM  
@@ -161,7 +145,7 @@
    The Strand, 150 Continental Dr, Lewisville, TX, 75067, United States  
    Sat, Aug 8, 2026 • 7:00 PM – 12:00 AM  
    `salsa` _via golatindance_
-- **[Mi gente, THE event of the summer is BACK! Join us for Salsa On The Sand! An awesome time with friends and family! Be re](https://www.instagram.com/p/DbosKLMzZ0d/)** **_$7–$15_**  
+- **[Mi gente, THE event of the summer is BACK! Join us for Salsa On The Sand! An awesome time with friends and family! Be re](https://www.instagram.com/p/Dbt3_jZTdh6/)** **_$7–$15_**  
    Salsawithjo  
    Sat, Aug 8, 2026 • 7:00 PM  
    `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
@@ -422,6 +406,14 @@
    Gigisbarandlounge  
    Sat, Aug 15, 2026 • all day  
    `salsa` `bachata` `merengue` `social` _via instagram_
+- **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/315850576/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, Aug 15, 2026 • 4:00 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315851107/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, Aug 15, 2026 • 5:00 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 - **[Salsa en el parke / salsa in the park](https://www.meetup.com/dallas-spanish/events/315264899/)** **_Varies_**  
    3850 Vitruvian Way, Addison, TX  
    Sat, Aug 15, 2026 • 6:00 PM  
