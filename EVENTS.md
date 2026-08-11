@@ -1,26 +1,18 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-08-10 09:23 AM CDT**
+> Auto-generated. Last update: **2026-08-10 10:08 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 112 upcoming events tracked. **23 new** since last run.
+> 118 upcoming events tracked. **20 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Noches Latinas Saturdays at Los Lupes](https://www.danceus.org/event/16552421199670/noches-latinas-saturdays-at-los-lupes-addison-tx/)** **_Varies_**  
-   Los Lupes Addison  
-   Sat, Aug 15, 2026 • all day  
-   `salsa` `bachata` `merengue` _via danceus_
-- **[Salsa Bachata Night at Mexican Bar Company](https://www.danceus.org/event/16552421241878/salsa-bachata-night-at-mexican-bar-company-plano-tx/)** **_Varies_**  
-   Mexican Bar Company · Plano  
-   Sat, Aug 15, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Mi Pueblito](https://www.danceus.org/event/165524211430824/latin-night-at-mi-pueblito-garland-tx/)** **_Varies_**  
-   Mi Pueblito · Garland  
-   Sat, Aug 15, 2026 • all day  
-   `social` _via danceus_
+- **[Free class? Say less.](https://www.instagram.com/p/Db2MZrnNj7a/)** **_Free_**  
+   Gigisbarandlounge  
+   Wed, Aug 12, 2026 • 9:30 PM – 10:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
    Victoria’s Restaurant · Farmers Branch  
    Sun, Aug 16, 2026 • all day  
@@ -53,30 +45,14 @@
    Fuego Dance Company, 813 Main Street, Garland, TX, 75040, United States  
    Sun, Aug 16, 2026 • 11:00 PM – 3:00 AM  
    `social` `lesson` `salsa` `bachata` _via golatindance_
-- **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-08-20/)** **_Free_**  
-   Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
-   Thu, Aug 20, 2026 • 9:00 PM – 1:00 AM  
-   `social` `lesson` `salsa` _via golatindance_
-- **[Una Aventura: Salsa Social](https://golatindance.com/event/una-aventura-salsa-social/2026-08-21/)** **_$15–$18_**  
-   Studio 22 Dallas, 14902 Preston Road #400, Dallas, TX, 75254, United States  
-   Fri, Aug 21, 2026 • 8:00 PM – 12:00 AM  
-   `social` `salsa` `bachata` `merengue` _via golatindance_
-- **[Pura Ft Worth Salsa and Bachata Social](https://golatindance.com/event/pura-ft-worth-salsa-and-bachata-social/2026-08-21/)** **_$17_**  
-   Dance Makers of Texas, 6125 SW Loop 820 Ste 140, Fort Worth, TX, 76132, United States  
-   Fri, Aug 21, 2026 • 8:30 PM – 1:00 AM  
-   `social` `lesson` `salsa` `bachata` _via golatindance_
-- **[Friday Latin at Al-Amir Arlington](https://golatindance.com/event/friday-rumba-nights-at-al-amir-arlington/2026-08-21/)** **_Varies_**  
-   Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
-   Fri, Aug 21, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[Free class? Say less.](https://www.instagram.com/p/Db2MZrnNj7a/)** **_Free_**  
+   Gigisbarandlounge  
+   Wed, Aug 19, 2026 • 9:30 PM – 10:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[Rumba Fridays @ Taboo Lounge Dallas](https://golatindance.com/event/rumba-fridays-taboo-lounge-dallas/2026-08-21/)** **_$5–$15_**  
    Taboo Dallas, 1418 N Riverfront, Dallas, TX, 75207, United States  
    Fri, Aug 21, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` `merengue` _via golatindance_
-- **[Salsa Saturdays at Blue Mesa Grill](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-saturdays-at-blue-mesa-grill/)** **_$8_**  
-   Blue Mesa Grill · Dallas-Fort Worth  
-   Sat, Aug 22, 2026 • 10:00 PM – 3:00 AM  
-   `salsa` _via salsavida_
 - **[Latin Saturday at Mexican Bar Company](https://golatindance.com/event/latin-saturday-at-mexican-bar-company/2026-08-22/)** **_Free_**  
    Mexican Bar Company, 6121 West Park Blvd Ste RS-10, Plano, TX, 75093, United States  
    Sat, Aug 22, 2026 • 10:00 PM – 2:00 AM  
@@ -85,10 +61,6 @@
    Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
    Sat, Aug 22, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` _via golatindance_
-- **[Gloria&#8217;s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
-   Gloria's Latin Cuisine · Addison  
-   Sat, Aug 22, 2026 • 11:00 PM – 2:00 AM  
-   `social` _via salsavida_
 - **[Salsa Sunday at Lola&#8217;s Cuban Food](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-sunday-at-lolas-cuban-food/)** **_Free_**  
    Lola's Cuban Food · Dallas-Fort Worth  
    Sun, Aug 23, 2026 • 3:00 PM – 6:00 PM  
@@ -101,6 +73,22 @@
    Al-Amir Addison  
    Sun, Aug 23, 2026 • 10:00 PM – 2:00 AM  
    `social` _via salsavida_
+- **[Free class? Say less.](https://www.instagram.com/p/Db2MZrnNj7a/)** **_Free_**  
+   Gigisbarandlounge  
+   Wed, Aug 26, 2026 • 9:30 PM – 10:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
+- **[Free class? Say less.](https://www.instagram.com/p/Db2MZrnNj7a/)** **_Free_**  
+   Gigisbarandlounge  
+   Wed, Sep 2, 2026 • 9:30 PM – 10:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
+- **[Free class? Say less.](https://www.instagram.com/p/Db2MZrnNj7a/)** **_Free_**  
+   Gigisbarandlounge  
+   Wed, Sep 9, 2026 • 9:30 PM – 10:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
+- **[Free class? Say less.](https://www.instagram.com/p/Db2MZrnNj7a/)** **_Free_**  
+   Gigisbarandlounge  
+   Wed, Sep 16, 2026 • 9:30 PM – 10:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 
 ---
 
@@ -175,6 +163,10 @@
    Stratos Bar & Grill · Dallas  
    Wed, Aug 12, 2026 • 9:30 PM – 2:00 AM  
    `salsa` `bachata` _via salsavida_
+- **[Free class? Say less.](https://www.instagram.com/p/Db2MZrnNj7a/)** **_Free_**  
+   Gigisbarandlounge  
+   Wed, Aug 12, 2026 • 9:30 PM – 10:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 
 ### Thursday, August 13, 2026
 
@@ -437,6 +429,10 @@
    Stratos Bar & Grill · Dallas  
    Wed, Aug 19, 2026 • 9:30 PM – 2:00 AM  
    `salsa` `bachata` _via salsavida_
+- **[Free class? Say less.](https://www.instagram.com/p/Db2MZrnNj7a/)** **_Free_**  
+   Gigisbarandlounge  
+   Wed, Aug 19, 2026 • 9:30 PM – 10:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 
 ### Thursday, August 20, 2026
 
@@ -560,6 +556,13 @@
    Tue, Aug 25, 2026 • all day  
    `salsa` `lesson` `social` _via instagram_
 
+### Wednesday, August 26, 2026
+
+- **[Free class? Say less.](https://www.instagram.com/p/Db2MZrnNj7a/)** **_Free_**  
+   Gigisbarandlounge  
+   Wed, Aug 26, 2026 • 9:30 PM – 10:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
+
 ### Friday, August 28, 2026
 
 - **[SHAKE YOUR GRASS IS BACK!](https://www.instagram.com/p/DWFbSR-NhH1/)** **_Free_**  
@@ -584,6 +587,13 @@
    Klyde Warren Park  
    Tue, Sep 1, 2026 • all day  
    `salsa` `lesson` `social` _via instagram_
+
+### Wednesday, September 2, 2026
+
+- **[Free class? Say less.](https://www.instagram.com/p/Db2MZrnNj7a/)** **_Free_**  
+   Gigisbarandlounge  
+   Wed, Sep 2, 2026 • 9:30 PM – 10:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 
 ### Friday, September 4, 2026
 
@@ -610,12 +620,26 @@
    Mon, Sep 7, 2026 • 7:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
 
+### Wednesday, September 9, 2026
+
+- **[Free class? Say less.](https://www.instagram.com/p/Db2MZrnNj7a/)** **_Free_**  
+   Gigisbarandlounge  
+   Wed, Sep 9, 2026 • 9:30 PM – 10:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
+
 ### Friday, September 11, 2026
 
 - **[Every Friday in Dallas!](https://www.instagram.com/p/DbpajalG-Xo/)** **_Free_**  
    Alexander's Cantina & Cocina  
    Fri, Sep 11, 2026 • 9:30 PM  
    `salsa` `lesson` `social` _via instagram_
+
+### Wednesday, September 16, 2026
+
+- **[Free class? Say less.](https://www.instagram.com/p/Db2MZrnNj7a/)** **_Free_**  
+   Gigisbarandlounge  
+   Wed, Sep 16, 2026 • 9:30 PM – 10:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 
 ### Friday, September 25, 2026
 
