@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-08-10 10:08 PM CDT**
+> Auto-generated. Last update: **2026-08-11 09:23 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 118 upcoming events tracked. **20 new** since last run.
+> 117 upcoming events tracked. **18 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -25,14 +25,6 @@
    Al-Amir Addison  
    Sun, Aug 16, 2026 • all day  
    `social` `salsa` `bachata` `merengue` _via danceus_
-- **[30 % OFF CHA CHA CHA & mambo in addison](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315865520/)** **_Varies_**  
-   You Can Dance Dallas  
-   Sun, Aug 16, 2026 • 4:45 PM  
-   `cha-cha` _via meetup_
-- **[4:15 Cha Cha on 2](https://www.meetup.com/you-can-dance-dallas/events/315865580/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Aug 16, 2026 • 4:45 PM  
-   `lesson` `salsa` `bachata` `cha-cha` _via meetup_
 - **[50 % off SUNDAY Salsa & BACHATA class in addison • we go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315867115/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sun, Aug 16, 2026 • 6:30 PM  
@@ -94,13 +86,6 @@
 
 ## Upcoming
 
-
-### Monday, August 10, 2026
-
-- **[FREE Beginner Salsa & Bachata | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315768723/)** **_Varies_**  
-   Kumbala Dance Studio · Farmers Branch  
-   Mon, Aug 10, 2026 • 7:00 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
 
 ### Tuesday, August 11, 2026
 
