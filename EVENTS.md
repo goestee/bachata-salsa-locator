@@ -1,18 +1,14 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-08-11 10:27 PM CDT**
+> Auto-generated. Last update: **2026-08-12 09:25 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 132 upcoming events tracked. **21 new** since last run.
+> 131 upcoming events tracked. **17 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Free class? Say less.](https://www.instagram.com/p/Db2MZrnNj7a/)** **_Free_**  
-   Gigisbarandlounge  
-   Wed, Aug 12, 2026 • 9:30 PM – 10:30 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[Latin THURS @ Massey grill Plano ● DANCE CLASS ● DJ ● FOOD ● NO COVER](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316076668/)** **_Varies_**  
    Massey Shots Bar & Grill · Plano  
    Thu, Aug 13, 2026 • 9:30 PM  
@@ -29,22 +25,22 @@
    Alamirarlington  
    Sat, Aug 15, 2026 • 10:30 PM  
    `salsa` `bachata` `lesson` _via instagram_
-- **[Free class? Say less.](https://www.instagram.com/p/Db2MZrnNj7a/)** **_Free_**  
-   Gigisbarandlounge  
-   Wed, Aug 19, 2026 • 9:30 PM – 10:30 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315879039/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Aug 18, 2026 • 8:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 - **[VIERNES LATINOS EN AL-AMIR REGGAETON • SALSA • BACHATA • LATIN HITS](https://www.instagram.com/p/Db438yASNm1/)** **_Varies_**  
    Alamirarlington  
    Fri, Aug 21, 2026 • 8:00 PM  
    `salsa` `bachata` `social` _via instagram_
+- **[Rumba Tropical en Reys's Sports Bar](https://golatindance.com/event/rumba-tropical-en-reyss-sports-bar/2026-08-22/)** **_Free_**  
+   Reys Sports Bar, 2836 N Oconnor Rd, Irving, TX, United States  
+   Sat, Aug 22, 2026 • 10:00 PM – 2:00 AM  
+   `salsa` `bachata` `merengue` _via golatindance_
 - **[SÁBADOS LATINOS EN AL-AMIR](https://www.instagram.com/p/Db44zTDyLOS/)** **_Free_**  
    Alamirarlington  
    Sat, Aug 22, 2026 • 10:30 PM  
    `salsa` `bachata` `lesson` _via instagram_
-- **[Free class? Say less.](https://www.instagram.com/p/Db2MZrnNj7a/)** **_Free_**  
-   Gigisbarandlounge  
-   Wed, Aug 26, 2026 • 9:30 PM – 10:30 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[VIERNES LATINOS EN AL-AMIR REGGAETON • SALSA • BACHATA • LATIN HITS](https://www.instagram.com/p/Db438yASNm1/)** **_Varies_**  
    Alamirarlington  
    Fri, Aug 28, 2026 • 8:00 PM  
@@ -53,10 +49,6 @@
    Alamirarlington  
    Sat, Aug 29, 2026 • 10:30 PM  
    `salsa` `bachata` `lesson` _via instagram_
-- **[Free class? Say less.](https://www.instagram.com/p/Db2MZrnNj7a/)** **_Free_**  
-   Gigisbarandlounge  
-   Wed, Sep 2, 2026 • 9:30 PM – 10:30 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[VIERNES LATINOS EN AL-AMIR REGGAETON • SALSA • BACHATA • LATIN HITS](https://www.instagram.com/p/Db438yASNm1/)** **_Varies_**  
    Alamirarlington  
    Fri, Sep 4, 2026 • 8:00 PM  
@@ -65,10 +57,6 @@
    Alamirarlington  
    Sat, Sep 5, 2026 • 10:30 PM  
    `salsa` `bachata` `lesson` _via instagram_
-- **[Free class? Say less.](https://www.instagram.com/p/Db2MZrnNj7a/)** **_Free_**  
-   Gigisbarandlounge  
-   Wed, Sep 9, 2026 • 9:30 PM – 10:30 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[VIERNES LATINOS EN AL-AMIR REGGAETON • SALSA • BACHATA • LATIN HITS](https://www.instagram.com/p/Db438yASNm1/)** **_Varies_**  
    Alamirarlington  
    Fri, Sep 11, 2026 • 8:00 PM  
@@ -77,10 +65,6 @@
    Alamirarlington  
    Sat, Sep 12, 2026 • 10:30 PM  
    `salsa` `bachata` `lesson` _via instagram_
-- **[Free class? Say less.](https://www.instagram.com/p/Db2MZrnNj7a/)** **_Free_**  
-   Gigisbarandlounge  
-   Wed, Sep 16, 2026 • 9:30 PM – 10:30 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[VIERNES LATINOS EN AL-AMIR REGGAETON • SALSA • BACHATA • LATIN HITS](https://www.instagram.com/p/Db438yASNm1/)** **_Varies_**  
    Alamirarlington  
    Fri, Sep 18, 2026 • 8:00 PM  
@@ -98,21 +82,6 @@
 
 ## Upcoming
 
-
-### Tuesday, August 11, 2026
-
-- **[Salsa Dancing at Klyde Warren Park | Dallas Salsa Social with Lily & Luis](https://www.instagram.com/p/DbTN7yfDCMr/)** **_Varies_**  
-   Klyde Warren Park  
-   Tue, Aug 11, 2026 • all day  
-   `salsa` `lesson` `social` _via instagram_
-- **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-08-11/)** **_Free_**  
-   Rotate Social, 5454 Main st., Frisco, TX, United States  
-   Tue, Aug 11, 2026 • 7:30 PM – 11:30 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315798261/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, Aug 11, 2026 • 8:00 PM  
-   `social` `lesson` `salsa` _via meetup_
 
 ### Wednesday, August 12, 2026
 
@@ -423,6 +392,10 @@
    Rotate Social, 5454 Main st., Frisco, TX, United States  
    Tue, Aug 18, 2026 • 7:30 PM – 11:30 PM  
    `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315879039/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Aug 18, 2026 • 8:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 
 ### Wednesday, August 19, 2026
 
@@ -539,6 +512,10 @@
    Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
    Sat, Aug 22, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` _via golatindance_
+- **[Rumba Tropical en Reys's Sports Bar](https://golatindance.com/event/rumba-tropical-en-reyss-sports-bar/2026-08-22/)** **_Free_**  
+   Reys Sports Bar, 2836 N Oconnor Rd, Irving, TX, United States  
+   Sat, Aug 22, 2026 • 10:00 PM – 2:00 AM  
+   `salsa` `bachata` `merengue` _via golatindance_
 - **[SÁBADOS LATINOS EN AL-AMIR](https://www.instagram.com/p/Db44zTDyLOS/)** **_Free_**  
    Alamirarlington  
    Sat, Aug 22, 2026 • 10:30 PM  
