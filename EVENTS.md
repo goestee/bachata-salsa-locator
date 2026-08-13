@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-08-12 09:25 AM CDT**
+> Auto-generated. Last update: **2026-08-12 10:31 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 131 upcoming events tracked. **17 new** since last run.
+> 132 upcoming events tracked. **18 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -77,6 +77,10 @@
    Salsa At The Gardens  
    Sat, Sep 26, 2026 • 10:00 PM  
    `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
+- **[Thank you to everyone that came out and celebrated life, birthdays, and dancing last Friday](https://www.instagram.com/p/Db6F2a5OWxz/)** **_Varies_**  
+   Echalesalsita Dallas  
+   Fri, Oct 2, 2026 • all day  
+   `salsa` `lesson` `social` `bachata` _via instagram_
 
 ---
 
@@ -693,6 +697,13 @@
    Salsa At The Gardens  
    Sat, Sep 26, 2026 • 10:00 PM  
    `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
+
+### Friday, October 2, 2026
+
+- **[Thank you to everyone that came out and celebrated life, birthdays, and dancing last Friday](https://www.instagram.com/p/Db6F2a5OWxz/)** **_Varies_**  
+   Echalesalsita Dallas  
+   Fri, Oct 2, 2026 • all day  
+   `salsa` `lesson` `social` `bachata` _via instagram_
 
 
 ---
