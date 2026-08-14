@@ -1,18 +1,18 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-08-13 09:25 AM CDT**
+> Auto-generated. Last update: **2026-08-13 10:28 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 129 upcoming events tracked. **10 new** since last run.
+> 130 upcoming events tracked. **9 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315879039/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, Aug 18, 2026 • 8:00 PM  
-   `social` `lesson` `salsa` _via meetup_
+- **[SALSA SUNDAY NIGHT @ HEARSAY ARLINGTON](https://www.instagram.com/p/Db91dFmlfny/)** **_$10_**  
+   Hearsay  
+   Sun, Aug 16, 2026 • 7:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
    Vidorra Dallas  
    Wed, Aug 19, 2026 • all day  
@@ -29,10 +29,6 @@
    Stratos Greek Taverna · Dallas  
    Wed, Aug 19, 2026 • all day  
    `social` `salsa` _via danceus_
-- **[Rumba Tropical en Reys's Sports Bar](https://golatindance.com/event/rumba-tropical-en-reyss-sports-bar/2026-08-22/)** **_Free_**  
-   Reys Sports Bar, 2836 N Oconnor Rd, Irving, TX, United States  
-   Sat, Aug 22, 2026 • 10:00 PM – 2:00 AM  
-   `salsa` `bachata` `merengue` _via golatindance_
 - **[Salsa Sunday at La Chingona](https://golatindance.com/event/salsa-sunday-at-la-chingona/2026-08-23/)** **_Free_**  
    La Chingona, 2800 Bledsoe St #100, Fort Worth, TX, 76107, United States  
    Sun, Aug 23, 2026 • 3:00 PM – 6:00 PM  
@@ -286,6 +282,10 @@
    Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
    Sun, Aug 16, 2026 • 7:00 PM – 11:00 PM  
    `social` `lesson` `salsa` _via golatindance_
+- **[SALSA SUNDAY NIGHT @ HEARSAY ARLINGTON](https://www.instagram.com/p/Db91dFmlfny/)** **_$10_**  
+   Hearsay  
+   Sun, Aug 16, 2026 • 7:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[David Herrera Amateur Latin / Ballroom dance team summer tryouts](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315867812/)** **_Varies_**  
    You Can Dance Dallas  
    Sun, Aug 16, 2026 • 7:45 PM  
