@@ -1,38 +1,38 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-08-14 09:19 AM CDT**
+> Auto-generated. Last update: **2026-08-14 09:17 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 127 upcoming events tracked. **10 new** since last run.
+> 133 upcoming events tracked. **9 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
+- **[✨ FIESTA BLANCA SALSA PARTY ✨](https://www.instagram.com/p/DcB0aINuWal/)** **_Free_**  
+   Salsa At The Gardens  
+   Fri, Aug 14, 2026 • 9:00 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[SALSA SUNDAY NIGHT @ HEARSAY ARLINGTON](https://www.instagram.com/p/Db91dFmlfny/)** **_$10_**  
    Hearsay  
    Sun, Aug 16, 2026 • 7:00 PM  
    `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
-- **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
-   Vidorra Dallas  
-   Wed, Aug 19, 2026 • all day  
-   `social` `lesson` `salsa` _via danceus_
-- **[Live Latin Night With Havana NRG at Sambuca360](https://www.danceus.org/event/165524211650016/live-latin-night-with-havana-nrg-at-sambuca-plano-tx/)** **_Varies_**  
-   Sambuca360 · Plano  
-   Wed, Aug 19, 2026 • all day  
-   `social` _via danceus_
-- **[Salseando and Bachateando Nights at El Botanero](https://www.danceus.org/event/16552421287400/salseando-and-bachateando-nights-at-el-botanero-dallas-tx/)** **_Varies_**  
-   El Botanero Bar · Dallas  
-   Wed, Aug 19, 2026 • all day  
-   `social` `salsa` `bachata` _via danceus_
-- **[Wednesday Salsa Social at Stratos](https://www.danceus.org/event/16552421361930/wednesday-salsa-social-at-stratos-dallas-tx/)** **_Varies_**  
-   Stratos Greek Taverna · Dallas  
-   Wed, Aug 19, 2026 • all day  
-   `social` `salsa` _via danceus_
-- **[Salsa Sunday at La Chingona](https://golatindance.com/event/salsa-sunday-at-la-chingona/2026-08-23/)** **_Free_**  
-   La Chingona, 2800 Bledsoe St #100, Fort Worth, TX, 76107, United States  
-   Sun, Aug 23, 2026 • 3:00 PM – 6:00 PM  
-   `lesson` `salsa` `bachata` _via golatindance_
+- **[SAN ANTONIO IS COMING TO PLANO!](https://www.instagram.com/p/Db_Ro4xRI3s/)** **_Varies_**  
+   Gigi  
+   Wed, Aug 19, 2026 • 9:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
+- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
+   Merkado · Frisco  
+   Thu, Aug 20, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Thu, Aug 20, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
+   Hangout · Irving  
+   Thu, Aug 20, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
 - **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-08-23/)** **_Free_**  
    Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
    Sun, Aug 23, 2026 • 7:00 PM – 11:00 PM  
@@ -41,14 +41,10 @@
    Fuego Dance Company, 813 Main Street, Garland, TX, 75040, United States  
    Sun, Aug 23, 2026 • 11:00 PM – 3:00 AM  
    `social` `lesson` `salsa` `bachata` _via golatindance_
-- **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
-   Vidorra Cocina · Dallas-Fort Worth  
-   Wed, Aug 26, 2026 • 7:00 PM – 11:00 PM  
-   `salsa` _via salsavida_
-- **[Wednesday Salsa &#038; Bachata at Stratos](https://www.salsavida.com/event/texas/dallas-fort-worth/wednesday-salsa-bachata-at-stratos/)** **_Free_**  
-   Stratos Bar & Grill · Dallas  
-   Wed, Aug 26, 2026 • 9:30 PM – 2:00 AM  
-   `salsa` `bachata` _via salsavida_
+- **[VIERNES LATINOS EN AL-AMIR REGGAETON • SALSA • BACHATA • LATIN HITS](https://www.instagram.com/p/DcCXHaoxCKy/)** **_Varies_**  
+   Alamirarlington  
+   Fri, Sep 25, 2026 • 8:00 PM  
+   `salsa` `bachata` `social` _via instagram_
 
 ---
 
@@ -93,6 +89,10 @@
    Kumbala Dance Studio, 4340 Spring Valley Road, Suite 4340, Farmers Branch, TX, 75244, United States  
    Fri, Aug 14, 2026 • 9:00 PM – 2:00 AM  
    `social` `lesson` `salsa` `bachata` _via golatindance_
+- **[✨ FIESTA BLANCA SALSA PARTY ✨](https://www.instagram.com/p/DcB0aINuWal/)** **_Free_**  
+   Salsa At The Gardens  
+   Fri, Aug 14, 2026 • 9:00 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[Salsón - Salsa and bachata dance social](https://www.meetup.com/salsa-with-jo/events/315068491/)** **_Varies_**  
    Kumbala Dance Studio · Farmers Branch  
    Fri, Aug 14, 2026 • 9:30 PM  
@@ -333,6 +333,10 @@
    Gigis, 7300 Lone Star Drive C150, Plano, TX, 75024, United States  
    Wed, Aug 19, 2026 • 9:00 PM – 2:00 AM  
    `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
+- **[SAN ANTONIO IS COMING TO PLANO!](https://www.instagram.com/p/Db_Ro4xRI3s/)** **_Varies_**  
+   Gigi  
+   Wed, Aug 19, 2026 • 9:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 - **[Join us every Wednesday for our Salsa & Bachata Class at 9:30 PM, then keep the party going with social dancing until 2](https://www.instagram.com/p/Davf0GzMVGW/)** **_Varies_**  
    Gigisbarandlounge  
    Wed, Aug 19, 2026 • 9:30 PM  
@@ -352,6 +356,18 @@
    Salsadallas  
    Thu, Aug 20, 2026 • all day  
    `salsa` `lesson` `festival` _via instagram_
+- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
+   Merkado · Frisco  
+   Thu, Aug 20, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Thu, Aug 20, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
+   Hangout · Irving  
+   Thu, Aug 20, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
 - **[FREE SALSA LESSONS IN ADDISON, TX](https://www.instagram.com/p/DZWnvPVERQf/)** **_Free_**  
    Salsadallas  
    Thu, Aug 20, 2026 • 6:30 PM  
@@ -383,7 +399,7 @@
    Studio 22 Dallas, 14902 Preston Road #400, Dallas, TX, 75254, United States  
    Fri, Aug 21, 2026 • 8:00 PM – 12:00 AM  
    `social` `salsa` `bachata` `merengue` _via golatindance_
-- **[VIERNES LATINOS EN AL-AMIR REGGAETON • SALSA • BACHATA • LATIN HITS](https://www.instagram.com/p/Db438yASNm1/)** **_Varies_**  
+- **[VIERNES LATINOS EN AL-AMIR REGGAETON • SALSA • BACHATA • LATIN HITS](https://www.instagram.com/p/DcCXHaoxCKy/)** **_Varies_**  
    Alamirarlington  
    Fri, Aug 21, 2026 • 8:00 PM  
    `salsa` `bachata` `social` _via instagram_
@@ -513,7 +529,7 @@
    Klydewarrenpark  
    Fri, Aug 28, 2026 • 6:00 PM  
    `salsa` `lesson` `social` _via instagram_
-- **[VIERNES LATINOS EN AL-AMIR REGGAETON • SALSA • BACHATA • LATIN HITS](https://www.instagram.com/p/Db438yASNm1/)** **_Varies_**  
+- **[VIERNES LATINOS EN AL-AMIR REGGAETON • SALSA • BACHATA • LATIN HITS](https://www.instagram.com/p/DcCXHaoxCKy/)** **_Varies_**  
    Alamirarlington  
    Fri, Aug 28, 2026 • 8:00 PM  
    `salsa` `bachata` `social` _via instagram_
@@ -553,7 +569,7 @@
    Hillton Anatole Resort · Dallas  
    Fri, Sep 4, 2026 • all day  
    `social` `lesson` `festival` `salsa` `bachata` _via eventbrite_
-- **[VIERNES LATINOS EN AL-AMIR REGGAETON • SALSA • BACHATA • LATIN HITS](https://www.instagram.com/p/Db438yASNm1/)** **_Varies_**  
+- **[VIERNES LATINOS EN AL-AMIR REGGAETON • SALSA • BACHATA • LATIN HITS](https://www.instagram.com/p/DcCXHaoxCKy/)** **_Varies_**  
    Alamirarlington  
    Fri, Sep 4, 2026 • 8:00 PM  
    `salsa` `bachata` `social` _via instagram_
@@ -589,7 +605,7 @@
 
 ### Friday, September 11, 2026
 
-- **[VIERNES LATINOS EN AL-AMIR REGGAETON • SALSA • BACHATA • LATIN HITS](https://www.instagram.com/p/Db438yASNm1/)** **_Varies_**  
+- **[VIERNES LATINOS EN AL-AMIR REGGAETON • SALSA • BACHATA • LATIN HITS](https://www.instagram.com/p/DcCXHaoxCKy/)** **_Varies_**  
    Alamirarlington  
    Fri, Sep 11, 2026 • 8:00 PM  
    `salsa` `bachata` `social` _via instagram_
@@ -614,7 +630,7 @@
 
 ### Friday, September 18, 2026
 
-- **[VIERNES LATINOS EN AL-AMIR REGGAETON • SALSA • BACHATA • LATIN HITS](https://www.instagram.com/p/Db438yASNm1/)** **_Varies_**  
+- **[VIERNES LATINOS EN AL-AMIR REGGAETON • SALSA • BACHATA • LATIN HITS](https://www.instagram.com/p/DcCXHaoxCKy/)** **_Varies_**  
    Alamirarlington  
    Fri, Sep 18, 2026 • 8:00 PM  
    `salsa` `bachata` `social` _via instagram_
@@ -632,6 +648,10 @@
    Klydewarrenpark  
    Fri, Sep 25, 2026 • 6:00 PM  
    `salsa` `lesson` `social` _via instagram_
+- **[VIERNES LATINOS EN AL-AMIR REGGAETON • SALSA • BACHATA • LATIN HITS](https://www.instagram.com/p/DcCXHaoxCKy/)** **_Varies_**  
+   Alamirarlington  
+   Fri, Sep 25, 2026 • 8:00 PM  
+   `salsa` `bachata` `social` _via instagram_
 
 ### Saturday, September 26, 2026
 
