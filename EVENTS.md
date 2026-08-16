@@ -1,42 +1,14 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-08-15 09:25 PM CDT**
+> Auto-generated. Last update: **2026-08-16 08:34 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 130 upcoming events tracked. **18 new** since last run.
+> 116 upcoming events tracked. **17 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[SALSA TODAY!](https://www.instagram.com/p/DcEKvfKjdda/)** **_Free_**  
-   Salsadallas  
-   Sat, Aug 15, 2026 • 6:00 PM – 10:00 PM  
-   `salsa` `social` `festival` _via instagram_
-- **[See you tonight!](https://www.instagram.com/p/DcELddnANNu/)** **_$20–$25_**  
-   Dcd Houseofbachata  
-   Sat, Aug 15, 2026 • 8:00 PM  
-   `bachata` `lesson` `social` `workshop` _via instagram_
-- **[Tonight Saturday in Dallas ✅](https://www.instagram.com/p/DcEUTWcOEep/)** **_Free_**  
-   Ocho Oakcliff  
-   Sat, Aug 15, 2026 • 9:00 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
-- **[SAN ANTONIO IS COMING TO PLANO!](https://www.instagram.com/p/Db_Ro4xRI3s/)** **_Varies_**  
-   Gigi  
-   Wed, Aug 19, 2026 • 9:00 PM  
-   `salsa` `bachata` `merengue` `social` _via instagram_
-- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
-   Merkado · Frisco  
-   Thu, Aug 20, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Thu, Aug 20, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
-   Hangout · Irving  
-   Thu, Aug 20, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
 - **[Latin THURS @ Massey grill Plano ● DANCE CLASS ● DJ ● FOOD ● NO COVER](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316125074/)** **_Varies_**  
    Massey Shots Bar & Grill · Plano  
    Thu, Aug 20, 2026 • 9:30 PM  
@@ -73,10 +45,34 @@
    Rotate Social, 5454 Main st., Frisco, TX, United States  
    Tue, Aug 25, 2026 • 7:30 PM – 11:30 PM  
    `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[VIERNES LATINOS EN AL-AMIR REGGAETON • SALSA • BACHATA • LATIN HITS](https://www.instagram.com/p/DcCXHaoxCKy/)** **_Varies_**  
-   Alamirarlington  
-   Fri, Sep 25, 2026 • 8:00 PM  
-   `salsa` `bachata` `social` _via instagram_
+- **[Latin Night at Gigis](https://golatindance.com/event/latin-night-at-gigis/2026-08-26/)** **_Free_**  
+   Gigis, 7300 Lone Star Drive C150, Plano, TX, 75024, United States  
+   Wed, Aug 26, 2026 • 9:00 PM – 2:00 AM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
+- **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-08-27/)** **_Free_**  
+   Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
+   Thu, Aug 27, 2026 • 9:00 PM – 1:00 AM  
+   `social` `lesson` `salsa` _via golatindance_
+- **[Friday Latin at Al-Amir Arlington](https://golatindance.com/event/friday-rumba-nights-at-al-amir-arlington/2026-08-28/)** **_Varies_**  
+   Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
+   Fri, Aug 28, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[Rumba Fridays @ Taboo Lounge Dallas](https://golatindance.com/event/rumba-fridays-taboo-lounge-dallas/2026-08-28/)** **_$5–$15_**  
+   Taboo Dallas, 1418 N Riverfront, Dallas, TX, 75207, United States  
+   Fri, Aug 28, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[Salsa Saturdays at Blue Mesa Grill](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-saturdays-at-blue-mesa-grill/)** **_$8_**  
+   Blue Mesa Grill · Dallas-Fort Worth  
+   Sat, Aug 29, 2026 • 10:00 PM – 3:00 AM  
+   `salsa` _via salsavida_
+- **[Gloria&#8217;s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
+   Gloria's Latin Cuisine · Addison  
+   Sat, Aug 29, 2026 • 11:00 PM – 2:00 AM  
+   `social` _via salsavida_
+- **[Salsón - Salsa and bachata dance social](https://www.meetup.com/salsa-with-jo/events/315068497/)** **_Varies_**  
+   Kumbala Dance Studio · Farmers Branch  
+   Fri, Sep 11, 2026 • 9:30 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 - **[SÁBADOS LATINOS EN AL-AMIR](https://www.instagram.com/p/DcEsjobB4mh/)** **_Free_**  
    Alamirarlington  
    Sat, Sep 26, 2026 • 10:30 PM  
@@ -86,105 +82,6 @@
 
 ## Upcoming
 
-
-### Saturday, August 15, 2026
-
-- **[Dallas, are you ready?](https://www.instagram.com/p/DawehcEDuDf/)** **_Free_**  
-   Salsadallas  
-   Sat, Aug 15, 2026 • all day  
-   `salsa` `festival` _via instagram_
-- **[Sábados con la Rumba – A Otro Nivel at Luna Azul](https://www.salsavida.com/event/texas/dallas-fort-worth/sabados-con-la-rumba-a-otro-nivel-at-luna-azul/)** **_Free_**  
-   Fort Worth  
-   Sat, Aug 15, 2026 • all day  
-   `social` `salsa` _via salsavida_
-- **[Salsa Saturdays at Blue Mesa Grill](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-saturdays-at-blue-mesa-grill/)** **_$8_**  
-   Dallas-Fort Worth  
-   Sat, Aug 15, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` `merengue` _via salsavida_
-- **[Gloria’s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
-   Addison  
-   Sat, Aug 15, 2026 • all day  
-   `social` _via salsavida_
-- **[La Vibra – Dallas Salsa & Bachata Social](https://www.salsavida.com/event/texas/dallas-fort-worth/la-vibra-dallas-salsa-bachata-social/)** **_$20_**  
-   Richardson  
-   Sat, Aug 15, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via salsavida_
-- **[POV: You finally found the Latin spot everyone’s been talking about.  Every Saturday, Plano comes alive with reggaetón,](https://www.instagram.com/p/Dbd54CqsbZm/)** **_Varies_**  
-   Gigisbarandlounge  
-   Sat, Aug 15, 2026 • all day  
-   `salsa` `bachata` `merengue` `social` _via instagram_
-- **[Noches Latinas Saturdays at Los Lupes](https://www.danceus.org/event/16552421199670/noches-latinas-saturdays-at-los-lupes-addison-tx/)** **_Varies_**  
-   Los Lupes Addison  
-   Sat, Aug 15, 2026 • all day  
-   `salsa` `bachata` `merengue` _via danceus_
-- **[Salsa Bachata Night at Mexican Bar Company](https://www.danceus.org/event/16552421241878/salsa-bachata-night-at-mexican-bar-company-plano-tx/)** **_Varies_**  
-   Mexican Bar Company · Plano  
-   Sat, Aug 15, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Mi Pueblito](https://www.danceus.org/event/165524211430824/latin-night-at-mi-pueblito-garland-tx/)** **_Varies_**  
-   Mi Pueblito · Garland  
-   Sat, Aug 15, 2026 • all day  
-   `social` _via danceus_
-- **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/315850576/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Sat, Aug 15, 2026 • 4:00 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315851107/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Sat, Aug 15, 2026 • 5:00 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[Salsa en el parke / salsa in the park](https://www.meetup.com/dallas-spanish/events/315264899/)** **_Varies_**  
-   3850 Vitruvian Way, Addison, TX  
-   Sat, Aug 15, 2026 • 6:00 PM  
-   `social` `lesson` `salsa` _via meetup_
-- **[From Houston to Vitruvian Salsa Festival this Saturday!  TUMBAKÁ live on stage!](https://www.instagram.com/p/Db6Bvd5Du5n/)** **_Free_**  
-   Vitruvian Park  
-   Sat, Aug 15, 2026 • 6:00 PM  
-   `salsa` `festival` _via instagram_
-- **[SALSA TODAY!](https://www.instagram.com/p/DcEKvfKjdda/)** **_Free_**  
-   Salsadallas  
-   Sat, Aug 15, 2026 • 6:00 PM – 10:00 PM  
-   `salsa` `social` `festival` _via instagram_
-- **[See you tonight!](https://www.instagram.com/p/DcELddnANNu/)** **_$20–$25_**  
-   Dcd Houseofbachata  
-   Sat, Aug 15, 2026 • 8:00 PM  
-   `bachata` `lesson` `social` `workshop` _via instagram_
-- **[Tonight Saturday in Dallas ✅](https://www.instagram.com/p/DcEUTWcOEep/)** **_Free_**  
-   Ocho Oakcliff  
-   Sat, Aug 15, 2026 • 9:00 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
-- **[La Vibra &#8211; Dallas Salsa &#038; Bachata Social](https://www.salsavida.com/event/texas/dallas-fort-worth/la-vibra-dallas-salsa-bachata-social/)** **_$20_**  
-   Tropik Vybe Studio · Richardson  
-   Sat, Aug 15, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` _via salsavida_
-- **[Salsa Saturdays at Blue Mesa Grill](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-saturdays-at-blue-mesa-grill/)** **_$8_**  
-   Blue Mesa Grill · Dallas-Fort Worth  
-   Sat, Aug 15, 2026 • 10:00 PM – 3:00 AM  
-   `salsa` _via salsavida_
-- **[Latin Saturday at Mexican Bar Company](https://golatindance.com/event/latin-saturday-at-mexican-bar-company/2026-08-15/)** **_Free_**  
-   Mexican Bar Company, 6121 West Park Blvd Ste RS-10, Plano, TX, 75093, United States  
-   Sat, Aug 15, 2026 • 10:00 PM – 2:00 AM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Sabados de Gazadera at Al-Amir Arlington](https://golatindance.com/event/sabados-de-gazadera-at-al-amir-arlington/2026-08-15/)** **_$10_**  
-   Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
-   Sat, Aug 15, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` _via golatindance_
-- **[Dallas Can Dance Monthly Saturday Social](https://golatindance.com/event/dcd-seventy-thirty-70-bachata-30-salsa/2026-08-15/)** **_$20–$25_**  
-   Dallas Can Dance – The Academy, 2650 Midway Rd #130, Carrollton, TX, 75006, United States  
-   Sat, Aug 15, 2026 • 10:00 PM – 2:00 AM  
-   `social` `lesson` `salsa` `bachata` `kizomba` _via golatindance_
-- **[Rumba Tropical en Reys's Sports Bar](https://golatindance.com/event/rumba-tropical-en-reyss-sports-bar/2026-08-15/)** **_Free_**  
-   Reys Sports Bar, 2836 N Oconnor Rd, Irving, TX, United States  
-   Sat, Aug 15, 2026 • 10:00 PM – 2:00 AM  
-   `salsa` `bachata` `merengue` _via golatindance_
-- **[SÁBADOS LATINOS EN AL-AMIR](https://www.instagram.com/p/Db44zTDyLOS/)** **_Free_**  
-   Alamirarlington  
-   Sat, Aug 15, 2026 • 10:30 PM  
-   `salsa` `bachata` `lesson` _via instagram_
-- **[Gloria&#8217;s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
-   Gloria's Latin Cuisine · Addison  
-   Sat, Aug 15, 2026 • 11:00 PM – 2:00 AM  
-   `social` _via salsavida_
 
 ### Sunday, August 16, 2026
 
@@ -431,6 +328,18 @@
    Salsadallas  
    Sat, Aug 22, 2026 • all day  
    `salsa` `festival` _via instagram_
+- **[Sábados con la Rumba – A Otro Nivel at Luna Azul](https://www.salsavida.com/event/texas/dallas-fort-worth/sabados-con-la-rumba-a-otro-nivel-at-luna-azul/)** **_Free_**  
+   Fort Worth  
+   Sat, Aug 22, 2026 • all day  
+   `social` `salsa` _via salsavida_
+- **[Salsa Saturdays at Blue Mesa Grill](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-saturdays-at-blue-mesa-grill/)** **_$8_**  
+   Dallas-Fort Worth  
+   Sat, Aug 22, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` `merengue` _via salsavida_
+- **[Gloria’s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
+   Addison  
+   Sat, Aug 22, 2026 • all day  
+   `social` _via salsavida_
 - **[POV: You finally found the Latin spot everyone’s been talking about.  Every Saturday, Plano comes alive with reggaetón,](https://www.instagram.com/p/Dbd54CqsbZm/)** **_Varies_**  
    Gigisbarandlounge  
    Sat, Aug 22, 2026 • all day  
@@ -531,6 +440,10 @@
    Vidorra Cocina · Dallas-Fort Worth  
    Wed, Aug 26, 2026 • 7:00 PM – 11:00 PM  
    `salsa` _via salsavida_
+- **[Latin Night at Gigis](https://golatindance.com/event/latin-night-at-gigis/2026-08-26/)** **_Free_**  
+   Gigis, 7300 Lone Star Drive C150, Plano, TX, 75024, United States  
+   Wed, Aug 26, 2026 • 9:00 PM – 2:00 AM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
 - **[Free class? Say less.](https://www.instagram.com/p/Db2MZrnNj7a/)** **_Free_**  
    Gigisbarandlounge  
    Wed, Aug 26, 2026 • 9:30 PM – 10:30 PM  
@@ -539,6 +452,13 @@
    Stratos Bar & Grill · Dallas  
    Wed, Aug 26, 2026 • 9:30 PM – 2:00 AM  
    `salsa` `bachata` _via salsavida_
+
+### Thursday, August 27, 2026
+
+- **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-08-27/)** **_Free_**  
+   Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
+   Thu, Aug 27, 2026 • 9:00 PM – 1:00 AM  
+   `social` `lesson` `salsa` _via golatindance_
 
 ### Friday, August 28, 2026
 
@@ -554,6 +474,14 @@
    Alexander's Cantina & Cocina  
    Fri, Aug 28, 2026 • 9:30 PM  
    `salsa` `lesson` `social` _via instagram_
+- **[Friday Latin at Al-Amir Arlington](https://golatindance.com/event/friday-rumba-nights-at-al-amir-arlington/2026-08-28/)** **_Varies_**  
+   Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
+   Fri, Aug 28, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[Rumba Fridays @ Taboo Lounge Dallas](https://golatindance.com/event/rumba-fridays-taboo-lounge-dallas/2026-08-28/)** **_$5–$15_**  
+   Taboo Dallas, 1418 N Riverfront, Dallas, TX, 75207, United States  
+   Fri, Aug 28, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
 
 ### Saturday, August 29, 2026
 
@@ -561,10 +489,18 @@
    Gigisbarandlounge  
    Sat, Aug 29, 2026 • all day  
    `salsa` `bachata` `merengue` `social` _via instagram_
+- **[Salsa Saturdays at Blue Mesa Grill](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-saturdays-at-blue-mesa-grill/)** **_$8_**  
+   Blue Mesa Grill · Dallas-Fort Worth  
+   Sat, Aug 29, 2026 • 10:00 PM – 3:00 AM  
+   `salsa` _via salsavida_
 - **[SÁBADOS LATINOS EN AL-AMIR](https://www.instagram.com/p/DcEsjobB4mh/)** **_Free_**  
    Alamirarlington  
    Sat, Aug 29, 2026 • 10:30 PM  
    `salsa` `bachata` `lesson` _via instagram_
+- **[Gloria&#8217;s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
+   Gloria's Latin Cuisine · Addison  
+   Sat, Aug 29, 2026 • 11:00 PM – 2:00 AM  
+   `social` _via salsavida_
 
 ### Tuesday, September 1, 2026
 
@@ -630,6 +566,10 @@
    Alexander's Cantina & Cocina  
    Fri, Sep 11, 2026 • 9:30 PM  
    `salsa` `lesson` `social` _via instagram_
+- **[Salsón - Salsa and bachata dance social](https://www.meetup.com/salsa-with-jo/events/315068497/)** **_Varies_**  
+   Kumbala Dance Studio · Farmers Branch  
+   Fri, Sep 11, 2026 • 9:30 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 
 ### Saturday, September 12, 2026
 
