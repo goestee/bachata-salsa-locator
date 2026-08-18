@@ -1,18 +1,14 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-08-17 09:21 PM CDT**
+> Auto-generated. Last update: **2026-08-18 08:45 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 126 upcoming events tracked. **26 new** since last run.
+> 126 upcoming events tracked. **15 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Free Salsa Class at Vitruvian Salsa Festival!](https://www.instagram.com/p/DcG_BwUm6qo/)** **_Free_**  
-   Vitruvian Salsa Festival  
-   Tue, Aug 18, 2026 • all day  
-   `salsa` `lesson` `social` `festival` _via instagram_
 - **[Salsa & bachata Thursdays advanced beginner/intermediate](https://www.meetup.com/salsa-with-jo/events/315928408/)** **_Varies_**  
    Green Space Arts Collective · Denton  
    Thu, Aug 20, 2026 • 7:30 PM  
@@ -21,18 +17,6 @@
    El Taco H · Denton  
    Fri, Aug 21, 2026 • 10:00 PM  
    `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
-- **[Noches Latinas Saturdays at Los Lupes](https://www.danceus.org/event/16552421199670/noches-latinas-saturdays-at-los-lupes-addison-tx/)** **_Varies_**  
-   Los Lupes Addison  
-   Sat, Aug 22, 2026 • all day  
-   `salsa` `bachata` `merengue` _via danceus_
-- **[Salsa Bachata Night at Mexican Bar Company](https://www.danceus.org/event/16552421241878/salsa-bachata-night-at-mexican-bar-company-plano-tx/)** **_Varies_**  
-   Mexican Bar Company · Plano  
-   Sat, Aug 22, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Mi Pueblito](https://www.danceus.org/event/165524211430824/latin-night-at-mi-pueblito-garland-tx/)** **_Varies_**  
-   Mi Pueblito · Garland  
-   Sat, Aug 22, 2026 • all day  
-   `social` _via danceus_
 - **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
    Victoria’s Restaurant · Farmers Branch  
    Sun, Aug 23, 2026 • all day  
@@ -45,14 +29,6 @@
    Al-Amir Addison  
    Sun, Aug 23, 2026 • all day  
    `social` `salsa` `bachata` `merengue` _via danceus_
-- **[30 % OFF CHA CHA CHA & mambo in addison](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315967834/)** **_Varies_**  
-   You Can Dance Dallas  
-   Sun, Aug 23, 2026 • 4:45 PM  
-   `cha-cha` _via meetup_
-- **[4:15 Cha Cha on 2](https://www.meetup.com/you-can-dance-dallas/events/315967927/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Aug 23, 2026 • 4:45 PM  
-   `lesson` `salsa` `bachata` `cha-cha` _via meetup_
 - **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/315968934/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sun, Aug 23, 2026 • 6:30 PM  
@@ -65,10 +41,6 @@
    You Can Dance Dallas  
    Sun, Aug 23, 2026 • 7:45 PM  
    `lesson` `festival` `salsa` `bachata` `cha-cha` _via meetup_
-- **[Free Salsa Class at Vitruvian Salsa Festival!](https://www.instagram.com/p/DcG_BwUm6qo/)** **_Free_**  
-   Vitruvian Salsa Festival  
-   Tue, Aug 25, 2026 • all day  
-   `salsa` `lesson` `social` `festival` _via instagram_
 - **[Latin Saturday at Mexican Bar Company](https://golatindance.com/event/latin-saturday-at-mexican-bar-company/2026-08-29/)** **_Free_**  
    Mexican Bar Company, 6121 West Park Blvd Ste RS-10, Plano, TX, 75093, United States  
    Sat, Aug 29, 2026 • 10:00 PM – 2:00 AM  
@@ -97,18 +69,6 @@
    Al-Amir Addison  
    Sun, Aug 30, 2026 • 10:00 PM – 2:00 AM  
    `social` _via salsavida_
-- **[Free Salsa Class at Vitruvian Salsa Festival!](https://www.instagram.com/p/DcG_BwUm6qo/)** **_Free_**  
-   Vitruvian Salsa Festival  
-   Tue, Sep 1, 2026 • all day  
-   `salsa` `lesson` `social` `festival` _via instagram_
-- **[Free Salsa Class at Vitruvian Salsa Festival!](https://www.instagram.com/p/DcG_BwUm6qo/)** **_Free_**  
-   Vitruvian Salsa Festival  
-   Tue, Sep 8, 2026 • all day  
-   `salsa` `lesson` `social` `festival` _via instagram_
-- **[Free Salsa Class at Vitruvian Salsa Festival!](https://www.instagram.com/p/DcG_BwUm6qo/)** **_Free_**  
-   Vitruvian Salsa Festival  
-   Tue, Sep 15, 2026 • all day  
-   `salsa` `lesson` `social` `festival` _via instagram_
 
 ---
 
