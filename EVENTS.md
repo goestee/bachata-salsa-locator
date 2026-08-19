@@ -1,50 +1,31 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-08-18 09:22 PM CDT**
+> Auto-generated. Last update: **2026-08-19 08:46 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 126 upcoming events tracked. **3 new** since last run.
+> 125 upcoming events tracked. **3 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
-   Victoria’s Restaurant · Farmers Branch  
-   Sun, Aug 23, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Salsa Sundays at The Statler](https://www.danceus.org/event/16552421262550/salsa-sundays-at-the-statler-dallas-tx/)** **_Varies_**  
-   The Statler · Dallas  
-   Sun, Aug 23, 2026 • all day  
-   `lesson` `salsa` _via danceus_
-- **[Sabroso Sunday at Al-Amir Addison](https://www.danceus.org/event/16552421219990/sabroso-sunday-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Sun, Aug 23, 2026 • all day  
-   `social` `salsa` `bachata` `merengue` _via danceus_
+- **[Dallas Bachata Social at Tropik Vybe](https://www.salsavida.com/event/texas/dallas-fort-worth/dallas-bachata-social-at-tropik-vybe/)** **_Varies_**  
+   Richardson  
+   Sat, Aug 22, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via salsavida_
+- **[Dallas Bachata Social at Tropik Vybe](https://www.salsavida.com/event/texas/dallas-fort-worth/dallas-bachata-social-at-tropik-vybe/)** **_Varies_**  
+   Tropik Vybe Studio · Richardson  
+   Sat, Aug 22, 2026 • 9:00 PM – 2:00 AM  
+   `social` `lesson` `bachata` _via salsavida_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315879046/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Aug 25, 2026 • 8:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 
 ---
 
 ## Upcoming
 
-
-### Tuesday, August 18, 2026
-
-- **[Salsa Dancing at Klyde Warren Park | Dallas Salsa Social with Lily & Luis](https://www.instagram.com/p/DbTN7yfDCMr/)** **_Varies_**  
-   Klyde Warren Park  
-   Tue, Aug 18, 2026 • all day  
-   `salsa` `lesson` `social` _via instagram_
-- **[Free Salsa Class at Vitruvian Salsa Festival!](https://www.instagram.com/p/DcG_BwUm6qo/)** **_Free_**  
-   Vitruvian Salsa Festival  
-   Tue, Aug 18, 2026 • all day  
-   `salsa` `lesson` `social` `festival` _via instagram_
-- **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-08-18/)** **_Free_**  
-   Rotate Social, 5454 Main st., Frisco, TX, United States  
-   Tue, Aug 18, 2026 • 7:30 PM – 11:30 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315879039/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, Aug 18, 2026 • 8:00 PM  
-   `social` `lesson` `salsa` _via meetup_
 
 ### Wednesday, August 19, 2026
 
@@ -233,6 +214,10 @@
    Mi Pueblito · Garland  
    Sat, Aug 22, 2026 • all day  
    `social` _via danceus_
+- **[Dallas Bachata Social at Tropik Vybe](https://www.salsavida.com/event/texas/dallas-fort-worth/dallas-bachata-social-at-tropik-vybe/)** **_Varies_**  
+   Richardson  
+   Sat, Aug 22, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via salsavida_
 - **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/315878600/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Sat, Aug 22, 2026 • 4:00 PM  
@@ -249,6 +234,10 @@
    You Can Dance Dallas · Addison  
    Sat, Aug 22, 2026 • 7:00 PM  
    `social` `lesson` _via meetup_
+- **[Dallas Bachata Social at Tropik Vybe](https://www.salsavida.com/event/texas/dallas-fort-worth/dallas-bachata-social-at-tropik-vybe/)** **_Varies_**  
+   Tropik Vybe Studio · Richardson  
+   Sat, Aug 22, 2026 • 9:00 PM – 2:00 AM  
+   `social` `lesson` `bachata` _via salsavida_
 - **[Salsa Saturdays at Blue Mesa Grill](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-saturdays-at-blue-mesa-grill/)** **_$8_**  
    Blue Mesa Grill · Dallas-Fort Worth  
    Sat, Aug 22, 2026 • 10:00 PM – 3:00 AM  
@@ -370,6 +359,10 @@
    Rotate Social, 5454 Main st., Frisco, TX, United States  
    Tue, Aug 25, 2026 • 7:30 PM – 11:30 PM  
    `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315879046/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Aug 25, 2026 • 8:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 
 ### Wednesday, August 26, 2026
 
