@@ -1,18 +1,26 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-08-19 08:46 AM CDT**
+> Auto-generated. Last update: **2026-08-19 09:21 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 125 upcoming events tracked. **3 new** since last run.
+> 127 upcoming events tracked. **5 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
+- **[Latin Night](https://golatindance.com/event/latin-night-2/2026-08-21/)** **_Free_**  
+   El TACO H, 213 E Hickory St, Denton, TX, 76201, US  
+   Fri, Aug 21, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
 - **[Dallas Bachata Social at Tropik Vybe](https://www.salsavida.com/event/texas/dallas-fort-worth/dallas-bachata-social-at-tropik-vybe/)** **_Varies_**  
    Richardson  
    Sat, Aug 22, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via salsavida_
+- **[Salsa in Dallas! Vitruvian Salsa Festival Grand Finale!](https://www.instagram.com/p/DcOu_sLgTnG/)** **_Free_**  
+   Salsadallas  
+   Sat, Aug 22, 2026 • 6:00 PM – 10:00 PM  
+   `salsa` `social` `festival` _via instagram_
 - **[Dallas Bachata Social at Tropik Vybe](https://www.salsavida.com/event/texas/dallas-fort-worth/dallas-bachata-social-at-tropik-vybe/)** **_Varies_**  
    Tropik Vybe Studio · Richardson  
    Sat, Aug 22, 2026 • 9:00 PM – 2:00 AM  
@@ -179,6 +187,10 @@
    El Taco H · Denton  
    Fri, Aug 21, 2026 • 10:00 PM  
    `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
+- **[Latin Night](https://golatindance.com/event/latin-night-2/2026-08-21/)** **_Free_**  
+   El TACO H, 213 E Hickory St, Denton, TX, 76201, US  
+   Fri, Aug 21, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
 
 ### Saturday, August 22, 2026
 
@@ -230,6 +242,10 @@
    3850 Vitruvian Way, Addison, TX  
    Sat, Aug 22, 2026 • 6:00 PM  
    `social` `lesson` `salsa` _via meetup_
+- **[Salsa in Dallas! Vitruvian Salsa Festival Grand Finale!](https://www.instagram.com/p/DcOu_sLgTnG/)** **_Free_**  
+   Salsadallas  
+   Sat, Aug 22, 2026 • 6:00 PM – 10:00 PM  
+   `salsa` `social` `festival` _via instagram_
 - **[7:00-11:00  4TH SATURDAY BALLROOM DANCE PARTY & PARTY & RUMBA CLASS](https://www.meetup.com/you-can-dance-dallas/events/315779662/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sat, Aug 22, 2026 • 7:00 PM  
