@@ -1,26 +1,18 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-08-20 09:26 PM CDT**
+> Auto-generated. Last update: **2026-08-21 08:47 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 125 upcoming events tracked. **10 new** since last run.
+> 121 upcoming events tracked. **13 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Latin Night](https://golatindance.com/event/latin-night-2/2026-08-21/)** **_Free_**  
-   El TACO H, 213 E Hickory St, Denton, TX, 76201, US  
-   Fri, Aug 21, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` `merengue` _via golatindance_
 - **[RUMBA SUDAMERICANA @ TABOO DALLAS](https://www.instagram.com/p/DcP2jeBldmk/)** **_$5–$15_**  
    Salsa At The Gardens  
    Fri, Aug 21, 2026 • 10:00 PM  
    `salsa` `bachata` `merengue` `social` _via instagram_
-- **[Salsa in Dallas! Vitruvian Salsa Festival Grand Finale!](https://www.instagram.com/p/DcOu_sLgTnG/)** **_Free_**  
-   Salsadallas  
-   Sat, Aug 22, 2026 • 6:00 PM – 10:00 PM  
-   `salsa` `social` `festival` _via instagram_
 - **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
    Vidorra Dallas  
    Wed, Aug 26, 2026 • all day  
@@ -41,6 +33,14 @@
    Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
    Sun, Aug 30, 2026 • 7:00 PM – 11:00 PM  
    `social` `lesson` `salsa` _via golatindance_
+- **[Sabroso Sundays at Al-Amir](https://golatindance.com/event/sabroso-sundays-at-al-amir/2026-08-30/)** **_Free_**  
+   Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States  
+   Sun, Aug 30, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[Calentura Sundays @ Fuego Dance Co.](https://golatindance.com/event/calentura-sundays-fuego-dance-co/2026-08-30/)** **_$10_**  
+   Fuego Dance Company, 813 Main Street, Garland, TX, 75040, United States  
+   Sun, Aug 30, 2026 • 11:00 PM – 3:00 AM  
+   `social` `lesson` `salsa` `bachata` _via golatindance_
 - **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
    Vidorra Cocina · Dallas-Fort Worth  
    Wed, Sep 2, 2026 • 7:00 PM – 11:00 PM  
@@ -49,50 +49,23 @@
    Stratos Bar & Grill · Dallas  
    Wed, Sep 2, 2026 • 9:30 PM – 2:00 AM  
    `salsa` `bachata` _via salsavida_
+- **[BIG Texas Salsa & Bachata Latin Dance Festival 2026](https://www.salsavida.com/event/texas/dallas-fort-worth/big-texas-salsa-bachata-latin-dance-festival/)** **_$45_**  
+   Dallas-Fort Worth  
+   Thu, Sep 3, 2026 • all day  
+   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via salsavida_
+- **[BIG Texas Salsa &#038; Bachata Latin Dance Festival 2026](https://www.salsavida.com/event/texas/dallas-fort-worth/big-texas-salsa-bachata-latin-dance-festival/)** **_$45_**  
+   Hilton Anatole Resort · Dallas-Fort Worth  
+   Thu, Sep 3, 2026 • 1:00 PM – 4:00 AM  
+   `festival` `salsa` `bachata` _via salsavida_
+- **[Latin THURS @ Massey grill Plano ● DANCE CLASS ● DJ ● FOOD ● NO COVER](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316124734/)** **_Varies_**  
+   Massey Shots Bar & Grill · Plano  
+   Thu, Sep 3, 2026 • 9:30 PM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
 
 ---
 
 ## Upcoming
 
-
-### Thursday, August 20, 2026
-
-- **[FREE Salsa Festival in Addison, TX  | Vitruvian Salsa Festival 2026](https://www.instagram.com/p/DZlAi6WEk4a/)** **_Free_**  
-   Salsadallas  
-   Thu, Aug 20, 2026 • all day  
-   `salsa` `lesson` `festival` _via instagram_
-- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
-   Merkado · Frisco  
-   Thu, Aug 20, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Thu, Aug 20, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
-   Hangout · Irving  
-   Thu, Aug 20, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[FREE SALSA LESSONS IN ADDISON, TX](https://www.instagram.com/p/DZWnvPVERQf/)** **_Free_**  
-   Salsadallas  
-   Thu, Aug 20, 2026 • 6:30 PM  
-   `salsa` `lesson` `social` `festival` _via instagram_
-- **[FREE Beginner Salsa & Bachata | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315768830/)** **_Varies_**  
-   Kumbala Dance Studio · Farmers Branch  
-   Thu, Aug 20, 2026 • 7:00 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[Salsa & bachata Thursdays advanced beginner/intermediate](https://www.meetup.com/salsa-with-jo/events/315928408/)** **_Varies_**  
-   Green Space Arts Collective · Denton  
-   Thu, Aug 20, 2026 • 7:30 PM  
-   `lesson` `salsa` `bachata` _via meetup_
-- **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-08-20/)** **_Free_**  
-   Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
-   Thu, Aug 20, 2026 • 9:00 PM – 1:00 AM  
-   `social` `lesson` `salsa` _via golatindance_
-- **[Latin THURS @ Massey grill Plano ● DANCE CLASS ● DJ ● FOOD ● NO COVER](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316125074/)** **_Varies_**  
-   Massey Shots Bar & Grill · Plano  
-   Thu, Aug 20, 2026 • 9:30 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
 
 ### Friday, August 21, 2026
 
@@ -479,6 +452,14 @@
    Al-Amir Addison  
    Sun, Aug 30, 2026 • 10:00 PM – 2:00 AM  
    `social` _via salsavida_
+- **[Sabroso Sundays at Al-Amir](https://golatindance.com/event/sabroso-sundays-at-al-amir/2026-08-30/)** **_Free_**  
+   Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States  
+   Sun, Aug 30, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[Calentura Sundays @ Fuego Dance Co.](https://golatindance.com/event/calentura-sundays-fuego-dance-co/2026-08-30/)** **_$10_**  
+   Fuego Dance Company, 813 Main Street, Garland, TX, 75040, United States  
+   Sun, Aug 30, 2026 • 11:00 PM – 3:00 AM  
+   `social` `lesson` `salsa` `bachata` _via golatindance_
 
 ### Tuesday, September 1, 2026
 
@@ -505,6 +486,21 @@
    Stratos Bar & Grill · Dallas  
    Wed, Sep 2, 2026 • 9:30 PM – 2:00 AM  
    `salsa` `bachata` _via salsavida_
+
+### Thursday, September 3, 2026
+
+- **[BIG Texas Salsa & Bachata Latin Dance Festival 2026](https://www.salsavida.com/event/texas/dallas-fort-worth/big-texas-salsa-bachata-latin-dance-festival/)** **_$45_**  
+   Dallas-Fort Worth  
+   Thu, Sep 3, 2026 • all day  
+   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via salsavida_
+- **[BIG Texas Salsa &#038; Bachata Latin Dance Festival 2026](https://www.salsavida.com/event/texas/dallas-fort-worth/big-texas-salsa-bachata-latin-dance-festival/)** **_$45_**  
+   Hilton Anatole Resort · Dallas-Fort Worth  
+   Thu, Sep 3, 2026 • 1:00 PM – 4:00 AM  
+   `festival` `salsa` `bachata` _via salsavida_
+- **[Latin THURS @ Massey grill Plano ● DANCE CLASS ● DJ ● FOOD ● NO COVER](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316124734/)** **_Varies_**  
+   Massey Shots Bar & Grill · Plano  
+   Thu, Sep 3, 2026 • 9:30 PM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
 
 ### Friday, September 4, 2026
 
