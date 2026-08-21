@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-08-20 08:48 AM CDT**
+> Auto-generated. Last update: **2026-08-20 09:26 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 124 upcoming events tracked. **12 new** since last run.
+> 125 upcoming events tracked. **10 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -13,22 +13,14 @@
    El TACO H, 213 E Hickory St, Denton, TX, 76201, US  
    Fri, Aug 21, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` `merengue` _via golatindance_
-- **[Dallas Bachata Social at Tropik Vybe](https://www.salsavida.com/event/texas/dallas-fort-worth/dallas-bachata-social-at-tropik-vybe/)** **_Varies_**  
-   Richardson  
-   Sat, Aug 22, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via salsavida_
+- **[RUMBA SUDAMERICANA @ TABOO DALLAS](https://www.instagram.com/p/DcP2jeBldmk/)** **_$5–$15_**  
+   Salsa At The Gardens  
+   Fri, Aug 21, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 - **[Salsa in Dallas! Vitruvian Salsa Festival Grand Finale!](https://www.instagram.com/p/DcOu_sLgTnG/)** **_Free_**  
    Salsadallas  
    Sat, Aug 22, 2026 • 6:00 PM – 10:00 PM  
    `salsa` `social` `festival` _via instagram_
-- **[Dallas Bachata Social at Tropik Vybe](https://www.salsavida.com/event/texas/dallas-fort-worth/dallas-bachata-social-at-tropik-vybe/)** **_Varies_**  
-   Tropik Vybe Studio · Richardson  
-   Sat, Aug 22, 2026 • 9:00 PM – 2:00 AM  
-   `social` `lesson` `bachata` _via salsavida_
-- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315879046/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, Aug 25, 2026 • 8:00 PM  
-   `social` `lesson` `salsa` _via meetup_
 - **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
    Vidorra Dallas  
    Wed, Aug 26, 2026 • all day  
@@ -168,6 +160,10 @@
    El TACO H, 213 E Hickory St, Denton, TX, 76201, US  
    Fri, Aug 21, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[RUMBA SUDAMERICANA @ TABOO DALLAS](https://www.instagram.com/p/DcP2jeBldmk/)** **_$5–$15_**  
+   Salsa At The Gardens  
+   Fri, Aug 21, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 
 ### Saturday, August 22, 2026
 
