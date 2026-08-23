@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-23T02:27:08.399696+00:00",
-  "count": 147,
+  "updated_at": "2026-08-23T13:35:00.461909+00:00",
+  "count": 154,
   "events": [
     {
       "title": "BIG TEXAS  Salsa & Bachata Latin Dance Festival 2026",
@@ -431,10 +431,10 @@
     },
     {
       "title": "Sábados con la Rumba – A Otro Nivel at Luna Azul",
-      "start": "Saturday, Aug 22, 2026",
+      "start": "Saturday, Aug 29, 2026",
       "source": "salsavida",
       "source_url": "https://www.salsavida.com/event/texas/dallas-fort-worth/sabados-con-la-rumba-a-otro-nivel-at-luna-azul/",
-      "end": "2026-08-23T01:00:00",
+      "end": "2026-08-30T01:00:00",
       "venue": "Fort Worth",
       "address": "Luna Azul Night Club 2528 Jacksboro Hwy Fort Worth TX 76114 USA",
       "city": null,
@@ -447,15 +447,15 @@
       "price": "Free",
       "id": "8c8e2b5d115b8c53",
       "first_seen_at": "2026-07-16T15:05:59.497165+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299262+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461680+00:00",
       "submitted_to_supabase": null
     },
     {
       "title": "Salsa Saturdays at Blue Mesa Grill",
-      "start": "Saturday, Aug 22, 2026",
+      "start": "Saturday, Aug 29, 2026",
       "source": "salsavida",
       "source_url": "https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-saturdays-at-blue-mesa-grill/",
-      "end": "2026-08-23T03:00:00",
+      "end": "2026-08-30T03:00:00",
       "venue": "Dallas-Fort Worth",
       "address": "Blue Mesa Grill 14866 Montfort Dr Dallas, TX 75254 United States",
       "city": null,
@@ -471,15 +471,15 @@
       "price": "$8",
       "id": "b6c4552f1eb02722",
       "first_seen_at": "2026-07-16T15:05:59.497166+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299265+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461682+00:00",
       "submitted_to_supabase": null
     },
     {
       "title": "Gloria’s Nightlife",
-      "start": "Saturday, Aug 22, 2026",
+      "start": "Saturday, Aug 29, 2026",
       "source": "salsavida",
       "source_url": "https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/",
-      "end": "2026-08-23T02:00:00",
+      "end": "2026-08-30T02:00:00",
       "venue": "Addison",
       "address": "Gloria's Latin Cuisine 5100 Belt Line Rd, Suite #864 Addison, TX 75254 United States",
       "city": null,
@@ -491,7 +491,7 @@
       "price": "Free",
       "id": "22c15dcd4a94a3fe",
       "first_seen_at": "2026-07-16T15:05:59.497168+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299268+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461685+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -608,7 +608,7 @@
       "price": "Free",
       "id": "e8c1ecc9d9213ff9",
       "first_seen_at": "2026-07-16T15:05:59.497177+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299278+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461674+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -632,7 +632,7 @@
       "price": "Free",
       "id": "cb9552c97be3e86c",
       "first_seen_at": "2026-07-16T15:05:59.497178+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299280+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461677+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -725,7 +725,7 @@
       "price": "$10",
       "id": "3d28a52a978c659f",
       "first_seen_at": "2026-07-20T15:15:13.327161+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299270+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461668+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -748,7 +748,7 @@
       "price": "$7",
       "id": "4b3c6e7643346301",
       "first_seen_at": "2026-07-20T15:15:13.327163+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299273+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461670+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -772,7 +772,7 @@
       "price": "Free",
       "id": "d56367b86477dfd4",
       "first_seen_at": "2026-07-20T15:15:13.327165+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299275+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461672+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -795,7 +795,7 @@
       "price": null,
       "id": "95e364e75cff9a9f",
       "first_seen_at": "2026-07-22T15:08:39.293423+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299054+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461485+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1171,7 +1171,7 @@
       "price": "$10",
       "id": "ed7959c360ddc50d",
       "first_seen_at": "2026-08-10T14:23:15.710779+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299225+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461627+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1191,7 +1191,7 @@
       "price": "$7",
       "id": "d2b3b65ef78b94cd",
       "first_seen_at": "2026-08-10T14:23:15.710781+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299227+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461630+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1211,7 +1211,7 @@
       "price": "Free",
       "id": "457639aa0d055d38",
       "first_seen_at": "2026-08-10T14:23:15.710783+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299229+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461632+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1592,7 +1592,7 @@
       "price": "Free",
       "id": "c30e5784d648e066",
       "first_seen_at": "2026-08-13T14:25:42.173768+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299153+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461565+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1613,7 +1613,7 @@
       "price": "Free",
       "id": "2cae8efc1a63dfa4",
       "first_seen_at": "2026-08-13T14:25:42.173808+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299232+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461635+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1633,7 +1633,7 @@
       "price": "Free",
       "id": "da863d45fc8fffbc",
       "first_seen_at": "2026-08-13T14:25:42.173810+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299234+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461637+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1655,7 +1655,7 @@
       "price": "Free",
       "id": "2ff4c2787c34e2b6",
       "first_seen_at": "2026-08-14T14:19:00.912906+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299158+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461569+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1678,7 +1678,7 @@
       "price": "$10",
       "id": "8427ef8b06a2a80e",
       "first_seen_at": "2026-08-14T14:19:00.912910+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299162+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461574+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1771,7 +1771,7 @@
       "price": "Free",
       "id": "5d4d823e493b09c1",
       "first_seen_at": "2026-08-15T13:33:32.961470+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299166+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461578+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1795,7 +1795,7 @@
       "price": "Free",
       "id": "305b9aa719c2fc41",
       "first_seen_at": "2026-08-15T13:33:32.961473+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299170+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461581+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1886,7 +1886,7 @@
       "price": null,
       "id": "1a949bd9b5fa69c9",
       "first_seen_at": "2026-08-16T13:34:31.240047+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299066+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461491+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1910,7 +1910,7 @@
       "price": "Free",
       "id": "0c96e006a2f53c8e",
       "first_seen_at": "2026-08-16T13:34:31.240201+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299174+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461585+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1932,7 +1932,7 @@
       "price": "Free",
       "id": "9eb96aa2547a1cf6",
       "first_seen_at": "2026-08-16T13:34:31.240206+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299178+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461590+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1955,7 +1955,7 @@
       "price": null,
       "id": "e7874fd0c114fba9",
       "first_seen_at": "2026-08-16T13:34:31.240210+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299182+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461594+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1978,7 +1978,7 @@
       "price": "$5–$15",
       "id": "20a8a9688b5e1d66",
       "first_seen_at": "2026-08-16T13:34:31.240213+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299186+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461598+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1998,7 +1998,7 @@
       "price": "$8",
       "id": "07dec077a9615540",
       "first_seen_at": "2026-08-16T13:34:31.240249+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299237+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461639+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2018,7 +2018,7 @@
       "price": "Free",
       "id": "19fe14ec21fe3b83",
       "first_seen_at": "2026-08-16T13:34:31.240251+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299239+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461642+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2038,7 +2038,7 @@
       "price": null,
       "id": "23cce21437c8a951",
       "first_seen_at": "2026-08-17T02:23:31.178738+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299071+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461501+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2061,7 +2061,7 @@
       "price": null,
       "id": "5aae578d82dd5eb9",
       "first_seen_at": "2026-08-17T02:23:31.178747+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299085+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461514+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2264,7 +2264,7 @@
       "price": null,
       "id": "12e29a74f2de3416",
       "first_seen_at": "2026-08-17T13:42:29.080501+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299038+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461469+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2289,7 +2289,7 @@
       "price": null,
       "id": "dc815be54e857c99",
       "first_seen_at": "2026-08-17T13:42:29.080518+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299060+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461497+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2313,7 +2313,7 @@
       "price": null,
       "id": "318611e79d783474",
       "first_seen_at": "2026-08-17T13:42:29.080538+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299076+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461506+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2361,7 +2361,7 @@
       "price": "Free",
       "id": "1264efae362e0baf",
       "first_seen_at": "2026-08-17T13:42:29.080683+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299190+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461601+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2383,7 +2383,7 @@
       "price": "$10",
       "id": "0ca55a17245a024a",
       "first_seen_at": "2026-08-17T13:42:29.080687+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299194+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461606+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2405,7 +2405,7 @@
       "price": "Free",
       "id": "dfc9e98404ae6919",
       "first_seen_at": "2026-08-17T13:42:29.080690+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299198+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461609+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2427,7 +2427,7 @@
       "price": "Free",
       "id": "99df4b38a9048609",
       "first_seen_at": "2026-08-17T13:42:29.080693+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299202+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461613+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2447,7 +2447,7 @@
       "price": "$10",
       "id": "a491581c6f69ed32",
       "first_seen_at": "2026-08-17T13:42:29.080725+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299242+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461644+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2467,7 +2467,7 @@
       "price": "$7",
       "id": "8381f9da9902dbe8",
       "first_seen_at": "2026-08-17T13:42:29.080727+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299244+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461647+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2487,7 +2487,7 @@
       "price": "Free",
       "id": "c7b7685c87a27b46",
       "first_seen_at": "2026-08-17T13:42:29.080729+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299246+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461649+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2508,7 +2508,7 @@
       "price": null,
       "id": "d43bccd1577dbdd7",
       "first_seen_at": "2026-08-18T02:21:06.235830+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299110+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461526+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2529,7 +2529,7 @@
       "price": null,
       "id": "a77c1c574a9f269f",
       "first_seen_at": "2026-08-18T02:21:06.235832+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299112+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461529+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2552,7 +2552,7 @@
       "price": null,
       "id": "1964ad6c9fbb7e10",
       "first_seen_at": "2026-08-18T02:21:06.235835+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299115+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461532+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2574,7 +2574,7 @@
       "price": null,
       "id": "db3a6b38bc667e94",
       "first_seen_at": "2026-08-19T13:46:54.159087+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299031+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461462+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2663,7 +2663,7 @@
       "price": null,
       "id": "60a854062005b496",
       "first_seen_at": "2026-08-20T13:48:58.288562+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299117+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461534+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2683,7 +2683,7 @@
       "price": null,
       "id": "4a48d76923a86edc",
       "first_seen_at": "2026-08-20T13:48:58.288565+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299120+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461537+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2705,7 +2705,7 @@
       "price": null,
       "id": "a1dc31c61e1566b9",
       "first_seen_at": "2026-08-20T13:48:58.288567+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299122+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461539+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2726,7 +2726,7 @@
       "price": null,
       "id": "e9ad70b4c2d591cc",
       "first_seen_at": "2026-08-20T13:48:58.288569+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299125+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461541+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2748,7 +2748,7 @@
       "price": "Free",
       "id": "e3697b2c6ca20c6f",
       "first_seen_at": "2026-08-20T13:48:58.288662+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299206+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461617+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2769,7 +2769,7 @@
       "price": "Free",
       "id": "207230d611a6c2b5",
       "first_seen_at": "2026-08-20T13:48:58.288700+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299249+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461651+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2789,7 +2789,7 @@
       "price": "Free",
       "id": "a2e39c035906a576",
       "first_seen_at": "2026-08-20T13:48:58.288702+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299252+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461653+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2836,7 +2836,7 @@
       "price": "$10",
       "id": "dddb6eaeb2737e3a",
       "first_seen_at": "2026-08-21T13:47:39.849775+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299210+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461621+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2859,7 +2859,7 @@
       "price": "Free",
       "id": "12402856f2ef0797",
       "first_seen_at": "2026-08-21T13:47:39.849779+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299214+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461625+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2881,7 +2881,7 @@
       "price": "$45",
       "id": "8cb3eff84531bff9",
       "first_seen_at": "2026-08-21T13:47:39.849819+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299254+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461656+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2906,7 +2906,7 @@
       "price": "$45",
       "id": "85f2e67160cb8bc7",
       "first_seen_at": "2026-08-21T13:47:39.849846+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299283+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461687+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2951,7 +2951,7 @@
       "price": null,
       "id": "25d24cfbbe795259",
       "first_seen_at": "2026-08-22T02:19:20.390599+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299080+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461510+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2972,7 +2972,7 @@
       "price": null,
       "id": "42fee46797c44d63",
       "first_seen_at": "2026-08-22T02:19:20.390645+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299127+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461544+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2995,7 +2995,7 @@
       "price": null,
       "id": "9a448379b72879e9",
       "first_seen_at": "2026-08-22T02:19:20.390647+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299129+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461546+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3018,7 +3018,7 @@
       "price": null,
       "id": "6ca9935190c0220f",
       "first_seen_at": "2026-08-22T02:19:20.390649+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299132+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461548+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3062,7 +3062,7 @@
       "price": null,
       "id": "43bfcc30ca4f8a7b",
       "first_seen_at": "2026-08-22T13:34:50.236151+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299044+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461475+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3087,7 +3087,7 @@
       "price": null,
       "id": "1114ecf58ad96658",
       "first_seen_at": "2026-08-22T13:34:50.236174+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299049+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461479+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3111,7 +3111,7 @@
       "price": null,
       "id": "1c8d8b5e8047122f",
       "first_seen_at": "2026-08-22T13:34:50.236208+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299100+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461524+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3133,7 +3133,7 @@
       "price": null,
       "id": "e9fca4d5de9fa1ba",
       "first_seen_at": "2026-08-22T13:34:50.236244+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299134+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461551+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3156,7 +3156,7 @@
       "price": null,
       "id": "b735469d57c88bed",
       "first_seen_at": "2026-08-22T13:34:50.236246+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299137+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461553+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3178,7 +3178,7 @@
       "price": "$45",
       "id": "debcc02e6e81c4ec",
       "first_seen_at": "2026-08-22T13:34:50.236374+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299257+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461658+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3203,7 +3203,7 @@
       "price": "$45",
       "id": "3897bde5f4422013",
       "first_seen_at": "2026-08-22T13:34:50.236404+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299286+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461689+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3225,7 +3225,7 @@
       "price": null,
       "id": "c56e86347cee3fe5",
       "first_seen_at": "2026-08-23T02:27:07.299019+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299019+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461442+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3246,7 +3246,7 @@
       "price": null,
       "id": "2e4a91ec1cd46eaf",
       "first_seen_at": "2026-08-23T02:27:07.299094+00:00",
-      "last_seen_at": "2026-08-23T02:27:07.299094+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461519+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3294,6 +3294,158 @@
       "id": "a3fa833031cfc655",
       "first_seen_at": "2026-08-23T02:27:07.299305+00:00",
       "last_seen_at": "2026-08-23T02:27:07.299305+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "Noches Latinas Saturdays at Los Lupes",
+      "start": "2026-08-29",
+      "source": "danceus",
+      "source_url": "https://www.danceus.org/event/16552421199670/noches-latinas-saturdays-at-los-lupes-addison-tx/",
+      "end": "2026-08-30",
+      "venue": "Los Lupes Addison",
+      "address": "3855 Belt Line Road, Addison, TX 75001, Addison, TX",
+      "city": "Addison",
+      "description": "Noches de salsa, merengue, bachata, cumbia, y mas en Los Lupes on Saturdays.",
+      "image_url": "https://www.danceus.org/events/images/165524211926164/noches-latinas-saturdays-at-los-lupes-cover.jpg",
+      "tags": [
+        "salsa",
+        "bachata",
+        "merengue"
+      ],
+      "price": null,
+      "id": "29468eabffb7f613",
+      "first_seen_at": "2026-08-23T13:35:00.461555+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461555+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "Salsa Bachata Night at Mexican Bar Company",
+      "start": "2026-08-29",
+      "source": "danceus",
+      "source_url": "https://www.danceus.org/event/16552421241878/salsa-bachata-night-at-mexican-bar-company-plano-tx/",
+      "end": "2026-08-30",
+      "venue": "Mexican Bar Company",
+      "address": "6121 West Park Blvd, Ste RS-10, Plano, TX 75093, Plano, TX",
+      "city": "Plano",
+      "description": "Bueno mi GenteEsta Noche. La verdadera Gozadera en dallas. The Secret!!! Best latin party in North Dallas! Lets go. Ladies no cover b4 11 pm. Dress to impress!!! Free Salsa lessons at 10:00 pm. Free",
+      "image_url": "https://www.danceus.org/events/images/165524212343216/salsa-bachata-night-at-mexican-bar-company-cover.jpg",
+      "tags": [
+        "social",
+        "lesson",
+        "salsa",
+        "bachata"
+      ],
+      "price": null,
+      "id": "977085231d9ddcf7",
+      "first_seen_at": "2026-08-23T13:35:00.461558+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461558+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "Latin Night at Mi Pueblito",
+      "start": "2026-08-29",
+      "source": "danceus",
+      "source_url": "https://www.danceus.org/event/165524211430824/latin-night-at-mi-pueblito-garland-tx/",
+      "end": "2026-08-30",
+      "venue": "Mi Pueblito",
+      "address": "2030 West Buckingham Road, Garland, TX 75042, Garland, TX",
+      "city": "Garland",
+      "description": "Latin Night at Mi Pueblito..See site for details.",
+      "image_url": "https://www.danceus.org/events/images/165524211354764/latin-night-at-mi-pueblito-cover.jpg",
+      "tags": [
+        "social"
+      ],
+      "price": null,
+      "id": "218fd5c343b02d40",
+      "first_seen_at": "2026-08-23T13:35:00.461561+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461561+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "Salsa Saturdays at Blue Mesa Grill",
+      "start": "2026-09-05T22:00:00",
+      "source": "salsavida",
+      "source_url": "https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-saturdays-at-blue-mesa-grill/",
+      "end": "2026-09-06T03:00:00",
+      "venue": "Blue Mesa Grill",
+      "address": "14866 Montfort Dr, Dallas, TX 75254, United States, Dallas-Fort Worth",
+      "city": "Dallas-Fort Worth",
+      "description": "Salsa Saturdays at Blue Mesa Grill in Addison, Texas, offer a vibrant weekly Latin dance ...",
+      "image_url": "https://www.salsavida.com/wp-content/uploads/2025/06/salsa-vida-default-og.jpg",
+      "tags": [
+        "salsa"
+      ],
+      "price": "$8",
+      "id": "11c1da31ab0d4037",
+      "first_seen_at": "2026-08-23T13:35:00.461661+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461661+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "BIG Texas Salsa &#038; Bachata Latin Dance Festival 2026",
+      "start": "2026-09-05T13:00:00",
+      "source": "salsavida",
+      "source_url": "https://www.salsavida.com/event/texas/dallas-fort-worth/big-texas-salsa-bachata-latin-dance-festival/",
+      "end": "2026-09-06T04:00:00",
+      "venue": "Hilton Anatole Resort",
+      "address": "2201 N Stemmons Fwy, Dallas, TX 75207, United States, Dallas-Fort Worth",
+      "city": "Dallas-Fort Worth",
+      "description": "The BIG Texas Salsa &amp; Bachata Latin Dance Festival is a four-day Latin dance event ...",
+      "image_url": "https://www.salsavida.com/wp-content/uploads/2026/08/big-texas-salsa-bachata-latin-dance-festival-2026-22062-01.webp",
+      "tags": [
+        "festival",
+        "salsa",
+        "bachata"
+      ],
+      "price": "$45",
+      "id": "519fef218b6bfd00",
+      "first_seen_at": "2026-08-23T13:35:00.461663+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461663+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "Gloria&#8217;s Nightlife",
+      "start": "2026-09-05T23:00:00",
+      "source": "salsavida",
+      "source_url": "https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/",
+      "end": "2026-09-06T02:00:00",
+      "venue": "Gloria's Latin Cuisine",
+      "address": "5100 Belt Line Rd, Suite #864, Addison, TX 75254, United States, Addison",
+      "city": "Addison",
+      "description": "Gloria&#8217;s Nightlife in Addison, Texas, transforms the dining experience into a vibrant Latin dance party ...",
+      "image_url": "https://www.salsavida.com/wp-content/uploads/2026/06/glorias-nightlife-22055-01.webp",
+      "tags": [
+        "social"
+      ],
+      "price": "Free",
+      "id": "37ab43ce570d34fd",
+      "first_seen_at": "2026-08-23T13:35:00.461665+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461665+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "BIG Texas Salsa & Bachata Latin Dance Festival 2026",
+      "start": "Saturday, Sep 5, 2026",
+      "source": "salsavida",
+      "source_url": "https://www.salsavida.com/event/texas/dallas-fort-worth/big-texas-salsa-bachata-latin-dance-festival/",
+      "end": "2026-09-06T04:00:00",
+      "venue": "Dallas-Fort Worth",
+      "address": "Hilton Anatole Resort 2201 N Stemmons Fwy Dallas, TX 75207 United States",
+      "city": null,
+      "description": "The BIG Texas Salsa & Bachata Latin Dance Festival is a four-day Latin dance event taking place over Labor Day Weekend 2026 at the Hilton Anatole Resort in Dallas, Texas. From September 3–6, 2026, dancers from around the world will gather for an immersive experience featuring world-class workshops, electrifying performances, and vibrant social dancing that extends into the early morning hours.\n\nAttendees can choose from a variety of passes, including options for single nights, full days, or the entire weekend, with VIP upgrades available for those seeking an enhanced experience. The festival caters to dancers of all levels, offering beginner-friendly classes as well as advanced challenges, ensuring everyone finds their groove.\n\nSet within the luxurious Hilton Anatole Resort, participants will enjoy spacious ballrooms, indoor and outdoor pools, a lazy river, and a plethora of dining options, creating the perfect backdrop for this unforgettable dance event. Whether a seasoned dancer or new to the scene, the BIG Texas Salsa & Bachata Latin Dance Festival promises an exhilarating and inclusive atmosphere to learn, dance, and connect with the global Latin dance community.",
+      "image_url": "https://www.salsavida.com/wp-content/uploads/2026/08/big-texas-salsa-bachata-latin-dance-festival-2026-22062-01-335x223.webp",
+      "tags": [
+        "social",
+        "workshop",
+        "lesson",
+        "festival",
+        "salsa",
+        "bachata"
+      ],
+      "price": "$45",
+      "id": "a68936e9ec66e284",
+      "first_seen_at": "2026-08-23T13:35:00.461692+00:00",
+      "last_seen_at": "2026-08-23T13:35:00.461692+00:00",
       "submitted_to_supabase": null
     }
   ]
