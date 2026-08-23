@@ -1,14 +1,22 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-08-22 08:34 AM CDT**
+> Auto-generated. Last update: **2026-08-22 09:27 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 126 upcoming events tracked. **18 new** since last run.
+> 130 upcoming events tracked. **17 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
+- **[TONIGHT — FINAL NIGHT!](https://www.instagram.com/p/DcWXqlVEyao/)** **_Free_**  
+   Salsadallas  
+   Sat, Aug 22, 2026 • all day  
+   `salsa` `lesson` `social` `festival` _via instagram_
+- **[SALSA SUNDAY NIGHT @ HEARSAY ARLINGTON](https://www.instagram.com/p/DcXVWRdlXuK/)** **_$10_**  
+   Salsa At The Gardens  
+   Sun, Aug 23, 2026 • 7:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[THE #1 LATIN SUNDAY NIGHT IS BACK!](https://www.instagram.com/p/DcUsu_-x-dU/)** **_Free_**  
    Al-Amir Addison with the hottest REGGAETÓ  
    Sun, Aug 23, 2026 • 9:00 PM  
@@ -48,27 +56,11 @@
 - **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/315878613/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Sat, Aug 29, 2026 • 4:00 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[Sabroso Sundays at Al-Amir](https://golatindance.com/event/sabroso-sundays-at-al-amir/2026-08-30/)** **_Free_**  
-   Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States  
-   Sun, Aug 30, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` `merengue` _via golatindance_
-- **[Calentura Sundays @ Fuego Dance Co.](https://golatindance.com/event/calentura-sundays-fuego-dance-co/2026-08-30/)** **_$10_**  
-   Fuego Dance Company, 813 Main Street, Garland, TX, 75040, United States  
-   Sun, Aug 30, 2026 • 11:00 PM – 3:00 AM  
-   `social` `lesson` `salsa` `bachata` _via golatindance_
-- **[BIG Texas Salsa & Bachata Latin Dance Festival 2026](https://www.salsavida.com/event/texas/dallas-fort-worth/big-texas-salsa-bachata-latin-dance-festival/)** **_$45_**  
-   Dallas-Fort Worth  
-   Thu, Sep 3, 2026 • all day  
-   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via salsavida_
-- **[BIG Texas Salsa &#038; Bachata Latin Dance Festival 2026](https://www.salsavida.com/event/texas/dallas-fort-worth/big-texas-salsa-bachata-latin-dance-festival/)** **_$45_**  
-   Hilton Anatole Resort · Dallas-Fort Worth  
-   Thu, Sep 3, 2026 • 1:00 PM – 4:00 AM  
-   `festival` `salsa` `bachata` _via salsavida_
-- **[Latin THURS @ Massey grill Plano ● DANCE CLASS ● DJ ● FOOD ● NO COVER](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316124734/)** **_Varies_**  
-   Massey Shots Bar & Grill · Plano  
-   Thu, Sep 3, 2026 • 9:30 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
+   `social` `lesson` `bachata` _via meetup_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315878739/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, Aug 29, 2026 • 5:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 - **[BIG Texas Salsa & Bachata Latin Dance Festival 2026](https://www.salsavida.com/event/texas/dallas-fort-worth/big-texas-salsa-bachata-latin-dance-festival/)** **_$45_**  
    Dallas-Fort Worth  
    Fri, Sep 4, 2026 • all day  
@@ -81,6 +73,10 @@
    DFW Young & Social · Farmers Branch  
    Sat, Sep 5, 2026 • 5:00 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
+- **[7:00-11:00 2ND SATURDAY BALLROOM DANCE PARTY & QUICKSTEP CLASS](https://www.meetup.com/you-can-dance-dallas/events/316009704/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Sat, Sep 12, 2026 • 7:00 PM  
+   `social` `lesson` _via meetup_
 
 ---
 
@@ -125,6 +121,10 @@
    Richardson  
    Sat, Aug 22, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via salsavida_
+- **[TONIGHT — FINAL NIGHT!](https://www.instagram.com/p/DcWXqlVEyao/)** **_Free_**  
+   Salsadallas  
+   Sat, Aug 22, 2026 • all day  
+   `salsa` `lesson` `social` `festival` _via instagram_
 - **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/315878600/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Sat, Aug 22, 2026 • 4:00 PM  
@@ -232,6 +232,10 @@
    Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
    Sun, Aug 23, 2026 • 7:00 PM – 11:00 PM  
    `social` `lesson` `salsa` _via golatindance_
+- **[SALSA SUNDAY NIGHT @ HEARSAY ARLINGTON](https://www.instagram.com/p/DcXVWRdlXuK/)** **_$10_**  
+   Salsa At The Gardens  
+   Sun, Aug 23, 2026 • 7:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[David Herrera Amateur Latin / Ballroom dance team summer tryouts](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/315969762/)** **_Varies_**  
    You Can Dance Dallas  
    Sun, Aug 23, 2026 • 7:45 PM  
@@ -393,7 +397,11 @@
 - **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/315878613/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Sat, Aug 29, 2026 • 4:00 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
+   `social` `lesson` `bachata` _via meetup_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315878739/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, Aug 29, 2026 • 5:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 - **[Salsa Saturdays at Blue Mesa Grill](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-saturdays-at-blue-mesa-grill/)** **_$8_**  
    Blue Mesa Grill · Dallas-Fort Worth  
    Sat, Aug 29, 2026 • 10:00 PM – 3:00 AM  
@@ -567,6 +575,10 @@
 
 ### Saturday, September 12, 2026
 
+- **[7:00-11:00 2ND SATURDAY BALLROOM DANCE PARTY & QUICKSTEP CLASS](https://www.meetup.com/you-can-dance-dallas/events/316009704/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Sat, Sep 12, 2026 • 7:00 PM  
+   `social` `lesson` _via meetup_
 - **[SÁBADOS LATINOS EN AL-AMIR](https://www.instagram.com/p/DcEsjobB4mh/)** **_Free_**  
    Alamirarlington  
    Sat, Sep 12, 2026 • 10:30 PM  
