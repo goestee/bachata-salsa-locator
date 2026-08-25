@@ -1,26 +1,18 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-08-24 09:22 PM CDT**
+> Auto-generated. Last update: **2026-08-25 08:53 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 131 upcoming events tracked. **30 new** since last run.
+> 130 upcoming events tracked. **19 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Start with a class, stay for the dancing.](https://www.instagram.com/p/DcZks-bPWFC/)** **_Varies_**  
-   Gigi  
-   Wed, Aug 26, 2026 • 2:00 AM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[NO PARTNER NEEDED❗️](https://www.instagram.com/p/DcciutNNsln/)** **_Varies_**  
    Gigi  
    Wed, Aug 26, 2026 • 9:30 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
-- **[MANSFIELD… SALSA NIGHT IS BACK AT ILUSION!](https://www.instagram.com/p/DcZPaHJD6QM/)** **_Free_**  
-   Salsa At The Gardens  
-   Thu, Aug 27, 2026 • 7:30 PM  
-   `salsa` `bachata` `merengue` `social` _via instagram_
 - **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
    Victoria’s Restaurant · Farmers Branch  
    Sun, Aug 30, 2026 • all day  
@@ -33,22 +25,6 @@
    Al-Amir Addison  
    Sun, Aug 30, 2026 • all day  
    `social` `salsa` `bachata` `merengue` _via danceus_
-- **[30 % OFF CHA CHA CHA & mambo in addison](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316065262/)** **_Varies_**  
-   You Can Dance Dallas  
-   Sun, Aug 30, 2026 • 4:45 PM  
-   `cha-cha` _via meetup_
-- **[4:15 Cha Cha on 2](https://www.meetup.com/you-can-dance-dallas/events/316065354/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Aug 30, 2026 • 4:45 PM  
-   `lesson` `salsa` `bachata` `cha-cha` _via meetup_
-- **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/316066200/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Aug 30, 2026 • 6:30 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[50 % off SUNDAY Salsa & BACHATA class in addison • we go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316066237/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Aug 30, 2026 • 6:30 PM  
-   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
 - **[David Herrera Amateur Latin / Ballroom dance team summer tryouts](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316066814/)** **_Varies_**  
    You Can Dance Dallas  
    Sun, Aug 30, 2026 • 7:45 PM  
@@ -57,10 +33,6 @@
    You Can Dance Dallas · Addison  
    Tue, Sep 1, 2026 • 7:00 PM  
    `lesson` `cha-cha` _via meetup_
-- **[Start with a class, stay for the dancing.](https://www.instagram.com/p/DcZks-bPWFC/)** **_Varies_**  
-   Gigi  
-   Wed, Sep 2, 2026 • 2:00 AM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[NO PARTNER NEEDED❗️](https://www.instagram.com/p/DcciutNNsln/)** **_Varies_**  
    Gigi  
    Wed, Sep 2, 2026 • 9:30 PM  
@@ -97,30 +69,27 @@
    Al-Amir Addison  
    Sun, Sep 6, 2026 • 10:00 PM – 2:00 AM  
    `social` _via salsavida_
-- **[Start with a class, stay for the dancing.](https://www.instagram.com/p/DcZks-bPWFC/)** **_Varies_**  
-   Gigi  
-   Wed, Sep 9, 2026 • 2:00 AM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[NO PARTNER NEEDED❗️](https://www.instagram.com/p/DcciutNNsln/)** **_Varies_**  
    Gigi  
    Wed, Sep 9, 2026 • 9:30 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
-- **[Start with a class, stay for the dancing.](https://www.instagram.com/p/DcZks-bPWFC/)** **_Varies_**  
+- **[NO PARTNER NEEDED❗️](https://www.instagram.com/p/DcciutNNsln/)** **_Varies_**  
    Gigi  
-   Wed, Sep 16, 2026 • 2:00 AM  
+   Wed, Sep 16, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
+- **[NO PARTNER NEEDED❗️](https://www.instagram.com/p/DcciutNNsln/)** **_Varies_**  
+   Gigi  
+   Wed, Sep 23, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
+- **[NO PARTNER NEEDED❗️](https://www.instagram.com/p/DcciutNNsln/)** **_Varies_**  
+   Gigi  
+   Wed, Sep 30, 2026 • 9:30 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
 
 ---
 
 ## Upcoming
 
-
-### Monday, August 24, 2026
-
-- **[FREE Beginner Salsa & Bachata | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/315768891/)** **_Varies_**  
-   Kumbala Dance Studio · Farmers Branch  
-   Mon, Aug 24, 2026 • 7:00 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
 
 ### Tuesday, August 25, 2026
 
