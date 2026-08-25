@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-08-24 08:54 AM CDT**
+> Auto-generated. Last update: **2026-08-24 09:22 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 124 upcoming events tracked. **30 new** since last run.
+> 131 upcoming events tracked. **30 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -13,22 +13,14 @@
    Gigi  
    Wed, Aug 26, 2026 • 2:00 AM  
    `salsa` `bachata` `lesson` `social` _via instagram_
+- **[NO PARTNER NEEDED❗️](https://www.instagram.com/p/DcciutNNsln/)** **_Varies_**  
+   Gigi  
+   Wed, Aug 26, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[MANSFIELD… SALSA NIGHT IS BACK AT ILUSION!](https://www.instagram.com/p/DcZPaHJD6QM/)** **_Free_**  
    Salsa At The Gardens  
    Thu, Aug 27, 2026 • 7:30 PM  
    `salsa` `bachata` `merengue` `social` _via instagram_
-- **[Noches Latinas Saturdays at Los Lupes](https://www.danceus.org/event/16552421199670/noches-latinas-saturdays-at-los-lupes-addison-tx/)** **_Varies_**  
-   Los Lupes Addison  
-   Sat, Aug 29, 2026 • all day  
-   `salsa` `bachata` `merengue` _via danceus_
-- **[Salsa Bachata Night at Mexican Bar Company](https://www.danceus.org/event/16552421241878/salsa-bachata-night-at-mexican-bar-company-plano-tx/)** **_Varies_**  
-   Mexican Bar Company · Plano  
-   Sat, Aug 29, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Mi Pueblito](https://www.danceus.org/event/165524211430824/latin-night-at-mi-pueblito-garland-tx/)** **_Varies_**  
-   Mi Pueblito · Garland  
-   Sat, Aug 29, 2026 • all day  
-   `social` _via danceus_
 - **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
    Victoria’s Restaurant · Farmers Branch  
    Sun, Aug 30, 2026 • all day  
@@ -61,26 +53,18 @@
    You Can Dance Dallas  
    Sun, Aug 30, 2026 • 7:45 PM  
    `lesson` `festival` `salsa` `bachata` `cha-cha` _via meetup_
+- **[8:00 Intermediate Country Cha Cha](https://www.meetup.com/you-can-dance-dallas/events/316259669/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Tue, Sep 1, 2026 • 7:00 PM  
+   `lesson` `cha-cha` _via meetup_
 - **[Start with a class, stay for the dancing.](https://www.instagram.com/p/DcZks-bPWFC/)** **_Varies_**  
    Gigi  
    Wed, Sep 2, 2026 • 2:00 AM  
    `salsa` `bachata` `lesson` `social` _via instagram_
-- **[BIG Texas Salsa & Bachata Latin Dance Festival 2026](https://www.salsavida.com/event/texas/dallas-fort-worth/big-texas-salsa-bachata-latin-dance-festival/)** **_$45_**  
-   Dallas-Fort Worth  
-   Sat, Sep 5, 2026 • all day  
-   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via salsavida_
-- **[BIG Texas Salsa &#038; Bachata Latin Dance Festival 2026](https://www.salsavida.com/event/texas/dallas-fort-worth/big-texas-salsa-bachata-latin-dance-festival/)** **_$45_**  
-   Hilton Anatole Resort · Dallas-Fort Worth  
-   Sat, Sep 5, 2026 • 1:00 PM – 4:00 AM  
-   `festival` `salsa` `bachata` _via salsavida_
-- **[Salsa Saturdays at Blue Mesa Grill](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-saturdays-at-blue-mesa-grill/)** **_$8_**  
-   Blue Mesa Grill · Dallas-Fort Worth  
-   Sat, Sep 5, 2026 • 10:00 PM – 3:00 AM  
-   `salsa` _via salsavida_
-- **[Gloria&#8217;s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
-   Gloria's Latin Cuisine · Addison  
-   Sat, Sep 5, 2026 • 11:00 PM – 2:00 AM  
-   `social` _via salsavida_
+- **[NO PARTNER NEEDED❗️](https://www.instagram.com/p/DcciutNNsln/)** **_Varies_**  
+   Gigi  
+   Wed, Sep 2, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[BIG Texas Salsa & Bachata Latin Dance Festival 2026](https://www.salsavida.com/event/texas/dallas-fort-worth/big-texas-salsa-bachata-latin-dance-festival/)** **_$45_**  
    Dallas-Fort Worth  
    Sun, Sep 6, 2026 • all day  
@@ -109,6 +93,22 @@
    The Victoria Restaurant · Farmers Branch  
    Sun, Sep 6, 2026 • 5:30 PM – 10:30 PM  
    `social` _via salsavida_
+- **[Sabroso Sundays at Al-Amir Addison](https://www.salsavida.com/event/texas/dallas-fort-worth/sabroso-sundays-at-al-amir-addison/)** **_$10_**  
+   Al-Amir Addison  
+   Sun, Sep 6, 2026 • 10:00 PM – 2:00 AM  
+   `social` _via salsavida_
+- **[Start with a class, stay for the dancing.](https://www.instagram.com/p/DcZks-bPWFC/)** **_Varies_**  
+   Gigi  
+   Wed, Sep 9, 2026 • 2:00 AM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
+- **[NO PARTNER NEEDED❗️](https://www.instagram.com/p/DcciutNNsln/)** **_Varies_**  
+   Gigi  
+   Wed, Sep 9, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
+- **[Start with a class, stay for the dancing.](https://www.instagram.com/p/DcZks-bPWFC/)** **_Varies_**  
+   Gigi  
+   Wed, Sep 16, 2026 • 2:00 AM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 
 ---
 
@@ -187,6 +187,10 @@
    Stratos Bar & Grill · Dallas  
    Wed, Aug 26, 2026 • 9:30 PM – 2:00 AM  
    `salsa` `bachata` _via salsavida_
+- **[NO PARTNER NEEDED❗️](https://www.instagram.com/p/DcciutNNsln/)** **_Varies_**  
+   Gigi  
+   Wed, Aug 26, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 
 ### Thursday, August 27, 2026
 
@@ -402,6 +406,10 @@
    Vitruvian Salsa Festival  
    Tue, Sep 1, 2026 • all day  
    `salsa` `lesson` `social` `festival` _via instagram_
+- **[8:00 Intermediate Country Cha Cha](https://www.meetup.com/you-can-dance-dallas/events/316259669/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Tue, Sep 1, 2026 • 7:00 PM  
+   `lesson` `cha-cha` _via meetup_
 
 ### Wednesday, September 2, 2026
 
@@ -421,6 +429,10 @@
    Stratos Bar & Grill · Dallas  
    Wed, Sep 2, 2026 • 9:30 PM – 2:00 AM  
    `salsa` `bachata` _via salsavida_
+- **[NO PARTNER NEEDED❗️](https://www.instagram.com/p/DcciutNNsln/)** **_Varies_**  
+   Gigi  
+   Wed, Sep 2, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 
 ### Thursday, September 3, 2026
 
@@ -550,6 +562,10 @@
    Gigisbarandlounge  
    Wed, Sep 9, 2026 • 9:30 PM – 10:30 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
+- **[NO PARTNER NEEDED❗️](https://www.instagram.com/p/DcciutNNsln/)** **_Varies_**  
+   Gigi  
+   Wed, Sep 9, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 
 ### Friday, September 11, 2026
 
@@ -594,6 +610,10 @@
    Gigisbarandlounge  
    Wed, Sep 16, 2026 • 9:30 PM – 10:30 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
+- **[NO PARTNER NEEDED❗️](https://www.instagram.com/p/DcciutNNsln/)** **_Varies_**  
+   Gigi  
+   Wed, Sep 16, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 
 ### Friday, September 18, 2026
 
@@ -621,6 +641,10 @@
 - **[Start with a class, stay for the dancing.](https://www.instagram.com/p/DcZks-bPWFC/)** **_Varies_**  
    Gigi  
    Wed, Sep 23, 2026 • 2:00 AM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
+- **[NO PARTNER NEEDED❗️](https://www.instagram.com/p/DcciutNNsln/)** **_Varies_**  
+   Gigi  
+   Wed, Sep 23, 2026 • 9:30 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
 
 ### Friday, September 25, 2026
@@ -650,6 +674,10 @@
 - **[Start with a class, stay for the dancing.](https://www.instagram.com/p/DcZks-bPWFC/)** **_Varies_**  
    Gigi  
    Wed, Sep 30, 2026 • 2:00 AM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
+- **[NO PARTNER NEEDED❗️](https://www.instagram.com/p/DcciutNNsln/)** **_Varies_**  
+   Gigi  
+   Wed, Sep 30, 2026 • 9:30 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
 
 ### Friday, October 2, 2026
