@@ -1,18 +1,14 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-08-25 09:28 PM CDT**
+> Auto-generated. Last update: **2026-08-26 08:57 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 136 upcoming events tracked. **13 new** since last run.
+> 134 upcoming events tracked. **8 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[NO PARTNER NEEDED❗️](https://www.instagram.com/p/DcciutNNsln/)** **_Varies_**  
-   Gigi  
-   Wed, Aug 26, 2026 • 9:30 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[TROPICAL FRIDAYS AT TABOO DALLAS](https://www.instagram.com/p/Dcc8h2ClTXb/)** **_$5–$200_**  
    Salsa At The Gardens  
    Fri, Aug 28, 2026 • 10:00 PM  
@@ -25,66 +21,31 @@
    Salsa At The Gardens  
    Sun, Aug 30, 2026 • 7:00 PM  
    `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
-- **[8:00 Intermediate Country Cha Cha](https://www.meetup.com/you-can-dance-dallas/events/316259669/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Tue, Sep 1, 2026 • 7:00 PM  
-   `lesson` `cha-cha` _via meetup_
 - **[7:00 Intermediate Country Cha Cha](https://www.meetup.com/you-can-dance-dallas/events/316259542/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Tue, Sep 1, 2026 • 7:00 PM  
    `lesson` `cha-cha` _via meetup_
-- **[NO PARTNER NEEDED❗️](https://www.instagram.com/p/DcciutNNsln/)** **_Varies_**  
-   Gigi  
-   Wed, Sep 2, 2026 • 9:30 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
-- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/316272259/)** **_Varies_**  
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/316094014/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Sep 1, 2026 • 8:00 PM  
+   `social` `lesson` `salsa` _via meetup_
+- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/316272070/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Fri, Sep 4, 2026 • 7:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
-- **[NO PARTNER NEEDED❗️](https://www.instagram.com/p/DcciutNNsln/)** **_Varies_**  
-   Gigi  
-   Wed, Sep 9, 2026 • 9:30 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[7:00-11:00 2ND SATURDAY BALLROOM DANCE PARTY & VIENNESE WALTZ CLASS](https://www.meetup.com/you-can-dance-dallas/events/316009704/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sat, Sep 12, 2026 • 7:00 PM  
    `social` `lesson` _via meetup_
-- **[NO PARTNER NEEDED❗️](https://www.instagram.com/p/DcciutNNsln/)** **_Varies_**  
-   Gigi  
-   Wed, Sep 16, 2026 • 9:30 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
-- **[NO PARTNER NEEDED❗️](https://www.instagram.com/p/DcciutNNsln/)** **_Varies_**  
-   Gigi  
-   Wed, Sep 23, 2026 • 9:30 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
-- **[NO PARTNER NEEDED❗️](https://www.instagram.com/p/DcciutNNsln/)** **_Varies_**  
-   Gigi  
-   Wed, Sep 30, 2026 • 9:30 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
+- **[7:00-11:00 4TH SATURDAY BALLROOM DANCE PARTY &  EAST COAST SWING CLASS](https://www.meetup.com/you-can-dance-dallas/events/316272248/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Sat, Sep 26, 2026 • 7:00 PM  
+   `social` `lesson` _via meetup_
 
 ---
 
 ## Upcoming
 
-
-### Tuesday, August 25, 2026
-
-- **[Salsa Dancing at Klyde Warren Park | Dallas Salsa Social with Lily & Luis](https://www.instagram.com/p/DbTN7yfDCMr/)** **_Varies_**  
-   Klyde Warren Park  
-   Tue, Aug 25, 2026 • all day  
-   `salsa` `lesson` `social` _via instagram_
-- **[Free Salsa Class at Vitruvian Salsa Festival!](https://www.instagram.com/p/DcG_BwUm6qo/)** **_Free_**  
-   Vitruvian Salsa Festival  
-   Tue, Aug 25, 2026 • all day  
-   `salsa` `lesson` `social` `festival` _via instagram_
-- **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-08-25/)** **_Free_**  
-   Rotate Social, 5454 Main st., Frisco, TX, United States  
-   Tue, Aug 25, 2026 • 7:30 PM – 11:30 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/315879046/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, Aug 25, 2026 • 8:00 PM  
-   `social` `lesson` `salsa` _via meetup_
 
 ### Wednesday, August 26, 2026
 
@@ -371,6 +332,10 @@
    You Can Dance Dallas · Addison  
    Tue, Sep 1, 2026 • 7:00 PM  
    `lesson` `cha-cha` _via meetup_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/316094014/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Sep 1, 2026 • 8:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 
 ### Wednesday, September 2, 2026
 
@@ -424,7 +389,7 @@
    Hilton Anatole Resort · Dallas-Fort Worth  
    Fri, Sep 4, 2026 • 1:00 PM – 4:00 AM  
    `festival` `salsa` `bachata` _via salsavida_
-- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/316272259/)** **_Varies_**  
+- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/316272070/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Fri, Sep 4, 2026 • 7:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
@@ -629,6 +594,10 @@
 
 ### Saturday, September 26, 2026
 
+- **[7:00-11:00 4TH SATURDAY BALLROOM DANCE PARTY &  EAST COAST SWING CLASS](https://www.meetup.com/you-can-dance-dallas/events/316272248/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Sat, Sep 26, 2026 • 7:00 PM  
+   `social` `lesson` _via meetup_
 - **["SAVE THE DATE"](https://www.instagram.com/p/Db4vJAuFQve/)** **_$25_**  
    Salsa At The Gardens  
    Sat, Sep 26, 2026 • 10:00 PM  
