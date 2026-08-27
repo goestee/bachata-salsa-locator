@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-08-27 05:59 AM CDT**
+> Auto-generated. Last update: **2026-08-27 05:53 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 131 upcoming events tracked. **9 new** since last run.
+> 131 upcoming events tracked. **7 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -13,10 +13,6 @@
    Salsa At The Gardens  
    Thu, Aug 27, 2026 • 7:30 PM  
    `salsa` `bachata` `merengue` `social` _via instagram_
-- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/316094014/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, Sep 1, 2026 • 8:00 PM  
-   `social` `lesson` `salsa` _via meetup_
 - **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
    Vidorra Dallas  
    Wed, Sep 2, 2026 • all day  
@@ -41,10 +37,6 @@
    Stratos Bar & Grill · Dallas  
    Wed, Sep 9, 2026 • 9:30 PM – 2:00 AM  
    `salsa` `bachata` _via salsavida_
-- **[7:00-11:00 4TH SATURDAY BALLROOM DANCE PARTY &  EAST COAST SWING CLASS](https://www.meetup.com/you-can-dance-dallas/events/316272248/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sat, Sep 26, 2026 • 7:00 PM  
-   `social` `lesson` _via meetup_
 
 ---
 
