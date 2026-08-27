@@ -1,42 +1,46 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-08-26 08:57 AM CDT**
+> Auto-generated. Last update: **2026-08-27 05:59 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 134 upcoming events tracked. **8 new** since last run.
+> 131 upcoming events tracked. **9 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[TROPICAL FRIDAYS AT TABOO DALLAS](https://www.instagram.com/p/Dcc8h2ClTXb/)** **_$5–$200_**  
+- **[SALSA NIGHT IS BACK AT ILUSION – MANSFIELD!](https://www.instagram.com/p/DcffQ1wpDXa/)** **_Free_**  
    Salsa At The Gardens  
-   Fri, Aug 28, 2026 • 10:00 PM  
+   Thu, Aug 27, 2026 • 7:30 PM  
    `salsa` `bachata` `merengue` `social` _via instagram_
-- **[4:15 Cha Cha/Mambo on 2](https://www.meetup.com/you-can-dance-dallas/events/316065354/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Aug 30, 2026 • 4:45 PM  
-   `lesson` `salsa` `bachata` `cha-cha` _via meetup_
-- **[SALSA SUNDAY NIGHT @ HEARSAY ARLINGTON](https://www.instagram.com/p/Dcc5hRNlVBV/)** **_$10_**  
-   Salsa At The Gardens  
-   Sun, Aug 30, 2026 • 7:00 PM  
-   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
-- **[7:00 Intermediate Country Cha Cha](https://www.meetup.com/you-can-dance-dallas/events/316259542/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Tue, Sep 1, 2026 • 7:00 PM  
-   `lesson` `cha-cha` _via meetup_
 - **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/316094014/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Tue, Sep 1, 2026 • 8:00 PM  
    `social` `lesson` `salsa` _via meetup_
-- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/316272070/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Fri, Sep 4, 2026 • 7:30 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[7:00-11:00 2ND SATURDAY BALLROOM DANCE PARTY & VIENNESE WALTZ CLASS](https://www.meetup.com/you-can-dance-dallas/events/316009704/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sat, Sep 12, 2026 • 7:00 PM  
-   `social` `lesson` _via meetup_
+- **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
+   Vidorra Dallas  
+   Wed, Sep 2, 2026 • all day  
+   `social` `lesson` `salsa` _via danceus_
+- **[Live Latin Night With Havana NRG at Sambuca360](https://www.danceus.org/event/165524211650016/live-latin-night-with-havana-nrg-at-sambuca-plano-tx/)** **_Varies_**  
+   Sambuca360 · Plano  
+   Wed, Sep 2, 2026 • all day  
+   `social` _via danceus_
+- **[Salseando and Bachateando Nights at El Botanero](https://www.danceus.org/event/16552421287400/salseando-and-bachateando-nights-at-el-botanero-dallas-tx/)** **_Varies_**  
+   El Botanero Bar · Dallas  
+   Wed, Sep 2, 2026 • all day  
+   `social` `salsa` `bachata` _via danceus_
+- **[Wednesday Salsa Social at Stratos](https://www.danceus.org/event/16552421361930/wednesday-salsa-social-at-stratos-dallas-tx/)** **_Varies_**  
+   Stratos Greek Taverna · Dallas  
+   Wed, Sep 2, 2026 • all day  
+   `social` `salsa` _via danceus_
+- **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
+   Vidorra Cocina · Dallas-Fort Worth  
+   Wed, Sep 9, 2026 • 7:00 PM – 11:00 PM  
+   `salsa` _via salsavida_
+- **[Wednesday Salsa &#038; Bachata at Stratos](https://www.salsavida.com/event/texas/dallas-fort-worth/wednesday-salsa-bachata-at-stratos/)** **_Free_**  
+   Stratos Bar & Grill · Dallas  
+   Wed, Sep 9, 2026 • 9:30 PM – 2:00 AM  
+   `salsa` `bachata` _via salsavida_
 - **[7:00-11:00 4TH SATURDAY BALLROOM DANCE PARTY &  EAST COAST SWING CLASS](https://www.meetup.com/you-can-dance-dallas/events/316272248/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sat, Sep 26, 2026 • 7:00 PM  
@@ -46,57 +50,6 @@
 
 ## Upcoming
 
-
-### Wednesday, August 26, 2026
-
-- **[Wednesday Salsa & Bachata at Stratos](https://www.salsavida.com/event/texas/dallas-fort-worth/wednesday-salsa-bachata-at-stratos/)** **_Free_**  
-   Dallas  
-   Wed, Aug 26, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via salsavida_
-- **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
-   Dallas-Fort Worth  
-   Wed, Aug 26, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` `merengue` _via salsavida_
-- **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
-   Vidorra Dallas  
-   Wed, Aug 26, 2026 • all day  
-   `social` `lesson` `salsa` _via danceus_
-- **[Live Latin Night With Havana NRG at Sambuca360](https://www.danceus.org/event/165524211650016/live-latin-night-with-havana-nrg-at-sambuca-plano-tx/)** **_Varies_**  
-   Sambuca360 · Plano  
-   Wed, Aug 26, 2026 • all day  
-   `social` _via danceus_
-- **[Salseando and Bachateando Nights at El Botanero](https://www.danceus.org/event/16552421287400/salseando-and-bachateando-nights-at-el-botanero-dallas-tx/)** **_Varies_**  
-   El Botanero Bar · Dallas  
-   Wed, Aug 26, 2026 • all day  
-   `social` `salsa` `bachata` _via danceus_
-- **[Wednesday Salsa Social at Stratos](https://www.danceus.org/event/16552421361930/wednesday-salsa-social-at-stratos-dallas-tx/)** **_Varies_**  
-   Stratos Greek Taverna · Dallas  
-   Wed, Aug 26, 2026 • all day  
-   `social` `salsa` _via danceus_
-- **[Start with a class, stay for the dancing.](https://www.instagram.com/p/DcZks-bPWFC/)** **_Varies_**  
-   Gigi  
-   Wed, Aug 26, 2026 • 2:00 AM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
-- **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
-   Vidorra Cocina · Dallas-Fort Worth  
-   Wed, Aug 26, 2026 • 7:00 PM – 11:00 PM  
-   `salsa` _via salsavida_
-- **[Latin Night at Gigis](https://golatindance.com/event/latin-night-at-gigis/2026-08-26/)** **_Free_**  
-   Gigis, 7300 Lone Star Drive C150, Plano, TX, 75024, United States  
-   Wed, Aug 26, 2026 • 9:00 PM – 2:00 AM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Free class? Say less.](https://www.instagram.com/p/Db2MZrnNj7a/)** **_Free_**  
-   Gigisbarandlounge  
-   Wed, Aug 26, 2026 • 9:30 PM – 10:30 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
-- **[Wednesday Salsa &#038; Bachata at Stratos](https://www.salsavida.com/event/texas/dallas-fort-worth/wednesday-salsa-bachata-at-stratos/)** **_Free_**  
-   Stratos Bar & Grill · Dallas  
-   Wed, Aug 26, 2026 • 9:30 PM – 2:00 AM  
-   `salsa` `bachata` _via salsavida_
-- **[NO PARTNER NEEDED❗️](https://www.instagram.com/p/DcciutNNsln/)** **_Varies_**  
-   Gigi  
-   Wed, Aug 26, 2026 • 9:30 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
 
 ### Thursday, August 27, 2026
 
@@ -113,6 +66,10 @@
    Thu, Aug 27, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via danceus_
 - **[MANSFIELD… SALSA NIGHT IS BACK AT ILUSION!](https://www.instagram.com/p/DcZPaHJD6QM/)** **_Free_**  
+   Salsa At The Gardens  
+   Thu, Aug 27, 2026 • 7:30 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
+- **[SALSA NIGHT IS BACK AT ILUSION – MANSFIELD!](https://www.instagram.com/p/DcffQ1wpDXa/)** **_Free_**  
    Salsa At The Gardens  
    Thu, Aug 27, 2026 • 7:30 PM  
    `salsa` `bachata` `merengue` `social` _via instagram_
@@ -339,6 +296,30 @@
 
 ### Wednesday, September 2, 2026
 
+- **[Wednesday Salsa & Bachata at Stratos](https://www.salsavida.com/event/texas/dallas-fort-worth/wednesday-salsa-bachata-at-stratos/)** **_Free_**  
+   Dallas  
+   Wed, Sep 2, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via salsavida_
+- **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
+   Dallas-Fort Worth  
+   Wed, Sep 2, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` `merengue` _via salsavida_
+- **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
+   Vidorra Dallas  
+   Wed, Sep 2, 2026 • all day  
+   `social` `lesson` `salsa` _via danceus_
+- **[Live Latin Night With Havana NRG at Sambuca360](https://www.danceus.org/event/165524211650016/live-latin-night-with-havana-nrg-at-sambuca-plano-tx/)** **_Varies_**  
+   Sambuca360 · Plano  
+   Wed, Sep 2, 2026 • all day  
+   `social` _via danceus_
+- **[Salseando and Bachateando Nights at El Botanero](https://www.danceus.org/event/16552421287400/salseando-and-bachateando-nights-at-el-botanero-dallas-tx/)** **_Varies_**  
+   El Botanero Bar · Dallas  
+   Wed, Sep 2, 2026 • all day  
+   `social` `salsa` `bachata` _via danceus_
+- **[Wednesday Salsa Social at Stratos](https://www.danceus.org/event/16552421361930/wednesday-salsa-social-at-stratos-dallas-tx/)** **_Varies_**  
+   Stratos Greek Taverna · Dallas  
+   Wed, Sep 2, 2026 • all day  
+   `social` `salsa` _via danceus_
 - **[Start with a class, stay for the dancing.](https://www.instagram.com/p/DcZks-bPWFC/)** **_Varies_**  
    Gigi  
    Wed, Sep 2, 2026 • 2:00 AM  
@@ -389,7 +370,7 @@
    Hilton Anatole Resort · Dallas-Fort Worth  
    Fri, Sep 4, 2026 • 1:00 PM – 4:00 AM  
    `festival` `salsa` `bachata` _via salsavida_
-- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/316272070/)** **_Varies_**  
+- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/316272259/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Fri, Sep 4, 2026 • 7:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
@@ -488,6 +469,10 @@
    Gigi  
    Wed, Sep 9, 2026 • 2:00 AM  
    `salsa` `bachata` `lesson` `social` _via instagram_
+- **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
+   Vidorra Cocina · Dallas-Fort Worth  
+   Wed, Sep 9, 2026 • 7:00 PM – 11:00 PM  
+   `salsa` _via salsavida_
 - **[Free class? Say less.](https://www.instagram.com/p/Db2MZrnNj7a/)** **_Free_**  
    Gigisbarandlounge  
    Wed, Sep 9, 2026 • 9:30 PM – 10:30 PM  
@@ -496,6 +481,10 @@
    Gigi  
    Wed, Sep 9, 2026 • 9:30 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
+- **[Wednesday Salsa &#038; Bachata at Stratos](https://www.salsavida.com/event/texas/dallas-fort-worth/wednesday-salsa-bachata-at-stratos/)** **_Free_**  
+   Stratos Bar & Grill · Dallas  
+   Wed, Sep 9, 2026 • 9:30 PM – 2:00 AM  
+   `salsa` `bachata` _via salsavida_
 
 ### Friday, September 11, 2026
 
@@ -631,10 +620,10 @@
    Dallas Salsa Congress 2026  
    Fri, Nov 20, 2026 • all day  
    `salsa` `festival` _via instagram_
-- **[Dallas Salsa Congress 2026](https://www.instagram.com/p/DW6ocdigKVY/)** **_Varies_**  
+- **[DALLAS SALSA CONGRESS 2026](https://www.instagram.com/p/Dcg7tm0n47k/)** **_$99_**  
    Salsadallas  
    Fri, Nov 20, 2026 • all day  
-   `salsa` `festival` _via instagram_
+   `salsa` `bachata` `lesson` `social` `workshop` `festival` _via instagram_
 - **[Dallas Salsa Congress Throwback  2011 Performance](https://www.instagram.com/p/DZwcP4QDnzP/)** **_Varies_**  
    Salsadallas  
    Fri, Nov 20, 2026 • all day  
