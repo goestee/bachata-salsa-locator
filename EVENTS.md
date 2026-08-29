@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-08-28 05:57 PM CDT**
+> Auto-generated. Last update: **2026-08-29 02:44 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 127 upcoming events tracked. **3 new** since last run.
+> 118 upcoming events tracked. **4 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -21,54 +21,15 @@
    Hangout · Irving  
    Thu, Sep 3, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via danceus_
+- **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316135194/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Fri, Sep 4, 2026 • 7:30 PM  
+   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
 
 ---
 
 ## Upcoming
 
-
-### Friday, August 28, 2026
-
-- **[Noches Latinas Fridays at Los Lupes](https://www.danceus.org/event/16552421183470/noches-latinas-fridays-at-los-lupes-addison-tx/)** **_Varies_**  
-   Los Lupes Addison  
-   Fri, Aug 28, 2026 • all day  
-   `salsa` `bachata` `merengue` _via danceus_
-- **[Friday Latin at Al-Amir Arlington](https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/)** **_Varies_**  
-   Al-Amir Arlington  
-   Fri, Aug 28, 2026 • all day  
-   `social` `salsa` `bachata` `merengue` _via danceus_
-- **[SHAKE YOUR GRASS IS BACK!](https://www.instagram.com/p/DWFbSR-NhH1/)** **_Free_**  
-   Klydewarrenpark  
-   Fri, Aug 28, 2026 • 6:00 PM  
-   `salsa` `lesson` `social` _via instagram_
-- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/316038659/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Fri, Aug 28, 2026 • 7:30 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316038696/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Fri, Aug 28, 2026 • 7:30 PM  
-   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
-- **[VIERNES LATINOS EN AL-AMIR REGGAETON • SALSA • BACHATA • LATIN HITS](https://www.instagram.com/p/DcCXHaoxCKy/)** **_Varies_**  
-   Alamirarlington  
-   Fri, Aug 28, 2026 • 8:00 PM  
-   `salsa` `bachata` `social` _via instagram_
-- **[Every Friday in Dallas!](https://www.instagram.com/p/DbpajalG-Xo/)** **_Free_**  
-   Alexander's Cantina & Cocina  
-   Fri, Aug 28, 2026 • 9:30 PM  
-   `salsa` `lesson` `social` _via instagram_
-- **[Friday Latin at Al-Amir Arlington](https://golatindance.com/event/friday-rumba-nights-at-al-amir-arlington/2026-08-28/)** **_Varies_**  
-   Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
-   Fri, Aug 28, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` `merengue` _via golatindance_
-- **[Rumba Fridays @ Taboo Lounge Dallas](https://golatindance.com/event/rumba-fridays-taboo-lounge-dallas/2026-08-28/)** **_$5–$15_**  
-   Taboo Dallas, 1418 N Riverfront, Dallas, TX, 75207, United States  
-   Fri, Aug 28, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` `merengue` _via golatindance_
-- **[TROPICAL FRIDAYS AT TABOO DALLAS](https://www.instagram.com/p/Dcc8h2ClTXb/)** **_$5–$200_**  
-   Salsa At The Gardens  
-   Fri, Aug 28, 2026 • 10:00 PM  
-   `salsa` `bachata` `merengue` `social` _via instagram_
 
 ### Saturday, August 29, 2026
 
@@ -327,10 +288,14 @@
    Hilton Anatole Resort · Dallas-Fort Worth  
    Fri, Sep 4, 2026 • 1:00 PM – 4:00 AM  
    `festival` `salsa` `bachata` _via salsavida_
-- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/316272070/)** **_Varies_**  
+- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/316272259/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Fri, Sep 4, 2026 • 7:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
+- **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316135194/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Fri, Sep 4, 2026 • 7:30 PM  
+   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
 - **[VIERNES LATINOS EN AL-AMIR REGGAETON • SALSA • BACHATA • LATIN HITS](https://www.instagram.com/p/DcCXHaoxCKy/)** **_Varies_**  
    Alamirarlington  
    Fri, Sep 4, 2026 • 8:00 PM  
