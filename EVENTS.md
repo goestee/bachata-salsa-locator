@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-08-31 01:45 AM CDT**
+> Auto-generated. Last update: **2026-08-31 02:28 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 125 upcoming events tracked. **36 new** since last run.
+> 131 upcoming events tracked. **34 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -37,22 +37,6 @@
    El TACO H, 213 E Hickory St, Denton, TX, 76201, US  
    Fri, Sep 4, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` `merengue` _via golatindance_
-- **[Noches Latinas Saturdays at Los Lupes](https://www.danceus.org/event/16552421199670/noches-latinas-saturdays-at-los-lupes-addison-tx/)** **_Varies_**  
-   Los Lupes Addison  
-   Sat, Sep 5, 2026 • all day  
-   `salsa` `bachata` `merengue` _via danceus_
-- **[Salsa Bachata Night at Mexican Bar Company](https://www.danceus.org/event/16552421241878/salsa-bachata-night-at-mexican-bar-company-plano-tx/)** **_Varies_**  
-   Mexican Bar Company · Plano  
-   Sat, Sep 5, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Mi Pueblito](https://www.danceus.org/event/165524211430824/latin-night-at-mi-pueblito-garland-tx/)** **_Varies_**  
-   Mi Pueblito · Garland  
-   Sat, Sep 5, 2026 • all day  
-   `social` _via danceus_
-- **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/316249176/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Sat, Sep 5, 2026 • 4:00 PM  
-   `social` `lesson` `bachata` _via meetup_
 - **[Dallas Can Dance Saturday Social](https://golatindance.com/event/dcd-mas-bachata-every-1st-saturday-of-the-month-90-bachata/2026-09-05/)** **_$20–$25_**  
    Dallas Can Dance – The Academy, 2650 Midway Rd #130, Carrollton, TX, 75006, United States  
    Sat, Sep 5, 2026 • 9:00 PM – 3:00 AM  
@@ -69,6 +53,18 @@
    Reys Sports Bar, 2836 N Oconnor Rd, Irving, TX, United States  
    Sat, Sep 5, 2026 • 10:00 PM – 2:00 AM  
    `salsa` `bachata` `merengue` _via golatindance_
+- **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
+   Victoria’s Restaurant · Farmers Branch  
+   Sun, Sep 6, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Salsa Sundays at The Statler](https://www.danceus.org/event/16552421262550/salsa-sundays-at-the-statler-dallas-tx/)** **_Varies_**  
+   The Statler · Dallas  
+   Sun, Sep 6, 2026 • all day  
+   `lesson` `salsa` _via danceus_
+- **[Sabroso Sunday at Al-Amir Addison](https://www.danceus.org/event/16552421219990/sabroso-sunday-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Sun, Sep 6, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via danceus_
 - **[Salsa Sunday at La Chingona](https://golatindance.com/event/salsa-sunday-at-la-chingona/2026-09-06/)** **_Free_**  
    La Chingona, 2800 Bledsoe St #100, Fort Worth, TX, 76107, United States  
    Sun, Sep 6, 2026 • 3:00 PM – 6:00 PM  
@@ -109,6 +105,10 @@
    Gigis, 7300 Lone Star Drive C150, Plano, TX, 75024, United States  
    Wed, Sep 9, 2026 • 9:00 PM – 2:00 AM  
    `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
+- **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-09-10/)** **_Free_**  
+   Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
+   Thu, Sep 10, 2026 • 9:00 PM – 1:00 AM  
+   `social` `lesson` `salsa` _via golatindance_
 
 ---
 
@@ -372,6 +372,18 @@
    Dallas-Fort Worth  
    Sun, Sep 6, 2026 • all day  
    `social` `lesson` `salsa` `bachata` `merengue` _via salsavida_
+- **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
+   Victoria’s Restaurant · Farmers Branch  
+   Sun, Sep 6, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Salsa Sundays at The Statler](https://www.danceus.org/event/16552421262550/salsa-sundays-at-the-statler-dallas-tx/)** **_Varies_**  
+   The Statler · Dallas  
+   Sun, Sep 6, 2026 • all day  
+   `lesson` `salsa` _via danceus_
+- **[Sabroso Sunday at Al-Amir Addison](https://www.danceus.org/event/16552421219990/sabroso-sunday-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Sun, Sep 6, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via danceus_
 - **[BIG Texas Salsa &#038; Bachata Latin Dance Festival 2026](https://www.salsavida.com/event/texas/dallas-fort-worth/big-texas-salsa-bachata-latin-dance-festival/)** **_$45_**  
    Hilton Anatole Resort · Dallas-Fort Worth  
    Sun, Sep 6, 2026 • 1:00 PM – 4:00 AM  
@@ -541,6 +553,21 @@
 - **[Gloria&#8217;s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
    Gloria's Latin Cuisine · Addison  
    Sat, Sep 12, 2026 • 11:00 PM – 2:00 AM  
+   `social` _via salsavida_
+
+### Sunday, September 13, 2026
+
+- **[Salsa Sunday at Lola&#8217;s Cuban Food](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-sunday-at-lolas-cuban-food/)** **_Free_**  
+   Lola's Cuban Food · Dallas-Fort Worth  
+   Sun, Sep 13, 2026 • 3:00 PM – 6:00 PM  
+   `salsa` _via salsavida_
+- **[Son y Sabor at The Victoria](https://www.salsavida.com/event/texas/dallas-fort-worth/son-y-sabor-at-the-victoria/)** **_$7_**  
+   The Victoria Restaurant · Farmers Branch  
+   Sun, Sep 13, 2026 • 5:30 PM – 10:30 PM  
+   `social` _via salsavida_
+- **[Sabroso Sundays at Al-Amir Addison](https://www.salsavida.com/event/texas/dallas-fort-worth/sabroso-sundays-at-al-amir-addison/)** **_$10_**  
+   Al-Amir Addison  
+   Sun, Sep 13, 2026 • 10:00 PM – 2:00 AM  
    `social` _via salsavida_
 
 ### Tuesday, September 15, 2026
