@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-08-31 02:28 PM CDT**
+> Auto-generated. Last update: **2026-09-01 01:06 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 131 upcoming events tracked. **34 new** since last run.
+> 137 upcoming events tracked. **40 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -17,6 +17,14 @@
    Gigis, 7300 Lone Star Drive C150, Plano, TX, 75024, United States  
    Wed, Sep 2, 2026 • 9:00 PM – 2:00 AM  
    `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
+- **[SEPTEMBER IS FOR MÉXICO!](https://www.instagram.com/p/DcrhgZYxMlB/)** **_Varies_**  
+   GiGi  
+   Wed, Sep 2, 2026 • 9:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
+- **[Salsa Thursday at Acapulquito Taquería – Arlington](https://www.instagram.com/p/DcslyKflUrt/)** **_Free_**  
+   Acapulquito Taquería  
+   Thu, Sep 3, 2026 • 6:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-09-03/)** **_Free_**  
    Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
    Thu, Sep 3, 2026 • 9:00 PM – 1:00 AM  
@@ -73,10 +81,18 @@
    You Can Dance Dallas  
    Sun, Sep 6, 2026 • 4:45 PM  
    `cha-cha` _via meetup_
+- **[4:15 Cha Cha/Mambo on 2](https://www.meetup.com/you-can-dance-dallas/events/316362447/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Sun, Sep 6, 2026 • 4:45 PM  
+   `lesson` `salsa` `bachata` `cha-cha` _via meetup_
 - **[50 % off SUNDAY Salsa & BACHATA class in addison • we go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316161819/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sun, Sep 6, 2026 • 6:30 PM  
    `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
+- **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/316363681/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Sun, Sep 6, 2026 • 6:30 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 - **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-09-06/)** **_Free_**  
    Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
    Sun, Sep 6, 2026 • 7:00 PM – 11:00 PM  
@@ -93,22 +109,6 @@
    Fuego Dance Company, 813 Main Street, Garland, TX, 75040, United States  
    Sun, Sep 6, 2026 • 11:00 PM – 3:00 AM  
    `social` `lesson` `salsa` `bachata` _via golatindance_
-- **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-09-08/)** **_Free_**  
-   Rotate Social, 5454 Main st., Frisco, TX, United States  
-   Tue, Sep 8, 2026 • 7:30 PM – 11:30 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Dallas Can Dance Wednesday Social](https://golatindance.com/event/dcd-free-bachata-every-4th-wednesday-2/2026-09-09/)** **_Free_**  
-   Dallas Can Dance – The Academy, 2650 Midway Rd #130, Carrollton, TX, 75006, United States  
-   Wed, Sep 9, 2026 • 9:00 PM – 12:00 AM  
-   `social` `lesson` `bachata` _via golatindance_
-- **[Latin Night at Gigis](https://golatindance.com/event/latin-night-at-gigis/2026-09-09/)** **_Free_**  
-   Gigis, 7300 Lone Star Drive C150, Plano, TX, 75024, United States  
-   Wed, Sep 9, 2026 • 9:00 PM – 2:00 AM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-09-10/)** **_Free_**  
-   Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
-   Thu, Sep 10, 2026 • 9:00 PM – 1:00 AM  
-   `social` `lesson` `salsa` _via golatindance_
 
 ---
 
@@ -180,6 +180,10 @@
    Gigis, 7300 Lone Star Drive C150, Plano, TX, 75024, United States  
    Wed, Sep 2, 2026 • 9:00 PM – 2:00 AM  
    `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
+- **[SEPTEMBER IS FOR MÉXICO!](https://www.instagram.com/p/DcrhgZYxMlB/)** **_Varies_**  
+   GiGi  
+   Wed, Sep 2, 2026 • 9:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 - **[Free class? Say less.](https://www.instagram.com/p/Db2MZrnNj7a/)** **_Free_**  
    Gigisbarandlounge  
    Wed, Sep 2, 2026 • 9:30 PM – 10:30 PM  
@@ -215,6 +219,10 @@
    Hilton Anatole Resort · Dallas-Fort Worth  
    Thu, Sep 3, 2026 • 1:00 PM – 4:00 AM  
    `festival` `salsa` `bachata` _via salsavida_
+- **[Salsa Thursday at Acapulquito Taquería – Arlington](https://www.instagram.com/p/DcslyKflUrt/)** **_Free_**  
+   Acapulquito Taquería  
+   Thu, Sep 3, 2026 • 6:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-09-03/)** **_Free_**  
    Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
    Thu, Sep 3, 2026 • 9:00 PM – 1:00 AM  
@@ -246,7 +254,7 @@
    Hilton Anatole Resort · Dallas-Fort Worth  
    Fri, Sep 4, 2026 • 1:00 PM – 4:00 AM  
    `festival` `salsa` `bachata` _via salsavida_
-- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/316333469/)** **_Varies_**  
+- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/316272070/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Fri, Sep 4, 2026 • 7:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
@@ -400,6 +408,10 @@
    You Can Dance Dallas  
    Sun, Sep 6, 2026 • 4:45 PM  
    `cha-cha` _via meetup_
+- **[4:15 Cha Cha/Mambo on 2](https://www.meetup.com/you-can-dance-dallas/events/316362447/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Sun, Sep 6, 2026 • 4:45 PM  
+   `lesson` `salsa` `bachata` `cha-cha` _via meetup_
 - **[Son y Sabor at The Victoria](https://www.salsavida.com/event/texas/dallas-fort-worth/son-y-sabor-at-the-victoria/)** **_$7_**  
    The Victoria Restaurant · Farmers Branch  
    Sun, Sep 6, 2026 • 5:30 PM – 10:30 PM  
@@ -408,6 +420,10 @@
    You Can Dance Dallas · Addison  
    Sun, Sep 6, 2026 • 6:30 PM  
    `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
+- **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/316363681/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Sun, Sep 6, 2026 • 6:30 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 - **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-09-06/)** **_Free_**  
    Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
    Sun, Sep 6, 2026 • 7:00 PM – 11:00 PM  
@@ -431,6 +447,10 @@
 
 ### Monday, September 7, 2026
 
+- **[MONDAY 9/7 annual LABOR DAY POOL PARTY● Complimentary food & drinks etc](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316363141/)** **_Varies_**  
+   City line neighborhood · Richardson  
+   Mon, Sep 7, 2026 • 1:00 PM  
+   `social` `salsa` `bachata` `merengue` _via meetup_
 - **[New Salsa & Bachata beginner course!](https://www.meetup.com/salsa-with-jo/events/315655488/)** **_Varies_**  
    Green Space Arts Collective · Denton  
    Mon, Sep 7, 2026 • 7:30 PM  
@@ -457,6 +477,10 @@
    Vidorra Cocina · Dallas-Fort Worth  
    Wed, Sep 9, 2026 • 7:00 PM – 11:00 PM  
    `salsa` _via salsavida_
+- **[Single? This night is for YOU.](https://www.instagram.com/p/Dcuc4I9NAKH/)** **_Varies_**  
+   Gigi  
+   Wed, Sep 9, 2026 • 8:30 PM  
+   `salsa` `bachata` `social` _via instagram_
 - **[Dallas Can Dance Wednesday Social](https://golatindance.com/event/dcd-free-bachata-every-4th-wednesday-2/2026-09-09/)** **_Free_**  
    Dallas Can Dance – The Academy, 2650 Midway Rd #130, Carrollton, TX, 75006, United States  
    Wed, Sep 9, 2026 • 9:00 PM – 12:00 AM  
