@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-09-01 12:14 PM CDT**
+> Auto-generated. Last update: **2026-09-02 12:32 AM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 138 upcoming events tracked. **13 new** since last run.
+> 137 upcoming events tracked. **12 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -17,18 +17,10 @@
    Acapulquito Taquería  
    Thu, Sep 3, 2026 • 6:00 PM  
    `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
-- **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
-   Victoria’s Restaurant · Farmers Branch  
-   Sun, Sep 6, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Salsa Sundays at The Statler](https://www.danceus.org/event/16552421262550/salsa-sundays-at-the-statler-dallas-tx/)** **_Varies_**  
-   The Statler · Dallas  
-   Sun, Sep 6, 2026 • all day  
-   `lesson` `salsa` _via danceus_
-- **[Sabroso Sunday at Al-Amir Addison](https://www.danceus.org/event/16552421219990/sabroso-sunday-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Sun, Sep 6, 2026 • all day  
-   `social` `salsa` `bachata` `merengue` _via danceus_
+- **[LABOR DAY WEEKEND STARTS AT TROPICAL FRIDAYS!](https://www.instagram.com/p/DcxW6V4FT_j/)** **_Varies_**  
+   Taboo Dallas  
+   Fri, Sep 4, 2026 • all day  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 - **[4:15 Cha Cha/Mambo on 2](https://www.meetup.com/you-can-dance-dallas/events/316362447/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sun, Sep 6, 2026 • 4:45 PM  
@@ -37,26 +29,30 @@
    You Can Dance Dallas · Addison  
    Sun, Sep 6, 2026 • 6:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
+- **[LABOR DAY SALSA PARTY @ HEARSAY!](https://www.instagram.com/p/DcwDy1JFU2L/)** **_$10_**  
+   Salsa At The Gardens  
+   Sun, Sep 6, 2026 • 7:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 - **[MONDAY 9/7 annual LABOR DAY POOL PARTY● Complimentary food & drinks etc](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316363141/)** **_Varies_**  
    City line neighborhood · Richardson  
    Mon, Sep 7, 2026 • 1:00 PM  
    `social` `salsa` `bachata` `merengue` _via meetup_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/316191720/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Sep 8, 2026 • 8:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 - **[Single? This night is for YOU.](https://www.instagram.com/p/Dcuc4I9NAKH/)** **_Varies_**  
    Gigi  
    Wed, Sep 9, 2026 • 8:30 PM  
    `salsa` `bachata` `social` _via instagram_
-- **[Salsa Sunday at Lola&#8217;s Cuban Food](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-sunday-at-lolas-cuban-food/)** **_Free_**  
-   Lola's Cuban Food · Dallas-Fort Worth  
-   Sun, Sep 13, 2026 • 3:00 PM – 6:00 PM  
-   `salsa` _via salsavida_
-- **[Son y Sabor at The Victoria](https://www.salsavida.com/event/texas/dallas-fort-worth/son-y-sabor-at-the-victoria/)** **_$7_**  
-   The Victoria Restaurant · Farmers Branch  
-   Sun, Sep 13, 2026 • 5:30 PM – 10:30 PM  
-   `social` _via salsavida_
-- **[Sabroso Sundays at Al-Amir Addison](https://www.salsavida.com/event/texas/dallas-fort-worth/sabroso-sundays-at-al-amir-addison/)** **_$10_**  
-   Al-Amir Addison  
-   Sun, Sep 13, 2026 • 10:00 PM – 2:00 AM  
-   `social` _via salsavida_
+- **[RITMO DEL MUNDO SALSA PARTY at TEXAS LIVE](https://www.instagram.com/p/Dcvyea1FbMV/)** **_Free_**  
+   TEXAS LIVE  
+   Fri, Sep 11, 2026 • 9:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
+- **[Rumba Tropical en Reys's Sports Bar](https://golatindance.com/event/rumba-tropical-en-reyss-sports-bar/2026-09-12/)** **_Free_**  
+   Reys Sports Bar, 2836 N Oconnor Rd, Irving, TX, United States  
+   Sat, Sep 12, 2026 • 10:00 PM – 2:00 AM  
+   `salsa` `bachata` `merengue` _via golatindance_
 - **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/316363053/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sun, Sep 20, 2026 • 6:30 PM  
@@ -66,33 +62,6 @@
 
 ## Upcoming
 
-
-### Tuesday, September 1, 2026
-
-- **[Salsa Dancing at Klyde Warren Park | Dallas Salsa Social with Lily & Luis](https://www.instagram.com/p/DbTN7yfDCMr/)** **_Varies_**  
-   Klyde Warren Park  
-   Tue, Sep 1, 2026 • all day  
-   `salsa` `lesson` `social` _via instagram_
-- **[Free Salsa Class at Vitruvian Salsa Festival!](https://www.instagram.com/p/DcG_BwUm6qo/)** **_Free_**  
-   Vitruvian Salsa Festival  
-   Tue, Sep 1, 2026 • all day  
-   `salsa` `lesson` `social` `festival` _via instagram_
-- **[8:00 Intermediate Country Cha Cha](https://www.meetup.com/you-can-dance-dallas/events/316259669/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Tue, Sep 1, 2026 • 7:00 PM  
-   `lesson` `cha-cha` _via meetup_
-- **[7:00 Intermediate Country Cha Cha](https://www.meetup.com/you-can-dance-dallas/events/316259542/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Tue, Sep 1, 2026 • 7:00 PM  
-   `lesson` `cha-cha` _via meetup_
-- **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-09-01/)** **_Free_**  
-   Rotate Social, 5454 Main st., Frisco, TX, United States  
-   Tue, Sep 1, 2026 • 7:30 PM – 11:30 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/316094014/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, Sep 1, 2026 • 8:00 PM  
-   `social` `lesson` `salsa` _via meetup_
 
 ### Wednesday, September 2, 2026
 
@@ -202,6 +171,10 @@
    Al-Amir Arlington  
    Fri, Sep 4, 2026 • all day  
    `social` `salsa` `bachata` `merengue` _via danceus_
+- **[LABOR DAY WEEKEND STARTS AT TROPICAL FRIDAYS!](https://www.instagram.com/p/DcxW6V4FT_j/)** **_Varies_**  
+   Taboo Dallas  
+   Fri, Sep 4, 2026 • all day  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 - **[BIG Texas Salsa &#038; Bachata Latin Dance Festival 2026](https://www.salsavida.com/event/texas/dallas-fort-worth/big-texas-salsa-bachata-latin-dance-festival/)** **_$45_**  
    Hilton Anatole Resort · Dallas-Fort Worth  
    Fri, Sep 4, 2026 • 1:00 PM – 4:00 AM  
@@ -380,6 +353,10 @@
    Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
    Sun, Sep 6, 2026 • 7:00 PM – 11:00 PM  
    `social` `lesson` `salsa` _via golatindance_
+- **[LABOR DAY SALSA PARTY @ HEARSAY!](https://www.instagram.com/p/DcwDy1JFU2L/)** **_$10_**  
+   Salsa At The Gardens  
+   Sun, Sep 6, 2026 • 7:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 - **[David Herrera Amateur Latin / Ballroom dance team summer tryouts](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316162402/)** **_Varies_**  
    You Can Dance Dallas  
    Sun, Sep 6, 2026 • 7:45 PM  
@@ -418,6 +395,10 @@
    Rotate Social, 5454 Main st., Frisco, TX, United States  
    Tue, Sep 8, 2026 • 7:30 PM – 11:30 PM  
    `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/316191720/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Sep 8, 2026 • 8:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 
 ### Wednesday, September 9, 2026
 
@@ -471,6 +452,10 @@
    Kumbala Dance Studio, 4340 Spring Valley Road, Suite 4340, Farmers Branch, TX, 75244, United States  
    Fri, Sep 11, 2026 • 9:00 PM – 2:00 AM  
    `social` `lesson` `salsa` `bachata` _via golatindance_
+- **[RITMO DEL MUNDO SALSA PARTY at TEXAS LIVE](https://www.instagram.com/p/Dcvyea1FbMV/)** **_Free_**  
+   TEXAS LIVE  
+   Fri, Sep 11, 2026 • 9:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[Every Friday in Dallas!](https://www.instagram.com/p/DbpajalG-Xo/)** **_Free_**  
    Alexander's Cantina & Cocina  
    Fri, Sep 11, 2026 • 9:30 PM  
@@ -522,6 +507,10 @@
    Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
    Sat, Sep 12, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` _via golatindance_
+- **[Rumba Tropical en Reys's Sports Bar](https://golatindance.com/event/rumba-tropical-en-reyss-sports-bar/2026-09-12/)** **_Free_**  
+   Reys Sports Bar, 2836 N Oconnor Rd, Irving, TX, United States  
+   Sat, Sep 12, 2026 • 10:00 PM – 2:00 AM  
+   `salsa` `bachata` `merengue` _via golatindance_
 - **[SÁBADOS LATINOS EN AL-AMIR](https://www.instagram.com/p/DcEsjobB4mh/)** **_Free_**  
    Alamirarlington  
    Sat, Sep 12, 2026 • 10:30 PM  
