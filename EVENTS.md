@@ -1,50 +1,26 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-09-02 12:32 AM CDT**
+> Auto-generated. Last update: **2026-09-02 12:04 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 137 upcoming events tracked. **12 new** since last run.
+> 137 upcoming events tracked. **6 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[SEPTEMBER IS FOR MÉXICO!](https://www.instagram.com/p/DcrhgZYxMlB/)** **_Varies_**  
-   GiGi  
-   Wed, Sep 2, 2026 • 9:00 PM  
-   `salsa` `bachata` `merengue` `social` _via instagram_
-- **[Salsa Thursday at Acapulquito Taquería – Arlington](https://www.instagram.com/p/DcslyKflUrt/)** **_Free_**  
-   Acapulquito Taquería  
-   Thu, Sep 3, 2026 • 6:00 PM  
-   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[LABOR DAY WEEKEND STARTS AT TROPICAL FRIDAYS!](https://www.instagram.com/p/DcxW6V4FT_j/)** **_Varies_**  
    Taboo Dallas  
    Fri, Sep 4, 2026 • all day  
    `salsa` `bachata` `merengue` `social` _via instagram_
-- **[4:15 Cha Cha/Mambo on 2](https://www.meetup.com/you-can-dance-dallas/events/316362447/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Sep 6, 2026 • 4:45 PM  
-   `lesson` `salsa` `bachata` `cha-cha` _via meetup_
-- **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/316363681/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Sep 6, 2026 • 6:30 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
 - **[LABOR DAY SALSA PARTY @ HEARSAY!](https://www.instagram.com/p/DcwDy1JFU2L/)** **_$10_**  
    Salsa At The Gardens  
    Sun, Sep 6, 2026 • 7:00 PM  
    `salsa` `bachata` `merengue` `social` _via instagram_
-- **[MONDAY 9/7 annual LABOR DAY POOL PARTY● Complimentary food & drinks etc](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316363141/)** **_Varies_**  
-   City line neighborhood · Richardson  
-   Mon, Sep 7, 2026 • 1:00 PM  
-   `social` `salsa` `bachata` `merengue` _via meetup_
 - **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/316191720/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Tue, Sep 8, 2026 • 8:00 PM  
    `social` `lesson` `salsa` _via meetup_
-- **[Single? This night is for YOU.](https://www.instagram.com/p/Dcuc4I9NAKH/)** **_Varies_**  
-   Gigi  
-   Wed, Sep 9, 2026 • 8:30 PM  
-   `salsa` `bachata` `social` _via instagram_
 - **[RITMO DEL MUNDO SALSA PARTY at TEXAS LIVE](https://www.instagram.com/p/Dcvyea1FbMV/)** **_Free_**  
    TEXAS LIVE  
    Fri, Sep 11, 2026 • 9:00 PM  
