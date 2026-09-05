@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-09-05 12:22 AM CDT**
+> Auto-generated. Last update: **2026-09-05 10:52 AM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 122 upcoming events tracked. **9 new** since last run.
+> 128 upcoming events tracked. **14 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -25,14 +25,18 @@
    Hangout · Irving  
    Thu, Sep 10, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Noches Latinas Fridays at Los Lupes](https://www.danceus.org/event/16552421183470/noches-latinas-fridays-at-los-lupes-addison-tx/)** **_Varies_**  
+   Los Lupes Addison  
+   Fri, Sep 11, 2026 • all day  
+   `salsa` `bachata` `merengue` _via danceus_
+- **[Friday Latin at Al-Amir Arlington](https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/)** **_Varies_**  
+   Al-Amir Arlington  
+   Fri, Sep 11, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via danceus_
 - **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316234160/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Fri, Sep 11, 2026 • 7:30 PM  
    `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
-- **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-09-13/)** **_Free_**  
-   Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
-   Sun, Sep 13, 2026 • 7:00 PM – 11:00 PM  
-   `social` `lesson` `salsa` _via golatindance_
 - **[Sabroso Sundays at Al-Amir](https://golatindance.com/event/sabroso-sundays-at-al-amir/2026-09-13/)** **_Free_**  
    Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States  
    Sun, Sep 13, 2026 • 10:00 PM – 2:00 AM  
@@ -45,6 +49,22 @@
    Rotate Social, 5454 Main st., Frisco, TX, United States  
    Tue, Sep 15, 2026 • 7:30 PM – 11:30 PM  
    `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
+- **[Una Aventura Salsa Social at Studio 22 Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/una-aventura-salsa-social-at-studio-22-dallas/)** **_$18_**  
+   Dallas-Fort Worth  
+   Fri, Sep 18, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` `merengue` _via salsavida_
+- **[Pura Fort Worth 3rd Friday Salsa & Bachata Social](https://www.salsavida.com/event/texas/dallas-fort-worth/pura-fort-worth-3rd-friday-salsa-bachata-social/)** **_$10_**  
+   Arlington  
+   Fri, Sep 18, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via salsavida_
+- **[Una Aventura Salsa Social at Studio 22 Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/una-aventura-salsa-social-at-studio-22-dallas/)** **_$18_**  
+   Studio 22 Dallas · Dallas-Fort Worth  
+   Fri, Sep 18, 2026 • 8:00 PM – 12:00 AM  
+   `social` `salsa` _via salsavida_
+- **[Pura Fort Worth 3rd Friday Salsa &#038; Bachata Social](https://www.salsavida.com/event/texas/dallas-fort-worth/pura-fort-worth-3rd-friday-salsa-bachata-social/)** **_$10_**  
+   Dance Makers of Texas · Arlington  
+   Fri, Sep 18, 2026 • 9:30 PM – 3:00 AM  
+   `social` `salsa` `bachata` _via salsavida_
 
 ---
 
@@ -327,6 +347,14 @@
 
 ### Friday, September 11, 2026
 
+- **[Noches Latinas Fridays at Los Lupes](https://www.danceus.org/event/16552421183470/noches-latinas-fridays-at-los-lupes-addison-tx/)** **_Varies_**  
+   Los Lupes Addison  
+   Fri, Sep 11, 2026 • all day  
+   `salsa` `bachata` `merengue` _via danceus_
+- **[Friday Latin at Al-Amir Arlington](https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/)** **_Varies_**  
+   Al-Amir Arlington  
+   Fri, Sep 11, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via danceus_
 - **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316234160/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Fri, Sep 11, 2026 • 7:30 PM  
@@ -474,6 +502,14 @@
 
 ### Friday, September 18, 2026
 
+- **[Una Aventura Salsa Social at Studio 22 Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/una-aventura-salsa-social-at-studio-22-dallas/)** **_$18_**  
+   Dallas-Fort Worth  
+   Fri, Sep 18, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` `merengue` _via salsavida_
+- **[Pura Fort Worth 3rd Friday Salsa & Bachata Social](https://www.salsavida.com/event/texas/dallas-fort-worth/pura-fort-worth-3rd-friday-salsa-bachata-social/)** **_$10_**  
+   Arlington  
+   Fri, Sep 18, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via salsavida_
 - **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/316332964/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Fri, Sep 18, 2026 • 7:30 PM  
@@ -482,6 +518,14 @@
    Alamirarlington  
    Fri, Sep 18, 2026 • 8:00 PM  
    `salsa` `bachata` `social` _via instagram_
+- **[Una Aventura Salsa Social at Studio 22 Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/una-aventura-salsa-social-at-studio-22-dallas/)** **_$18_**  
+   Studio 22 Dallas · Dallas-Fort Worth  
+   Fri, Sep 18, 2026 • 8:00 PM – 12:00 AM  
+   `social` `salsa` _via salsavida_
+- **[Pura Fort Worth 3rd Friday Salsa &#038; Bachata Social](https://www.salsavida.com/event/texas/dallas-fort-worth/pura-fort-worth-3rd-friday-salsa-bachata-social/)** **_$10_**  
+   Dance Makers of Texas · Arlington  
+   Fri, Sep 18, 2026 • 9:30 PM – 3:00 AM  
+   `social` `salsa` `bachata` _via salsavida_
 
 ### Saturday, September 19, 2026
 
