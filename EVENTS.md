@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-09-07 01:11 PM CDT**
+> Auto-generated. Last update: **2026-09-08 12:42 AM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 123 upcoming events tracked. **15 new** since last run.
+> 123 upcoming events tracked. **17 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -29,6 +29,10 @@
    You Can Dance Dallas · Addison  
    Sun, Sep 13, 2026 • 6:30 PM  
    `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
+- **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/316464593/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Sun, Sep 13, 2026 • 6:30 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 - **[David Herrera Amateur Latin / Ballroom dance team summer tryouts](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316262488/)** **_Varies_**  
    You Can Dance Dallas  
    Sun, Sep 13, 2026 • 7:45 PM  
@@ -69,22 +73,15 @@
    Al-Amir Addison  
    Sun, Sep 20, 2026 • 10:00 PM – 2:00 AM  
    `social` _via salsavida_
+- **[GRAND OPENING at Bombshells Rowlett!](https://www.instagram.com/p/Dc_ZGI-lMcB/)** **_Free_**  
+   Bombshells Rowlett  
+   Wed, Sep 30, 2026 • 8:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 
 ---
 
 ## Upcoming
 
-
-### Monday, September 7, 2026
-
-- **[MONDAY 9/7 annual LABOR DAY POOL PARTY● Complimentary food & drinks etc](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316363141/)** **_Varies_**  
-   City line neighborhood · Richardson  
-   Mon, Sep 7, 2026 • 1:00 PM  
-   `social` `salsa` `bachata` `merengue` _via meetup_
-- **[New Salsa & Bachata beginner course!](https://www.meetup.com/salsa-with-jo/events/315655488/)** **_Varies_**  
-   Green Space Arts Collective · Denton  
-   Mon, Sep 7, 2026 • 7:30 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
 
 ### Tuesday, September 8, 2026
 
@@ -209,10 +206,10 @@
    Kumbala Dance Studio, 4340 Spring Valley Road, Suite 4340, Farmers Branch, TX, 75244, United States  
    Fri, Sep 11, 2026 • 9:00 PM – 2:00 AM  
    `social` `lesson` `salsa` `bachata` _via golatindance_
-- **[RITMO DEL MUNDO SALSA PARTY at TEXAS LIVE](https://www.instagram.com/p/Dcvyea1FbMV/)** **_Free_**  
-   TEXAS LIVE  
+- **[RITMO DEL MUNDO SALSA PARTY at Texas Live](https://www.instagram.com/p/Dc__8C5Dzuf/)** **_Free_**  
+   Texas Live  
    Fri, Sep 11, 2026 • 9:00 PM  
-   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
+   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[Every Friday in Dallas!](https://www.instagram.com/p/DbpajalG-Xo/)** **_Free_**  
    Alexander's Cantina & Cocina  
    Fri, Sep 11, 2026 • 9:30 PM  
@@ -351,6 +348,10 @@
    You Can Dance Dallas · Addison  
    Sun, Sep 13, 2026 • 6:30 PM  
    `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
+- **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/316464593/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Sun, Sep 13, 2026 • 6:30 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 - **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-09-13/)** **_Free_**  
    Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
    Sun, Sep 13, 2026 • 7:00 PM – 11:00 PM  
@@ -576,6 +577,10 @@
    Gigi  
    Wed, Sep 30, 2026 • 2:00 AM  
    `salsa` `bachata` `lesson` `social` _via instagram_
+- **[GRAND OPENING at Bombshells Rowlett!](https://www.instagram.com/p/Dc_ZGI-lMcB/)** **_Free_**  
+   Bombshells Rowlett  
+   Wed, Sep 30, 2026 • 8:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[NO PARTNER NEEDED❗️](https://www.instagram.com/p/DcciutNNsln/)** **_Varies_**  
    Gigi  
    Wed, Sep 30, 2026 • 9:30 PM  
