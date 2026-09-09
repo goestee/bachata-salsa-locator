@@ -1,26 +1,18 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-09-08 12:09 PM CDT**
+> Auto-generated. Last update: **2026-09-09 12:48 AM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 124 upcoming events tracked. **9 new** since last run.
+> 123 upcoming events tracked. **5 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
-   Victoria’s Restaurant · Farmers Branch  
-   Sun, Sep 13, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Salsa Sundays at The Statler](https://www.danceus.org/event/16552421262550/salsa-sundays-at-the-statler-dallas-tx/)** **_Varies_**  
-   The Statler · Dallas  
-   Sun, Sep 13, 2026 • all day  
-   `lesson` `salsa` _via danceus_
-- **[Sabroso Sunday at Al-Amir Addison](https://www.danceus.org/event/16552421219990/sabroso-sunday-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Sun, Sep 13, 2026 • all day  
-   `social` `salsa` `bachata` `merengue` _via danceus_
+- **[It’s the SECOND WEDNESDAY of the month!](https://www.instagram.com/p/DdB_hsDT2sq/)** **_Varies_**  
+   Dcdsocials  
+   Wed, Sep 9, 2026 • all day  
+   `bachata` `social` _via instagram_
 - **[4:15 Cha Cha/Mambo on 2](https://www.meetup.com/you-can-dance-dallas/events/316463811/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sun, Sep 13, 2026 • 4:45 PM  
@@ -29,18 +21,10 @@
    You Can Dance Dallas · Addison  
    Sun, Sep 13, 2026 • 6:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
-- **[Salsa Sunday at Lola&#8217;s Cuban Food](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-sunday-at-lolas-cuban-food/)** **_Free_**  
-   Lola's Cuban Food · Dallas-Fort Worth  
-   Sun, Sep 20, 2026 • 3:00 PM – 6:00 PM  
-   `salsa` _via salsavida_
-- **[Son y Sabor at The Victoria](https://www.salsavida.com/event/texas/dallas-fort-worth/son-y-sabor-at-the-victoria/)** **_$7_**  
-   The Victoria Restaurant · Farmers Branch  
-   Sun, Sep 20, 2026 • 5:30 PM – 10:30 PM  
-   `social` _via salsavida_
-- **[Sabroso Sundays at Al-Amir Addison](https://www.salsavida.com/event/texas/dallas-fort-worth/sabroso-sundays-at-al-amir-addison/)** **_$10_**  
-   Al-Amir Addison  
-   Sun, Sep 20, 2026 • 10:00 PM – 2:00 AM  
-   `social` _via salsavida_
+- **[Sabados de Gazadera at Al-Amir Arlington](https://golatindance.com/event/sabados-de-gazadera-at-al-amir-arlington/2026-09-19/)** **_$10_**  
+   Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
+   Sat, Sep 19, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` _via golatindance_
 - **[GRAND OPENING at Bombshells Rowlett!](https://www.instagram.com/p/Dc_ZGI-lMcB/)** **_Free_**  
    Bombshells Rowlett  
    Wed, Sep 30, 2026 • 8:00 PM  
@@ -50,21 +34,6 @@
 
 ## Upcoming
 
-
-### Tuesday, September 8, 2026
-
-- **[Free Salsa Class at Vitruvian Salsa Festival!](https://www.instagram.com/p/DcG_BwUm6qo/)** **_Free_**  
-   Vitruvian Salsa Festival  
-   Tue, Sep 8, 2026 • all day  
-   `salsa` `lesson` `social` `festival` _via instagram_
-- **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-09-08/)** **_Free_**  
-   Rotate Social, 5454 Main st., Frisco, TX, United States  
-   Tue, Sep 8, 2026 • 7:30 PM – 11:30 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/316191720/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, Sep 8, 2026 • 8:00 PM  
-   `social` `lesson` `salsa` _via meetup_
 
 ### Wednesday, September 9, 2026
 
@@ -92,6 +61,10 @@
    Stratos Greek Taverna · Dallas  
    Wed, Sep 9, 2026 • all day  
    `social` `salsa` _via danceus_
+- **[It’s the SECOND WEDNESDAY of the month!](https://www.instagram.com/p/DdB_hsDT2sq/)** **_Varies_**  
+   Dcdsocials  
+   Wed, Sep 9, 2026 • all day  
+   `bachata` `social` _via instagram_
 - **[Start with a class, stay for the dancing.](https://www.instagram.com/p/DcZks-bPWFC/)** **_Varies_**  
    Gigi  
    Wed, Sep 9, 2026 • 2:00 AM  
@@ -463,6 +436,10 @@
    Mexican Bar Company, 6121 West Park Blvd Ste RS-10, Plano, TX, 75093, United States  
    Sat, Sep 19, 2026 • 10:00 PM – 2:00 AM  
    `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
+- **[Sabados de Gazadera at Al-Amir Arlington](https://golatindance.com/event/sabados-de-gazadera-at-al-amir-arlington/2026-09-19/)** **_$10_**  
+   Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
+   Sat, Sep 19, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` _via golatindance_
 - **[SÁBADOS LATINOS EN AL-AMIR](https://www.instagram.com/p/DcEsjobB4mh/)** **_Free_**  
    Alamirarlington  
    Sat, Sep 19, 2026 • 10:30 PM  
