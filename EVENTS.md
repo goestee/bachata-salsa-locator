@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-09-09 12:48 AM CDT**
+> Auto-generated. Last update: **2026-09-09 12:06 PM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 123 upcoming events tracked. **5 new** since last run.
+> 124 upcoming events tracked. **4 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -17,18 +17,14 @@
    You Can Dance Dallas · Addison  
    Sun, Sep 13, 2026 • 4:45 PM  
    `lesson` `salsa` `bachata` `cha-cha` _via meetup_
-- **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/316464593/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Sep 13, 2026 • 6:30 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/316291075/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Sep 15, 2026 • 8:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 - **[Sabados de Gazadera at Al-Amir Arlington](https://golatindance.com/event/sabados-de-gazadera-at-al-amir-arlington/2026-09-19/)** **_$10_**  
    Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
    Sat, Sep 19, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` _via golatindance_
-- **[GRAND OPENING at Bombshells Rowlett!](https://www.instagram.com/p/Dc_ZGI-lMcB/)** **_Free_**  
-   Bombshells Rowlett  
-   Wed, Sep 30, 2026 • 8:00 PM  
-   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 
 ---
 
@@ -328,6 +324,10 @@
    Rotate Social, 5454 Main st., Frisco, TX, United States  
    Tue, Sep 15, 2026 • 7:30 PM – 11:30 PM  
    `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/316291075/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Sep 15, 2026 • 8:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 
 ### Wednesday, September 16, 2026
 
