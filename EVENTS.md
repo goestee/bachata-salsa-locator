@@ -1,22 +1,22 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-09-09 12:06 PM CDT**
+> Auto-generated. Last update: **2026-09-10 12:43 AM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 124 upcoming events tracked. **4 new** since last run.
+> 113 upcoming events tracked. **7 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[It’s the SECOND WEDNESDAY of the month!](https://www.instagram.com/p/DdB_hsDT2sq/)** **_Varies_**  
-   Dcdsocials  
-   Wed, Sep 9, 2026 • all day  
-   `bachata` `social` _via instagram_
-- **[4:15 Cha Cha/Mambo on 2](https://www.meetup.com/you-can-dance-dallas/events/316463811/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Sep 13, 2026 • 4:45 PM  
-   `lesson` `salsa` `bachata` `cha-cha` _via meetup_
+- **[Salsa With Jo and Team Mambin would like to invite you all to SalSon social every 2nd Friday of the month.](https://www.instagram.com/p/DdFrTqSkaBX/)** **_$17–$20_**  
+   Salsonsocial  
+   Fri, Sep 11, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
+- **[TROPICAL FRIDAYS AT TABOO DALLAS!](https://www.instagram.com/p/DdFcQC6lRJZ/)** **_$5–$15_**  
+   Salsa At The Gardens  
+   Fri, Sep 11, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 - **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/316291075/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Tue, Sep 15, 2026 • 8:00 PM  
@@ -25,78 +25,23 @@
    Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
    Sat, Sep 19, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` _via golatindance_
+- **[Dallas Can Dance Monthly Saturday Social](https://golatindance.com/event/dcd-seventy-thirty-70-bachata-30-salsa/2026-09-19/)** **_$20–$25_**  
+   Dallas Can Dance – The Academy, 2650 Midway Rd #130, Carrollton, TX, 75006, United States  
+   Sat, Sep 19, 2026 • 10:00 PM – 2:00 AM  
+   `social` `lesson` `salsa` `bachata` `kizomba` _via golatindance_
+- **[Rumba Tropical en Reys's Sports Bar](https://golatindance.com/event/rumba-tropical-en-reyss-sports-bar/2026-09-19/)** **_Free_**  
+   Reys Sports Bar, 2836 N Oconnor Rd, Irving, TX, United States  
+   Sat, Sep 19, 2026 • 10:00 PM – 2:00 AM  
+   `salsa` `bachata` `merengue` _via golatindance_
+- **[Salsa performance invasion is coming your way Dallas](https://www.instagram.com/p/DdCQYqXGcwD/)** **_Varies_**  
+   Echalesalsita Dallas  
+   Fri, Oct 2, 2026 • 11:45 PM  
+   `salsa` `lesson` `social` _via instagram_
 
 ---
 
 ## Upcoming
 
-
-### Wednesday, September 9, 2026
-
-- **[Wednesday Salsa & Bachata at Stratos](https://www.salsavida.com/event/texas/dallas-fort-worth/wednesday-salsa-bachata-at-stratos/)** **_Free_**  
-   Dallas  
-   Wed, Sep 9, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via salsavida_
-- **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
-   Dallas-Fort Worth  
-   Wed, Sep 9, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` `merengue` _via salsavida_
-- **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
-   Vidorra Dallas  
-   Wed, Sep 9, 2026 • all day  
-   `social` `lesson` `salsa` _via danceus_
-- **[Live Latin Night With Havana NRG at Sambuca360](https://www.danceus.org/event/165524211650016/live-latin-night-with-havana-nrg-at-sambuca-plano-tx/)** **_Varies_**  
-   Sambuca360 · Plano  
-   Wed, Sep 9, 2026 • all day  
-   `social` _via danceus_
-- **[Salseando and Bachateando Nights at El Botanero](https://www.danceus.org/event/16552421287400/salseando-and-bachateando-nights-at-el-botanero-dallas-tx/)** **_Varies_**  
-   El Botanero Bar · Dallas  
-   Wed, Sep 9, 2026 • all day  
-   `social` `salsa` `bachata` _via danceus_
-- **[Wednesday Salsa Social at Stratos](https://www.danceus.org/event/16552421361930/wednesday-salsa-social-at-stratos-dallas-tx/)** **_Varies_**  
-   Stratos Greek Taverna · Dallas  
-   Wed, Sep 9, 2026 • all day  
-   `social` `salsa` _via danceus_
-- **[It’s the SECOND WEDNESDAY of the month!](https://www.instagram.com/p/DdB_hsDT2sq/)** **_Varies_**  
-   Dcdsocials  
-   Wed, Sep 9, 2026 • all day  
-   `bachata` `social` _via instagram_
-- **[Start with a class, stay for the dancing.](https://www.instagram.com/p/DcZks-bPWFC/)** **_Varies_**  
-   Gigi  
-   Wed, Sep 9, 2026 • 2:00 AM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
-- **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
-   Vidorra Cocina · Dallas-Fort Worth  
-   Wed, Sep 9, 2026 • 7:00 PM – 11:00 PM  
-   `salsa` _via salsavida_
-- **[Single? This night is for YOU.](https://www.instagram.com/p/Dcuc4I9NAKH/)** **_Varies_**  
-   Gigi  
-   Wed, Sep 9, 2026 • 8:30 PM  
-   `salsa` `bachata` `social` _via instagram_
-- **[❤️ SINGLES NIGHT — SEPTEMBER 9TH ❤️](https://www.instagram.com/p/Dc2dUULtwrZ/)** **_Varies_**  
-   GiGi  
-   Wed, Sep 9, 2026 • 8:30 PM  
-   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
-- **[Dallas Can Dance Wednesday Social](https://golatindance.com/event/dcd-free-bachata-every-4th-wednesday-2/2026-09-09/)** **_Free_**  
-   Dallas Can Dance – The Academy, 2650 Midway Rd #130, Carrollton, TX, 75006, United States  
-   Wed, Sep 9, 2026 • 9:00 PM – 12:00 AM  
-   `social` `lesson` `bachata` _via golatindance_
-- **[Latin Night at Gigis](https://golatindance.com/event/latin-night-at-gigis/2026-09-09/)** **_Free_**  
-   Gigis, 7300 Lone Star Drive C150, Plano, TX, 75024, United States  
-   Wed, Sep 9, 2026 • 9:00 PM – 2:00 AM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Free class? Say less.](https://www.instagram.com/p/Db2MZrnNj7a/)** **_Free_**  
-   Gigisbarandlounge  
-   Wed, Sep 9, 2026 • 9:30 PM – 10:30 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
-- **[NO PARTNER NEEDED❗️](https://www.instagram.com/p/DcciutNNsln/)** **_Varies_**  
-   Gigi  
-   Wed, Sep 9, 2026 • 9:30 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
-- **[Wednesday Salsa &#038; Bachata at Stratos](https://www.salsavida.com/event/texas/dallas-fort-worth/wednesday-salsa-bachata-at-stratos/)** **_Free_**  
-   Stratos Bar & Grill · Dallas  
-   Wed, Sep 9, 2026 • 9:30 PM – 2:00 AM  
-   `salsa` `bachata` _via salsavida_
 
 ### Thursday, September 10, 2026
 
@@ -159,6 +104,10 @@
    Kumbaladancestudio  
    Fri, Sep 11, 2026 • 9:30 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
+- **[Salsa With Jo and Team Mambin would like to invite you all to SalSon social every 2nd Friday of the month.](https://www.instagram.com/p/DdFrTqSkaBX/)** **_$17–$20_**  
+   Salsonsocial  
+   Fri, Sep 11, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[Friday Latin at Al-Amir Arlington](https://golatindance.com/event/friday-rumba-nights-at-al-amir-arlington/2026-09-11/)** **_Varies_**  
    Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
    Fri, Sep 11, 2026 • 10:00 PM – 2:00 AM  
@@ -167,6 +116,10 @@
    Taboo Dallas, 1418 N Riverfront, Dallas, TX, 75207, United States  
    Fri, Sep 11, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[TROPICAL FRIDAYS AT TABOO DALLAS!](https://www.instagram.com/p/DdFcQC6lRJZ/)** **_$5–$15_**  
+   Salsa At The Gardens  
+   Fri, Sep 11, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 
 ### Saturday, September 12, 2026
 
@@ -440,6 +393,14 @@
    Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
    Sat, Sep 19, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` _via golatindance_
+- **[Dallas Can Dance Monthly Saturday Social](https://golatindance.com/event/dcd-seventy-thirty-70-bachata-30-salsa/2026-09-19/)** **_$20–$25_**  
+   Dallas Can Dance – The Academy, 2650 Midway Rd #130, Carrollton, TX, 75006, United States  
+   Sat, Sep 19, 2026 • 10:00 PM – 2:00 AM  
+   `social` `lesson` `salsa` `bachata` `kizomba` _via golatindance_
+- **[Rumba Tropical en Reys's Sports Bar](https://golatindance.com/event/rumba-tropical-en-reyss-sports-bar/2026-09-19/)** **_Free_**  
+   Reys Sports Bar, 2836 N Oconnor Rd, Irving, TX, United States  
+   Sat, Sep 19, 2026 • 10:00 PM – 2:00 AM  
+   `salsa` `bachata` `merengue` _via golatindance_
 - **[SÁBADOS LATINOS EN AL-AMIR](https://www.instagram.com/p/DcEsjobB4mh/)** **_Free_**  
    Alamirarlington  
    Sat, Sep 19, 2026 • 10:30 PM  
@@ -541,6 +502,10 @@
    Echalesalsita Dallas  
    Fri, Oct 2, 2026 • all day  
    `salsa` `lesson` `social` `bachata` _via instagram_
+- **[Salsa performance invasion is coming your way Dallas](https://www.instagram.com/p/DdCQYqXGcwD/)** **_Varies_**  
+   Echalesalsita Dallas  
+   Fri, Oct 2, 2026 • 11:45 PM  
+   `salsa` `lesson` `social` _via instagram_
 
 ### Friday, November 20, 2026
 
