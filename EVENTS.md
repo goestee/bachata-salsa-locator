@@ -1,34 +1,26 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-09-11 11:59 AM CDT**
+> Auto-generated. Last update: **2026-09-12 12:29 AM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 122 upcoming events tracked. **11 new** since last run.
+> 115 upcoming events tracked. **12 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
+- **[This Saturday, MAÑANA‼️‼️](https://www.instagram.com/p/DdKAaWBJgcE/)** **_$15–$25_**  
+   Dcd Houseofbachata  
+   Sat, Sep 12, 2026 • 8:00 PM  
+   `bachata` `social` _via instagram_
 - **[SALSA SUNDAY NIGHT @ HEARSAY ARLINGTON!](https://www.instagram.com/p/DdIoE_Dlbjz/)** **_$10_**  
    Hearsay Arlington  
    Sun, Sep 13, 2026 • 7:00 PM  
    `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
-- **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
-   Vidorra Dallas  
-   Wed, Sep 16, 2026 • all day  
-   `social` `lesson` `salsa` _via danceus_
-- **[Live Latin Night With Havana NRG at Sambuca360](https://www.danceus.org/event/165524211650016/live-latin-night-with-havana-nrg-at-sambuca-plano-tx/)** **_Varies_**  
-   Sambuca360 · Plano  
-   Wed, Sep 16, 2026 • all day  
-   `social` _via danceus_
-- **[Salseando and Bachateando Nights at El Botanero](https://www.danceus.org/event/16552421287400/salseando-and-bachateando-nights-at-el-botanero-dallas-tx/)** **_Varies_**  
-   El Botanero Bar · Dallas  
-   Wed, Sep 16, 2026 • all day  
-   `social` `salsa` `bachata` _via danceus_
-- **[Wednesday Salsa Social at Stratos](https://www.danceus.org/event/16552421361930/wednesday-salsa-social-at-stratos-dallas-tx/)** **_Varies_**  
-   Stratos Greek Taverna · Dallas  
-   Wed, Sep 16, 2026 • all day  
-   `social` `salsa` _via danceus_
+- **[7:00 Intermediate Country Cha Cha](https://www.meetup.com/you-can-dance-dallas/events/316290309/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Tue, Sep 15, 2026 • 7:00 PM  
+   `lesson` `cha-cha` _via meetup_
 - **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
    Merkado · Frisco  
    Thu, Sep 17, 2026 • all day  
@@ -41,82 +33,35 @@
    Hangout · Irving  
    Thu, Sep 17, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via danceus_
+- **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316332897/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Fri, Sep 18, 2026 • 7:30 PM  
+   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
 - **[Salsa Sunday at La Chingona](https://golatindance.com/event/salsa-sunday-at-la-chingona/2026-09-20/)** **_Free_**  
    La Chingona, 2800 Bledsoe St #100, Fort Worth, TX, 76107, United States  
    Sun, Sep 20, 2026 • 3:00 PM – 6:00 PM  
    `lesson` `salsa` `bachata` _via golatindance_
-- **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
-   Vidorra Cocina · Dallas-Fort Worth  
-   Wed, Sep 23, 2026 • 7:00 PM – 11:00 PM  
-   `salsa` _via salsavida_
-- **[Wednesday Salsa &#038; Bachata at Stratos](https://www.salsavida.com/event/texas/dallas-fort-worth/wednesday-salsa-bachata-at-stratos/)** **_Free_**  
-   Stratos Bar & Grill · Dallas  
-   Wed, Sep 23, 2026 • 9:30 PM – 2:00 AM  
-   `salsa` `bachata` _via salsavida_
+- **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-09-20/)** **_Free_**  
+   Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
+   Sun, Sep 20, 2026 • 7:00 PM – 11:00 PM  
+   `social` `lesson` `salsa` _via golatindance_
+- **[Sabroso Sundays at Al-Amir](https://golatindance.com/event/sabroso-sundays-at-al-amir/2026-09-20/)** **_Free_**  
+   Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States  
+   Sun, Sep 20, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[Calentura Sundays @ Fuego Dance Co.](https://golatindance.com/event/calentura-sundays-fuego-dance-co/2026-09-20/)** **_$10_**  
+   Fuego Dance Company, 813 Main Street, Garland, TX, 75040, United States  
+   Sun, Sep 20, 2026 • 11:00 PM – 3:00 AM  
+   `social` `lesson` `salsa` `bachata` _via golatindance_
+- **[Salsón - Salsa and bachata dance social](https://www.meetup.com/salsa-with-jo/events/315068502/)** **_Varies_**  
+   Kumbala Dance Studio · Farmers Branch  
+   Fri, Oct 9, 2026 • 9:30 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 
 ---
 
 ## Upcoming
 
-
-### Friday, September 11, 2026
-
-- **[Noches Latinas Fridays at Los Lupes](https://www.danceus.org/event/16552421183470/noches-latinas-fridays-at-los-lupes-addison-tx/)** **_Varies_**  
-   Los Lupes Addison  
-   Fri, Sep 11, 2026 • all day  
-   `salsa` `bachata` `merengue` _via danceus_
-- **[Friday Latin at Al-Amir Arlington](https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/)** **_Varies_**  
-   Al-Amir Arlington  
-   Fri, Sep 11, 2026 • all day  
-   `social` `salsa` `bachata` `merengue` _via danceus_
-- **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316234160/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Fri, Sep 11, 2026 • 7:30 PM  
-   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
-- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/316438383/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Fri, Sep 11, 2026 • 7:30 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[VIERNES LATINOS EN AL-AMIR REGGAETON • SALSA • BACHATA • LATIN HITS](https://www.instagram.com/p/DcCXHaoxCKy/)** **_Varies_**  
-   Alamirarlington  
-   Fri, Sep 11, 2026 • 8:00 PM  
-   `salsa` `bachata` `social` _via instagram_
-- **[Salson Social](https://golatindance.com/event/salson-social/2026-09-11/)** **_$15–$18_**  
-   Kumbala Dance Studio, 4340 Spring Valley Road, Suite 4340, Farmers Branch, TX, 75244, United States  
-   Fri, Sep 11, 2026 • 9:00 PM – 2:00 AM  
-   `social` `lesson` `salsa` `bachata` _via golatindance_
-- **[RITMO DEL MUNDO SALSA PARTY at Texas Live](https://www.instagram.com/p/Dc__8C5Dzuf/)** **_Free_**  
-   Texas Live  
-   Fri, Sep 11, 2026 • 9:00 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
-- **[Every Friday in Dallas!](https://www.instagram.com/p/DbpajalG-Xo/)** **_Free_**  
-   Alexander's Cantina & Cocina  
-   Fri, Sep 11, 2026 • 9:30 PM  
-   `salsa` `lesson` `social` _via instagram_
-- **[Salsón - Salsa and bachata dance social](https://www.meetup.com/salsa-with-jo/events/315068497/)** **_Varies_**  
-   Kumbala Dance Studio · Farmers Branch  
-   Fri, Sep 11, 2026 • 9:30 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[Salsa and Bachata dancing @salsonsocial every 2nd Friday of the month!](https://www.instagram.com/p/Dc4qyORx1BZ/)** **_$17–$20_**  
-   Kumbaladancestudio  
-   Fri, Sep 11, 2026 • 9:30 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
-- **[Salsa With Jo and Team Mambin would like to invite you all to SalSon social every 2nd Friday of the month.](https://www.instagram.com/p/DdFrTqSkaBX/)** **_$17–$20_**  
-   Salsonsocial  
-   Fri, Sep 11, 2026 • 9:30 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
-- **[Friday Latin at Al-Amir Arlington](https://golatindance.com/event/friday-rumba-nights-at-al-amir-arlington/2026-09-11/)** **_Varies_**  
-   Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
-   Fri, Sep 11, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` `merengue` _via golatindance_
-- **[Rumba Fridays @ Taboo Lounge Dallas](https://golatindance.com/event/rumba-fridays-taboo-lounge-dallas/2026-09-11/)** **_$5–$15_**  
-   Taboo Dallas, 1418 N Riverfront, Dallas, TX, 75207, United States  
-   Fri, Sep 11, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` `merengue` _via golatindance_
-- **[TROPICAL FRIDAYS AT TABOO DALLAS!](https://www.instagram.com/p/DdFcQC6lRJZ/)** **_$5–$15_**  
-   Salsa At The Gardens  
-   Fri, Sep 11, 2026 • 10:00 PM  
-   `salsa` `bachata` `merengue` `social` _via instagram_
 
 ### Saturday, September 12, 2026
 
@@ -164,6 +109,10 @@
    You Can Dance Dallas · Addison  
    Sat, Sep 12, 2026 • 7:00 PM  
    `social` `lesson` _via meetup_
+- **[This Saturday, MAÑANA‼️‼️](https://www.instagram.com/p/DdKAaWBJgcE/)** **_$15–$25_**  
+   Dcd Houseofbachata  
+   Sat, Sep 12, 2026 • 8:00 PM  
+   `bachata` `social` _via instagram_
 - **[Salsa Saturdays at Blue Mesa Grill](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-saturdays-at-blue-mesa-grill/)** **_$8_**  
    Blue Mesa Grill · Dallas-Fort Worth  
    Sat, Sep 12, 2026 • 10:00 PM – 3:00 AM  
@@ -274,6 +223,10 @@
    Vitruvian Salsa Festival  
    Tue, Sep 15, 2026 • all day  
    `salsa` `lesson` `social` `festival` _via instagram_
+- **[7:00 Intermediate Country Cha Cha](https://www.meetup.com/you-can-dance-dallas/events/316290309/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Tue, Sep 15, 2026 • 7:00 PM  
+   `lesson` `cha-cha` _via meetup_
 - **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-09-15/)** **_Free_**  
    Rotate Social, 5454 Main st., Frisco, TX, United States  
    Tue, Sep 15, 2026 • 7:30 PM – 11:30 PM  
@@ -367,6 +320,10 @@
    You Can Dance Dallas · Addison  
    Fri, Sep 18, 2026 • 7:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
+- **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316332897/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Fri, Sep 18, 2026 • 7:30 PM  
+   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
 - **[VIERNES LATINOS EN AL-AMIR REGGAETON • SALSA • BACHATA • LATIN HITS](https://www.instagram.com/p/DcCXHaoxCKy/)** **_Varies_**  
    Alamirarlington  
    Fri, Sep 18, 2026 • 8:00 PM  
@@ -469,10 +426,22 @@
    You Can Dance Dallas · Addison  
    Sun, Sep 20, 2026 • 6:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
+- **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-09-20/)** **_Free_**  
+   Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
+   Sun, Sep 20, 2026 • 7:00 PM – 11:00 PM  
+   `social` `lesson` `salsa` _via golatindance_
 - **[Sabroso Sundays at Al-Amir Addison](https://www.salsavida.com/event/texas/dallas-fort-worth/sabroso-sundays-at-al-amir-addison/)** **_$10_**  
    Al-Amir Addison  
    Sun, Sep 20, 2026 • 10:00 PM – 2:00 AM  
    `social` _via salsavida_
+- **[Sabroso Sundays at Al-Amir](https://golatindance.com/event/sabroso-sundays-at-al-amir/2026-09-20/)** **_Free_**  
+   Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States  
+   Sun, Sep 20, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[Calentura Sundays @ Fuego Dance Co.](https://golatindance.com/event/calentura-sundays-fuego-dance-co/2026-09-20/)** **_$10_**  
+   Fuego Dance Company, 813 Main Street, Garland, TX, 75040, United States  
+   Sun, Sep 20, 2026 • 11:00 PM – 3:00 AM  
+   `social` `lesson` `salsa` `bachata` _via golatindance_
 
 ### Tuesday, September 22, 2026
 
@@ -555,6 +524,13 @@
    Echalesalsita Dallas  
    Fri, Oct 2, 2026 • 11:45 PM  
    `salsa` `lesson` `social` _via instagram_
+
+### Friday, October 9, 2026
+
+- **[Salsón - Salsa and bachata dance social](https://www.meetup.com/salsa-with-jo/events/315068502/)** **_Varies_**  
+   Kumbala Dance Studio · Farmers Branch  
+   Fri, Oct 9, 2026 • 9:30 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 
 ### Friday, November 20, 2026
 
