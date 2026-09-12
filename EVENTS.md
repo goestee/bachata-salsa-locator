@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-09-12 12:29 AM CDT**
+> Auto-generated. Last update: **2026-09-12 11:04 AM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 115 upcoming events tracked. **12 new** since last run.
+> 117 upcoming events tracked. **12 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -13,10 +13,6 @@
    Dcd Houseofbachata  
    Sat, Sep 12, 2026 • 8:00 PM  
    `bachata` `social` _via instagram_
-- **[SALSA SUNDAY NIGHT @ HEARSAY ARLINGTON!](https://www.instagram.com/p/DdIoE_Dlbjz/)** **_$10_**  
-   Hearsay Arlington  
-   Sun, Sep 13, 2026 • 7:00 PM  
-   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[7:00 Intermediate Country Cha Cha](https://www.meetup.com/you-can-dance-dallas/events/316290309/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Tue, Sep 15, 2026 • 7:00 PM  
@@ -33,14 +29,18 @@
    Hangout · Irving  
    Thu, Sep 17, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Noches Latinas Fridays at Los Lupes](https://www.danceus.org/event/16552421183470/noches-latinas-fridays-at-los-lupes-addison-tx/)** **_Varies_**  
+   Los Lupes Addison  
+   Fri, Sep 18, 2026 • all day  
+   `salsa` `bachata` `merengue` _via danceus_
+- **[Friday Latin at Al-Amir Arlington](https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/)** **_Varies_**  
+   Al-Amir Arlington  
+   Fri, Sep 18, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via danceus_
 - **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316332897/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Fri, Sep 18, 2026 • 7:30 PM  
    `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
-- **[Salsa Sunday at La Chingona](https://golatindance.com/event/salsa-sunday-at-la-chingona/2026-09-20/)** **_Free_**  
-   La Chingona, 2800 Bledsoe St #100, Fort Worth, TX, 76107, United States  
-   Sun, Sep 20, 2026 • 3:00 PM – 6:00 PM  
-   `lesson` `salsa` `bachata` _via golatindance_
 - **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-09-20/)** **_Free_**  
    Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
    Sun, Sep 20, 2026 • 7:00 PM – 11:00 PM  
@@ -316,6 +316,14 @@
    Arlington  
    Fri, Sep 18, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via salsavida_
+- **[Noches Latinas Fridays at Los Lupes](https://www.danceus.org/event/16552421183470/noches-latinas-fridays-at-los-lupes-addison-tx/)** **_Varies_**  
+   Los Lupes Addison  
+   Fri, Sep 18, 2026 • all day  
+   `salsa` `bachata` `merengue` _via danceus_
+- **[Friday Latin at Al-Amir Arlington](https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/)** **_Varies_**  
+   Al-Amir Arlington  
+   Fri, Sep 18, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via danceus_
 - **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/316332964/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Fri, Sep 18, 2026 • 7:30 PM  
