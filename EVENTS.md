@@ -1,22 +1,18 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-09-14 01:25 PM CDT**
+> Auto-generated. Last update: **2026-09-15 12:56 AM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 108 upcoming events tracked. **17 new** since last run.
+> 109 upcoming events tracked. **14 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Noches Latinas Saturdays at Los Lupes](https://www.danceus.org/event/16552421199670/noches-latinas-saturdays-at-los-lupes-addison-tx/)** **_Varies_**  
-   Los Lupes Addison  
-   Sat, Sep 19, 2026 • all day  
-   `salsa` `bachata` `merengue` _via danceus_
-- **[Salsa Bachata Night at Mexican Bar Company](https://www.danceus.org/event/16552421241878/salsa-bachata-night-at-mexican-bar-company-plano-tx/)** **_Varies_**  
-   Mexican Bar Company · Plano  
-   Sat, Sep 19, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[¡FIESTAS DE LAS INDEPENDENCIAS AT TABOO DALLAS!](https://www.instagram.com/p/DdR7P-Gj0AN/)** **_$5–$15_**  
+   Salsa At The Gardens  
+   Fri, Sep 18, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 - **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
    Victoria’s Restaurant · Farmers Branch  
    Sun, Sep 20, 2026 • all day  
@@ -49,10 +45,6 @@
    Taboo Dallas, 1418 N Riverfront, Dallas, TX, 75207, United States  
    Fri, Sep 25, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` `merengue` _via golatindance_
-- **[Salsa Saturdays at Blue Mesa Grill](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-saturdays-at-blue-mesa-grill/)** **_$8_**  
-   Blue Mesa Grill · Dallas-Fort Worth  
-   Sat, Sep 26, 2026 • 10:00 PM – 3:00 AM  
-   `salsa` _via salsavida_
 - **[Latin Saturday at Mexican Bar Company](https://golatindance.com/event/latin-saturday-at-mexican-bar-company/2026-09-26/)** **_Free_**  
    Mexican Bar Company, 6121 West Park Blvd Ste RS-10, Plano, TX, 75093, United States  
    Sat, Sep 26, 2026 • 10:00 PM – 2:00 AM  
@@ -61,10 +53,6 @@
    Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
    Sat, Sep 26, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` _via golatindance_
-- **[Gloria&#8217;s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
-   Gloria's Latin Cuisine · Addison  
-   Sat, Sep 26, 2026 • 11:00 PM – 2:00 AM  
-   `social` _via salsavida_
 - **[Salsa Sunday at Lola&#8217;s Cuban Food](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-sunday-at-lolas-cuban-food/)** **_Free_**  
    Lola's Cuban Food · Dallas-Fort Worth  
    Sun, Sep 27, 2026 • 3:00 PM – 6:00 PM  
@@ -230,6 +218,10 @@
    El TACO H, 213 E Hickory St, Denton, TX, 76201, US  
    Fri, Sep 18, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[¡FIESTAS DE LAS INDEPENDENCIAS AT TABOO DALLAS!](https://www.instagram.com/p/DdR7P-Gj0AN/)** **_$5–$15_**  
+   Salsa At The Gardens  
+   Fri, Sep 18, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 
 ### Saturday, September 19, 2026
 
