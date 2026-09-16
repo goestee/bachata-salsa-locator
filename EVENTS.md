@@ -1,18 +1,22 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-09-16 12:44 AM CDT**
+> Auto-generated. Last update: **2026-09-16 12:33 PM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 107 upcoming events tracked. **3 new** since last run.
+> 109 upcoming events tracked. **4 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[¡FIESTAS DE LAS INDEPENDENCIAS AT TABOO DALLAS!](https://www.instagram.com/p/DdR7P-Gj0AN/)** **_$5–$15_**  
-   Salsa At The Gardens  
-   Fri, Sep 18, 2026 • 10:00 PM  
-   `salsa` `bachata` `merengue` `social` _via instagram_
+- **[7:00 Intermediate Country Cha Cha](https://www.meetup.com/you-can-dance-dallas/events/316394610/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Tue, Sep 22, 2026 • 7:00 PM  
+   `lesson` `cha-cha` _via meetup_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/316346027/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Sep 22, 2026 • 8:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 - **[MANSFIELD… GET READY! SALSA NIGHT IS BACK!](https://www.instagram.com/p/DdVbRmEFUSI/)** **_Free_**  
    ILUSION  
    Wed, Sep 23, 2026 • 7:00 PM  
@@ -316,10 +320,18 @@
    Vitruvian Salsa Festival  
    Tue, Sep 22, 2026 • all day  
    `salsa` `lesson` `social` `festival` _via instagram_
+- **[7:00 Intermediate Country Cha Cha](https://www.meetup.com/you-can-dance-dallas/events/316394610/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Tue, Sep 22, 2026 • 7:00 PM  
+   `lesson` `cha-cha` _via meetup_
 - **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-09-22/)** **_Free_**  
    Rotate Social, 5454 Main st., Frisco, TX, United States  
    Tue, Sep 22, 2026 • 7:30 PM – 11:30 PM  
    `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/316346027/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Sep 22, 2026 • 8:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 
 ### Wednesday, September 23, 2026
 
