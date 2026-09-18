@@ -1,22 +1,18 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-09-17 12:33 PM CDT**
+> Auto-generated. Last update: **2026-09-18 12:38 AM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 106 upcoming events tracked. **9 new** since last run.
+> 104 upcoming events tracked. **9 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[7:00 Intermediate Country Cha Cha](https://www.meetup.com/you-can-dance-dallas/events/316394610/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Tue, Sep 22, 2026 • 7:00 PM  
-   `lesson` `cha-cha` _via meetup_
-- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/316346027/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, Sep 22, 2026 • 8:00 PM  
-   `social` `lesson` `salsa` _via meetup_
+- **[Latin Night](https://www.meetup.com/salsa-with-jo/events/316334088/)** **_Varies_**  
+   El Taco H · Denton  
+   Fri, Sep 18, 2026 • 10:00 PM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
 - **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
    Vidorra Dallas  
    Wed, Sep 23, 2026 • all day  
@@ -37,6 +33,10 @@
    La Chingona, 2800 Bledsoe St #100, Fort Worth, TX, 76107, United States  
    Sun, Sep 27, 2026 • 3:00 PM – 6:00 PM  
    `lesson` `salsa` `bachata` _via golatindance_
+- **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-09-27/)** **_Free_**  
+   Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
+   Sun, Sep 27, 2026 • 7:00 PM – 11:00 PM  
+   `social` `lesson` `salsa` _via golatindance_
 - **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
    Vidorra Cocina · Dallas-Fort Worth  
    Wed, Sep 30, 2026 • 7:00 PM – 11:00 PM  
@@ -50,25 +50,6 @@
 
 ## Upcoming
 
-
-### Thursday, September 17, 2026
-
-- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
-   Merkado · Frisco  
-   Thu, Sep 17, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Thu, Sep 17, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
-   Hangout · Irving  
-   Thu, Sep 17, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-09-17/)** **_Free_**  
-   Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
-   Thu, Sep 17, 2026 • 9:00 PM – 1:00 AM  
-   `social` `lesson` `salsa` _via golatindance_
 
 ### Friday, September 18, 2026
 
@@ -132,6 +113,10 @@
    Salsa At The Gardens  
    Fri, Sep 18, 2026 • 10:00 PM  
    `salsa` `bachata` `merengue` `social` _via instagram_
+- **[Latin Night](https://www.meetup.com/salsa-with-jo/events/316334088/)** **_Varies_**  
+   El Taco H · Denton  
+   Fri, Sep 18, 2026 • 10:00 PM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
 
 ### Saturday, September 19, 2026
 
@@ -432,6 +417,10 @@
    The Victoria Restaurant · Farmers Branch  
    Sun, Sep 27, 2026 • 5:30 PM – 10:30 PM  
    `social` _via salsavida_
+- **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-09-27/)** **_Free_**  
+   Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
+   Sun, Sep 27, 2026 • 7:00 PM – 11:00 PM  
+   `social` `lesson` `salsa` _via golatindance_
 - **[Sabroso Sundays at Al-Amir Addison](https://www.salsavida.com/event/texas/dallas-fort-worth/sabroso-sundays-at-al-amir-addison/)** **_$10_**  
    Al-Amir Addison  
    Sun, Sep 27, 2026 • 10:00 PM – 2:00 AM  
