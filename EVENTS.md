@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-09-22 12:57 AM CDT**
+> Auto-generated. Last update: **2026-09-22 12:35 PM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 112 upcoming events tracked. **25 new** since last run.
+> 113 upcoming events tracked. **19 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -13,6 +13,10 @@
    Salsa At The Gardens  
    Wed, Sep 23, 2026 • 7:00 PM – 10:00 PM  
    `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
+- **[Cha cha Class](https://www.meetup.com/ascendance-dallas-ballroom-meet-group/events/316606079/)** **_Varies_**  
+   18484 Preston Road · Dallas  
+   Wed, Sep 23, 2026 • 8:20 PM  
+   `lesson` `cha-cha` _via meetup_
 - **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
    A3 Studiotx  
    Fri, Sep 25, 2026 • 6:00 PM  
@@ -29,34 +33,10 @@
    Al-Amir Addison  
    Sun, Sep 27, 2026 • all day  
    `social` `salsa` `bachata` `merengue` _via danceus_
-- **[30 % OFF CHA CHA CHA & mambo in addison](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316462985/)** **_Varies_**  
-   You Can Dance Dallas  
-   Sun, Sep 27, 2026 • 4:45 PM  
-   `cha-cha` _via meetup_
-- **[4:15 Cha Cha/Mambo on 2](https://www.meetup.com/you-can-dance-dallas/events/316463003/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Sep 27, 2026 • 4:45 PM  
-   `lesson` `salsa` `bachata` `cha-cha` _via meetup_
-- **[50 % off SUNDAY Salsa & BACHATA class in addison • we go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316463992/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Sep 27, 2026 • 6:30 PM  
-   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
-- **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/316464022/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Sep 27, 2026 • 6:30 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[David Herrera Amateur Latin / Ballroom dance team summer tryouts](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316464544/)** **_Varies_**  
-   You Can Dance Dallas  
-   Sun, Sep 27, 2026 • 7:45 PM  
-   `lesson` `festival` `salsa` `bachata` `cha-cha` _via meetup_
 - **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
    A3 Studiotx  
    Fri, Oct 2, 2026 • 6:00 PM  
    `social` _via instagram_
-- **[¡DALLAS, GET READY!](https://www.instagram.com/p/DdiUm61DUZL/)** **_$30–$40_**  
-   Salsadallas  
-   Sat, Oct 3, 2026 • 3:30 PM  
-   `salsa` `lesson` `workshop` `festival` _via instagram_
 - **[Sabroso Sundays at Al-Amir Addison](https://www.salsavida.com/event/texas/dallas-fort-worth/sabroso-sundays-at-al-amir-addison/)** **_$10_**  
    Addison  
    Sun, Oct 4, 2026 • all day  
@@ -89,10 +69,6 @@
    A3 Studiotx  
    Sat, Oct 10, 2026 • 6:00 PM  
    `social` _via instagram_
-- **[7:00-11:00 2ND SATURDAY BALLROOM DANCE PARTY & QUICKSTEP CLASS](https://www.meetup.com/you-can-dance-dallas/events/316643431/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sat, Oct 10, 2026 • 7:00 PM  
-   `social` `lesson` _via meetup_
 - **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
    A3 Studiotx  
    Fri, Oct 16, 2026 • 6:00 PM  
@@ -180,6 +156,10 @@
    Salsa At The Gardens  
    Wed, Sep 23, 2026 • 7:00 PM – 10:00 PM  
    `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
+- **[Cha cha Class](https://www.meetup.com/ascendance-dallas-ballroom-meet-group/events/316606079/)** **_Varies_**  
+   18484 Preston Road · Dallas  
+   Wed, Sep 23, 2026 • 8:20 PM  
+   `lesson` `cha-cha` _via meetup_
 - **[Latin Night at Gigis](https://golatindance.com/event/latin-night-at-gigis/2026-09-23/)** **_Free_**  
    Gigis, 7300 Lone Star Drive C150, Plano, TX, 75024, United States  
    Wed, Sep 23, 2026 • 9:00 PM – 2:00 AM  
