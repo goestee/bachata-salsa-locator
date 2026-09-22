@@ -1,22 +1,22 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-09-21 01:33 PM CDT**
+> Auto-generated. Last update: **2026-09-22 12:57 AM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 103 upcoming events tracked. **20 new** since last run.
+> 112 upcoming events tracked. **25 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Noches Latinas Saturdays at Los Lupes](https://www.danceus.org/event/16552421199670/noches-latinas-saturdays-at-los-lupes-addison-tx/)** **_Varies_**  
-   Los Lupes Addison  
-   Sat, Sep 26, 2026 • all day  
-   `salsa` `bachata` `merengue` _via danceus_
-- **[Salsa Bachata Night at Mexican Bar Company](https://www.danceus.org/event/16552421241878/salsa-bachata-night-at-mexican-bar-company-plano-tx/)** **_Varies_**  
-   Mexican Bar Company · Plano  
-   Sat, Sep 26, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[SALSA NIGHT IS BACK AT ILUSION – MANSFIELD!](https://www.instagram.com/p/DdjkLUbFVRE/)** **_Free_**  
+   Salsa At The Gardens  
+   Wed, Sep 23, 2026 • 7:00 PM – 10:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
+- **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
+   A3 Studiotx  
+   Fri, Sep 25, 2026 • 6:00 PM  
+   `social` _via instagram_
 - **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
    Victoria’s Restaurant · Farmers Branch  
    Sun, Sep 27, 2026 • all day  
@@ -49,18 +49,14 @@
    You Can Dance Dallas  
    Sun, Sep 27, 2026 • 7:45 PM  
    `lesson` `festival` `salsa` `bachata` `cha-cha` _via meetup_
+- **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
+   A3 Studiotx  
+   Fri, Oct 2, 2026 • 6:00 PM  
+   `social` _via instagram_
 - **[¡DALLAS, GET READY!](https://www.instagram.com/p/DdiUm61DUZL/)** **_$30–$40_**  
    Salsadallas  
    Sat, Oct 3, 2026 • 3:30 PM  
    `salsa` `lesson` `workshop` `festival` _via instagram_
-- **[Salsa Saturdays at Blue Mesa Grill](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-saturdays-at-blue-mesa-grill/)** **_$8_**  
-   Blue Mesa Grill · Dallas-Fort Worth  
-   Sat, Oct 3, 2026 • 10:00 PM – 3:00 AM  
-   `salsa` _via salsavida_
-- **[Gloria&#8217;s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
-   Gloria's Latin Cuisine · Addison  
-   Sat, Oct 3, 2026 • 11:00 PM – 2:00 AM  
-   `social` _via salsavida_
 - **[Sabroso Sundays at Al-Amir Addison](https://www.salsavida.com/event/texas/dallas-fort-worth/sabroso-sundays-at-al-amir-addison/)** **_$10_**  
    Addison  
    Sun, Oct 4, 2026 • all day  
@@ -85,10 +81,34 @@
    Al-Amir Addison  
    Sun, Oct 4, 2026 • 10:00 PM – 2:00 AM  
    `social` _via salsavida_
+- **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
+   A3 Studiotx  
+   Fri, Oct 9, 2026 • 6:00 PM  
+   `social` _via instagram_
+- **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
+   A3 Studiotx  
+   Sat, Oct 10, 2026 • 6:00 PM  
+   `social` _via instagram_
 - **[7:00-11:00 2ND SATURDAY BALLROOM DANCE PARTY & QUICKSTEP CLASS](https://www.meetup.com/you-can-dance-dallas/events/316643431/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sat, Oct 10, 2026 • 7:00 PM  
    `social` `lesson` _via meetup_
+- **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
+   A3 Studiotx  
+   Fri, Oct 16, 2026 • 6:00 PM  
+   `social` _via instagram_
+- **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
+   A3 Studiotx  
+   Fri, Oct 23, 2026 • 6:00 PM  
+   `social` _via instagram_
+- **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
+   A3 Studiotx  
+   Fri, Oct 30, 2026 • 6:00 PM  
+   `social` _via instagram_
+- **[A GRAND CELEBRATION OF SALSA!](https://www.instagram.com/p/DdjjV_LD_2W/)** **_$99_**  
+   Salsadallas  
+   Fri, Nov 20, 2026 • all day  
+   `salsa` `lesson` `social` `workshop` `festival` _via instagram_
 
 ---
 
@@ -156,6 +176,10 @@
    ILUSION  
    Wed, Sep 23, 2026 • 7:00 PM  
    `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
+- **[SALSA NIGHT IS BACK AT ILUSION – MANSFIELD!](https://www.instagram.com/p/DdjkLUbFVRE/)** **_Free_**  
+   Salsa At The Gardens  
+   Wed, Sep 23, 2026 • 7:00 PM – 10:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[Latin Night at Gigis](https://golatindance.com/event/latin-night-at-gigis/2026-09-23/)** **_Free_**  
    Gigis, 7300 Lone Star Drive C150, Plano, TX, 75024, United States  
    Wed, Sep 23, 2026 • 9:00 PM – 2:00 AM  
@@ -210,6 +234,10 @@
    Klydewarrenpark  
    Fri, Sep 25, 2026 • 6:00 PM  
    `salsa` `lesson` `social` _via instagram_
+- **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
+   A3 Studiotx  
+   Fri, Sep 25, 2026 • 6:00 PM  
+   `social` _via instagram_
 - **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316437821/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Fri, Sep 25, 2026 • 7:30 PM  
@@ -425,6 +453,10 @@
    Echalesalsita Dallas  
    Fri, Oct 2, 2026 • all day  
    `salsa` `lesson` `social` `bachata` _via instagram_
+- **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
+   A3 Studiotx  
+   Fri, Oct 2, 2026 • 6:00 PM  
+   `social` _via instagram_
 - **[Latin Night](https://www.meetup.com/salsa-with-jo/events/316535026/)** **_Varies_**  
    El Taco H · Denton  
    Fri, Oct 2, 2026 • 10:00 PM  
@@ -485,6 +517,10 @@
 
 ### Friday, October 9, 2026
 
+- **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
+   A3 Studiotx  
+   Fri, Oct 9, 2026 • 6:00 PM  
+   `social` _via instagram_
 - **[Salsón - Salsa and bachata dance social](https://www.meetup.com/salsa-with-jo/events/315068502/)** **_Varies_**  
    Kumbala Dance Studio · Farmers Branch  
    Fri, Oct 9, 2026 • 9:30 PM  
@@ -492,6 +528,10 @@
 
 ### Saturday, October 10, 2026
 
+- **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
+   A3 Studiotx  
+   Sat, Oct 10, 2026 • 6:00 PM  
+   `social` _via instagram_
 - **[7:00-11:00 2ND SATURDAY BALLROOM DANCE PARTY & QUICKSTEP CLASS](https://www.meetup.com/you-can-dance-dallas/events/316643431/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sat, Oct 10, 2026 • 7:00 PM  
@@ -504,6 +544,13 @@
    Tue, Oct 13, 2026 • 10:00 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
 
+### Friday, October 16, 2026
+
+- **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
+   A3 Studiotx  
+   Fri, Oct 16, 2026 • 6:00 PM  
+   `social` _via instagram_
+
 ### Tuesday, October 20, 2026
 
 - **[DALLAS, LET'S DANCE SALSA!](https://www.instagram.com/p/Ddb2ucqjMiW/)** **_Free_**  
@@ -511,12 +558,26 @@
    Tue, Oct 20, 2026 • 10:00 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
 
+### Friday, October 23, 2026
+
+- **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
+   A3 Studiotx  
+   Fri, Oct 23, 2026 • 6:00 PM  
+   `social` _via instagram_
+
 ### Tuesday, October 27, 2026
 
 - **[DALLAS, LET'S DANCE SALSA!](https://www.instagram.com/p/Ddb2ucqjMiW/)** **_Free_**  
    Salsadallas  
    Tue, Oct 27, 2026 • 10:00 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
+
+### Friday, October 30, 2026
+
+- **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
+   A3 Studiotx  
+   Fri, Oct 30, 2026 • 6:00 PM  
+   `social` _via instagram_
 
 ### Friday, November 20, 2026
 
@@ -552,6 +613,10 @@
    Salsadallas  
    Fri, Nov 20, 2026 • all day  
    `salsa` `bachata` `lesson` `social` `workshop` `festival` _via instagram_
+- **[A GRAND CELEBRATION OF SALSA!](https://www.instagram.com/p/DdjjV_LD_2W/)** **_$99_**  
+   Salsadallas  
+   Fri, Nov 20, 2026 • all day  
+   `salsa` `lesson` `social` `workshop` `festival` _via instagram_
 - **[Never Been to a Salsa Congress? Watch This! | Eddie Torres](https://www.instagram.com/p/DaOEDxamFbf/)** **_Varies_**  
    DallasSalsaCongress.com  
    Fri, Nov 20, 2026 • 3:30 AM  
