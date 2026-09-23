@@ -1,58 +1,22 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-09-23 12:36 AM CDT**
+> Auto-generated. Last update: **2026-09-23 12:48 PM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 109 upcoming events tracked. **11 new** since last run.
+> 109 upcoming events tracked. **2 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[SALSA NIGHT IS BACK AT ILUSION – MANSFIELD!](https://www.instagram.com/p/DdjkLUbFVRE/)** **_Free_**  
-   Salsa At The Gardens  
-   Wed, Sep 23, 2026 • 7:00 PM – 10:00 PM  
-   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[Cha cha Class](https://www.meetup.com/ascendance-dallas-ballroom-meet-group/events/316606079/)** **_Varies_**  
    18484 Preston Road · Dallas  
    Wed, Sep 23, 2026 • 8:20 PM  
    `lesson` `cha-cha` _via meetup_
-- **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
-   A3 Studiotx  
-   Fri, Sep 25, 2026 • 6:00 PM  
-   `social` _via instagram_
 - **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/316346034/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Tue, Sep 29, 2026 • 8:00 PM  
    `social` `lesson` `salsa` _via meetup_
-- **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
-   A3 Studiotx  
-   Fri, Oct 2, 2026 • 6:00 PM  
-   `social` _via instagram_
-- **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
-   A3 Studiotx  
-   Fri, Oct 9, 2026 • 6:00 PM  
-   `social` _via instagram_
-- **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
-   A3 Studiotx  
-   Sat, Oct 10, 2026 • 6:00 PM  
-   `social` _via instagram_
-- **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
-   A3 Studiotx  
-   Fri, Oct 16, 2026 • 6:00 PM  
-   `social` _via instagram_
-- **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
-   A3 Studiotx  
-   Fri, Oct 23, 2026 • 6:00 PM  
-   `social` _via instagram_
-- **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
-   A3 Studiotx  
-   Fri, Oct 30, 2026 • 6:00 PM  
-   `social` _via instagram_
-- **[A GRAND CELEBRATION OF SALSA!](https://www.instagram.com/p/DdjjV_LD_2W/)** **_$99_**  
-   Salsadallas  
-   Fri, Nov 20, 2026 • all day  
-   `salsa` `lesson` `social` `workshop` `festival` _via instagram_
 
 ---
 
