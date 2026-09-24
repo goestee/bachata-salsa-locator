@@ -1,18 +1,22 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-09-23 12:48 PM CDT**
+> Auto-generated. Last update: **2026-09-24 12:57 AM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 109 upcoming events tracked. **2 new** since last run.
+> 97 upcoming events tracked. **3 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Cha cha Class](https://www.meetup.com/ascendance-dallas-ballroom-meet-group/events/316606079/)** **_Varies_**  
-   18484 Preston Road · Dallas  
-   Wed, Sep 23, 2026 • 8:20 PM  
-   `lesson` `cha-cha` _via meetup_
+- **[RUMBA LATINA FRIDAYS @ TABOO DALLAS!](https://www.instagram.com/p/Ddnm4cylX78/)** **_$5–$15_**  
+   Salsa At The Gardens  
+   Fri, Sep 25, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
+- **[“Dallas, Arlington, get ready for an unforgettable night!](https://www.instagram.com/p/DdoxFWTzeyX/)** **_$25_**  
+   Choctaw Stadium for The Red Carpet Salsa  
+   Sat, Sep 26, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/316346034/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Tue, Sep 29, 2026 • 8:00 PM  
@@ -22,65 +26,6 @@
 
 ## Upcoming
 
-
-### Wednesday, September 23, 2026
-
-- **[Wednesday Salsa & Bachata at Stratos](https://www.salsavida.com/event/texas/dallas-fort-worth/wednesday-salsa-bachata-at-stratos/)** **_Free_**  
-   Dallas  
-   Wed, Sep 23, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via salsavida_
-- **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
-   Dallas-Fort Worth  
-   Wed, Sep 23, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` `merengue` _via salsavida_
-- **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
-   Vidorra Dallas  
-   Wed, Sep 23, 2026 • all day  
-   `social` `lesson` `salsa` _via danceus_
-- **[Live Latin Night With Havana NRG at Sambuca360](https://www.danceus.org/event/165524211650016/live-latin-night-with-havana-nrg-at-sambuca-plano-tx/)** **_Varies_**  
-   Sambuca360 · Plano  
-   Wed, Sep 23, 2026 • all day  
-   `social` _via danceus_
-- **[Salseando and Bachateando Nights at El Botanero](https://www.danceus.org/event/16552421287400/salseando-and-bachateando-nights-at-el-botanero-dallas-tx/)** **_Varies_**  
-   El Botanero Bar · Dallas  
-   Wed, Sep 23, 2026 • all day  
-   `social` `salsa` `bachata` _via danceus_
-- **[Wednesday Salsa Social at Stratos](https://www.danceus.org/event/16552421361930/wednesday-salsa-social-at-stratos-dallas-tx/)** **_Varies_**  
-   Stratos Greek Taverna · Dallas  
-   Wed, Sep 23, 2026 • all day  
-   `social` `salsa` _via danceus_
-- **[Start with a class, stay for the dancing.](https://www.instagram.com/p/DcZks-bPWFC/)** **_Varies_**  
-   Gigi  
-   Wed, Sep 23, 2026 • 2:00 AM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
-- **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
-   Vidorra Cocina · Dallas-Fort Worth  
-   Wed, Sep 23, 2026 • 7:00 PM – 11:00 PM  
-   `salsa` _via salsavida_
-- **[MANSFIELD… GET READY! SALSA NIGHT IS BACK!](https://www.instagram.com/p/DdVbRmEFUSI/)** **_Free_**  
-   ILUSION  
-   Wed, Sep 23, 2026 • 7:00 PM  
-   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
-- **[SALSA NIGHT IS BACK AT ILUSION – MANSFIELD!](https://www.instagram.com/p/DdjkLUbFVRE/)** **_Free_**  
-   Salsa At The Gardens  
-   Wed, Sep 23, 2026 • 7:00 PM – 10:00 PM  
-   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
-- **[Cha cha Class](https://www.meetup.com/ascendance-dallas-ballroom-meet-group/events/316606079/)** **_Varies_**  
-   18484 Preston Road · Dallas  
-   Wed, Sep 23, 2026 • 8:20 PM  
-   `lesson` `cha-cha` _via meetup_
-- **[Latin Night at Gigis](https://golatindance.com/event/latin-night-at-gigis/2026-09-23/)** **_Free_**  
-   Gigis, 7300 Lone Star Drive C150, Plano, TX, 75024, United States  
-   Wed, Sep 23, 2026 • 9:00 PM – 2:00 AM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[NO PARTNER NEEDED❗️](https://www.instagram.com/p/DcciutNNsln/)** **_Varies_**  
-   Gigi  
-   Wed, Sep 23, 2026 • 9:30 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
-- **[Wednesday Salsa &#038; Bachata at Stratos](https://www.salsavida.com/event/texas/dallas-fort-worth/wednesday-salsa-bachata-at-stratos/)** **_Free_**  
-   Stratos Bar & Grill · Dallas  
-   Wed, Sep 23, 2026 • 9:30 PM – 2:00 AM  
-   `salsa` `bachata` _via salsavida_
 
 ### Thursday, September 24, 2026
 
@@ -147,6 +92,10 @@
    Taboo Dallas, 1418 N Riverfront, Dallas, TX, 75207, United States  
    Fri, Sep 25, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[RUMBA LATINA FRIDAYS @ TABOO DALLAS!](https://www.instagram.com/p/Ddnm4cylX78/)** **_$5–$15_**  
+   Salsa At The Gardens  
+   Fri, Sep 25, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 
 ### Saturday, September 26, 2026
 
@@ -202,6 +151,10 @@
    Reys Sports Bar, 2836 N Oconnor Rd, Irving, TX, United States  
    Sat, Sep 26, 2026 • 10:00 PM – 2:00 AM  
    `salsa` `bachata` `merengue` _via golatindance_
+- **[“Dallas, Arlington, get ready for an unforgettable night!](https://www.instagram.com/p/DdoxFWTzeyX/)** **_$25_**  
+   Choctaw Stadium for The Red Carpet Salsa  
+   Sat, Sep 26, 2026 • 10:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[SÁBADOS LATINOS EN AL-AMIR](https://www.instagram.com/p/DcEsjobB4mh/)** **_Free_**  
    Alamirarlington  
    Sat, Sep 26, 2026 • 10:30 PM  
