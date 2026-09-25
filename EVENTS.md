@@ -1,22 +1,14 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-09-25 12:56 AM CDT**
+> Auto-generated. Last update: **2026-09-25 12:51 PM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 107 upcoming events tracked. **15 new** since last run.
+> 110 upcoming events tracked. **16 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[RUMBA LATINA FRIDAYS @ TABOO DALLAS!](https://www.instagram.com/p/Ddnm4cylX78/)** **_$5–$15_**  
-   Salsa At The Gardens  
-   Fri, Sep 25, 2026 • 10:00 PM  
-   `salsa` `bachata` `merengue` `social` _via instagram_
-- **[“Dallas, Arlington, get ready for an unforgettable night!](https://www.instagram.com/p/DdoxFWTzeyX/)** **_$25_**  
-   Choctaw Stadium for The Red Carpet Salsa  
-   Sat, Sep 26, 2026 • 10:00 PM  
-   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
    Vidorra Dallas  
    Wed, Sep 30, 2026 • all day  
@@ -37,6 +29,18 @@
    Salsadallas  
    Wed, Sep 30, 2026 • all day  
    `salsa` `lesson` `social` `festival` _via instagram_
+- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
+   Merkado · Frisco  
+   Thu, Oct 1, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Thu, Oct 1, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
+   Hangout · Irving  
+   Thu, Oct 1, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
 - **[FREE Salsa Class + Dallas Salsa Congress 2026!](https://www.instagram.com/p/DdrR84vlPa2/)** **_Free_**  
    Salsadallas  
    Wed, Oct 7, 2026 • all day  
@@ -345,6 +349,21 @@
    Salsadallas  
    Wed, Sep 30, 2026 • 10:00 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
+
+### Thursday, October 1, 2026
+
+- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
+   Merkado · Frisco  
+   Thu, Oct 1, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Thu, Oct 1, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
+   Hangout · Irving  
+   Thu, Oct 1, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
 
 ### Friday, October 2, 2026
 
