@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-09-26 12:57 AM CDT**
+> Auto-generated. Last update: **2026-09-26 11:56 AM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 102 upcoming events tracked. **13 new** since last run.
+> 104 upcoming events tracked. **8 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -13,10 +13,6 @@
    Taboo Dallas. Join the fun until 2 AM. Se  
    Sat, Sep 26, 2026 • 2:00 AM  
    `social` _via instagram_
-- **[FREE Salsa Class + Dallas Salsa Congress 2026!](https://www.instagram.com/p/DdrR84vlPa2/)** **_Free_**  
-   Salsadallas  
-   Wed, Sep 30, 2026 • all day  
-   `salsa` `lesson` `social` `festival` _via instagram_
 - **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
    Merkado · Frisco  
    Thu, Oct 1, 2026 • all day  
@@ -29,6 +25,14 @@
    Hangout · Irving  
    Thu, Oct 1, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Noches Latinas Fridays at Los Lupes](https://www.danceus.org/event/16552421183470/noches-latinas-fridays-at-los-lupes-addison-tx/)** **_Varies_**  
+   Los Lupes Addison  
+   Fri, Oct 2, 2026 • all day  
+   `salsa` `bachata` `merengue` _via danceus_
+- **[Friday Latin at Al-Amir Arlington](https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/)** **_Varies_**  
+   Al-Amir Arlington  
+   Fri, Oct 2, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via danceus_
 - **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316533933/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Fri, Oct 2, 2026 • 7:30 PM  
@@ -37,30 +41,6 @@
    You Can Dance Dallas · Addison  
    Fri, Oct 2, 2026 • 7:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
-- **[FREE Salsa Class + Dallas Salsa Congress 2026!](https://www.instagram.com/p/DdrR84vlPa2/)** **_Free_**  
-   Salsadallas  
-   Wed, Oct 7, 2026 • all day  
-   `salsa` `lesson` `social` `festival` _via instagram_
-- **[FREE Salsa Class + Dallas Salsa Congress 2026!](https://www.instagram.com/p/DdrR84vlPa2/)** **_Free_**  
-   Salsadallas  
-   Wed, Oct 14, 2026 • all day  
-   `salsa` `lesson` `social` `festival` _via instagram_
-- **[Free Salsa Class and Social Dancing](https://www.meetup.com/dallas_tries_things/events/316386087/)** **_Varies_**  
-   Kylde Warren Park · Dallas  
-   Fri, Oct 16, 2026 • 5:45 PM  
-   `social` `lesson` `salsa` _via meetup_
-- **[FREE Salsa Class + Dallas Salsa Congress 2026!](https://www.instagram.com/p/DdrR84vlPa2/)** **_Free_**  
-   Salsadallas  
-   Wed, Oct 21, 2026 • all day  
-   `salsa` `lesson` `social` `festival` _via instagram_
-- **[FREE Salsa Class + Dallas Salsa Congress 2026!](https://www.instagram.com/p/DdrR84vlPa2/)** **_Free_**  
-   Salsadallas  
-   Wed, Oct 28, 2026 • all day  
-   `salsa` `lesson` `social` `festival` _via instagram_
-- **[FREE Salsa Class + Dallas Salsa Congress 2026!](https://www.instagram.com/p/DdrR84vlPa2/)** **_Free_**  
-   Salsadallas  
-   Wed, Nov 4, 2026 • all day  
-   `salsa` `lesson` `social` `festival` _via instagram_
 
 ---
 
@@ -316,6 +296,14 @@
    Echalesalsita Dallas  
    Fri, Oct 2, 2026 • all day  
    `salsa` `lesson` `social` `bachata` _via instagram_
+- **[Noches Latinas Fridays at Los Lupes](https://www.danceus.org/event/16552421183470/noches-latinas-fridays-at-los-lupes-addison-tx/)** **_Varies_**  
+   Los Lupes Addison  
+   Fri, Oct 2, 2026 • all day  
+   `salsa` `bachata` `merengue` _via danceus_
+- **[Friday Latin at Al-Amir Arlington](https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/)** **_Varies_**  
+   Al-Amir Arlington  
+   Fri, Oct 2, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via danceus_
 - **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
    A3 Studiotx  
    Fri, Oct 2, 2026 • 6:00 PM  
