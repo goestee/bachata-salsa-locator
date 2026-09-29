@@ -1,18 +1,26 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-09-28 03:04 PM CDT**
+> Auto-generated. Last update: **2026-09-29 01:40 AM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 94 upcoming events tracked. **13 new** since last run.
+> 96 upcoming events tracked. **15 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
+- **[SALSA THURSDAY – DOWNTOWN ARLINGTON!](https://www.instagram.com/p/Dd2_1dbFUr9/)** **_Free_**  
+   Salsa At The Gardens  
+   Thu, Oct 1, 2026 • 6:00 PM – 9:00 PM  
+   `salsa` `bachata` `merengue` `lesson` _via instagram_
 - **[THIS FRIDAY, OCTOBER 2ND — GET READY FOR A NIGHT OF TEJANO & CUMBIA!](https://www.instagram.com/p/Ddzx0iVxdbi/)** **_$4–$18_**  
    Alamirarlington  
    Fri, Oct 2, 2026 • 11:00 PM  
    `social` _via instagram_
+- **[The 5th Annual Hispanic Heritage Celebration is happening Saturday, October 3 at Levitt Pavilion Arlington!](https://www.instagram.com/p/Dd3ExVnFRqO/)** **_Free_**  
+   Levitt Pavilion Arlington  
+   Sat, Oct 3, 2026 • 6:00 PM  
+   `salsa` `lesson` `social` _via instagram_
 - **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
    Victoria’s Restaurant · Farmers Branch  
    Sun, Oct 4, 2026 • all day  
@@ -163,6 +171,10 @@
    Hangout · Irving  
    Thu, Oct 1, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via danceus_
+- **[SALSA THURSDAY – DOWNTOWN ARLINGTON!](https://www.instagram.com/p/Dd2_1dbFUr9/)** **_Free_**  
+   Salsa At The Gardens  
+   Thu, Oct 1, 2026 • 6:00 PM – 9:00 PM  
+   `salsa` `bachata` `merengue` `lesson` _via instagram_
 - **[Salsa & bachata Thursdays advanced beginner/intermediate](https://www.meetup.com/salsa-with-jo/events/316521777/)** **_Varies_**  
    Green Space Arts Collective · Denton  
    Thu, Oct 1, 2026 • 7:30 PM  
@@ -241,6 +253,10 @@
    DFW Young & Social · Farmers Branch  
    Sat, Oct 3, 2026 • 5:00 PM  
    `social` `lesson` `salsa` _via meetup_
+- **[The 5th Annual Hispanic Heritage Celebration is happening Saturday, October 3 at Levitt Pavilion Arlington!](https://www.instagram.com/p/Dd3ExVnFRqO/)** **_Free_**  
+   Levitt Pavilion Arlington  
+   Sat, Oct 3, 2026 • 6:00 PM  
+   `salsa` `lesson` `social` _via instagram_
 - **[Salsa Saturdays at Blue Mesa Grill](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-saturdays-at-blue-mesa-grill/)** **_$8_**  
    Blue Mesa Grill · Dallas-Fort Worth  
    Sat, Oct 3, 2026 • 10:00 PM – 3:00 AM  
