@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-09-30 01:22 AM CDT**
+> Auto-generated. Last update: **2026-09-30 01:21 PM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 97 upcoming events tracked. **7 new** since last run.
+> 98 upcoming events tracked. **6 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -17,18 +17,10 @@
    Gigisbarandlounge  
    Wed, Sep 30, 2026 • 9:30 PM  
    `bachata` `lesson` `social` _via instagram_
-- **[SALSA THURSDAY – DOWNTOWN ARLINGTON!](https://www.instagram.com/p/Dd2_1dbFUr9/)** **_Free_**  
-   Salsa At The Gardens  
-   Thu, Oct 1, 2026 • 6:00 PM – 9:00 PM  
-   `salsa` `bachata` `merengue` `lesson` _via instagram_
 - **[Ready for October?](https://www.instagram.com/p/Dd4DCd4xs7P/)** **_Varies_**  
    Kumbaladancestudio  
    Fri, Oct 2, 2026 • 9:15 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
-- **[The 5th Annual Hispanic Heritage Celebration is happening Saturday, October 3 at Levitt Pavilion Arlington!](https://www.instagram.com/p/Dd3ExVnFRqO/)** **_Free_**  
-   Levitt Pavilion Arlington  
-   Sat, Oct 3, 2026 • 6:00 PM  
-   `salsa` `lesson` `social` _via instagram_
 - **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/316590333/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Tue, Oct 6, 2026 • 8:00 PM  
@@ -37,6 +29,10 @@
    You Can Dance Dallas · Addison  
    Sat, Oct 10, 2026 • 7:00 PM  
    `social` `lesson` `salsa` _via meetup_
+- **[Latin dancing at Taboo](https://www.meetup.com/dfw-trendy-tribe-meetup-group/events/316760148/)** **_Varies_**  
+   Taboo Lounge Dallas  
+   Fri, Nov 6, 2026 • 9:00 PM  
+   `social` `salsa` _via meetup_
 
 ---
 
@@ -446,6 +442,13 @@
    Salsadallas  
    Wed, Nov 4, 2026 • all day  
    `salsa` `lesson` `social` `festival` _via instagram_
+
+### Friday, November 6, 2026
+
+- **[Latin dancing at Taboo](https://www.meetup.com/dfw-trendy-tribe-meetup-group/events/316760148/)** **_Varies_**  
+   Taboo Lounge Dallas  
+   Fri, Nov 6, 2026 • 9:00 PM  
+   `social` `salsa` _via meetup_
 
 ### Friday, November 20, 2026
 
