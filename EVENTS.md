@@ -1,18 +1,22 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-10-01 01:46 PM CDT**
+> Auto-generated. Last update: **2026-10-02 01:48 AM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 112 upcoming events tracked. **30 new** since last run.
+> 113 upcoming events tracked. **35 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-10-01/)** **_Free_**  
-   Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
-   Thu, Oct 1, 2026 • 9:00 PM – 1:00 AM  
-   `social` `lesson` `salsa` _via golatindance_
+- **[Level 1.5 Salsa Group Class | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/316802936/)** **_Varies_**  
+   4801 Spring Valley Rd suite 118 · Farmers Branch  
+   Fri, Oct 2, 2026 • 7:00 PM  
+   `social` `workshop` `lesson` `salsa` _via meetup_
+- **[RUMBA LATINA FRIDAYS @ TABOO DALLAS!](https://www.instagram.com/p/Dd-n-tuFf2s/)** **_$5–$15_**  
+   Rumba Latina Fridays  
+   Fri, Oct 2, 2026 • 8:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 - **[Friday Latin at Al-Amir Arlington](https://golatindance.com/event/friday-rumba-nights-at-al-amir-arlington/2026-10-02/)** **_Varies_**  
    Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
    Fri, Oct 2, 2026 • 10:00 PM – 2:00 AM  
@@ -105,42 +109,11 @@
    Mexican Bar Company, 6121 West Park Blvd Ste RS-10, Plano, TX, 75093, United States  
    Sat, Oct 10, 2026 • 10:00 PM – 2:00 AM  
    `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Sabados de Gazadera at Al-Amir Arlington](https://golatindance.com/event/sabados-de-gazadera-at-al-amir-arlington/2026-10-10/)** **_$10_**  
-   Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
-   Sat, Oct 10, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` _via golatindance_
 
 ---
 
 ## Upcoming
 
-
-### Thursday, October 1, 2026
-
-- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
-   Merkado · Frisco  
-   Thu, Oct 1, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Thu, Oct 1, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
-   Hangout · Irving  
-   Thu, Oct 1, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[SALSA THURSDAY – DOWNTOWN ARLINGTON!](https://www.instagram.com/p/Dd2_1dbFUr9/)** **_Free_**  
-   Salsa At The Gardens  
-   Thu, Oct 1, 2026 • 6:00 PM – 9:00 PM  
-   `salsa` `bachata` `merengue` `lesson` _via instagram_
-- **[Salsa & bachata Thursdays advanced beginner/intermediate](https://www.meetup.com/salsa-with-jo/events/316521777/)** **_Varies_**  
-   Green Space Arts Collective · Denton  
-   Thu, Oct 1, 2026 • 7:30 PM  
-   `lesson` `salsa` `bachata` _via meetup_
-- **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-10-01/)** **_Free_**  
-   Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
-   Thu, Oct 1, 2026 • 9:00 PM – 1:00 AM  
-   `social` `lesson` `salsa` _via golatindance_
 
 ### Friday, October 2, 2026
 
@@ -160,6 +133,10 @@
    A3 Studiotx  
    Fri, Oct 2, 2026 • 6:00 PM  
    `social` _via instagram_
+- **[Level 1.5 Salsa Group Class | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/316802936/)** **_Varies_**  
+   4801 Spring Valley Rd suite 118 · Farmers Branch  
+   Fri, Oct 2, 2026 • 7:00 PM  
+   `social` `workshop` `lesson` `salsa` _via meetup_
 - **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316533933/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Fri, Oct 2, 2026 • 7:30 PM  
@@ -168,6 +145,10 @@
    You Can Dance Dallas · Addison  
    Fri, Oct 2, 2026 • 7:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
+- **[RUMBA LATINA FRIDAYS @ TABOO DALLAS!](https://www.instagram.com/p/Dd-n-tuFf2s/)** **_$5–$15_**  
+   Rumba Latina Fridays  
+   Fri, Oct 2, 2026 • 8:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 - **[Ready for October?](https://www.instagram.com/p/Dd4DCd4xs7P/)** **_Varies_**  
    Kumbaladancestudio  
    Fri, Oct 2, 2026 • 9:15 PM  
@@ -488,10 +469,25 @@
    The Victoria Restaurant · Farmers Branch  
    Sun, Oct 11, 2026 • 5:30 PM – 10:30 PM  
    `social` _via salsavida_
+- **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-10-11/)** **_Free_**  
+   Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
+   Sun, Oct 11, 2026 • 7:00 PM – 11:00 PM  
+   `social` `lesson` `salsa` _via golatindance_
 - **[Sabroso Sundays at Al-Amir Addison](https://www.salsavida.com/event/texas/dallas-fort-worth/sabroso-sundays-at-al-amir-addison/)** **_$10_**  
    Al-Amir Addison  
    Sun, Oct 11, 2026 • 10:00 PM – 2:00 AM  
    `social` _via salsavida_
+- **[Calentura Sundays @ Fuego Dance Co.](https://golatindance.com/event/calentura-sundays-fuego-dance-co/2026-10-11/)** **_$10_**  
+   Fuego Dance Company, 813 Main Street, Garland, TX, 75040, United States  
+   Sun, Oct 11, 2026 • 11:00 PM – 3:00 AM  
+   `social` `lesson` `salsa` `bachata` _via golatindance_
+
+### Monday, October 12, 2026
+
+- **[FREE Beginner Salsa & Bachata | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/316802898/)** **_Varies_**  
+   Kumbala Dance Studio · Farmers Branch  
+   Mon, Oct 12, 2026 • 7:00 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 
 ### Tuesday, October 13, 2026
 
@@ -540,12 +536,26 @@
    Wed, Oct 21, 2026 • all day  
    `salsa` `lesson` `social` `festival` _via instagram_
 
+### Thursday, October 22, 2026
+
+- **[FREE Beginner Salsa & Bachata | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/316802906/)** **_Varies_**  
+   Kumbala Dance Studio · Farmers Branch  
+   Thu, Oct 22, 2026 • 7:00 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
+
 ### Friday, October 23, 2026
 
 - **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
    A3 Studiotx  
    Fri, Oct 23, 2026 • 6:00 PM  
    `social` _via instagram_
+
+### Sunday, October 25, 2026
+
+- **[FREE Beginner Salsa & Bachata | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/316802913/)** **_Varies_**  
+   Kumbala Dance Studio · Farmers Branch  
+   Sun, Oct 25, 2026 • 7:00 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 
 ### Tuesday, October 27, 2026
 
