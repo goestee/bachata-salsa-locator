@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-10-05 04:02 PM CDT**
+> Auto-generated. Last update: **2026-10-06 02:17 AM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 117 upcoming events tracked. **17 new** since last run.
+> 118 upcoming events tracked. **18 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -77,6 +77,10 @@
    Al-Amir Addison  
    Sun, Oct 18, 2026 • 10:00 PM – 2:00 AM  
    `social` _via salsavida_
+- **[NO SALSA WEDNESDAYS UNTIL OCTOBER 28](https://www.instagram.com/p/DeIjX3BmkF1/)** **_Varies_**  
+   Bombshells Rowlett  
+   Wed, Oct 28, 2026 • all day  
+   `salsa` _via instagram_
 
 ---
 
@@ -538,6 +542,10 @@
    Salsadallas  
    Wed, Oct 28, 2026 • all day  
    `salsa` `lesson` `social` `festival` _via instagram_
+- **[NO SALSA WEDNESDAYS UNTIL OCTOBER 28](https://www.instagram.com/p/DeIjX3BmkF1/)** **_Varies_**  
+   Bombshells Rowlett  
+   Wed, Oct 28, 2026 • all day  
+   `salsa` _via instagram_
 
 ### Friday, October 30, 2026
 
