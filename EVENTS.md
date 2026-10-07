@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-10-07 01:56 AM CDT**
+> Auto-generated. Last update: **2026-10-07 02:17 PM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 119 upcoming events tracked. **5 new** since last run.
+> 119 upcoming events tracked. **4 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -25,10 +25,6 @@
    Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
    Sat, Oct 17, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` _via golatindance_
-- **[NO SALSA WEDNESDAYS UNTIL OCTOBER 28](https://www.instagram.com/p/DeIjX3BmkF1/)** **_Varies_**  
-   Bombshells Rowlett  
-   Wed, Oct 28, 2026 • all day  
-   `salsa` _via instagram_
 
 ---
 
