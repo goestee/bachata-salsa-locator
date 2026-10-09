@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-10-08 02:13 PM CDT**
+> Auto-generated. Last update: **2026-10-09 02:13 AM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 120 upcoming events tracked. **9 new** since last run.
+> 118 upcoming events tracked. **11 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -29,6 +29,10 @@
    Stratos Greek Taverna · Dallas  
    Wed, Oct 14, 2026 • all day  
    `social` `salsa` _via danceus_
+- **[MIDWEEK JUST GOT HOTTER!](https://www.instagram.com/p/DePr8WTSTMK/)** **_Varies_**  
+   Mjr Productions94  
+   Wed, Oct 14, 2026 • 9:30 PM  
+   `salsa` `bachata` `merengue` `lesson` _via instagram_
 - **[Dallas Can Dance Monthly Saturday Social](https://golatindance.com/event/dcd-seventy-thirty-70-bachata-30-salsa/2026-10-17/)** **_$20–$25_**  
    Dallas Can Dance – The Academy, 2650 Midway Rd #130, Carrollton, TX, 75006, United States  
    Sat, Oct 17, 2026 • 10:00 PM – 2:00 AM  
@@ -37,6 +41,10 @@
    Reys Sports Bar, 2836 N Oconnor Rd, Irving, TX, United States  
    Sat, Oct 17, 2026 • 10:00 PM – 2:00 AM  
    `salsa` `bachata` `merengue` _via golatindance_
+- **[Salsa Sunday at La Chingona](https://golatindance.com/event/salsa-sunday-at-la-chingona/2026-10-18/)** **_Free_**  
+   La Chingona, 2800 Bledsoe St #100, Fort Worth, TX, 76107, United States  
+   Sun, Oct 18, 2026 • 3:00 PM – 6:00 PM  
+   `lesson` `salsa` `bachata` _via golatindance_
 - **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
    Vidorra Cocina · Dallas-Fort Worth  
    Wed, Oct 21, 2026 • 7:00 PM – 11:00 PM  
@@ -50,25 +58,6 @@
 
 ## Upcoming
 
-
-### Thursday, October 8, 2026
-
-- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
-   Merkado · Frisco  
-   Thu, Oct 8, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Thu, Oct 8, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
-   Hangout · Irving  
-   Thu, Oct 8, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-10-08/)** **_Free_**  
-   Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
-   Thu, Oct 8, 2026 • 9:00 PM – 1:00 AM  
-   `social` `lesson` `salsa` _via golatindance_
 
 ### Friday, October 9, 2026
 
@@ -339,6 +328,10 @@
    Stratos Bar & Grill · Dallas  
    Wed, Oct 14, 2026 • 9:30 PM – 2:00 AM  
    `salsa` `bachata` _via salsavida_
+- **[MIDWEEK JUST GOT HOTTER!](https://www.instagram.com/p/DePr8WTSTMK/)** **_Varies_**  
+   Mjr Productions94  
+   Wed, Oct 14, 2026 • 9:30 PM  
+   `salsa` `bachata` `merengue` `lesson` _via instagram_
 
 ### Thursday, October 15, 2026
 
@@ -439,6 +432,10 @@
    Lola's Cuban Food · Dallas-Fort Worth  
    Sun, Oct 18, 2026 • 3:00 PM – 6:00 PM  
    `salsa` _via salsavida_
+- **[Salsa Sunday at La Chingona](https://golatindance.com/event/salsa-sunday-at-la-chingona/2026-10-18/)** **_Free_**  
+   La Chingona, 2800 Bledsoe St #100, Fort Worth, TX, 76107, United States  
+   Sun, Oct 18, 2026 • 3:00 PM – 6:00 PM  
+   `lesson` `salsa` `bachata` _via golatindance_
 - **[Son y Sabor at The Victoria](https://www.salsavida.com/event/texas/dallas-fort-worth/son-y-sabor-at-the-victoria/)** **_$7_**  
    The Victoria Restaurant · Farmers Branch  
    Sun, Oct 18, 2026 • 5:30 PM – 10:30 PM  
