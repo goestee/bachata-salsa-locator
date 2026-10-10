@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-09T18:43:41.044306+00:00",
-  "count": 152,
+  "updated_at": "2026-10-10T06:46:39.654598+00:00",
+  "count": 157,
   "events": [
     {
       "title": "MARTÍN GONZÁLEZ CONFIRMED",
@@ -25,15 +25,15 @@
     },
     {
       "title": "DALLAS SALSA CONGRESS 2026",
-      "start": "2026-11-20T00:00:00-06:00",
+      "start": "2026-11-20T03:30:00-06:00",
       "source": "instagram",
-      "source_url": "https://www.instagram.com/p/DeAuIZricWY/",
+      "source_url": "https://www.instagram.com/p/DeP3cSyDS3G/",
       "end": null,
       "venue": "Salsadallas",
       "address": null,
       "city": null,
-      "description": "🔥 DALLAS SALSA CONGRESS 2026 🔥\n\nThe lineup keeps growing!\n📅 November 20–22, 2026\n📍 Dallas–Fort Worth\n3 Nights of Social Dancing • World-Class Shows • Amazing Workshops\n🎟️ Get your tickets now — scan the QR code!\nMore artists to be announced! 💃🕺\n\nDallasSalsaCongress.com\nhosted by SalsaDallas.com\n\n#DallasSalsaCongress #DallasSalsa #SalsaDallas #SalsaCongress #DFWSalsa #TexasSalsa #DallasEvents",
-      "image_url": "https://instagram.fbcn4-1.fna.fbcdn.net/v/t39.30808-6/832963251_1882766519804346_4179151901807182862_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5OTM5OTM1NjU3NDMyMDAyNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xi2nlw_wLJMQ7kNvwEahNee&_nc_oc=Adq3oYyxLRlo54Ke9pAFWAN5xqtRtVQJstRKOOOiouNRUENWubAQWGfY6gfOx9FRSQ4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbcn4-1.fna&_nc_gid=HhKfFpiBlACJSwiQPKfsmQ&_nc_ss=7a22e&oh=00_AQNiEPwj6xTaBK-zMAW_EaoL4cDvoousBz3gg-c4k-brkw&oe=6ACE7EE6",
+      "description": "🔥 DALLAS SALSA CONGRESS 2026 🔥\n\nGet ready for an unforgettable weekend of Salsa, music, dancing, and incredible performances! 💃🕺\n\n📅 November 20–22, 2026\n📍 Four Points by Sheraton – Coppell, Texas\n\n✨ Amazing National & International Artists\n🔥 Exciting Dance Workshops\n🎭 Spectacular Live Performances\n🎶 Social Dancing Until 3:30 AM Friday & Saturday\n\n🎟️ **Full Weekend Passes – $119!**\n\nDon't miss one of Dallas' most exciting Salsa weekends!\n\n🎟️ Get your tickets today:\nwww.dallassalsacongress.com\n\n#D",
+      "image_url": "https://scontent-ssn1-1.cdninstagram.com/v/t39.30808-6/831325107_1888766922537639_7965964709808557680_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAwMzY2MjQzMDYyNjE5NjkzNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuODAwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=vQjc_3U-vrEQ7kNvwHCGMHT&_nc_oc=AdqPlFV7ql2yvYv40ig87w4gj2hfmwcLhBxnY9eGwWoNWI7grwVReXBYxxreJdBztAg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_gid=0C4xHmzqZwsQE_QEEZngHA&_nc_ss=7a22e&oh=00_AQNksR7HLWLc2ut6Fi3ICif5yMfTEN6GrOdRv21c4eoYpA&oe=6ACFA6E4",
       "tags": [
         "salsa",
         "lesson",
@@ -41,11 +41,11 @@
         "workshop",
         "festival"
       ],
-      "price": null,
+      "price": "$119",
       "id": "1fbd2784f30991d9",
       "first_seen_at": "2026-05-05T02:58:11.082647+00:00",
-      "last_seen_at": "2026-10-09T07:13:48.694364+00:00",
-      "submitted_to_supabase": "2026-10-09T07:13:48.694597+00:00"
+      "last_seen_at": "2026-10-10T06:46:38.611205+00:00",
+      "submitted_to_supabase": "2026-10-10T06:46:38.611461+00:00"
     },
     {
       "title": "SALSA & BACHATA SUNDAYS",
@@ -339,7 +339,7 @@
       "price": "Free",
       "id": "8c8e2b5d115b8c53",
       "first_seen_at": "2026-07-16T15:05:59.497165+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044138+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611175+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -383,7 +383,7 @@
       "price": "Free",
       "id": "22c15dcd4a94a3fe",
       "first_seen_at": "2026-07-16T15:05:59.497168+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044139+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611177+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -500,7 +500,7 @@
       "price": "Free",
       "id": "e8c1ecc9d9213ff9",
       "first_seen_at": "2026-07-16T15:05:59.497177+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044148+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611190+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -524,7 +524,7 @@
       "price": "Free",
       "id": "cb9552c97be3e86c",
       "first_seen_at": "2026-07-16T15:05:59.497178+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044150+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611192+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -547,7 +547,7 @@
       "price": "$20",
       "id": "eb91593704bda145",
       "first_seen_at": "2026-07-16T15:05:59.497180+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044156+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611200+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -664,7 +664,7 @@
       "price": "Free",
       "id": "5fa2aa582573935e",
       "first_seen_at": "2026-07-26T14:32:33.425717+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044141+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611180+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1134,7 +1134,7 @@
       "price": "$10",
       "id": "7afdfe142521e2da",
       "first_seen_at": "2026-09-21T18:33:15.505483+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044143+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611182+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1157,7 +1157,7 @@
       "price": "$7",
       "id": "eee85ffe5cd5db44",
       "first_seen_at": "2026-09-21T18:33:15.505486+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044145+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611185+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1181,7 +1181,7 @@
       "price": "Free",
       "id": "435a04c9f6feded2",
       "first_seen_at": "2026-09-21T18:33:15.505488+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044147+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611187+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1327,7 +1327,7 @@
       "price": null,
       "id": "3a1bd36b5bdb660e",
       "first_seen_at": "2026-09-25T05:56:42.350535+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.043926+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.610905+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1459,7 +1459,7 @@
       "price": "Free",
       "id": "1bc982885bf502ec",
       "first_seen_at": "2026-09-27T17:36:09.789727+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044109+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611137+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1480,7 +1480,7 @@
       "price": "Free",
       "id": "e2bbece80364c8e1",
       "first_seen_at": "2026-09-27T17:36:09.789729+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044111+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611139+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1523,7 +1523,7 @@
       "price": "$10",
       "id": "e18fa3ea79f45fe0",
       "first_seen_at": "2026-09-28T20:04:13.923886+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044113+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611142+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1543,7 +1543,7 @@
       "price": "$7",
       "id": "ed4e096e4743472b",
       "first_seen_at": "2026-09-28T20:04:13.923888+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044115+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611144+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1563,7 +1563,7 @@
       "price": "Free",
       "id": "823571133da52975",
       "first_seen_at": "2026-09-28T20:04:13.923890+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044117+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611147+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1585,7 +1585,7 @@
       "price": null,
       "id": "cd5017d58fb1b6af",
       "first_seen_at": "2026-09-30T06:22:58.549758+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.043963+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.610950+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1606,29 +1606,7 @@
       "price": null,
       "id": "c3b6ac5e1f9018db",
       "first_seen_at": "2026-09-30T18:21:11.320317+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.043954+00:00",
-      "submitted_to_supabase": null
-    },
-    {
-      "title": "Latin Thursdays at Massey Shots",
-      "start": "2026-10-08T21:00:00-05:00",
-      "source": "golatindance",
-      "source_url": "https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-10-08/",
-      "end": "2026-10-09T01:00:00-05:00",
-      "venue": "Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States",
-      "address": "Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States",
-      "city": null,
-      "description": "Turn up the heat every Thursday at Massey Shots 💃🏽🕺🏽\n✨ Happy Hour ‘til 9PM\n🍽 Kitchen open ‘til 1AM\n🎶 Latin vibes by DJ Salvatore\n💥 FREE Salsa Class at 9:30PM with Roberto Lay\nNo cover. All vibes. All night.\nGrab your crew, grab a drink, and let the rhythm take over\nThursday nights just got spicy.",
-      "image_url": null,
-      "tags": [
-        "social",
-        "lesson",
-        "salsa"
-      ],
-      "price": "Free",
-      "id": "d2920c165ef85b7b",
-      "first_seen_at": "2026-10-01T06:57:32.099957+00:00",
-      "last_seen_at": "2026-10-08T19:13:08.857095+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.610945+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1721,7 +1699,7 @@
       "price": "Free",
       "id": "6dce50061f794ea6",
       "first_seen_at": "2026-10-01T06:57:32.099972+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044043+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611039+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1743,7 +1721,7 @@
       "price": "$10",
       "id": "52c56651cf786a1a",
       "first_seen_at": "2026-10-01T06:57:32.099975+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044046+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611043+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1765,7 +1743,7 @@
       "price": "Free",
       "id": "6b56427333d0324b",
       "first_seen_at": "2026-10-01T06:57:32.099979+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044049+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611047+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1787,7 +1765,7 @@
       "price": "Free",
       "id": "ae223deaf7f011ad",
       "first_seen_at": "2026-10-01T06:57:32.099982+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044052+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611052+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1808,7 +1786,7 @@
       "price": "Free",
       "id": "f572f4cacce674ff",
       "first_seen_at": "2026-10-01T18:46:25.931005+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044118+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611149+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1828,7 +1806,7 @@
       "price": "Free",
       "id": "d7ced380cb2dabeb",
       "first_seen_at": "2026-10-01T18:46:25.931007+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044120+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611151+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1851,7 +1829,7 @@
       "price": null,
       "id": "3d87002b44264a2e",
       "first_seen_at": "2026-10-02T06:48:06.118617+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.043986+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.610971+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1874,7 +1852,7 @@
       "price": null,
       "id": "556544edad33a337",
       "first_seen_at": "2026-10-02T06:48:06.118634+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044007+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611002+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1897,7 +1875,7 @@
       "price": null,
       "id": "4c072af72b009687",
       "first_seen_at": "2026-10-02T06:48:06.118637+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044004+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.610998+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1919,7 +1897,7 @@
       "price": "Free",
       "id": "af940a88612c0f86",
       "first_seen_at": "2026-10-02T06:48:06.118725+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044055+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611056+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1942,74 +1920,7 @@
       "price": "$10",
       "id": "91e77da9b4b2e244",
       "first_seen_at": "2026-10-02T06:48:06.118728+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044058+00:00",
-      "submitted_to_supabase": null
-    },
-    {
-      "title": "Salsa Bachata Thursdays at Merkado",
-      "start": "2026-10-08",
-      "source": "danceus",
-      "source_url": "https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/",
-      "end": "2026-10-09",
-      "venue": "Merkado",
-      "address": "8320 Tx-121, Frisco, TX 75034, Frisco, TX",
-      "city": "Frisco",
-      "description": "Salsa Bachata Thursdays at Merkado. See site for details.",
-      "image_url": "https://www.danceus.org/events/images/165524213229416/salsa-bachata-thursdays-at-merkado-cover.jpg",
-      "tags": [
-        "salsa",
-        "bachata"
-      ],
-      "price": null,
-      "id": "9abab448f3b263c3",
-      "first_seen_at": "2026-10-02T18:17:28.020655+00:00",
-      "last_seen_at": "2026-10-08T19:13:08.857062+00:00",
-      "submitted_to_supabase": null
-    },
-    {
-      "title": "Kumbala Thursday’s at Al-Amir Addison",
-      "start": "2026-10-08",
-      "source": "danceus",
-      "source_url": "https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/",
-      "end": "2026-10-09",
-      "venue": "Al-Amir Addison",
-      "address": "3885 Belt Line Road, Addison, TX 75001, Addison, TX",
-      "city": "Addison",
-      "description": "Join us every Thursday at Al-Amir in Addison for some latin music and social dancing! FREE salsa and/or bachata class by the lovely Karla Maldonado. NO COVER HAPPY HOUR ALL NIGHT FREE class at 10PM",
-      "image_url": "https://www.danceus.org/events/images/16552421094020/kumbala-thursdays-at-al-amir-addison-cover.jpg",
-      "tags": [
-        "social",
-        "lesson",
-        "salsa",
-        "bachata"
-      ],
-      "price": null,
-      "id": "81822794fc64436a",
-      "first_seen_at": "2026-10-02T18:17:28.020657+00:00",
-      "last_seen_at": "2026-10-08T19:13:08.857064+00:00",
-      "submitted_to_supabase": null
-    },
-    {
-      "title": "Latin Night at Hangout",
-      "start": "2026-10-08",
-      "source": "danceus",
-      "source_url": "https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/",
-      "end": "2026-10-09",
-      "venue": "Hangout",
-      "address": "3554 W Airport Freeway, Irving, TX 75052, Irving, TX",
-      "city": "Irving",
-      "description": "Every Thursday at the Hangout from 10pm to 2am. Emcee and dance class by Jay Styles Salsa Bachata Music by Dj Marlon Lets go!",
-      "image_url": "https://www.danceus.org/events/images/165524211143464/latin-night-at-hangout-cover.jpg",
-      "tags": [
-        "social",
-        "lesson",
-        "salsa",
-        "bachata"
-      ],
-      "price": null,
-      "id": "3b217f217a5dee4c",
-      "first_seen_at": "2026-10-02T18:17:28.020660+00:00",
-      "last_seen_at": "2026-10-08T19:13:08.857067+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611060+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2080,7 +1991,7 @@
       "price": "Free",
       "id": "db6870b910551d8b",
       "first_seen_at": "2026-10-03T06:07:39.024185+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044061+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611064+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2104,7 +2015,7 @@
       "price": "Free",
       "id": "be35092261f62546",
       "first_seen_at": "2026-10-03T06:07:39.024189+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044064+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611068+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2126,7 +2037,7 @@
       "price": "Free",
       "id": "b48864f02f9856c2",
       "first_seen_at": "2026-10-03T06:07:39.024194+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044068+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611074+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2286,7 +2197,7 @@
       "price": null,
       "id": "b2f633db7e9041ec",
       "first_seen_at": "2026-10-03T17:04:24.179577+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044009+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611005+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2309,7 +2220,7 @@
       "price": null,
       "id": "0f9fedf68516ea3e",
       "first_seen_at": "2026-10-03T17:04:24.179579+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044011+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611007+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2330,7 +2241,7 @@
       "price": "$18",
       "id": "f181df4d5544e03d",
       "first_seen_at": "2026-10-03T17:04:24.179712+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044122+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611154+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2352,7 +2263,7 @@
       "price": "$10",
       "id": "d7a3ed77694b3f97",
       "first_seen_at": "2026-10-03T17:04:24.179714+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044124+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611156+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2376,7 +2287,7 @@
       "price": "$18",
       "id": "8198a1ec75933cf3",
       "first_seen_at": "2026-10-03T17:04:24.179738+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044152+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611195+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2399,7 +2310,7 @@
       "price": "$10",
       "id": "45aa0b8b224121c9",
       "first_seen_at": "2026-10-03T17:04:24.179740+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044155+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611197+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2421,7 +2332,7 @@
       "price": null,
       "id": "030f4520fab67edc",
       "first_seen_at": "2026-10-04T06:42:38.929093+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.043945+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.610932+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2443,7 +2354,7 @@
       "price": null,
       "id": "f48096a0fc56d49c",
       "first_seen_at": "2026-10-04T06:42:38.929151+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044001+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.610994+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2467,7 +2378,7 @@
       "price": "Free",
       "id": "2d039ec0e56538e7",
       "first_seen_at": "2026-10-04T06:42:38.929276+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044071+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611079+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2489,7 +2400,7 @@
       "price": "Free",
       "id": "e3cc3d6e5c8b8db0",
       "first_seen_at": "2026-10-04T06:42:38.929280+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044074+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611083+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2512,7 +2423,7 @@
       "price": "$15–$18",
       "id": "51beb18d8bbecfa0",
       "first_seen_at": "2026-10-04T06:42:38.929284+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044077+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611087+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2535,7 +2446,7 @@
       "price": "$17",
       "id": "e44fca6a7a7c9191",
       "first_seen_at": "2026-10-04T06:42:38.929288+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044080+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611091+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2548,7 +2459,7 @@
       "address": null,
       "city": null,
       "description": "🔥 NEW YORK IS COMING TO DALLAS! 🔥\n\nGet ready for an unforgettable weekend at the Dallas Salsa Congress 2026! 💃🕺\nWe’re excited to welcome Zafire from New York to perform at this year’s Congress! 🔥\n\n📅 November 20–22, 2026\n📍 Dallas–Fort Worth, Texas\n✨ Performances • Workshops • Social Dancing\n🎶 Salsa all weekend long!\n\nJoin dancers from Dallas and across the country for a weekend full of incredible music, dancing and performances.\n\n🎟️ Get your pass now at: https://salsadallas.com/dallas-salsa-congr",
-      "image_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/831504818_18413340481082207_7907039656571277653_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=104&ig_cache_key=Mzk5OTkzMjYzMzUzNzU4NDE1NTE4NDEzMzQwNDc1MDgyMjA3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=x9Xd24mn0g4Q7kNvwEwWOvk&_nc_oc=Adok8mnpRm7ESJBnvgi1-rXaF2f7FwviKL4VJk7JL0iapwAlJ-mUcLDz8r7jJOb_YZk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=2-GzY8ZMem00kAcPX6VZ-A&_nc_ss=7a22e&oh=00_AQMu4dOkb8BPVCJI9dV-o8dPJv89OcAZL6OaRhjJz9T31g&oe=6ACE611F",
+      "image_url": "https://scontent-dus1-1.cdninstagram.com/v/t51.82787-15/831504818_18413340481082207_7907039656571277653_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=104&ig_cache_key=Mzk5OTkzMjYzMzUzNzU4NDE1NTE4NDEzMzQwNDc1MDgyMjA3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=x9Xd24mn0g4Q7kNvwGCqJw_&_nc_oc=AdpVeuQf18lUXekppJO-TPYDFyBwovKrzcHT-dyjC0Q3XkftKjBqknC0a_8hRAx6aDyqzDJl4bQ0D5_U04vGdA7D&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_gid=WiYWH4ZzyUS0gn2uwjr5zg&_nc_ss=7a22e&oh=00_AQNSto7Nx9vDQ_QvyX_GHL_3EX__FB60D8eMUjcE6Ig1OQ&oe=6ACFB29F",
       "tags": [
         "salsa",
         "lesson",
@@ -2559,8 +2470,8 @@
       "price": null,
       "id": "b5ac700de1fcbfc6",
       "first_seen_at": "2026-10-04T06:42:38.929389+00:00",
-      "last_seen_at": "2026-10-09T07:13:48.694366+00:00",
-      "submitted_to_supabase": "2026-10-09T07:13:48.694597+00:00"
+      "last_seen_at": "2026-10-10T06:46:38.611207+00:00",
+      "submitted_to_supabase": "2026-10-10T06:46:38.611461+00:00"
     },
     {
       "title": "Noches Latinas Saturdays at Los Lupes",
@@ -2581,7 +2492,7 @@
       "price": null,
       "id": "0ec2193b92435803",
       "first_seen_at": "2026-10-04T17:22:51.546680+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044013+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611010+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2603,7 +2514,7 @@
       "price": "$20",
       "id": "58bcec1993140344",
       "first_seen_at": "2026-10-04T17:22:51.546812+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044125+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611159+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2623,7 +2534,7 @@
       "price": "Free",
       "id": "37e20ec54b92ad10",
       "first_seen_at": "2026-10-04T17:22:51.546815+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044127+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611161+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2646,7 +2557,7 @@
       "price": null,
       "id": "153cdea2af4a126c",
       "first_seen_at": "2026-10-05T06:38:44.465603+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.043979+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.610956+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2671,7 +2582,7 @@
       "price": null,
       "id": "90edf110f701d161",
       "first_seen_at": "2026-10-05T06:38:44.465613+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.043983+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.610967+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2691,7 +2602,7 @@
       "price": null,
       "id": "e2707c7647079493",
       "first_seen_at": "2026-10-05T06:38:44.465626+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.043992+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.610981+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2715,7 +2626,7 @@
       "price": null,
       "id": "0c8623666d9f82bf",
       "first_seen_at": "2026-10-05T06:38:44.465630+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.043995+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.610985+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2738,7 +2649,7 @@
       "price": null,
       "id": "2456de10db81ea92",
       "first_seen_at": "2026-10-05T06:38:44.465633+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.043998+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.610989+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2761,7 +2672,7 @@
       "price": null,
       "id": "2963cfe5dddf3d0b",
       "first_seen_at": "2026-10-05T06:38:44.465752+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044083+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611095+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2784,7 +2695,7 @@
       "price": "$5–$15",
       "id": "d585a9d45ad37c88",
       "first_seen_at": "2026-10-05T06:38:44.465756+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044086+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611099+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2807,7 +2718,7 @@
       "price": "Free",
       "id": "57d1e0563d14294b",
       "first_seen_at": "2026-10-05T06:38:44.465760+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044088+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611102+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2827,7 +2738,7 @@
       "price": null,
       "id": "5b3af116be0fe5d7",
       "first_seen_at": "2026-10-05T06:38:44.465763+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044091+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611106+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2851,7 +2762,7 @@
       "price": "Free",
       "id": "a69e26bcfe257515",
       "first_seen_at": "2026-10-05T06:38:44.465767+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044094+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611110+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2893,7 +2804,7 @@
       "price": null,
       "id": "f151a54e923593ea",
       "first_seen_at": "2026-10-05T21:02:34.311563+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044014+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611012+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2914,7 +2825,7 @@
       "price": null,
       "id": "ec168efff358cdea",
       "first_seen_at": "2026-10-05T21:02:34.311566+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044016+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611015+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2937,7 +2848,7 @@
       "price": null,
       "id": "ebb89c1586398785",
       "first_seen_at": "2026-10-05T21:02:34.311569+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044018+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611018+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2957,7 +2868,7 @@
       "price": "$10",
       "id": "68c9f8c76b937be7",
       "first_seen_at": "2026-10-05T21:02:34.311701+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044129+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611163+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2977,7 +2888,7 @@
       "price": "$7",
       "id": "54d48654498c84ff",
       "first_seen_at": "2026-10-05T21:02:34.311704+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044130+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611166+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2997,7 +2908,7 @@
       "price": "Free",
       "id": "37876a51f30fd228",
       "first_seen_at": "2026-10-05T21:02:34.311706+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044132+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611168+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3010,15 +2921,15 @@
       "address": null,
       "city": null,
       "description": "NO SALSA WEDNESDAYS UNTIL OCTOBER 28\n\nSalsa by the Bay returns Wednesday, October 28 at Bombshells Rowlett!\n\nSalsaDallas.com\nLuis Delgadillo\n214-923-9404",
-      "image_url": "https://scontent-atl3-1.cdninstagram.com/v/t39.30808-6/836870731_1885882996159365_5788875539005362119_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=NDAwMTYwMzg0MDE3NzIyNjEwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7xcyFcLjCIoQ7kNvwHxqNrg&_nc_oc=AdojNFQ03Hgrv5ImKJ5NlWnIYlnevvRP7KFSRQ7zvmBKrqDmpNzbubHuU-zaSOgt5rvAfWrrpA8hKAOlSWhf1ZOM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=atnwO2E-tCgdhIQUYrAu2w&_nc_ss=7a22e&oh=00_AQOaeA7QKnWba10zbmB4EcKVpnKbEWgzec_OA4QKJfGX8A&oe=6ACE66EB",
+      "image_url": "https://instagram.fcdg3-1.fna.fbcdn.net/v/t39.30808-6/836870731_1885882996159365_5788875539005362119_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=NDAwMTYwMzg0MDE3NzIyNjEwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7xcyFcLjCIoQ7kNvwHYN3KF&_nc_oc=AdpRQKwMvCrO6Y9HliY6wRMP3GknG-J46h81eLobJmPt0KbEOxKQjapKjrWtyErMulFolcF9uZeZrZj-lMHan1Ra&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fcdg3-1.fna&_nc_gid=WavDAtVZJqttBZr_zPmYYw&_nc_ss=7a22e&oh=00_AQN3wo_iMVZv9zxDXcibNfHyQxY7NWAptIJX30HLZDJlAg&oe=6ACFB86B",
       "tags": [
         "salsa"
       ],
       "price": null,
       "id": "52a4945e23e5786f",
       "first_seen_at": "2026-10-06T07:17:01.949523+00:00",
-      "last_seen_at": "2026-10-09T07:13:48.694360+00:00",
-      "submitted_to_supabase": "2026-10-09T07:13:48.694597+00:00"
+      "last_seen_at": "2026-10-10T06:46:38.611202+00:00",
+      "submitted_to_supabase": "2026-10-10T06:46:38.611461+00:00"
     },
     {
       "title": "Beginner Salsa Dance Class",
@@ -3039,7 +2950,7 @@
       "price": null,
       "id": "dde616f916003f1d",
       "first_seen_at": "2026-10-07T06:56:43.451194+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.043950+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.610940+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3061,7 +2972,7 @@
       "price": "$10",
       "id": "796b987c0d1348c4",
       "first_seen_at": "2026-10-07T06:56:43.451316+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044097+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611114+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3074,7 +2985,7 @@
       "address": null,
       "city": null,
       "description": "🔥🏈 TEXAS vs. OU WEEKEND STARTS AT TABOO DALLAS! 🤘🔥\n\nBefore the big game, kick off Texas–OU Weekend with live Latin music, dancing, and one epic Friday night party! 💃🕺\n\n📅 Friday, October 9\n📍 Taboo Dallas\n1418 N Riverfront Blvd, Dallas, TX 75207\n🎺 LIVE — LATIN SWING BAND\n🔥 2 ROOMS TO PARTY • 1 EPIC NIGHT\n💃 TABOO ROOM — DJ WANDER\nSalsa • Bachata • Merengue • Cumbia\n🎉 LA SANTA ROOM — DJ KOCO BEATZ\nReggaeton • Latin Top 40 • Trap • Dance\n🎟 FREE before 10 PM\n👠 Ladies $5 after 10 PM\n🕺 Men $15 after 10 ",
-      "image_url": "https://instagram.fnvt1-1.fna.fbcdn.net/v/t51.82787-15/840900575_18017216897933580_1168630824196203965_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=NDAwMjMyNTQxNzM2NTQ2ODY4NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTIyNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=0Zk2QLlW3tUQ7kNvwHXqGG_&_nc_oc=Ado2a96JLYbr7_KWyO1vi-U9Rke1ZQ6NV8xXPbTSvHJjgksOtYgnlTvVGLx9tDznRH4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fnvt1-1.fna&_nc_gid=VzUSR98k5DIcFU66N5Uwng&_nc_ss=7a22e&oh=00_AQMjjwR64Mh5H8Iupe_ekQOo-GmAbnKu62OTILQMf1C23w&oe=6ACE5856",
+      "image_url": "https://instagram.fhnd7-1.fna.fbcdn.net/v/t51.82787-15/840900575_18017216897933580_1168630824196203965_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=NDAwMjMyNTQxNzM2NTQ2ODY4NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTIyNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=0Zk2QLlW3tUQ7kNvwGYqu4p&_nc_oc=AdoBFekr0NhjKtyOtIKsN6L2J1xzI1ZyZHjCzZrvEuClD_-gsBhAabcSapP8Vy-5fPY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fhnd7-1.fna&_nc_gid=VnKtq_2tkKcYDO85O4rldQ&_nc_ss=7a22e&oh=00_AQNyJN1dHLjVzWv8fHQAjnfetvfWp5t-9Dof6FdXk2PlcQ&oe=6ACFA9D6",
       "tags": [
         "salsa",
         "bachata",
@@ -3084,8 +2995,8 @@
       "price": "$5–$15",
       "id": "3258dd111ca7b1be",
       "first_seen_at": "2026-10-07T06:56:43.451391+00:00",
-      "last_seen_at": "2026-10-09T07:13:48.694348+00:00",
-      "submitted_to_supabase": "2026-10-09T07:13:48.694597+00:00"
+      "last_seen_at": "2026-10-10T06:46:38.611219+00:00",
+      "submitted_to_supabase": null
     },
     {
       "title": "HISPANIC HERITAGE FEST AT TEXAS LIVE!",
@@ -3129,7 +3040,7 @@
       "price": "$20–$25",
       "id": "5a5b730ecab06cf0",
       "first_seen_at": "2026-10-08T07:05:42.589833+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044101+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611119+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3151,7 +3062,7 @@
       "price": "Free",
       "id": "1710400e86535261",
       "first_seen_at": "2026-10-08T07:05:42.589835+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044104+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611123+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3164,7 +3075,7 @@
       "address": null,
       "city": null,
       "description": "🎃🔥 HALLOWEEN EDITION: SALSA & PERREO! 🔥🎃\n\n👻💜 SUNDAY, OCTOBER 11 — AL-AMIR ADDISON! 💚\n\nGet ready for a SPOOKTACULAR night filled with sexy Latin beats, Halloween vibes, and nonstop dancing! 💃🕺🔥\n\n🎧 LIVE MUSIC BY:\n🔥 DJ CHRISTIAN\n🔥 DJ WATERMELON\n\n🎶 REGGAETÓN | DEMBOW | CUBATÓN | SALSA | BACHATA | BANDA Y MUCHO MÁS!\n\n💋 LADIES FREE ENTRY UNTIL 11 PM! 💋\n\n🎃 Halloween Atmosphere\n💃 Dance All Night\n🍹 Drinks • Music • Good Vibes\n\n📍 AL-AMIR ADDISON\n3885 Belt Line Road, Addison, TX\n\n👻 Bring your crew, dress t",
-      "image_url": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/839497744_18569696155073917_6948903469996360249_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=100&ig_cache_key=NDAwMzEwNDY1ODEzMzg2ODM3Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTUwMC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=oHlXqsbiIqsQ7kNvwG11cDs&_nc_oc=Adp7WOn0muIzfVMXMLd_oBq-16wH6dkooJpXGolkmMYTw95Z3tpwpYCG-mgPDAmG9_o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr11-1.cdninstagram.com&_nc_gid=SkbWUmvdrR33klxoxPuo6Q&_nc_ss=7a22e&oh=00_AQM8KZ2xX4qjQcdkBtjTFEpJKUA2tUmnNh0xk1qz2r_5yg&oe=6ACE5EF9",
+      "image_url": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/839497744_18569696155073917_6948903469996360249_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=100&ig_cache_key=NDAwMzEwNDY1ODEzMzg2ODM3Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTUwMC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=LyrHNiCgqyIQ7kNvwGrmjxd&_nc_oc=AdpTzZBzmvjW-_BxyKeIih1jSBopRzracH3EKlmsMMjT2QDnUR4jnBju06fiIa4CMSuY9wfWwEMWTbEQ9iAYS1Cx&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=CbnhWmJSYOh74Wu3aT0nPA&_nc_ss=7a22e&oh=00_AQOlCIZYExECM8X2HQKnXTvoiLXtLs9OesRcAwgwFJdKxw&oe=6ACFB079",
       "tags": [
         "salsa",
         "bachata",
@@ -3173,8 +3084,8 @@
       "price": "Free",
       "id": "7892269ea5c2395b",
       "first_seen_at": "2026-10-08T07:05:42.589884+00:00",
-      "last_seen_at": "2026-10-09T07:13:48.694340+00:00",
-      "submitted_to_supabase": "2026-10-09T07:13:48.694597+00:00"
+      "last_seen_at": "2026-10-10T06:46:38.611214+00:00",
+      "submitted_to_supabase": "2026-10-10T06:46:38.611461+00:00"
     },
     {
       "title": "Salsa Wednesday at Vidorra by DJ Wander",
@@ -3195,7 +3106,7 @@
       "price": null,
       "id": "1a3b21665837e209",
       "first_seen_at": "2026-10-08T19:13:08.857083+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044020+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611020+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3215,7 +3126,7 @@
       "price": null,
       "id": "1e4432748bfd61a8",
       "first_seen_at": "2026-10-08T19:13:08.857086+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044022+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611023+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3237,7 +3148,7 @@
       "price": null,
       "id": "70e328d26e93b970",
       "first_seen_at": "2026-10-08T19:13:08.857089+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044023+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611025+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3258,7 +3169,7 @@
       "price": null,
       "id": "158f5c3232afd6c6",
       "first_seen_at": "2026-10-08T19:13:08.857091+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044025+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611027+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3279,7 +3190,7 @@
       "price": "Free",
       "id": "bf76b626223e9e73",
       "first_seen_at": "2026-10-08T19:13:08.857230+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044134+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611170+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3299,7 +3210,7 @@
       "price": "Free",
       "id": "5dd7418b7da2842c",
       "first_seen_at": "2026-10-08T19:13:08.857232+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044136+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611172+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3321,7 +3232,7 @@
       "price": "Free",
       "id": "947269fefbb5c1dc",
       "first_seen_at": "2026-10-09T07:13:48.694275+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044107+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611127+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3365,7 +3276,7 @@
       "price": null,
       "id": "a59617d4b6fbba50",
       "first_seen_at": "2026-10-09T18:43:41.044027+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044027+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611030+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3388,7 +3299,7 @@
       "price": null,
       "id": "3eb727ad4748712c",
       "first_seen_at": "2026-10-09T18:43:41.044029+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044029+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611032+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3411,7 +3322,213 @@
       "price": null,
       "id": "80bffe659fa8816c",
       "first_seen_at": "2026-10-09T18:43:41.044031+00:00",
-      "last_seen_at": "2026-10-09T18:43:41.044031+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611034+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "7:30-9:00 Social Salsa & Bachata Class",
+      "start": "2026-10-17T00:30:00.000Z",
+      "source": "meetup",
+      "source_url": "https://www.meetup.com/you-can-dance-dallas/events/316729735/",
+      "end": null,
+      "venue": "You Can Dance Dallas",
+      "address": "14833 Inwood Road, Addison, TX, Addison, TX",
+      "city": "Addison",
+      "description": "Join David Herrera as he takes you thru the basics and some cool moves for the hottest social dances in town - salsa & bachata. Classes are fun and friendly in a gorgeous, large studio, You Can Dance Dallas.\n\nClass is from 7:30-9:00 and then join us to go eat and dance the night away!",
+      "image_url": "https://secure-content.meetupstatic.com/images/classic-events/535840259/original.jpg",
+      "tags": [
+        "social",
+        "lesson",
+        "salsa",
+        "bachata"
+      ],
+      "price": null,
+      "id": "b7d1f9cc0f465515",
+      "first_seen_at": "2026-10-10T06:46:38.610960+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.610960+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after",
+      "start": "2026-10-17T00:30:00.000Z",
+      "source": "meetup",
+      "source_url": "https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316729682/",
+      "end": null,
+      "venue": "You Can Dance Dallas",
+      "address": "14833 Inwood Rd #600, Addison, TX, Addison, TX",
+      "city": "Addison",
+      "description": "25 % off FRIDAYS SALSA LA STYLE & BACHATA (all styles) Dance Class\n7:30pm to 9pm\n\n\" A weekly tradition of years \"\n@ YOU CAN DANCE STUDIO\n\\*\\*\\*\n14833 Inwood Rd. Suite 600 Addison, TX 75001\nSPECIAL ENDS after SUMMER\n\\*\\*\\*\n(CASH preferred. Credit / debit cards , venmo , cashapp , paypal , zelle )\nOnly $20 a person or $60 for the month for 4 classes .\n\\*\\*\\*\nNO PARTNER NEEDED....\nSome of the longest running latin group classes of years in dfw ..\nClass starts with 15 minutes of salsa styling and footwork / solo dancing for men and women\n\nThen 30 minutes of salsa partner work with combinations etc\nThen the last 45 minutes of class is bachata Everything is taught for 2 weeks .\n\nThen we move on to something new . A old fashioned / salsa congress / WORKSHOP style of teaching .\nSee results in as little as 1 month.\n\\*\\*\\*\nClass has a good weekly turnout. With new faces every week.\nLadies wear comfortable non rubber sole shoes and no street heels .\nUntil you get latin dance shoes. Men wear non rubber sole shoes .\nTill you are ready for dance shoes\n\\*\\*\\*\nFor more info\n-(TEXT/CALL) 214-434-3560\n\\*\\*\\*\nAfter class we go eat & dance\n\\*\\*\\*\n-26 years of dance experience teaching,performing & competing\n\n* The original and first LA style salsa dance teacher in Dallas & Fort worth\n\n\"As seen on nationwide spanish & american TV \"\n\\*\\*\\*\nCome learn some styling,footwork,new combinations & have fun.\n\\*\\*\\*\n(LOS ANGELES STYLE SALSA) \" Is a combination of everything from tango,swing and ballroom infused into salsa dancing .\nIt is known to be a flashy,clean,show /entertaining cabaret style,with great musicality,tricks ,footwork and styling \"\n\\*\\*\\*\nIt is one of the two most popular styles in the world,now almost 30 years old.\n\\*\\*\\*\nAs far as Davids bachata it is a FUSION OF AMERICAN & ARGENTINE STYLES OF TANGO INTO BACHATA WITH ALSO THE FOOTWORK AND BODY MOVEMENT OF THE DOMINICAN STYLE.\nWhile not leaving out the modern , urban and romantic styles of bachata .\n\\*\\*\\*\nMy goal,vision and purpose is to impact ,instruct,influence and educate individuals & community in a positive way culturally through the art of dance,media,events,classes and competitions\n\\*\\*\\*\n” Always hosting the best latin nights in DFW for years “\n\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\nDance lessons are also an excellent way to relieve stress, meet new friends, and achieve (and maintain!) fitness goals.\nOr goals to become a good social or competitive dancer.\n\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\nDANCING IS A \"ART\" ,LEARNING HOW TO CONTROL YOUR BODY AND INTERPRET / EXPRESS THE MUSIC. ANYONE CAN DANCE IT JUST DEPENDS HOW BAD YOU WANT TO AND HOW MUCH YOU\nPRACTICE\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\* \\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\n[http://www.davidherrera-ent.com](http://www.davidherrera-ent.com/)\n[www.youtube.com/HerreraDance](http://www.youtube.com/HerreraDance)\n[www.youtube.com/danceteacher30](http://www.youtube.com/danceteacher30)\n[www.youtube.com/DavidHerreraEnt](http://www.youtube.com/DavidHerreraEnt)\n[https://www.facebook.com/Mr.David.Herrera](https://www.facebook.com/Mr.David.Herrera)",
+      "image_url": "https://secure-content.meetupstatic.com/images/classic-events/533797173/original.jpg",
+      "tags": [
+        "social",
+        "workshop",
+        "lesson",
+        "festival",
+        "salsa",
+        "bachata"
+      ],
+      "price": null,
+      "id": "eb90a20af9ca8e18",
+      "first_seen_at": "2026-10-10T06:46:38.610976+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.610976+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "Salsa Sunday Night at Hearsay Arlington",
+      "start": "2026-10-18T19:00:00-05:00",
+      "source": "golatindance",
+      "source_url": "https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-10-18/",
+      "end": "2026-10-18T23:00:00-05:00",
+      "venue": "Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States",
+      "address": "Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States",
+      "city": null,
+      "description": "Salsa Sunday Night at Hearsay Arlington\n📍Choctaw Stadium, 1711 E Randol Mill Rd, Arlington, TX 76011\n🎟 FREE EVENT and Parking\n📅 Every Sunday\n⏰ 7 PM to 11 PM\nExperience Hearsay Arlington, where elegance meets energy at DFW’s premier entertainment destination.\n✨ Free Dance Lessons at 7 PM\n✨ DJAYO spinning the Latin Hits\n✨ Food & Drink Specials\nDon’t miss this opportunity to celebrate Latin culture, music, and dance in a stunning venue in the heart of Arlington Entertainment District.\n🔥 Let’s dance, DFW — see you on the dance floor!",
+      "image_url": null,
+      "tags": [
+        "social",
+        "lesson",
+        "salsa"
+      ],
+      "price": "Free",
+      "id": "db29c62bafcd5a27",
+      "first_seen_at": "2026-10-10T06:46:38.611131+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611131+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "Calentura Sundays @ Fuego Dance Co.",
+      "start": "2026-10-18T21:00:00-07:00",
+      "source": "golatindance",
+      "source_url": "https://golatindance.com/event/calentura-sundays-fuego-dance-co/2026-10-18/",
+      "end": "2026-10-19T01:00:00-07:00",
+      "venue": "Fuego Dance Company, 813 Main Street, Garland, TX, 75040, United States",
+      "address": "Fuego Dance Company, 813 Main Street, Garland, TX, 75040, United States",
+      "city": null,
+      "description": "🔥 Sundays are for dancing! 🔥 \nEnd your weekend the Fuego way at our Calentura Social! Whether you’re brand new or you’ve been dancing for years, this is the perfect place to learn, connect, and dance the night away. \n💃🏽Complimentary Intro Class: 6:00–7:00 PM\n🕺🏽Salsa & Bachata Social: 7:00–10:00 PM\n📅 Every Sunday\n🎟️ $10 Entry\n📍813 Main St., Garland, TX \nCome meet new people, practice your moves, and experience the energy that makes Fuego Dance Company feel like family. ❤️‍🔥 \nTag your dance partner and we’ll see you on the dance floor! 🔥 \n#FuegoDanceCompany #CalenturaSocial #Salsa #Bachata #GarlandTX #DallasLatinDance #DFWDancing #SundaySocial #DanceLife #LearnToDance #SalsaSocial #BachataSocial #DanceCommunity",
+      "image_url": null,
+      "tags": [
+        "social",
+        "lesson",
+        "salsa",
+        "bachata"
+      ],
+      "price": "$10",
+      "id": "633e026da66fb1a5",
+      "first_seen_at": "2026-10-10T06:46:38.611135+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611135+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "TONIGHT FRIDAY – ALEXANDER SALSA FRIDAYS!",
+      "start": "2026-10-09T22:00:00-05:00",
+      "source": "instagram",
+      "source_url": "https://www.instagram.com/p/DeSQJKVgEzg/",
+      "end": null,
+      "venue": "Salsadallas",
+      "address": null,
+      "city": null,
+      "description": "🔥 **TONIGHT FRIDAY – ALEXANDER SALSA FRIDAYS!** 🔥\n\n💃🕺 Dallas, are you ready to dance tonight?\n\nJoin us for an incredible Friday night filled with LIVE SALSA MUSIC, dancing, and great vibes!\n\n🎶 Live Latin Music\n💃 FREE Salsa Class at 10 PM\n🔥 Salsa Dancing All Night\n🎉 Great Music, Great People, Great Atmosphere!\n\n📍 Alexander's\n🕤 9:30 PM – 2 AM\n\nBring your friends and get ready for an unforgettable Friday night!\n\n**Presented by Salsa Dallas** ❤️\n\n#AlexanderSalsaFridays #SalsaDallas #DallasSalsa #Sal",
+      "image_url": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-15/842977520_18414210301082207_7285503553905970204_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=NDAwNDMzNDAxNzAwMzQwODYwODE4NDE0MjEwMjk1MDgyMjA3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=5pahExtc1y0Q7kNvwGr3QZK&_nc_oc=AdpjFIVCp6TYv7hGuoVOwpsX2sHxs-YgmQ1HbhkpSNVNicHB07BxxoqRypvype2_jXw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_gid=zjykcFEjbn0xFF_yoThlrw&_nc_ss=7a22e&oh=00_AQNz3ie01sMwx8RirSQZplYKw9waSC4Jb5SVRL6bBDsNvw&oe=6ACFB33D",
+      "tags": [
+        "salsa",
+        "lesson",
+        "social"
+      ],
+      "price": "Free",
+      "id": "013480c1759099d7",
+      "first_seen_at": "2026-10-10T06:46:38.611210+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611210+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "TEXAS vs. OU WEEKEND SALSA PARTY!",
+      "start": "2026-10-09T22:00:00-05:00",
+      "source": "instagram",
+      "source_url": "https://www.instagram.com/p/DeR_ailFXEp/",
+      "end": null,
+      "venue": "Salsa At The Gardens",
+      "address": null,
+      "city": null,
+      "description": "🔥🏈 TEXAS vs. OU WEEKEND SALSA PARTY! 🤘🔥\n\nBefore the big game, kick off Texas–OU Weekend with live Latin music, dancing, and one epic Friday night party! 💃🕺\n\n📅 Friday, October 9\n📍 Taboo Dallas\n1418 N Riverfront Blvd, Dallas, TX 75207\n🎺 LIVE — LATIN SWING BAND\n🔥 2 ROOMS • 1 EPIC NIGHT\n💃 TABOO ROOM — DJ WANDER\nSalsa • Bachata • Merengue • Cumbia\n🎉 LA SANTA ROOM — DJ KOCO BEATZ\nReggaeton • Latin Top 40 • Trap • Dance\n🎟 FREE before 10 PM\n👠 Ladies $5 after 10 PM\n🕺 Men $15 after 10 PM\n🔞 21+\n\n🏈 Longhorn",
+      "image_url": "https://scontent-lax3-1.cdninstagram.com/v/t51.82787-15/839754106_18017571536933580_7168848106689921511_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=NDAwNDI1OTc5NDMxNTU2OTMyMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=8fkOo0Msia4Q7kNvwERO0DR&_nc_oc=AdpZhH9zbbw6tfYIefuDbSRAvKC6fFFwrCa0o0dcAwObS9OJHnKxHOOzKmpyb0FrdcX5sXe1FRhhF343ekai8XUI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=B--AZBO2Yj-zEOTkKKC5-Q&_nc_ss=7a22e&oh=00_AQNcXNlboOcbr5XyzBkMbmkg_33ZjfP35-1ctiZx-d2BMQ&oe=6ACFBB00",
+      "tags": [
+        "salsa",
+        "bachata",
+        "merengue",
+        "social"
+      ],
+      "price": "$5–$15",
+      "id": "c5d4118531a4fa35",
+      "first_seen_at": "2026-10-10T06:46:38.611212+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611212+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "MONSTER MASH SALSA PARTY at TEXAS LIVE!",
+      "start": "2026-10-09T21:00:00-05:00",
+      "source": "instagram",
+      "source_url": "https://www.instagram.com/p/DeSLGO_vpKB/",
+      "end": null,
+      "venue": "TEXAS LIVE",
+      "address": null,
+      "city": null,
+      "description": "👻🎃🔥 MONSTER MASH SALSA PARTY at TEXAS LIVE! 🔥🎃👻\n\nJoin us tonight for a spooktacular night of Salsa, Bachata & Latin rhythms at one of DFW’s hottest dance venues! 💃🕺\n\n📅 Friday, October 9\n⏰ 9 PM – 1:30 AM\n📍 Sports & Social at Texas Live – Arlington\n🎟️ FREE EVENT\n🎧 DJ Colombiano\n💃 Dance Lesson by Alejandro Acevedo\n🎃 Halloween Costumes Encouraged!\n\nCome dressed to impress—or scare! 👻 Grab your friends and get ready for a night of great music, dancing, and Halloween vibes.\n\n🔥 Salsa • Bachata • Cumbia",
+      "image_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/844795447_18017584544933580_3788352486384336169_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=NDAwNDMxMTgyNTYxNjExNDMwNTE4MDE3NTg0NTM4OTMzNTgw.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=XFnr4RdOL94Q7kNvwF0GuxI&_nc_oc=AdooRvw0LR2p2eujgi2B72yq1zj9fBZ2oFzY1v81-cYO5m9WDDWpdZosx7WE90t9PWw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=9ljvqn8D5tC4FnyCn8CVMQ&_nc_ss=7a22e&oh=00_AQNAkftdVdF21e_ARUXnIhKa53o0mhvIMlgoAfl-Uw3YnA&oe=6ACFB6D1",
+      "tags": [
+        "salsa",
+        "bachata",
+        "merengue",
+        "lesson",
+        "social"
+      ],
+      "price": "Free",
+      "id": "1f4c7a30b8e3c21d",
+      "first_seen_at": "2026-10-10T06:46:38.611216+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611216+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "Salsa With Jo and Team Mambin would like to invite you all to SalSon social every 2nd Friday of the month.",
+      "start": "2026-10-09T21:30:00-05:00",
+      "source": "instagram",
+      "source_url": "https://www.instagram.com/p/DeIbBX_EX_j/",
+      "end": null,
+      "venue": "Salsonsocial",
+      "address": null,
+      "city": null,
+      "description": "Salsa With Jo and Team Mambin would like to invite you all to SalSon social every 2nd Friday of the month.\nCome enjoy a fun night of Salsa and Bachata dancing, dance shows, birthday celebrations, and much more! 💃🕺🔥\n\n*Doors open at 9:30 PM\n*Introductory Salsa dance class at 9:45 PM\n*Dance performances at midnight\n*Celebrate your birthday with us and get in for FREE! 🥳🎉\n\nBYOB | FREE parking \n*$20 + fees with card or no fees with cash at the door\n*$17 + fees with card online\n***online sale ends 10/",
+      "image_url": "https://instagram.fcps4-1.fna.fbcdn.net/v/t51.82787-15/838650284_18071685929746237_8426362198986325840_n.webp?_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=NDAwMTU2NTYwNjY0MTMxNjQ5MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=hPJsd88aVGMQ7kNvwGnqmP1&_nc_oc=AdoPB-iwNfwmT4IbmIB-lUCTJQO3x3hbGh1U0hFgDflMs3fC9vQ7swMAdlqz5AaWAwhBEBKxkfpzE0FeHCCklp3C&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fcps4-1.fna&_nc_gid=RSnDup81IO0e9Nf8fkL0yA&_nc_ss=7a22e&oh=00_AQPzKxR1nbOGMTUH1fFflFPzknFsEGIuD6RDk8JNGC8INA&oe=6ACFA064",
+      "tags": [
+        "salsa",
+        "bachata",
+        "lesson",
+        "social"
+      ],
+      "price": "$17–$20",
+      "id": "cd9b9a030e3dad1b",
+      "first_seen_at": "2026-10-10T06:46:38.611221+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611221+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "WHO’S READY TO BACHATA TONIGHT?!",
+      "start": "2026-10-09T20:00:00-05:00",
+      "source": "instagram",
+      "source_url": "https://www.instagram.com/p/DeR3wkqg_9w/",
+      "end": null,
+      "venue": "Dcd Houseofbachata",
+      "address": null,
+      "city": null,
+      "description": "🔥 WHO’S READY TO BACHATA TONIGHT?! 🔥\n\nWe’re throwing a last-minute POP-UP BACHATA PARTY because we just want to DANCE! ❤️💃\n\nLet’s kick off the weekend with lots of Bachata!\n\nWe’re keeping it cozy in our RED ROOM! ❤️\n\n🕗 TONIGHT | 8 PM – 11 PM\n\n🎟️ Presale $10 | Door $15\n\nSpread the word, and come dance with us!\n\n🎟️ Get your tickets at www.dcdtheacademy.com\n\nLET’S BACHATA THIS WEEKEND! 🔥",
+      "image_url": "https://scontent-mxp2-1.cdninstagram.com/v/t51.82787-15/843434714_18157919881508766_7554908383266657251_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=NDAwNDIyNjc3NDE3MDA3NDk5MjE4MTU3OTE5ODc4NTA4NzY2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMDYuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=7408nhMrjzkQ7kNvwF9G_DC&_nc_oc=AdoENdtSe4XIUh1rqs4J1IONcuLxoYjiKGmHrNh5FgsfTSQ_sHjORm_AujpcAu-EOMw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-mxp2-1.cdninstagram.com&_nc_gid=fu_JGdH7yg3l0SdkA0j2pw&_nc_ss=7a22e&oh=00_AQNcBSAVqVrKv6yXBNSXJjQlszi5qLu1MAvWBSYLHpGD1g&oe=6ACFB99C",
+      "tags": [
+        "bachata",
+        "social"
+      ],
+      "price": "$10–$15",
+      "id": "54273b7725065223",
+      "first_seen_at": "2026-10-10T06:46:38.611224+00:00",
+      "last_seen_at": "2026-10-10T06:46:38.611224+00:00",
       "submitted_to_supabase": null
     }
   ]
