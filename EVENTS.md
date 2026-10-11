@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-10-11 01:53 AM CDT**
+> Auto-generated. Last update: **2026-10-11 12:58 PM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 106 upcoming events tracked. **12 new** since last run.
+> 112 upcoming events tracked. **11 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -21,14 +21,10 @@
    Al-Amir Arlington  
    Fri, Oct 16, 2026 • all day  
    `social` `salsa` `bachata` `merengue` _via danceus_
-- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/316729735/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Fri, Oct 16, 2026 • 7:30 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316729682/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Fri, Oct 16, 2026 • 7:30 PM  
-   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
+- **[Noches Latinas Saturdays at Los Lupes](https://www.danceus.org/event/16552421199670/noches-latinas-saturdays-at-los-lupes-addison-tx/)** **_Varies_**  
+   Los Lupes Addison  
+   Sat, Oct 17, 2026 • all day  
+   `salsa` `bachata` `merengue` _via danceus_
 - **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/316740669/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Sat, Oct 17, 2026 • 4:00 PM  
@@ -37,18 +33,10 @@
    DFW Young & Social · Farmers Branch  
    Sat, Oct 17, 2026 • 5:00 PM  
    `social` `lesson` `salsa` _via meetup_
-- **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-10-18/)** **_Free_**  
-   Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
-   Sun, Oct 18, 2026 • 7:00 PM – 11:00 PM  
-   `social` `lesson` `salsa` _via golatindance_
 - **[Sabroso Sundays at Al-Amir](https://golatindance.com/event/sabroso-sundays-at-al-amir/2026-10-18/)** **_Free_**  
    Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States  
    Sun, Oct 18, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` `merengue` _via golatindance_
-- **[Calentura Sundays @ Fuego Dance Co.](https://golatindance.com/event/calentura-sundays-fuego-dance-co/2026-10-18/)** **_$10_**  
-   Fuego Dance Company, 813 Main Street, Garland, TX, 75040, United States  
-   Sun, Oct 18, 2026 • 11:00 PM – 3:00 AM  
-   `social` `lesson` `salsa` `bachata` _via golatindance_
 - **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-10-20/)** **_Free_**  
    Rotate Social, 5454 Main st., Frisco, TX, United States  
    Tue, Oct 20, 2026 • 7:30 PM – 11:30 PM  
@@ -57,6 +45,14 @@
    Gigis, 7300 Lone Star Drive C150, Plano, TX, 75024, United States  
    Wed, Oct 21, 2026 • 9:00 PM – 2:00 AM  
    `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
+- **[Dallas Bachata Social at Tropik Vybe](https://www.salsavida.com/event/texas/dallas-fort-worth/dallas-bachata-social-at-tropik-vybe/)** **_Varies_**  
+   Tropik Vybe Studio · Richardson  
+   Sat, Oct 24, 2026 • 9:00 PM – 2:00 AM  
+   `social` `lesson` `bachata` _via salsavida_
+- **[Gloria&#8217;s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
+   Gloria's Latin Cuisine · Addison  
+   Sat, Oct 24, 2026 • 11:00 PM – 2:00 AM  
+   `social` _via salsavida_
 
 ---
 
@@ -315,10 +311,22 @@
 
 ### Saturday, October 17, 2026
 
+- **[Sábados con la Rumba – A Otro Nivel at Luna Azul](https://www.salsavida.com/event/texas/dallas-fort-worth/sabados-con-la-rumba-a-otro-nivel-at-luna-azul/)** **_Free_**  
+   Fort Worth  
+   Sat, Oct 17, 2026 • all day  
+   `social` `salsa` _via salsavida_
+- **[Gloria’s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
+   Addison  
+   Sat, Oct 17, 2026 • all day  
+   `social` _via salsavida_
 - **[La Vibra – Dallas Salsa & Bachata Social](https://www.salsavida.com/event/texas/dallas-fort-worth/la-vibra-dallas-salsa-bachata-social/)** **_$20_**  
    Richardson  
    Sat, Oct 17, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via salsavida_
+- **[Noches Latinas Saturdays at Los Lupes](https://www.danceus.org/event/16552421199670/noches-latinas-saturdays-at-los-lupes-addison-tx/)** **_Varies_**  
+   Los Lupes Addison  
+   Sat, Oct 17, 2026 • all day  
+   `salsa` `bachata` `merengue` _via danceus_
 - **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/316740669/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Sat, Oct 17, 2026 • 4:00 PM  
@@ -434,6 +442,21 @@
    Salsadallas  
    Fri, Oct 23, 2026 • 10:00 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
+
+### Saturday, October 24, 2026
+
+- **[Dallas Bachata Social at Tropik Vybe](https://www.salsavida.com/event/texas/dallas-fort-worth/dallas-bachata-social-at-tropik-vybe/)** **_Varies_**  
+   Richardson  
+   Sat, Oct 24, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via salsavida_
+- **[Dallas Bachata Social at Tropik Vybe](https://www.salsavida.com/event/texas/dallas-fort-worth/dallas-bachata-social-at-tropik-vybe/)** **_Varies_**  
+   Tropik Vybe Studio · Richardson  
+   Sat, Oct 24, 2026 • 9:00 PM – 2:00 AM  
+   `social` `lesson` `bachata` _via salsavida_
+- **[Gloria&#8217;s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
+   Gloria's Latin Cuisine · Addison  
+   Sat, Oct 24, 2026 • 11:00 PM – 2:00 AM  
+   `social` _via salsavida_
 
 ### Sunday, October 25, 2026
 
