@@ -1,14 +1,18 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-10-12 04:37 PM CDT**
+> Auto-generated. Last update: **2026-10-13 02:27 AM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 110 upcoming events tracked. **16 new** since last run.
+> 111 upcoming events tracked. **18 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
+- **[SALSA THURSDAY AT SUNDANCE SQUARE!](https://www.instagram.com/p/DeayT2olTfQ/)** **_Free_**  
+   Salsa At The Gardens  
+   Thu, Oct 15, 2026 • 7:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[Mi gente, Join us for an awesome time with friends and family! Be ready for a night of Latin dancing, beach volleyball,](https://www.instagram.com/p/DeVdPq8FtaO/)** **_$7–$15_**  
    Latinswing Dallas  
    Sat, Oct 17, 2026 • 7:00 PM  
@@ -73,18 +77,15 @@
    Al-Amir Addison  
    Sun, Oct 25, 2026 • 10:00 PM – 2:00 AM  
    `social` _via salsavida_
+- **[Not just a salsa class. Learn from one of the best, all the way from New York, @iamnatashakarp.  Join us for an hour cla](https://www.instagram.com/p/DeZT5nZuien/)** **_$25–$37_**  
+   Echalesalsita Dallas  
+   Fri, Nov 6, 2026 • 9:00 PM  
+   `salsa` `lesson` `social` _via instagram_
 
 ---
 
 ## Upcoming
 
-
-### Monday, October 12, 2026
-
-- **[FREE Beginner Salsa & Bachata | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/316802898/)** **_Varies_**  
-   Kumbala Dance Studio · Farmers Branch  
-   Mon, Oct 12, 2026 • 7:00 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
 
 ### Tuesday, October 13, 2026
 
@@ -166,6 +167,10 @@
    Hangout · Irving  
    Thu, Oct 15, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via danceus_
+- **[SALSA THURSDAY AT SUNDANCE SQUARE!](https://www.instagram.com/p/DeayT2olTfQ/)** **_Free_**  
+   Salsa At The Gardens  
+   Thu, Oct 15, 2026 • 7:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[Cha Cha Dance Intensive](https://www.meetup.com/dfwyoungsocial/events/316885045/)** **_Varies_**  
    DFW Young & Social Club · Farmers Branch  
    Thu, Oct 15, 2026 • 8:30 PM  
@@ -516,6 +521,10 @@
    Taboo Lounge Dallas  
    Fri, Nov 6, 2026 • 9:00 PM  
    `social` `salsa` _via meetup_
+- **[Not just a salsa class. Learn from one of the best, all the way from New York, @iamnatashakarp.  Join us for an hour cla](https://www.instagram.com/p/DeZT5nZuien/)** **_$25–$37_**  
+   Echalesalsita Dallas  
+   Fri, Nov 6, 2026 • 9:00 PM  
+   `salsa` `lesson` `social` _via instagram_
 - **[FRIDAY NIGHT = SALSA NIGHT!](https://www.instagram.com/p/DeAJOzaDrlF/)** **_Free_**  
    Salsadallas  
    Fri, Nov 6, 2026 • 10:00 PM  
