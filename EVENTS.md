@@ -1,22 +1,26 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-10-14 12:55 AM CDT**
+> Auto-generated. Last update: **2026-10-14 12:51 PM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 112 upcoming events tracked. **6 new** since last run.
+> 115 upcoming events tracked. **7 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[SALSA THURSDAY AT SUNDANCE SQUARE!](https://www.instagram.com/p/DeayT2olTfQ/)** **_Free_**  
-   Salsa At The Gardens  
-   Thu, Oct 15, 2026 • 7:00 PM  
-   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
+- **[Salsa & bachata Thursdays advanced beginner/intermediate](https://www.meetup.com/salsa-with-jo/events/316718201/)** **_Varies_**  
+   Green Space Arts Collective · Denton  
+   Thu, Oct 15, 2026 • 7:30 PM  
+   `lesson` `salsa` `bachata` _via meetup_
 - **[RUMBA LATINA FRIDAYS @ TABOO DALLAS!](https://www.instagram.com/p/Dedm5K5FfZz/)** **_$5–$15_**  
    Salsa At The Gardens  
    Fri, Oct 16, 2026 • 10:00 PM  
    `salsa` `bachata` `merengue` `social` _via instagram_
+- **[Latin Night](https://www.meetup.com/salsa-with-jo/events/316730827/)** **_Varies_**  
+   El Taco H · Denton  
+   Fri, Oct 16, 2026 • 10:00 PM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
 - **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/316790037/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Tue, Oct 20, 2026 • 8:00 PM  
@@ -25,10 +29,10 @@
    Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
    Sat, Oct 24, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` _via golatindance_
-- **[Not just a salsa class. Learn from one of the best, all the way from New York, @iamnatashakarp.  Join us for an hour cla](https://www.instagram.com/p/DeZT5nZuien/)** **_$25–$37_**  
-   Echalesalsita Dallas  
-   Fri, Nov 6, 2026 • 9:00 PM  
-   `salsa` `lesson` `social` _via instagram_
+- **[New Salsa & Bachata beginner course!](https://www.meetup.com/salsa-with-jo/events/316968673/)** **_Varies_**  
+   Green Space Arts Collective · Denton  
+   Mon, Nov 2, 2026 • 7:30 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 - **[DALLAS SALSA CONGRESS 2026 – EVERYONE IS INVITED!](https://www.instagram.com/p/DedkfmsIJXe/)** **_Varies_**  
    Salsadallas  
    Fri, Nov 20, 2026 • all day  
@@ -108,6 +112,10 @@
    Salsa At The Gardens  
    Thu, Oct 15, 2026 • 7:00 PM  
    `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
+- **[Salsa & bachata Thursdays advanced beginner/intermediate](https://www.meetup.com/salsa-with-jo/events/316718201/)** **_Varies_**  
+   Green Space Arts Collective · Denton  
+   Thu, Oct 15, 2026 • 7:30 PM  
+   `lesson` `salsa` `bachata` _via meetup_
 - **[Cha Cha Dance Intensive](https://www.meetup.com/dfwyoungsocial/events/316885045/)** **_Varies_**  
    DFW Young & Social Club · Farmers Branch  
    Thu, Oct 15, 2026 • 8:30 PM  
@@ -187,6 +195,10 @@
    Salsa At The Gardens  
    Fri, Oct 16, 2026 • 10:00 PM  
    `salsa` `bachata` `merengue` `social` _via instagram_
+- **[Latin Night](https://www.meetup.com/salsa-with-jo/events/316730827/)** **_Varies_**  
+   El Taco H · Denton  
+   Fri, Oct 16, 2026 • 10:00 PM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
 
 ### Saturday, October 17, 2026
 
@@ -456,6 +468,13 @@
    Salsadallas  
    Fri, Oct 30, 2026 • 10:00 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
+
+### Monday, November 2, 2026
+
+- **[New Salsa & Bachata beginner course!](https://www.meetup.com/salsa-with-jo/events/316968673/)** **_Varies_**  
+   Green Space Arts Collective · Denton  
+   Mon, Nov 2, 2026 • 7:30 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 
 ### Wednesday, November 4, 2026
 
