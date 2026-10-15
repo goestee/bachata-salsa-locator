@@ -1,14 +1,18 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-10-14 12:51 PM CDT**
+> Auto-generated. Last update: **2026-10-15 12:40 AM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 115 upcoming events tracked. **7 new** since last run.
+> 106 upcoming events tracked. **10 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
+- **[Amazing classes with Gio & Gaby tonight!](https://www.instagram.com/p/Def9ZbZAWf2/)** **_Varies_**  
+   Dcd Houseofbachata  
+   Thu, Oct 15, 2026 • 7:00 PM  
+   `bachata` `lesson` `social` _via instagram_
 - **[Salsa & bachata Thursdays advanced beginner/intermediate](https://www.meetup.com/salsa-with-jo/events/316718201/)** **_Varies_**  
    Green Space Arts Collective · Denton  
    Thu, Oct 15, 2026 • 7:30 PM  
@@ -29,6 +33,14 @@
    Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
    Sat, Oct 24, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` _via golatindance_
+- **[Rumba Tropical en Reys's Sports Bar](https://golatindance.com/event/rumba-tropical-en-reyss-sports-bar/2026-10-24/)** **_Free_**  
+   Reys Sports Bar, 2836 N Oconnor Rd, Irving, TX, United States  
+   Sat, Oct 24, 2026 • 10:00 PM – 2:00 AM  
+   `salsa` `bachata` `merengue` _via golatindance_
+- **[Salsa Sunday at La Chingona](https://golatindance.com/event/salsa-sunday-at-la-chingona/2026-10-25/)** **_Free_**  
+   La Chingona, 2800 Bledsoe St #100, Fort Worth, TX, 76107, United States  
+   Sun, Oct 25, 2026 • 3:00 PM – 6:00 PM  
+   `lesson` `salsa` `bachata` _via golatindance_
 - **[New Salsa & Bachata beginner course!](https://www.meetup.com/salsa-with-jo/events/316968673/)** **_Varies_**  
    Green Space Arts Collective · Denton  
    Mon, Nov 2, 2026 • 7:30 PM  
@@ -42,57 +54,6 @@
 
 ## Upcoming
 
-
-### Wednesday, October 14, 2026
-
-- **[Wednesday Salsa & Bachata at Stratos](https://www.salsavida.com/event/texas/dallas-fort-worth/wednesday-salsa-bachata-at-stratos/)** **_Free_**  
-   Dallas  
-   Wed, Oct 14, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via salsavida_
-- **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
-   Dallas-Fort Worth  
-   Wed, Oct 14, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` `merengue` _via salsavida_
-- **[FREE Salsa Class + Dallas Salsa Congress 2026!](https://www.instagram.com/p/DdrR84vlPa2/)** **_Free_**  
-   Salsadallas  
-   Wed, Oct 14, 2026 • all day  
-   `salsa` `lesson` `social` `festival` _via instagram_
-- **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
-   Vidorra Dallas  
-   Wed, Oct 14, 2026 • all day  
-   `social` `lesson` `salsa` _via danceus_
-- **[Live Latin Night With Havana NRG at Sambuca360](https://www.danceus.org/event/165524211650016/live-latin-night-with-havana-nrg-at-sambuca-plano-tx/)** **_Varies_**  
-   Sambuca360 · Plano  
-   Wed, Oct 14, 2026 • all day  
-   `social` _via danceus_
-- **[Salseando and Bachateando Nights at El Botanero](https://www.danceus.org/event/16552421287400/salseando-and-bachateando-nights-at-el-botanero-dallas-tx/)** **_Varies_**  
-   El Botanero Bar · Dallas  
-   Wed, Oct 14, 2026 • all day  
-   `social` `salsa` `bachata` _via danceus_
-- **[Wednesday Salsa Social at Stratos](https://www.danceus.org/event/16552421361930/wednesday-salsa-social-at-stratos-dallas-tx/)** **_Varies_**  
-   Stratos Greek Taverna · Dallas  
-   Wed, Oct 14, 2026 • all day  
-   `social` `salsa` _via danceus_
-- **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
-   Vidorra Cocina · Dallas-Fort Worth  
-   Wed, Oct 14, 2026 • 7:00 PM – 11:00 PM  
-   `salsa` _via salsavida_
-- **[Dallas Can Dance Wednesday Social](https://golatindance.com/event/dcd-free-bachata-every-4th-wednesday-2/2026-10-14/)** **_Free_**  
-   Dallas Can Dance – The Academy, 2650 Midway Rd #130, Carrollton, TX, 75006, United States  
-   Wed, Oct 14, 2026 • 9:00 PM – 12:00 AM  
-   `social` `lesson` `bachata` _via golatindance_
-- **[Latin Night at Gigis](https://golatindance.com/event/latin-night-at-gigis/2026-10-14/)** **_Free_**  
-   Gigis, 7300 Lone Star Drive C150, Plano, TX, 75024, United States  
-   Wed, Oct 14, 2026 • 9:00 PM – 2:00 AM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Wednesday Salsa &#038; Bachata at Stratos](https://www.salsavida.com/event/texas/dallas-fort-worth/wednesday-salsa-bachata-at-stratos/)** **_Free_**  
-   Stratos Bar & Grill · Dallas  
-   Wed, Oct 14, 2026 • 9:30 PM – 2:00 AM  
-   `salsa` `bachata` _via salsavida_
-- **[MIDWEEK JUST GOT HOTTER!](https://www.instagram.com/p/DePr8WTSTMK/)** **_Varies_**  
-   Mjr Productions94  
-   Wed, Oct 14, 2026 • 9:30 PM  
-   `salsa` `bachata` `merengue` `lesson` _via instagram_
 
 ### Thursday, October 15, 2026
 
@@ -108,10 +69,14 @@
    Hangout · Irving  
    Thu, Oct 15, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via danceus_
-- **[SALSA THURSDAY AT SUNDANCE SQUARE!](https://www.instagram.com/p/DeayT2olTfQ/)** **_Free_**  
+- **[SALSA THURSDAY AT SUNDANCE SQUARE!](https://www.instagram.com/p/DegDvIXlSAt/)** **_Free_**  
    Salsa At The Gardens  
    Thu, Oct 15, 2026 • 7:00 PM  
    `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
+- **[Amazing classes with Gio & Gaby tonight!](https://www.instagram.com/p/Def9ZbZAWf2/)** **_Varies_**  
+   Dcd Houseofbachata  
+   Thu, Oct 15, 2026 • 7:00 PM  
+   `bachata` `lesson` `social` _via instagram_
 - **[Salsa & bachata Thursdays advanced beginner/intermediate](https://www.meetup.com/salsa-with-jo/events/316718201/)** **_Varies_**  
    Green Space Arts Collective · Denton  
    Thu, Oct 15, 2026 • 7:30 PM  
@@ -416,6 +381,10 @@
    Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
    Sat, Oct 24, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` _via golatindance_
+- **[Rumba Tropical en Reys's Sports Bar](https://golatindance.com/event/rumba-tropical-en-reyss-sports-bar/2026-10-24/)** **_Free_**  
+   Reys Sports Bar, 2836 N Oconnor Rd, Irving, TX, United States  
+   Sat, Oct 24, 2026 • 10:00 PM – 2:00 AM  
+   `salsa` `bachata` `merengue` _via golatindance_
 - **[Gloria&#8217;s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
    Gloria's Latin Cuisine · Addison  
    Sat, Oct 24, 2026 • 11:00 PM – 2:00 AM  
@@ -427,6 +396,10 @@
    Lola's Cuban Food · Dallas-Fort Worth  
    Sun, Oct 25, 2026 • 3:00 PM – 6:00 PM  
    `salsa` _via salsavida_
+- **[Salsa Sunday at La Chingona](https://golatindance.com/event/salsa-sunday-at-la-chingona/2026-10-25/)** **_Free_**  
+   La Chingona, 2800 Bledsoe St #100, Fort Worth, TX, 76107, United States  
+   Sun, Oct 25, 2026 • 3:00 PM – 6:00 PM  
+   `lesson` `salsa` `bachata` _via golatindance_
 - **[Son y Sabor at The Victoria](https://www.salsavida.com/event/texas/dallas-fort-worth/son-y-sabor-at-the-victoria/)** **_$7_**  
    The Victoria Restaurant · Farmers Branch  
    Sun, Oct 25, 2026 • 5:30 PM – 10:30 PM  
@@ -511,6 +484,10 @@
    Dallas Salsa Congress 2026  
    Fri, Nov 20, 2026 • all day  
    `salsa` `festival` _via instagram_
+- **[DALLAS SALSA CONGRESS 2026](https://www.instagram.com/p/DegCqbQjyDR/)** **_Varies_**  
+   Salsadallas  
+   Fri, Nov 20, 2026 • all day  
+   `salsa` `lesson` `social` `workshop` `festival` _via instagram_
 - **[Dallas Salsa Congress Throwback  2011 Performance](https://www.instagram.com/p/DZwcP4QDnzP/)** **_Varies_**  
    Salsadallas  
    Fri, Nov 20, 2026 • all day  
@@ -547,10 +524,6 @@
    Salsadallas  
    Fri, Nov 20, 2026 • all day  
    `salsa` `bachata` `lesson` `social` `festival` _via instagram_
-- **[DALLAS SALSA CONGRESS 2026](https://www.instagram.com/p/DeP3cSyDS3G/)** **_$119_**  
-   Salsadallas  
-   Fri, Nov 20, 2026 • 3:30 AM  
-   `salsa` `lesson` `social` `workshop` `festival` _via instagram_
 - **[Never Been to a Salsa Congress? Watch This! | Eddie Torres](https://www.instagram.com/p/DaOEDxamFbf/)** **_Varies_**  
    DallasSalsaCongress.com  
    Fri, Nov 20, 2026 • 3:30 AM  
