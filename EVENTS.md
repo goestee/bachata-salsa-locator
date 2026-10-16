@@ -1,26 +1,14 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-10-15 12:41 PM CDT**
+> Auto-generated. Last update: **2026-10-16 12:33 AM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 114 upcoming events tracked. **12 new** since last run.
+> 109 upcoming events tracked. **11 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Amazing classes with Gio & Gaby tonight!](https://www.instagram.com/p/Def9ZbZAWf2/)** **_Varies_**  
-   Dcd Houseofbachata  
-   Thu, Oct 15, 2026 • 7:00 PM  
-   `bachata` `lesson` `social` _via instagram_
-- **[Salsa & bachata Thursdays advanced beginner/intermediate](https://www.meetup.com/salsa-with-jo/events/316718201/)** **_Varies_**  
-   Green Space Arts Collective · Denton  
-   Thu, Oct 15, 2026 • 7:30 PM  
-   `lesson` `salsa` `bachata` _via meetup_
-- **[Latin Night](https://www.meetup.com/salsa-with-jo/events/316730827/)** **_Varies_**  
-   El Taco H · Denton  
-   Fri, Oct 16, 2026 • 10:00 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
 - **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
    Vidorra Dallas  
    Wed, Oct 21, 2026 • all day  
@@ -37,6 +25,10 @@
    Stratos Greek Taverna · Dallas  
    Wed, Oct 21, 2026 • all day  
    `social` `salsa` _via danceus_
+- **[Salsa & bachata Thursdays advanced beginner/intermediate](https://www.meetup.com/salsa-with-jo/events/316821778/)** **_Varies_**  
+   Green Space Arts Collective · Denton  
+   Thu, Oct 22, 2026 • 7:30 PM  
+   `lesson` `salsa` `bachata` _via meetup_
 - **[Rumba Tropical en Reys's Sports Bar](https://golatindance.com/event/rumba-tropical-en-reyss-sports-bar/2026-10-24/)** **_Free_**  
    Reys Sports Bar, 2836 N Oconnor Rd, Irving, TX, United States  
    Sat, Oct 24, 2026 • 10:00 PM – 2:00 AM  
@@ -45,58 +37,27 @@
    La Chingona, 2800 Bledsoe St #100, Fort Worth, TX, 76107, United States  
    Sun, Oct 25, 2026 • 3:00 PM – 6:00 PM  
    `lesson` `salsa` `bachata` _via golatindance_
+- **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-10-25/)** **_Free_**  
+   Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
+   Sun, Oct 25, 2026 • 7:00 PM – 11:00 PM  
+   `social` `lesson` `salsa` _via golatindance_
 - **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
    Vidorra Cocina · Dallas-Fort Worth  
    Wed, Oct 28, 2026 • 7:00 PM – 11:00 PM  
    `salsa` _via salsavida_
+- **[MASQUERADE & SINGLES NIGHT](https://www.instagram.com/p/Dehf5Khxj48/)** **_Varies_**  
+   Mjr Productions94  
+   Wed, Oct 28, 2026 • 8:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[Wednesday Salsa &#038; Bachata at Stratos](https://www.salsavida.com/event/texas/dallas-fort-worth/wednesday-salsa-bachata-at-stratos/)** **_Free_**  
    Stratos Bar & Grill · Dallas  
    Wed, Oct 28, 2026 • 9:30 PM – 2:00 AM  
    `salsa` `bachata` _via salsavida_
-- **[New Salsa & Bachata beginner course!](https://www.meetup.com/salsa-with-jo/events/316968673/)** **_Varies_**  
-   Green Space Arts Collective · Denton  
-   Mon, Nov 2, 2026 • 7:30 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
 
 ---
 
 ## Upcoming
 
-
-### Thursday, October 15, 2026
-
-- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
-   Merkado · Frisco  
-   Thu, Oct 15, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Thu, Oct 15, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
-   Hangout · Irving  
-   Thu, Oct 15, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[SALSA THURSDAY AT SUNDANCE SQUARE!](https://www.instagram.com/p/DegDvIXlSAt/)** **_Free_**  
-   Salsa At The Gardens  
-   Thu, Oct 15, 2026 • 7:00 PM  
-   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
-- **[Amazing classes with Gio & Gaby tonight!](https://www.instagram.com/p/Def9ZbZAWf2/)** **_Varies_**  
-   Dcd Houseofbachata  
-   Thu, Oct 15, 2026 • 7:00 PM  
-   `bachata` `lesson` `social` _via instagram_
-- **[Salsa & bachata Thursdays advanced beginner/intermediate](https://www.meetup.com/salsa-with-jo/events/316718201/)** **_Varies_**  
-   Green Space Arts Collective · Denton  
-   Thu, Oct 15, 2026 • 7:30 PM  
-   `lesson` `salsa` `bachata` _via meetup_
-- **[Cha Cha Dance Intensive](https://www.meetup.com/dfwyoungsocial/events/316885045/)** **_Varies_**  
-   DFW Young & Social Club · Farmers Branch  
-   Thu, Oct 15, 2026 • 8:30 PM  
-   `social` `workshop` `lesson` `cha-cha` _via meetup_
-- **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-10-15/)** **_Free_**  
-   Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
-   Thu, Oct 15, 2026 • 9:00 PM – 1:00 AM  
-   `social` `lesson` `salsa` _via golatindance_
 
 ### Friday, October 16, 2026
 
@@ -371,6 +332,10 @@
    Kumbala Dance Studio · Farmers Branch  
    Thu, Oct 22, 2026 • 7:00 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
+- **[Salsa & bachata Thursdays advanced beginner/intermediate](https://www.meetup.com/salsa-with-jo/events/316821778/)** **_Varies_**  
+   Green Space Arts Collective · Denton  
+   Thu, Oct 22, 2026 • 7:30 PM  
+   `lesson` `salsa` `bachata` _via meetup_
 - **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-10-22/)** **_Free_**  
    Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
    Thu, Oct 22, 2026 • 9:00 PM – 1:00 AM  
@@ -440,6 +405,10 @@
    Kumbala Dance Studio · Farmers Branch  
    Sun, Oct 25, 2026 • 7:00 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
+- **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-10-25/)** **_Free_**  
+   Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
+   Sun, Oct 25, 2026 • 7:00 PM – 11:00 PM  
+   `social` `lesson` `salsa` _via golatindance_
 - **[Sabroso Sundays at Al-Amir Addison](https://www.salsavida.com/event/texas/dallas-fort-worth/sabroso-sundays-at-al-amir-addison/)** **_$10_**  
    Al-Amir Addison  
    Sun, Oct 25, 2026 • 10:00 PM – 2:00 AM  
@@ -466,6 +435,10 @@
    Vidorra Cocina · Dallas-Fort Worth  
    Wed, Oct 28, 2026 • 7:00 PM – 11:00 PM  
    `salsa` _via salsavida_
+- **[MASQUERADE & SINGLES NIGHT](https://www.instagram.com/p/Dehf5Khxj48/)** **_Varies_**  
+   Mjr Productions94  
+   Wed, Oct 28, 2026 • 8:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[Wednesday Salsa &#038; Bachata at Stratos](https://www.salsavida.com/event/texas/dallas-fort-worth/wednesday-salsa-bachata-at-stratos/)** **_Free_**  
    Stratos Bar & Grill · Dallas  
    Wed, Oct 28, 2026 • 9:30 PM – 2:00 AM  
