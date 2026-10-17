@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-10-17 12:25 AM CDT**
+> Auto-generated. Last update: **2026-10-17 11:12 AM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 107 upcoming events tracked. **19 new** since last run.
+> 108 upcoming events tracked. **17 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -21,14 +21,14 @@
    Hangout · Irving  
    Thu, Oct 22, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Salsa & bachata Thursdays advanced beginner/intermediate](https://www.meetup.com/salsa-with-jo/events/316821778/)** **_Varies_**  
-   Green Space Arts Collective · Denton  
-   Thu, Oct 22, 2026 • 7:30 PM  
-   `lesson` `salsa` `bachata` _via meetup_
 - **[DALLAS, THE SALSA SCENE IS ON FIRE!](https://www.instagram.com/p/Dej-mh9mkPJ/)** **_Varies_**  
    Bombshells in Rowlett  
    Fri, Oct 23, 2026 • all day  
    `salsa` `lesson` `social` `workshop` `festival` _via instagram_
+- **[Friday Latin at Al-Amir Arlington](https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/)** **_Varies_**  
+   Al-Amir Arlington  
+   Fri, Oct 23, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via danceus_
 - **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316834168/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Fri, Oct 23, 2026 • 7:30 PM  
@@ -37,10 +37,6 @@
    You Can Dance Dallas · Addison  
    Fri, Oct 23, 2026 • 7:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
-- **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-10-25/)** **_Free_**  
-   Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
-   Sun, Oct 25, 2026 • 7:00 PM – 11:00 PM  
-   `social` `lesson` `salsa` _via golatindance_
 - **[Sabroso Sundays at Al-Amir](https://golatindance.com/event/sabroso-sundays-at-al-amir/2026-10-25/)** **_Free_**  
    Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States  
    Sun, Oct 25, 2026 • 10:00 PM – 2:00 AM  
@@ -57,10 +53,6 @@
    Bombshells in Rowlett  
    Wed, Oct 28, 2026 • all day  
    `salsa` `lesson` `social` `workshop` `festival` _via instagram_
-- **[MASQUERADE & SINGLES NIGHT](https://www.instagram.com/p/Dehf5Khxj48/)** **_Varies_**  
-   Mjr Productions94  
-   Wed, Oct 28, 2026 • 8:00 PM  
-   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[Latin Night at Gigis](https://golatindance.com/event/latin-night-at-gigis/2026-10-28/)** **_Free_**  
    Gigis, 7300 Lone Star Drive C150, Plano, TX, 75024, United States  
    Wed, Oct 28, 2026 • 9:00 PM – 2:00 AM  
@@ -316,6 +308,10 @@
    Bombshells in Rowlett  
    Fri, Oct 23, 2026 • all day  
    `salsa` `lesson` `social` `workshop` `festival` _via instagram_
+- **[Friday Latin at Al-Amir Arlington](https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/)** **_Varies_**  
+   Al-Amir Arlington  
+   Fri, Oct 23, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via danceus_
 - **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
    A3 Studiotx  
    Fri, Oct 23, 2026 • 6:00 PM  
