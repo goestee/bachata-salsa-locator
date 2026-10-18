@@ -1,26 +1,22 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-10-17 11:12 AM CDT**
+> Auto-generated. Last update: **2026-10-18 12:32 AM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 108 upcoming events tracked. **17 new** since last run.
+> 104 upcoming events tracked. **24 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
-   Merkado · Frisco  
-   Thu, Oct 22, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Thu, Oct 22, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
-   Hangout · Irving  
-   Thu, Oct 22, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[SALSA SUNDAY AT LA CHINGONA – FORT WORTH!](https://www.instagram.com/p/DenF93mD1cc/)** **_$4–$5_**  
+   Farrington Field  
+   Sun, Oct 18, 2026 • 3:00 PM  
+   `salsa` `bachata` `merengue` `lesson` _via instagram_
+- **[SALSA SUNDAY NIGHT AT HEARSAY!](https://www.instagram.com/p/DenDuEdj9VD/)** **_$10_**  
+   HEARSAY ARLINGTON  
+   Sun, Oct 18, 2026 • 7:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 - **[DALLAS, THE SALSA SCENE IS ON FIRE!](https://www.instagram.com/p/Dej-mh9mkPJ/)** **_Varies_**  
    Bombshells in Rowlett  
    Fri, Oct 23, 2026 • all day  
@@ -37,6 +33,14 @@
    You Can Dance Dallas · Addison  
    Fri, Oct 23, 2026 • 7:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
+- **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/316844750/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, Oct 24, 2026 • 4:00 PM  
+   `social` `lesson` `bachata` _via meetup_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/316798825/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, Oct 24, 2026 • 5:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 - **[Sabroso Sundays at Al-Amir](https://golatindance.com/event/sabroso-sundays-at-al-amir/2026-10-25/)** **_Free_**  
    Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States  
    Sun, Oct 25, 2026 • 10:00 PM – 2:00 AM  
@@ -57,10 +61,30 @@
    Gigis, 7300 Lone Star Drive C150, Plano, TX, 75024, United States  
    Wed, Oct 28, 2026 • 9:00 PM – 2:00 AM  
    `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
+- **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-10-29/)** **_Free_**  
+   Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
+   Thu, Oct 29, 2026 • 9:00 PM – 1:00 AM  
+   `social` `lesson` `salsa` _via golatindance_
 - **[DALLAS, THE SALSA SCENE IS ON FIRE!](https://www.instagram.com/p/Dej-mh9mkPJ/)** **_Varies_**  
    Bombshells in Rowlett  
    Fri, Oct 30, 2026 • all day  
    `salsa` `lesson` `social` `workshop` `festival` _via instagram_
+- **[Friday Latin at Al-Amir Arlington](https://golatindance.com/event/friday-rumba-nights-at-al-amir-arlington/2026-10-30/)** **_Varies_**  
+   Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
+   Fri, Oct 30, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[Rumba Fridays @ Taboo Lounge Dallas](https://golatindance.com/event/rumba-fridays-taboo-lounge-dallas/2026-10-30/)** **_$5–$15_**  
+   Taboo Dallas, 1418 N Riverfront, Dallas, TX, 75207, United States  
+   Fri, Oct 30, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[Latin Night](https://golatindance.com/event/latin-night-2/2026-10-30/)** **_Free_**  
+   El TACO H, 213 E Hickory St, Denton, TX, 76201, US  
+   Fri, Oct 30, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[Sabados de Gazadera at Al-Amir Arlington](https://golatindance.com/event/sabados-de-gazadera-at-al-amir-arlington/2026-10-31/)** **_$10_**  
+   Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
+   Sat, Oct 31, 2026 • 10:00 PM – 1:00 AM  
+   `social` `salsa` `bachata` _via golatindance_
 - **[DALLAS, THE SALSA SCENE IS ON FIRE!](https://www.instagram.com/p/Dej-mh9mkPJ/)** **_Varies_**  
    Bombshells in Rowlett  
    Fri, Nov 6, 2026 • all day  
@@ -69,6 +93,10 @@
    Bombshells in Rowlett  
    Fri, Nov 13, 2026 • all day  
    `salsa` `lesson` `social` `workshop` `festival` _via instagram_
+- **[Salsa and Bachata dancing @salsonsocial every 2nd Friday of the month!](https://www.instagram.com/p/DekwdFyRMT7/)** **_$17–$20_**  
+   Kumbaladancestudio  
+   Fri, Nov 13, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[DALLAS, THE SALSA SCENE IS ON FIRE!](https://www.instagram.com/p/Dej-mh9mkPJ/)** **_Varies_**  
    Bombshells in Rowlett  
    Fri, Nov 20, 2026 • all day  
@@ -82,65 +110,6 @@
 
 ## Upcoming
 
-
-### Saturday, October 17, 2026
-
-- **[Sábados con la Rumba – A Otro Nivel at Luna Azul](https://www.salsavida.com/event/texas/dallas-fort-worth/sabados-con-la-rumba-a-otro-nivel-at-luna-azul/)** **_Free_**  
-   Fort Worth  
-   Sat, Oct 17, 2026 • all day  
-   `social` `salsa` _via salsavida_
-- **[Gloria’s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
-   Addison  
-   Sat, Oct 17, 2026 • all day  
-   `social` _via salsavida_
-- **[La Vibra – Dallas Salsa & Bachata Social](https://www.salsavida.com/event/texas/dallas-fort-worth/la-vibra-dallas-salsa-bachata-social/)** **_$20_**  
-   Richardson  
-   Sat, Oct 17, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via salsavida_
-- **[Noches Latinas Saturdays at Los Lupes](https://www.danceus.org/event/16552421199670/noches-latinas-saturdays-at-los-lupes-addison-tx/)** **_Varies_**  
-   Los Lupes Addison  
-   Sat, Oct 17, 2026 • all day  
-   `salsa` `bachata` `merengue` _via danceus_
-- **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/316740669/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Sat, Oct 17, 2026 • 4:00 PM  
-   `social` `lesson` `bachata` _via meetup_
-- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/316741132/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Sat, Oct 17, 2026 • 5:00 PM  
-   `social` `lesson` `salsa` _via meetup_
-- **[Salsa on the sand at The Strand](https://golatindance.com/event/salsa-on-the-sand-at-the-strand/2026-10-17/)** **_Varies_**  
-   The Strand, 150 Continental Dr, Lewisville, TX, 75067, United States  
-   Sat, Oct 17, 2026 • 7:00 PM – 12:00 AM  
-   `salsa` _via golatindance_
-- **[Mi gente, Join us for an awesome time with friends and family! Be ready for a night of Latin dancing, beach volleyball,](https://www.instagram.com/p/DeVdPq8FtaO/)** **_$7–$15_**  
-   Latinswing Dallas  
-   Sat, Oct 17, 2026 • 7:00 PM  
-   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
-- **[La Vibra &#8211; Dallas Salsa &#038; Bachata Social](https://www.salsavida.com/event/texas/dallas-fort-worth/la-vibra-dallas-salsa-bachata-social/)** **_$20_**  
-   Tropik Vybe Studio · Richardson  
-   Sat, Oct 17, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` _via salsavida_
-- **[Latin Saturday at Mexican Bar Company](https://golatindance.com/event/latin-saturday-at-mexican-bar-company/2026-10-17/)** **_Free_**  
-   Mexican Bar Company, 6121 West Park Blvd Ste RS-10, Plano, TX, 75093, United States  
-   Sat, Oct 17, 2026 • 10:00 PM – 2:00 AM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Sabados de Gazadera at Al-Amir Arlington](https://golatindance.com/event/sabados-de-gazadera-at-al-amir-arlington/2026-10-17/)** **_$10_**  
-   Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
-   Sat, Oct 17, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` _via golatindance_
-- **[Dallas Can Dance Monthly Saturday Social](https://golatindance.com/event/dcd-seventy-thirty-70-bachata-30-salsa/2026-10-17/)** **_$20–$25_**  
-   Dallas Can Dance – The Academy, 2650 Midway Rd #130, Carrollton, TX, 75006, United States  
-   Sat, Oct 17, 2026 • 10:00 PM – 2:00 AM  
-   `social` `lesson` `salsa` `bachata` `kizomba` _via golatindance_
-- **[Rumba Tropical en Reys's Sports Bar](https://golatindance.com/event/rumba-tropical-en-reyss-sports-bar/2026-10-17/)** **_Free_**  
-   Reys Sports Bar, 2836 N Oconnor Rd, Irving, TX, United States  
-   Sat, Oct 17, 2026 • 10:00 PM – 2:00 AM  
-   `salsa` `bachata` `merengue` _via golatindance_
-- **[Gloria&#8217;s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
-   Gloria's Latin Cuisine · Addison  
-   Sat, Oct 17, 2026 • 11:00 PM – 2:00 AM  
-   `social` _via salsavida_
 
 ### Sunday, October 18, 2026
 
@@ -176,6 +145,10 @@
    La Chingona, 2800 Bledsoe St #100, Fort Worth, TX, 76107, United States  
    Sun, Oct 18, 2026 • 3:00 PM – 6:00 PM  
    `lesson` `salsa` `bachata` _via golatindance_
+- **[SALSA SUNDAY AT LA CHINGONA – FORT WORTH!](https://www.instagram.com/p/DenF93mD1cc/)** **_$4–$5_**  
+   Farrington Field  
+   Sun, Oct 18, 2026 • 3:00 PM  
+   `salsa` `bachata` `merengue` `lesson` _via instagram_
 - **[30 % OFF CHA CHA CHA & mambo in addison](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316757005/)** **_Varies_**  
    You Can Dance Dallas  
    Sun, Oct 18, 2026 • 4:45 PM  
@@ -200,6 +173,10 @@
    Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
    Sun, Oct 18, 2026 • 7:00 PM – 11:00 PM  
    `social` `lesson` `salsa` _via golatindance_
+- **[SALSA SUNDAY NIGHT AT HEARSAY!](https://www.instagram.com/p/DenDuEdj9VD/)** **_$10_**  
+   HEARSAY ARLINGTON  
+   Sun, Oct 18, 2026 • 7:00 PM  
+   `salsa` `bachata` `merengue` `social` _via instagram_
 - **[David Herrera Amateur Latin / Ballroom dance team summer tryouts](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316759209/)** **_Varies_**  
    You Can Dance Dallas  
    Sun, Oct 18, 2026 • 7:45 PM  
@@ -343,6 +320,14 @@
    Richardson  
    Sat, Oct 24, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via salsavida_
+- **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/316844750/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, Oct 24, 2026 • 4:00 PM  
+   `social` `lesson` `bachata` _via meetup_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/316798825/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Sat, Oct 24, 2026 • 5:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 - **[Dallas Bachata Social at Tropik Vybe](https://www.salsavida.com/event/texas/dallas-fort-worth/dallas-bachata-social-at-tropik-vybe/)** **_Varies_**  
    Tropik Vybe Studio · Richardson  
    Sat, Oct 24, 2026 • 9:00 PM – 2:00 AM  
@@ -441,6 +426,13 @@
    Wed, Oct 28, 2026 • 9:30 PM – 2:00 AM  
    `salsa` `bachata` _via salsavida_
 
+### Thursday, October 29, 2026
+
+- **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-10-29/)** **_Free_**  
+   Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
+   Thu, Oct 29, 2026 • 9:00 PM – 1:00 AM  
+   `social` `lesson` `salsa` _via golatindance_
+
 ### Friday, October 30, 2026
 
 - **[DALLAS, THE SALSA SCENE IS ON FIRE!](https://www.instagram.com/p/Dej-mh9mkPJ/)** **_Varies_**  
@@ -455,6 +447,25 @@
    Salsadallas  
    Fri, Oct 30, 2026 • 10:00 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
+- **[Friday Latin at Al-Amir Arlington](https://golatindance.com/event/friday-rumba-nights-at-al-amir-arlington/2026-10-30/)** **_Varies_**  
+   Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
+   Fri, Oct 30, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[Rumba Fridays @ Taboo Lounge Dallas](https://golatindance.com/event/rumba-fridays-taboo-lounge-dallas/2026-10-30/)** **_$5–$15_**  
+   Taboo Dallas, 1418 N Riverfront, Dallas, TX, 75207, United States  
+   Fri, Oct 30, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[Latin Night](https://golatindance.com/event/latin-night-2/2026-10-30/)** **_Free_**  
+   El TACO H, 213 E Hickory St, Denton, TX, 76201, US  
+   Fri, Oct 30, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` `merengue` _via golatindance_
+
+### Saturday, October 31, 2026
+
+- **[Sabados de Gazadera at Al-Amir Arlington](https://golatindance.com/event/sabados-de-gazadera-at-al-amir-arlington/2026-10-31/)** **_$10_**  
+   Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
+   Sat, Oct 31, 2026 • 10:00 PM – 1:00 AM  
+   `social` `salsa` `bachata` _via golatindance_
 
 ### Monday, November 2, 2026
 
@@ -495,6 +506,10 @@
    Bombshells in Rowlett  
    Fri, Nov 13, 2026 • all day  
    `salsa` `lesson` `social` `workshop` `festival` _via instagram_
+- **[Salsa and Bachata dancing @salsonsocial every 2nd Friday of the month!](https://www.instagram.com/p/DekwdFyRMT7/)** **_$17–$20_**  
+   Kumbaladancestudio  
+   Fri, Nov 13, 2026 • 9:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[FRIDAY NIGHT = SALSA NIGHT!](https://www.instagram.com/p/DeAJOzaDrlF/)** **_Free_**  
    Salsadallas  
    Fri, Nov 13, 2026 • 10:00 PM  
