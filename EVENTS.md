@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-10-20 12:46 AM CDT**
+> Auto-generated. Last update: **2026-10-20 12:51 PM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 105 upcoming events tracked. **14 new** since last run.
+> 105 upcoming events tracked. **9 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -21,26 +21,6 @@
    Al-Amir Addison  
    Sun, Oct 25, 2026 • all day  
    `social` `salsa` `bachata` `merengue` _via danceus_
-- **[30 % OFF CHA CHA CHA & mambo in addison](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316860362/)** **_Varies_**  
-   You Can Dance Dallas  
-   Sun, Oct 25, 2026 • 4:45 PM  
-   `cha-cha` _via meetup_
-- **[4:15 Cha Cha/Mambo on 2](https://www.meetup.com/you-can-dance-dallas/events/316860415/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Oct 25, 2026 • 4:45 PM  
-   `lesson` `salsa` `bachata` `cha-cha` _via meetup_
-- **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/316861639/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Oct 25, 2026 • 6:30 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[50 % off SUNDAY Salsa & BACHATA class in addison • we go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316861611/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Oct 25, 2026 • 6:30 PM  
-   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
-- **[David Herrera Amateur Latin / Ballroom dance team summer tryouts](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316862221/)** **_Varies_**  
-   You Can Dance Dallas  
-   Sun, Oct 25, 2026 • 7:45 PM  
-   `lesson` `festival` `salsa` `bachata` `cha-cha` _via meetup_
 - **[Sabroso Sundays at Al-Amir Addison](https://www.salsavida.com/event/texas/dallas-fort-worth/sabroso-sundays-at-al-amir-addison/)** **_$10_**  
    Addison  
    Sun, Nov 1, 2026 • all day  
