@@ -1,22 +1,22 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-10-21 12:59 PM CDT**
+> Auto-generated. Last update: **2026-10-22 12:50 AM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 111 upcoming events tracked. **9 new** since last run.
+> 106 upcoming events tracked. **14 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Wednesday nights are for Salsa & Bachata!](https://www.instagram.com/p/DeumMgpMfr9/)** **_Varies_**  
-   Gigi  
-   Wed, Oct 21, 2026 • 9:30 PM – 10:30 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[CALLING ALL DFW SALSEROS — ARE YOU READY?](https://www.instagram.com/p/DeveMHXDaMo/)** **_$5–$15_**  
    Salsa At The Gardens  
    Fri, Oct 23, 2026 • 10:00 PM  
    `salsa` `bachata` `merengue` `social` _via instagram_
+- **[Every Saturday night, the Secret Latin Dance Night is calling.](https://www.instagram.com/p/DexJAJDKqvd/)** **_$10–$150_**  
+   Mexbars  
+   Sat, Oct 24, 2026 • all day  
+   `lesson` `social` `salsa` `bachata` _via instagram_
 - **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/316832492/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Tue, Oct 27, 2026 • 8:00 PM  
@@ -25,6 +25,10 @@
    Gigi  
    Wed, Oct 28, 2026 • 9:30 PM – 10:30 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
+- **[Every Saturday night, the Secret Latin Dance Night is calling.](https://www.instagram.com/p/DexJAJDKqvd/)** **_$10–$150_**  
+   Mexbars  
+   Sat, Oct 31, 2026 • all day  
+   `lesson` `social` `salsa` `bachata` _via instagram_
 - **[YES! HALLOWEEN PARTY AT DCD!](https://www.instagram.com/p/DeuZGoATLll/)** **_$20–$30_**  
    Dcdsocials  
    Sat, Oct 31, 2026 • 2:00 AM  
@@ -33,70 +37,39 @@
    Gigi  
    Wed, Nov 4, 2026 • 9:30 PM – 10:30 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
+- **[Every Saturday night, the Secret Latin Dance Night is calling.](https://www.instagram.com/p/DexJAJDKqvd/)** **_$10–$150_**  
+   Mexbars  
+   Sat, Nov 7, 2026 • all day  
+   `lesson` `social` `salsa` `bachata` _via instagram_
 - **[Wednesday nights are for Salsa & Bachata!](https://www.instagram.com/p/DeumMgpMfr9/)** **_Varies_**  
    Gigi  
    Wed, Nov 11, 2026 • 9:30 PM – 10:30 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
+- **[Every Saturday night, the Secret Latin Dance Night is calling.](https://www.instagram.com/p/DexJAJDKqvd/)** **_$10–$150_**  
+   Mexbars  
+   Sat, Nov 14, 2026 • all day  
+   `lesson` `social` `salsa` `bachata` _via instagram_
 - **[Wednesday nights are for Salsa & Bachata!](https://www.instagram.com/p/DeumMgpMfr9/)** **_Varies_**  
    Gigi  
    Wed, Nov 18, 2026 • 9:30 PM – 10:30 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
+- **[Every Saturday night, the Secret Latin Dance Night is calling.](https://www.instagram.com/p/DexJAJDKqvd/)** **_$10–$150_**  
+   Mexbars  
+   Sat, Nov 21, 2026 • all day  
+   `lesson` `social` `salsa` `bachata` _via instagram_
 - **[Wednesday nights are for Salsa & Bachata!](https://www.instagram.com/p/DeumMgpMfr9/)** **_Varies_**  
    Gigi  
    Wed, Nov 25, 2026 • 9:30 PM – 10:30 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
+- **[Every Saturday night, the Secret Latin Dance Night is calling.](https://www.instagram.com/p/DexJAJDKqvd/)** **_$10–$150_**  
+   Mexbars  
+   Sat, Nov 28, 2026 • all day  
+   `lesson` `social` `salsa` `bachata` _via instagram_
 
 ---
 
 ## Upcoming
 
-
-### Wednesday, October 21, 2026
-
-- **[Wednesday Salsa & Bachata at Stratos](https://www.salsavida.com/event/texas/dallas-fort-worth/wednesday-salsa-bachata-at-stratos/)** **_Free_**  
-   Dallas  
-   Wed, Oct 21, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via salsavida_
-- **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
-   Dallas-Fort Worth  
-   Wed, Oct 21, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` `merengue` _via salsavida_
-- **[FREE Salsa Class + Dallas Salsa Congress 2026!](https://www.instagram.com/p/DdrR84vlPa2/)** **_Free_**  
-   Salsadallas  
-   Wed, Oct 21, 2026 • all day  
-   `salsa` `lesson` `social` `festival` _via instagram_
-- **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
-   Vidorra Dallas  
-   Wed, Oct 21, 2026 • all day  
-   `social` `lesson` `salsa` _via danceus_
-- **[Live Latin Night With Havana NRG at Sambuca360](https://www.danceus.org/event/165524211650016/live-latin-night-with-havana-nrg-at-sambuca-plano-tx/)** **_Varies_**  
-   Sambuca360 · Plano  
-   Wed, Oct 21, 2026 • all day  
-   `social` _via danceus_
-- **[Salseando and Bachateando Nights at El Botanero](https://www.danceus.org/event/16552421287400/salseando-and-bachateando-nights-at-el-botanero-dallas-tx/)** **_Varies_**  
-   El Botanero Bar · Dallas  
-   Wed, Oct 21, 2026 • all day  
-   `social` `salsa` `bachata` _via danceus_
-- **[Wednesday Salsa Social at Stratos](https://www.danceus.org/event/16552421361930/wednesday-salsa-social-at-stratos-dallas-tx/)** **_Varies_**  
-   Stratos Greek Taverna · Dallas  
-   Wed, Oct 21, 2026 • all day  
-   `social` `salsa` _via danceus_
-- **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
-   Vidorra Cocina · Dallas-Fort Worth  
-   Wed, Oct 21, 2026 • 7:00 PM – 11:00 PM  
-   `salsa` _via salsavida_
-- **[Latin Night at Gigis](https://golatindance.com/event/latin-night-at-gigis/2026-10-21/)** **_Free_**  
-   Gigis, 7300 Lone Star Drive C150, Plano, TX, 75024, United States  
-   Wed, Oct 21, 2026 • 9:00 PM – 2:00 AM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Wednesday Salsa &#038; Bachata at Stratos](https://www.salsavida.com/event/texas/dallas-fort-worth/wednesday-salsa-bachata-at-stratos/)** **_Free_**  
-   Stratos Bar & Grill · Dallas  
-   Wed, Oct 21, 2026 • 9:30 PM – 2:00 AM  
-   `salsa` `bachata` _via salsavida_
-- **[Wednesday nights are for Salsa & Bachata!](https://www.instagram.com/p/DeumMgpMfr9/)** **_Varies_**  
-   Gigi  
-   Wed, Oct 21, 2026 • 9:30 PM – 10:30 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
 
 ### Thursday, October 22, 2026
 
@@ -178,6 +151,10 @@
    Richardson  
    Sat, Oct 24, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via salsavida_
+- **[Every Saturday night, the Secret Latin Dance Night is calling.](https://www.instagram.com/p/DexJAJDKqvd/)** **_$10–$150_**  
+   Mexbars  
+   Sat, Oct 24, 2026 • all day  
+   `lesson` `social` `salsa` `bachata` _via instagram_
 - **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/316844750/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Sat, Oct 24, 2026 • 4:00 PM  
@@ -372,6 +349,10 @@
 
 ### Saturday, October 31, 2026
 
+- **[Every Saturday night, the Secret Latin Dance Night is calling.](https://www.instagram.com/p/DexJAJDKqvd/)** **_$10–$150_**  
+   Mexbars  
+   Sat, Oct 31, 2026 • all day  
+   `lesson` `social` `salsa` `bachata` _via instagram_
 - **[YES! HALLOWEEN PARTY AT DCD!](https://www.instagram.com/p/DeuZGoATLll/)** **_$20–$30_**  
    Dcdsocials  
    Sat, Oct 31, 2026 • 2:00 AM  
@@ -449,6 +430,13 @@
    Fri, Nov 6, 2026 • 10:00 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
 
+### Saturday, November 7, 2026
+
+- **[Every Saturday night, the Secret Latin Dance Night is calling.](https://www.instagram.com/p/DexJAJDKqvd/)** **_$10–$150_**  
+   Mexbars  
+   Sat, Nov 7, 2026 • all day  
+   `lesson` `social` `salsa` `bachata` _via instagram_
+
 ### Wednesday, November 11, 2026
 
 - **[Wednesday nights are for Salsa & Bachata!](https://www.instagram.com/p/DeumMgpMfr9/)** **_Varies_**  
@@ -474,6 +462,13 @@
    Salsadallas  
    Fri, Nov 13, 2026 • 10:00 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
+
+### Saturday, November 14, 2026
+
+- **[Every Saturday night, the Secret Latin Dance Night is calling.](https://www.instagram.com/p/DexJAJDKqvd/)** **_$10–$150_**  
+   Mexbars  
+   Sat, Nov 14, 2026 • all day  
+   `lesson` `social` `salsa` `bachata` _via instagram_
 
 ### Wednesday, November 18, 2026
 
@@ -541,6 +536,13 @@
    Fri, Nov 20, 2026 • 10:00 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
 
+### Saturday, November 21, 2026
+
+- **[Every Saturday night, the Secret Latin Dance Night is calling.](https://www.instagram.com/p/DexJAJDKqvd/)** **_$10–$150_**  
+   Mexbars  
+   Sat, Nov 21, 2026 • all day  
+   `lesson` `social` `salsa` `bachata` _via instagram_
+
 ### Wednesday, November 25, 2026
 
 - **[Wednesday nights are for Salsa & Bachata!](https://www.instagram.com/p/DeumMgpMfr9/)** **_Varies_**  
@@ -554,6 +556,13 @@
    Bombshells in Rowlett  
    Fri, Nov 27, 2026 • all day  
    `salsa` `lesson` `social` `workshop` `festival` _via instagram_
+
+### Saturday, November 28, 2026
+
+- **[Every Saturday night, the Secret Latin Dance Night is calling.](https://www.instagram.com/p/DexJAJDKqvd/)** **_$10–$150_**  
+   Mexbars  
+   Sat, Nov 28, 2026 • all day  
+   `lesson` `social` `salsa` `bachata` _via instagram_
 
 
 ---
