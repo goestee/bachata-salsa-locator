@@ -1,18 +1,14 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-10-23 12:50 AM CDT**
+> Auto-generated. Last update: **2026-10-23 12:48 PM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 109 upcoming events tracked. **13 new** since last run.
+> 112 upcoming events tracked. **10 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Every Saturday night, the Secret Latin Dance Night is calling.](https://www.instagram.com/p/DexJAJDKqvd/)** **_$10–$150_**  
-   Mexbars  
-   Sat, Oct 24, 2026 • all day  
-   `lesson` `social` `salsa` `bachata` _via instagram_
 - **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
    Vidorra Dallas  
    Wed, Oct 28, 2026 • all day  
@@ -29,14 +25,22 @@
    Stratos Greek Taverna · Dallas  
    Wed, Oct 28, 2026 • all day  
    `social` `salsa` _via danceus_
+- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
+   Merkado · Frisco  
+   Thu, Oct 29, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Thu, Oct 29, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
+   Hangout · Irving  
+   Thu, Oct 29, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
 - **[SPOOKY SALSA NIGHT AT ILUSION – MANSFIELD!](https://www.instagram.com/p/DeyV3E8lR1k/)** **_Varies_**  
    Ilusion Restaurant & Cocktail Lounge  
    Thu, Oct 29, 2026 • 7:00 PM  
    `salsa` `bachata` `merengue` `social` _via instagram_
-- **[Every Saturday night, the Secret Latin Dance Night is calling.](https://www.instagram.com/p/DexJAJDKqvd/)** **_$10–$150_**  
-   Mexbars  
-   Sat, Oct 31, 2026 • all day  
-   `lesson` `social` `salsa` `bachata` _via instagram_
 - **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
    Vidorra Cocina · Dallas-Fort Worth  
    Wed, Nov 4, 2026 • 7:00 PM – 11:00 PM  
@@ -45,22 +49,6 @@
    Stratos Bar & Grill · Dallas  
    Wed, Nov 4, 2026 • 9:30 PM – 2:00 AM  
    `salsa` `bachata` _via salsavida_
-- **[Every Saturday night, the Secret Latin Dance Night is calling.](https://www.instagram.com/p/DexJAJDKqvd/)** **_$10–$150_**  
-   Mexbars  
-   Sat, Nov 7, 2026 • all day  
-   `lesson` `social` `salsa` `bachata` _via instagram_
-- **[Every Saturday night, the Secret Latin Dance Night is calling.](https://www.instagram.com/p/DexJAJDKqvd/)** **_$10–$150_**  
-   Mexbars  
-   Sat, Nov 14, 2026 • all day  
-   `lesson` `social` `salsa` `bachata` _via instagram_
-- **[Every Saturday night, the Secret Latin Dance Night is calling.](https://www.instagram.com/p/DexJAJDKqvd/)** **_$10–$150_**  
-   Mexbars  
-   Sat, Nov 21, 2026 • all day  
-   `lesson` `social` `salsa` `bachata` _via instagram_
-- **[Every Saturday night, the Secret Latin Dance Night is calling.](https://www.instagram.com/p/DexJAJDKqvd/)** **_$10–$150_**  
-   Mexbars  
-   Sat, Nov 28, 2026 • all day  
-   `lesson` `social` `salsa` `bachata` _via instagram_
 
 ---
 
@@ -308,6 +296,18 @@
 
 ### Thursday, October 29, 2026
 
+- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
+   Merkado · Frisco  
+   Thu, Oct 29, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Thu, Oct 29, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
+   Hangout · Irving  
+   Thu, Oct 29, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
 - **[SPOOKY SALSA NIGHT AT ILUSION – MANSFIELD!](https://www.instagram.com/p/DeyV3E8lR1k/)** **_Varies_**  
    Ilusion Restaurant & Cocktail Lounge  
    Thu, Oct 29, 2026 • 7:00 PM  
