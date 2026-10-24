@@ -1,30 +1,18 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-10-23 12:48 PM CDT**
+> Auto-generated. Last update: **2026-10-24 12:28 AM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 112 upcoming events tracked. **10 new** since last run.
+> 106 upcoming events tracked. **7 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
-   Vidorra Dallas  
-   Wed, Oct 28, 2026 • all day  
-   `social` `lesson` `salsa` _via danceus_
-- **[Live Latin Night With Havana NRG at Sambuca360](https://www.danceus.org/event/165524211650016/live-latin-night-with-havana-nrg-at-sambuca-plano-tx/)** **_Varies_**  
-   Sambuca360 · Plano  
-   Wed, Oct 28, 2026 • all day  
-   `social` _via danceus_
-- **[Salseando and Bachateando Nights at El Botanero](https://www.danceus.org/event/16552421287400/salseando-and-bachateando-nights-at-el-botanero-dallas-tx/)** **_Varies_**  
-   El Botanero Bar · Dallas  
-   Wed, Oct 28, 2026 • all day  
-   `social` `salsa` `bachata` _via danceus_
-- **[Wednesday Salsa Social at Stratos](https://www.danceus.org/event/16552421361930/wednesday-salsa-social-at-stratos-dallas-tx/)** **_Varies_**  
-   Stratos Greek Taverna · Dallas  
-   Wed, Oct 28, 2026 • all day  
-   `social` `salsa` _via danceus_
+- **[SALSA SUNDAYS AT HEARSAY – BAILANDO HALLOWEEN!](https://www.instagram.com/p/De3YOnsFVv5/)** **_Varies_**  
+   Salsa At The Gardens  
+   Sun, Oct 25, 2026 • 7:00 PM  
+   `salsa` `bachata` `social` _via instagram_
 - **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
    Merkado · Frisco  
    Thu, Oct 29, 2026 • all day  
@@ -41,58 +29,19 @@
    Ilusion Restaurant & Cocktail Lounge  
    Thu, Oct 29, 2026 • 7:00 PM  
    `salsa` `bachata` `merengue` `social` _via instagram_
-- **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
-   Vidorra Cocina · Dallas-Fort Worth  
-   Wed, Nov 4, 2026 • 7:00 PM – 11:00 PM  
-   `salsa` _via salsavida_
-- **[Wednesday Salsa &#038; Bachata at Stratos](https://www.salsavida.com/event/texas/dallas-fort-worth/wednesday-salsa-bachata-at-stratos/)** **_Free_**  
-   Stratos Bar & Grill · Dallas  
-   Wed, Nov 4, 2026 • 9:30 PM – 2:00 AM  
-   `salsa` `bachata` _via salsavida_
+- **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316929631/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Fri, Oct 30, 2026 • 7:30 PM  
+   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
+- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/316929687/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Fri, Oct 30, 2026 • 7:30 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 
 ---
 
 ## Upcoming
 
-
-### Friday, October 23, 2026
-
-- **[DALLAS, THE SALSA SCENE IS ON FIRE!](https://www.instagram.com/p/Dej-mh9mkPJ/)** **_Varies_**  
-   Bombshells in Rowlett  
-   Fri, Oct 23, 2026 • all day  
-   `salsa` `lesson` `social` `workshop` `festival` _via instagram_
-- **[Friday Latin at Al-Amir Arlington](https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/)** **_Varies_**  
-   Al-Amir Arlington  
-   Fri, Oct 23, 2026 • all day  
-   `social` `salsa` `bachata` `merengue` _via danceus_
-- **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
-   A3 Studiotx  
-   Fri, Oct 23, 2026 • 6:00 PM  
-   `social` _via instagram_
-- **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316834168/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Fri, Oct 23, 2026 • 7:30 PM  
-   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
-- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/316834331/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Fri, Oct 23, 2026 • 7:30 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[FRIDAY NIGHT = SALSA NIGHT!](https://www.instagram.com/p/DeAJOzaDrlF/)** **_Free_**  
-   Salsadallas  
-   Fri, Oct 23, 2026 • 10:00 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
-- **[Friday Latin at Al-Amir Arlington](https://golatindance.com/event/friday-rumba-nights-at-al-amir-arlington/2026-10-23/)** **_Varies_**  
-   Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
-   Fri, Oct 23, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` `merengue` _via golatindance_
-- **[Rumba Fridays @ Taboo Lounge Dallas](https://golatindance.com/event/rumba-fridays-taboo-lounge-dallas/2026-10-23/)** **_$5–$15_**  
-   Taboo Dallas, 1418 N Riverfront, Dallas, TX, 75207, United States  
-   Fri, Oct 23, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` `merengue` _via golatindance_
-- **[CALLING ALL DFW SALSEROS — ARE YOU READY?](https://www.instagram.com/p/DeveMHXDaMo/)** **_$5–$15_**  
-   Salsa At The Gardens  
-   Fri, Oct 23, 2026 • 10:00 PM  
-   `salsa` `bachata` `merengue` `social` _via instagram_
 
 ### Saturday, October 24, 2026
 
@@ -203,6 +152,10 @@
    Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
    Sun, Oct 25, 2026 • 7:00 PM – 11:00 PM  
    `social` `lesson` `salsa` _via golatindance_
+- **[SALSA SUNDAYS AT HEARSAY – BAILANDO HALLOWEEN!](https://www.instagram.com/p/De3YOnsFVv5/)** **_Varies_**  
+   Salsa At The Gardens  
+   Sun, Oct 25, 2026 • 7:00 PM  
+   `salsa` `bachata` `social` _via instagram_
 - **[David Herrera Amateur Latin / Ballroom dance team summer tryouts](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316862221/)** **_Varies_**  
    You Can Dance Dallas  
    Sun, Oct 25, 2026 • 7:45 PM  
@@ -327,6 +280,14 @@
    A3 Studiotx  
    Fri, Oct 30, 2026 • 6:00 PM  
    `social` _via instagram_
+- **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316929631/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Fri, Oct 30, 2026 • 7:30 PM  
+   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
+- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/316929687/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Fri, Oct 30, 2026 • 7:30 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 - **[FRIDAY NIGHT = SALSA NIGHT!](https://www.instagram.com/p/DeAJOzaDrlF/)** **_Free_**  
    Salsadallas  
    Fri, Oct 30, 2026 • 10:00 PM  
