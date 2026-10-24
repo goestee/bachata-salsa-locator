@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-10-24 12:28 AM CDT**
+> Auto-generated. Last update: **2026-10-24 11:30 AM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 106 upcoming events tracked. **7 new** since last run.
+> 107 upcoming events tracked. **7 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -25,10 +25,10 @@
    Hangout · Irving  
    Thu, Oct 29, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via danceus_
-- **[SPOOKY SALSA NIGHT AT ILUSION – MANSFIELD!](https://www.instagram.com/p/DeyV3E8lR1k/)** **_Varies_**  
-   Ilusion Restaurant & Cocktail Lounge  
-   Thu, Oct 29, 2026 • 7:00 PM  
-   `salsa` `bachata` `merengue` `social` _via instagram_
+- **[Friday Latin at Al-Amir Arlington](https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/)** **_Varies_**  
+   Al-Amir Arlington  
+   Fri, Oct 30, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via danceus_
 - **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/316929631/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Fri, Oct 30, 2026 • 7:30 PM  
@@ -276,6 +276,10 @@
    Bombshells in Rowlett  
    Fri, Oct 30, 2026 • all day  
    `salsa` `lesson` `social` `workshop` `festival` _via instagram_
+- **[Friday Latin at Al-Amir Arlington](https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/)** **_Varies_**  
+   Al-Amir Arlington  
+   Fri, Oct 30, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via danceus_
 - **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
    A3 Studiotx  
    Fri, Oct 30, 2026 • 6:00 PM  
