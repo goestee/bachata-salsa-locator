@@ -1,14 +1,18 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-10-26 02:05 PM CDT**
+> Auto-generated. Last update: **2026-10-27 01:04 AM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 92 upcoming events tracked. **10 new** since last run.
+> 96 upcoming events tracked. **14 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
+- **[SALSA BY THE BAY IS BACK!](https://www.instagram.com/p/De-SFJKE96t/)** **_Varies_**  
+   Bombshells Rowlett  
+   Wed, Oct 28, 2026 • 7:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
    Victoria’s Restaurant · Farmers Branch  
    Sun, Nov 1, 2026 • all day  
@@ -33,6 +37,18 @@
    You Can Dance Dallas  
    Sun, Nov 1, 2026 • 7:45 PM  
    `lesson` `festival` `salsa` `bachata` `cha-cha` _via meetup_
+- **[JUAN “PACHANGA” MATOS — ROAD TO DALLAS SALSA CONGRESS 2026!](https://www.instagram.com/p/De-L7ndEjSw/)** **_$30–$40_**  
+   Salsadallas  
+   Fri, Nov 6, 2026 • 3:30 PM  
+   `salsa` `lesson` `workshop` `festival` _via instagram_
+- **[All the way from New York, @iamnatashakarp](https://www.instagram.com/p/De9k_NIR7CC/)** **_$25–$37_**  
+   Echalesalsita Dallas  
+   Fri, Nov 6, 2026 • 9:15 PM  
+   `salsa` `lesson` `social` _via instagram_
+- **[JUAN “PACHANGA” MATOS — ROAD TO DALLAS SALSA CONGRESS 2026!](https://www.instagram.com/p/De-L7ndEjSw/)** **_$30–$40_**  
+   Salsadallas  
+   Sat, Nov 7, 2026 • 3:30 PM  
+   `salsa` `lesson` `workshop` `festival` _via instagram_
 - **[Salsa Sunday at Lola&#8217;s Cuban Food](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-sunday-at-lolas-cuban-food/)** **_Free_**  
    Lola's Cuban Food · Dallas-Fort Worth  
    Sun, Nov 8, 2026 • 3:00 PM – 6:00 PM  
@@ -112,6 +128,10 @@
    Vidorra Cocina · Dallas-Fort Worth  
    Wed, Oct 28, 2026 • 7:00 PM – 11:00 PM  
    `salsa` _via salsavida_
+- **[SALSA BY THE BAY IS BACK!](https://www.instagram.com/p/De-SFJKE96t/)** **_Varies_**  
+   Bombshells Rowlett  
+   Wed, Oct 28, 2026 • 7:30 PM  
+   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[MASQUERADE & SINGLES NIGHT](https://www.instagram.com/p/Dehf5Khxj48/)** **_Varies_**  
    Mjr Productions94  
    Wed, Oct 28, 2026 • 8:00 PM  
@@ -143,7 +163,7 @@
    Hangout · Irving  
    Thu, Oct 29, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via danceus_
-- **[SPOOKY SALSA NIGHT AT ILUSION – MANSFIELD!](https://www.instagram.com/p/DeyV3E8lR1k/)** **_Varies_**  
+- **[SPOOKY SALSA NIGHT AT ILUSION – MANSFIELD!](https://www.instagram.com/p/De_CnzQFVva/)** **_Varies_**  
    Ilusion Restaurant & Cocktail Lounge  
    Thu, Oct 29, 2026 • 7:00 PM  
    `salsa` `bachata` `merengue` `social` _via instagram_
@@ -309,6 +329,10 @@
    Bombshells in Rowlett  
    Fri, Nov 6, 2026 • all day  
    `salsa` `lesson` `social` `workshop` `festival` _via instagram_
+- **[JUAN “PACHANGA” MATOS — ROAD TO DALLAS SALSA CONGRESS 2026!](https://www.instagram.com/p/De-L7ndEjSw/)** **_$30–$40_**  
+   Salsadallas  
+   Fri, Nov 6, 2026 • 3:30 PM  
+   `salsa` `lesson` `workshop` `festival` _via instagram_
 - **[Latin dancing at Taboo](https://www.meetup.com/dfw-trendy-tribe-meetup-group/events/316760148/)** **_Varies_**  
    Taboo Lounge Dallas  
    Fri, Nov 6, 2026 • 9:00 PM  
@@ -316,6 +340,10 @@
 - **[Not just a salsa class. Learn from one of the best, all the way from New York, @iamnatashakarp.  Join us for an hour cla](https://www.instagram.com/p/DeZT5nZuien/)** **_$25–$37_**  
    Echalesalsita Dallas  
    Fri, Nov 6, 2026 • 9:00 PM  
+   `salsa` `lesson` `social` _via instagram_
+- **[All the way from New York, @iamnatashakarp](https://www.instagram.com/p/De9k_NIR7CC/)** **_$25–$37_**  
+   Echalesalsita Dallas  
+   Fri, Nov 6, 2026 • 9:15 PM  
    `salsa` `lesson` `social` _via instagram_
 - **[FRIDAY NIGHT = SALSA NIGHT!](https://www.instagram.com/p/DeAJOzaDrlF/)** **_Free_**  
    Salsadallas  
@@ -328,6 +356,10 @@
    Mexbars  
    Sat, Nov 7, 2026 • all day  
    `lesson` `social` `salsa` `bachata` _via instagram_
+- **[JUAN “PACHANGA” MATOS — ROAD TO DALLAS SALSA CONGRESS 2026!](https://www.instagram.com/p/De-L7ndEjSw/)** **_$30–$40_**  
+   Salsadallas  
+   Sat, Nov 7, 2026 • 3:30 PM  
+   `salsa` `lesson` `workshop` `festival` _via instagram_
 - **[Gloria&#8217;s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
    Gloria's Latin Cuisine · Addison  
    Sat, Nov 7, 2026 • 11:00 PM – 2:00 AM  
