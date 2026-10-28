@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-10-28 01:42 AM CDT**
+> Auto-generated. Last update: **2026-10-28 01:43 PM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 100 upcoming events tracked. **11 new** since last run.
+> 101 upcoming events tracked. **8 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -13,14 +13,14 @@
    E.B. Latin Bistro · Plano  
    Wed, Oct 28, 2026 • 6:00 PM  
    `social` _via meetup_
-- **[SALSA BY THE BAY IS BACK!](https://www.instagram.com/p/De-SFJKE96t/)** **_Varies_**  
-   Bombshells Rowlett  
-   Wed, Oct 28, 2026 • 7:30 PM  
-   `salsa` `bachata` `lesson` `social` _via instagram_
 - **[SPOOKY SALSA NIGHT AT ILUSION – MANSFIELD!](https://www.instagram.com/p/DfBazVYggGO/)** **_Varies_**  
    Salsa At The Gardens  
    Thu, Oct 29, 2026 • 7:00 PM  
    `salsa` `bachata` `merengue` `social` _via instagram_
+- **[Sunday Brunch at Salsa Tex-Mex](https://www.meetup.com/new-single-friends-55/events/317177205/)** **_Varies_**  
+   Salsa Tex-Mex Plano Texas  
+   Sun, Nov 1, 2026 • 11:30 AM  
+   `salsa` _via meetup_
 - **[7:30-9:00 Cha Cha & Mambo Class](https://www.meetup.com/you-can-dance-dallas/events/317165587/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sun, Nov 1, 2026 • 4:45 PM  
@@ -33,22 +33,10 @@
    DFW Young & Social · Farmers Branch  
    Tue, Nov 3, 2026 • 8:00 PM  
    `social` `lesson` `salsa` _via meetup_
-- **[JUAN “PACHANGA” MATOS — ROAD TO DALLAS SALSA CONGRESS 2026!](https://www.instagram.com/p/De-L7ndEjSw/)** **_$30–$40_**  
-   Salsadallas  
-   Fri, Nov 6, 2026 • 3:30 PM  
-   `salsa` `lesson` `workshop` `festival` _via instagram_
 - **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/317165546/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Fri, Nov 6, 2026 • 7:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
-- **[All the way from New York, @iamnatashakarp](https://www.instagram.com/p/De9k_NIR7CC/)** **_$25–$37_**  
-   Echalesalsita Dallas  
-   Fri, Nov 6, 2026 • 9:15 PM  
-   `salsa` `lesson` `social` _via instagram_
-- **[JUAN “PACHANGA” MATOS — ROAD TO DALLAS SALSA CONGRESS 2026!](https://www.instagram.com/p/De-L7ndEjSw/)** **_$30–$40_**  
-   Salsadallas  
-   Sat, Nov 7, 2026 • 3:30 PM  
-   `salsa` `lesson` `workshop` `festival` _via instagram_
 - **[7:00-11:00 2ND SATURDAY BALLROOM DANCE PARTY  & WCS CLASS](https://www.meetup.com/you-can-dance-dallas/events/317165703/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sat, Nov 14, 2026 • 7:00 PM  
@@ -253,6 +241,10 @@
    Al-Amir Addison  
    Sun, Nov 1, 2026 • all day  
    `social` `salsa` `bachata` `merengue` _via danceus_
+- **[Sunday Brunch at Salsa Tex-Mex](https://www.meetup.com/new-single-friends-55/events/317177205/)** **_Varies_**  
+   Salsa Tex-Mex Plano Texas  
+   Sun, Nov 1, 2026 • 11:30 AM  
+   `salsa` _via meetup_
 - **[Salsa Sunday at Lola&#8217;s Cuban Food](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-sunday-at-lolas-cuban-food/)** **_Free_**  
    Lola's Cuban Food · Dallas-Fort Worth  
    Sun, Nov 1, 2026 • 3:00 PM – 6:00 PM  
