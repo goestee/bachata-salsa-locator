@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-10-29 01:51 PM CDT**
+> Auto-generated. Last update: **2026-10-30 01:53 AM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 95 upcoming events tracked. **9 new** since last run.
+> 91 upcoming events tracked. **10 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -13,10 +13,10 @@
    Salsa At The Gardens  
    Fri, Oct 30, 2026 • all day  
    `salsa` `bachata` `merengue` `social` _via instagram_
-- **[Sunday Brunch at Salsa Tex-Mex](https://www.meetup.com/new-single-friends-55/events/317177205/)** **_Varies_**  
-   Salsa Tex-Mex Plano Texas  
-   Sun, Nov 1, 2026 • 11:30 AM  
-   `salsa` _via meetup_
+- **[LAST CHANCE! FULL PASS PRICE INCREASES TOMORROW!](https://www.instagram.com/p/DfFdwo5HQKK/)** **_$36–$155_**  
+   Salsadallas  
+   Fri, Oct 30, 2026 • all day  
+   `salsa` `lesson` `social` `workshop` `festival` _via instagram_
 - **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
    Vidorra Dallas  
    Wed, Nov 4, 2026 • all day  
@@ -45,38 +45,15 @@
    Stratos Bar & Grill · Dallas  
    Wed, Nov 11, 2026 • 9:30 PM – 2:00 AM  
    `salsa` `bachata` _via salsavida_
+- **[LAST CHANCE! FULL PASS PRICE INCREASES TOMORROW!](https://www.instagram.com/p/DfFdwo5HQKK/)** **_$36–$155_**  
+   Salsadallas  
+   Fri, Nov 20, 2026 • all day  
+   `salsa` `lesson` `social` `workshop` `festival` _via instagram_
 
 ---
 
 ## Upcoming
 
-
-### Thursday, October 29, 2026
-
-- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
-   Merkado · Frisco  
-   Thu, Oct 29, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Thu, Oct 29, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
-   Hangout · Irving  
-   Thu, Oct 29, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[SPOOKY SALSA NIGHT AT ILUSION – MANSFIELD!](https://www.instagram.com/p/De_CnzQFVva/)** **_Varies_**  
-   Ilusion Restaurant & Cocktail Lounge  
-   Thu, Oct 29, 2026 • 7:00 PM  
-   `salsa` `bachata` `merengue` `social` _via instagram_
-- **[SPOOKY SALSA NIGHT AT ILUSION – MANSFIELD!](https://www.instagram.com/p/DfBazVYggGO/)** **_Varies_**  
-   Salsa At The Gardens  
-   Thu, Oct 29, 2026 • 7:00 PM  
-   `salsa` `bachata` `merengue` `social` _via instagram_
-- **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-10-29/)** **_Free_**  
-   Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
-   Thu, Oct 29, 2026 • 9:00 PM – 1:00 AM  
-   `social` `lesson` `salsa` _via golatindance_
 
 ### Friday, October 30, 2026
 
@@ -92,6 +69,10 @@
    Salsa At The Gardens  
    Fri, Oct 30, 2026 • all day  
    `salsa` `bachata` `merengue` `social` _via instagram_
+- **[LAST CHANCE! FULL PASS PRICE INCREASES TOMORROW!](https://www.instagram.com/p/DfFdwo5HQKK/)** **_$36–$155_**  
+   Salsadallas  
+   Fri, Oct 30, 2026 • all day  
+   `salsa` `lesson` `social` `workshop` `festival` _via instagram_
 - **[“Tomando mi Aguita… nada mas me limita”❤️‍](https://www.instagram.com/p/DdftUErhAiS/)** **_Varies_**  
    A3 Studiotx  
    Fri, Oct 30, 2026 • 6:00 PM  
@@ -362,7 +343,7 @@
    Bombshells in Rowlett  
    Fri, Nov 13, 2026 • all day  
    `salsa` `lesson` `social` `workshop` `festival` _via instagram_
-- **[Salsa and Bachata dancing @salsonsocial every 2nd Friday of the month!](https://www.instagram.com/p/DfDwQ5DR-1T/)** **_$17–$20_**  
+- **[Salsa and Bachata dancing @salsonsocial every 2nd Friday of the month!](https://www.instagram.com/p/De23FtCRf8d/)** **_$17–$20_**  
    Kumbaladancestudio  
    Fri, Nov 13, 2026 • 9:30 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
@@ -448,6 +429,10 @@
    Fri, Nov 20, 2026 • all day  
    `salsa` `lesson` `social` `workshop` `festival` _via instagram_
 - **[NEW YORK SALSA STAR GRISELLE PONCE!](https://www.instagram.com/p/De7VPgYiCAx/)** **_Varies_**  
+   Salsadallas  
+   Fri, Nov 20, 2026 • all day  
+   `salsa` `lesson` `social` `workshop` `festival` _via instagram_
+- **[LAST CHANCE! FULL PASS PRICE INCREASES TOMORROW!](https://www.instagram.com/p/DfFdwo5HQKK/)** **_$36–$155_**  
    Salsadallas  
    Fri, Nov 20, 2026 • all day  
    `salsa` `lesson` `social` `workshop` `festival` _via instagram_
