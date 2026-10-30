@@ -1,18 +1,14 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-10-30 01:53 AM CDT**
+> Auto-generated. Last update: **2026-10-30 01:29 PM CDT**
 > Sources: danceus, golatindance, instagram, meetup, salsavida
-> 91 upcoming events tracked. **10 new** since last run.
+> 94 upcoming events tracked. **11 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[SALSAWEEN PARTY @ TABOO DALLAS!](https://www.instagram.com/p/DfELu4dFekE/)** **_Varies_**  
-   Salsa At The Gardens  
-   Fri, Oct 30, 2026 • all day  
-   `salsa` `bachata` `merengue` `social` _via instagram_
 - **[LAST CHANCE! FULL PASS PRICE INCREASES TOMORROW!](https://www.instagram.com/p/DfFdwo5HQKK/)** **_$36–$155_**  
    Salsadallas  
    Fri, Oct 30, 2026 • all day  
@@ -33,10 +29,18 @@
    Stratos Greek Taverna · Dallas  
    Wed, Nov 4, 2026 • all day  
    `social` `salsa` _via danceus_
-- **[ANNUAL BDAY SALSA PARTY @ LA RESERVA DE TAXCO ● DANCE SHOW ● TOP DJ ● FREE](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317186068/)** **_Varies_**  
-   The Reserve · Euless  
-   Fri, Nov 6, 2026 • 9:30 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
+- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
+   Merkado · Frisco  
+   Thu, Nov 5, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Thu, Nov 5, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
+   Hangout · Irving  
+   Thu, Nov 5, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
 - **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
    Vidorra Cocina · Dallas-Fort Worth  
    Wed, Nov 11, 2026 • 7:00 PM – 11:00 PM  
@@ -256,6 +260,21 @@
    Stratos Bar & Grill · Dallas  
    Wed, Nov 4, 2026 • 9:30 PM – 2:00 AM  
    `salsa` `bachata` _via salsavida_
+
+### Thursday, November 5, 2026
+
+- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
+   Merkado · Frisco  
+   Thu, Nov 5, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Thu, Nov 5, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
+   Hangout · Irving  
+   Thu, Nov 5, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
 
 ### Friday, November 6, 2026
 
