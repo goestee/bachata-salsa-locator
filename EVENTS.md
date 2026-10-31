@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-10-31 01:43 AM CDT**
+> Auto-generated. Last update: **2026-10-31 12:34 PM CDT**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 94 upcoming events tracked. **15 new** since last run.
+> 95 upcoming events tracked. **15 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -21,7 +21,7 @@
    Alpha Midway Dance Studio · Dallas  
    Sun, Nov 1, 2026 • all day  
    `social` `lesson` `kizomba` _via eventbrite_
-- **[4:45-5:15 Cha Cha & Mambo Class](https://www.meetup.com/you-can-dance-dallas/events/317211463/)** **_Varies_**  
+- **[4:45-5:15 Cha Cha & Mambo Class](https://www.meetup.com/you-can-dance-dallas/events/317211462/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sun, Nov 1, 2026 • 4:45 PM  
    `social` `lesson` `cha-cha` _via meetup_
@@ -45,6 +45,10 @@
    Hangout · Irving  
    Thu, Nov 5, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Friday Latin at Al-Amir Arlington](https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/)** **_Varies_**  
+   Al-Amir Arlington  
+   Fri, Nov 6, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via danceus_
 - **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317029943/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Fri, Nov 6, 2026 • 7:30 PM  
@@ -61,10 +65,6 @@
    MYZA Nightclub · Dallas  
    Sat, Nov 14, 2026 • all day  
    `social` `bachata` _via eventbrite_
-- **[LAST CHANCE! FULL PASS PRICE INCREASES TOMORROW!](https://www.instagram.com/p/DfFdwo5HQKK/)** **_$36–$155_**  
-   Salsadallas  
-   Fri, Nov 20, 2026 • all day  
-   `salsa` `lesson` `social` `workshop` `festival` _via instagram_
 - **[SALSA DALLAS — THE PARTY NEVER STOPS!](https://www.instagram.com/p/DfH8EI3juhc/)** **_$30–$40_**  
    Alexander's  
    Fri, Nov 20, 2026 • 9:00 PM  
@@ -164,7 +164,7 @@
    You Can Dance Dallas · Addison  
    Sun, Nov 1, 2026 • 4:45 PM  
    `social` `lesson` `cha-cha` _via meetup_
-- **[4:45-5:15 Cha Cha & Mambo Class](https://www.meetup.com/you-can-dance-dallas/events/317211463/)** **_Varies_**  
+- **[4:45-5:15 Cha Cha & Mambo Class](https://www.meetup.com/you-can-dance-dallas/events/317211462/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sun, Nov 1, 2026 • 4:45 PM  
    `social` `lesson` `cha-cha` _via meetup_
@@ -275,6 +275,10 @@
    Bombshells in Rowlett  
    Fri, Nov 6, 2026 • all day  
    `salsa` `lesson` `social` `workshop` `festival` _via instagram_
+- **[Friday Latin at Al-Amir Arlington](https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/)** **_Varies_**  
+   Al-Amir Arlington  
+   Fri, Nov 6, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via danceus_
 - **[JUAN “PACHANGA” MATOS — ROAD TO DALLAS SALSA CONGRESS 2026!](https://www.instagram.com/p/De-L7ndEjSw/)** **_$30–$40_**  
    Salsadallas  
    Fri, Nov 6, 2026 • 3:30 PM  
