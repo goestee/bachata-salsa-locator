@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T06:54:41.551534+00:00",
-  "count": 164,
+  "updated_at": "2026-11-07T18:00:49.671009+00:00",
+  "count": 174,
   "events": [
     {
       "title": "MARTÍN GONZÁLEZ CONFIRMED",
@@ -339,7 +339,7 @@
       "price": "Free",
       "id": "8c8e2b5d115b8c53",
       "first_seen_at": "2026-07-16T15:05:59.497165+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625478+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670844+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -383,7 +383,7 @@
       "price": "Free",
       "id": "22c15dcd4a94a3fe",
       "first_seen_at": "2026-07-16T15:05:59.497168+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625480+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670846+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -500,7 +500,7 @@
       "price": "Free",
       "id": "e8c1ecc9d9213ff9",
       "first_seen_at": "2026-07-16T15:05:59.497177+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625488+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670853+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -524,7 +524,7 @@
       "price": "Free",
       "id": "cb9552c97be3e86c",
       "first_seen_at": "2026-07-16T15:05:59.497178+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625490+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670855+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -664,7 +664,7 @@
       "price": "Free",
       "id": "5fa2aa582573935e",
       "first_seen_at": "2026-07-26T14:32:33.425717+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625492+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670857+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1418,7 +1418,7 @@
       "price": null,
       "id": "d912974bdf487280",
       "first_seen_at": "2026-10-18T16:26:07.435673+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625333+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670707+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1441,7 +1441,7 @@
       "price": "$10",
       "id": "8623e5d2cf2b6cf4",
       "first_seen_at": "2026-10-19T19:06:49.028968+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625482+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670847+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1464,7 +1464,7 @@
       "price": "$7",
       "id": "9b68f918334f2649",
       "first_seen_at": "2026-10-19T19:06:49.028970+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625484+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670849+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1488,7 +1488,7 @@
       "price": "Free",
       "id": "2e3ed67aea37cf8d",
       "first_seen_at": "2026-10-19T19:06:49.028971+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625486+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670851+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1693,7 +1693,7 @@
       "price": "Free",
       "id": "cac416b9a4f9422c",
       "first_seen_at": "2026-10-25T17:02:17.869693+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625452+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670818+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1737,7 +1737,7 @@
       "price": "$10",
       "id": "011d3153cf5a8400",
       "first_seen_at": "2026-10-26T19:05:53.336146+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625454+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670820+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1757,7 +1757,7 @@
       "price": "$7",
       "id": "f6bea57fedb8dc02",
       "first_seen_at": "2026-10-26T19:05:53.336149+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625456+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670822+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1777,7 +1777,7 @@
       "price": "Free",
       "id": "b83986e1d5a9b543",
       "first_seen_at": "2026-10-26T19:05:53.336151+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625458+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670823+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1934,7 +1934,7 @@
       "price": "Free",
       "id": "dd5e92c74687a37e",
       "first_seen_at": "2026-10-29T18:51:42.733511+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625460+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670825+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1954,7 +1954,7 @@
       "price": "Free",
       "id": "56c32d2c2f28cddb",
       "first_seen_at": "2026-10-29T18:51:42.733513+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625462+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670826+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2133,7 +2133,7 @@
       "price": null,
       "id": "4cfbbfb480c4ddc4",
       "first_seen_at": "2026-11-01T07:12:23.921381+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625303+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670668+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2155,7 +2155,7 @@
       "price": null,
       "id": "ec6f90c2de7fe1e4",
       "first_seen_at": "2026-11-01T07:12:23.921454+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625353+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670727+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2245,7 +2245,7 @@
       "price": null,
       "id": "a73ba6a6b603669c",
       "first_seen_at": "2026-11-01T07:12:23.921534+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625377+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670754+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2269,7 +2269,7 @@
       "price": "$20–$25",
       "id": "d722ed050dc46ff6",
       "first_seen_at": "2026-11-01T07:12:23.921540+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625382+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670757+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2293,7 +2293,7 @@
       "price": "Free",
       "id": "071c3725afd644c2",
       "first_seen_at": "2026-11-01T07:12:23.921543+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625385+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670760+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2315,7 +2315,7 @@
       "price": "$10",
       "id": "dbaa46433141d55e",
       "first_seen_at": "2026-11-01T07:12:23.921547+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625389+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670763+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2337,7 +2337,7 @@
       "price": "Free",
       "id": "bf66c150f8d2ce42",
       "first_seen_at": "2026-11-01T07:12:23.921550+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625392+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670766+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2359,7 +2359,7 @@
       "price": "Free",
       "id": "8c8c911344561955",
       "first_seen_at": "2026-11-01T07:12:23.921554+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625395+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670769+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2381,7 +2381,7 @@
       "price": "Free",
       "id": "a7aeb90726e0de9d",
       "first_seen_at": "2026-11-01T07:12:23.921558+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625398+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670772+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2404,7 +2404,7 @@
       "price": "$10",
       "id": "9379488202d9e895",
       "first_seen_at": "2026-11-01T07:12:23.921561+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625401+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670775+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2427,7 +2427,7 @@
       "price": "Free",
       "id": "c751ee2db497ece1",
       "first_seen_at": "2026-11-01T07:12:23.921565+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625404+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670777+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2451,7 +2451,7 @@
       "price": "Free",
       "id": "2e2307dd7a5b0ed0",
       "first_seen_at": "2026-11-01T07:12:23.921568+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625407+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670780+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2473,7 +2473,7 @@
       "price": "Free",
       "id": "1e17e9a0bb4f8299",
       "first_seen_at": "2026-11-01T07:12:23.921572+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625411+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670783+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2497,7 +2497,7 @@
       "price": "Free",
       "id": "8e05c46216f83d68",
       "first_seen_at": "2026-11-01T07:12:23.921576+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625414+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670786+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2519,7 +2519,7 @@
       "price": "Free",
       "id": "23969a483ed928b0",
       "first_seen_at": "2026-11-01T07:12:23.921579+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625417+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670788+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2539,7 +2539,7 @@
       "price": "Free",
       "id": "e9ac4402df629d81",
       "first_seen_at": "2026-11-01T18:19:51.926171+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625463+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670828+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2560,7 +2560,7 @@
       "price": "Free",
       "id": "b8c8e67e461d8e7b",
       "first_seen_at": "2026-11-01T18:19:51.926174+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625465+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670829+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2585,7 +2585,7 @@
       "price": null,
       "id": "5c851fb506ea716e",
       "first_seen_at": "2026-11-02T07:19:58.924974+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625328+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670703+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2605,7 +2605,7 @@
       "price": null,
       "id": "4d74cbeffda6fdb2",
       "first_seen_at": "2026-11-02T07:19:58.924989+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625340+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670719+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2629,7 +2629,7 @@
       "price": null,
       "id": "e7af96d1840197cb",
       "first_seen_at": "2026-11-02T07:19:58.924998+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625343+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670722+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2652,7 +2652,7 @@
       "price": "$15–$18",
       "id": "5f001668177887d7",
       "first_seen_at": "2026-11-02T07:19:58.925115+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625420+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670791+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2675,7 +2675,7 @@
       "price": null,
       "id": "ef305327d44b2be2",
       "first_seen_at": "2026-11-02T07:19:58.925119+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625423+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670794+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2698,7 +2698,7 @@
       "price": "$5–$15",
       "id": "e88500604eef7757",
       "first_seen_at": "2026-11-02T07:19:58.925123+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625426+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670796+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2721,7 +2721,7 @@
       "price": "Free",
       "id": "15e1950367c5ce88",
       "first_seen_at": "2026-11-02T07:19:58.925126+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625429+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670799+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2745,7 +2745,7 @@
       "price": "Free",
       "id": "914a0a39a4adab90",
       "first_seen_at": "2026-11-02T07:19:58.925130+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625432+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670801+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2766,7 +2766,7 @@
       "price": null,
       "id": "e730500adf11502c",
       "first_seen_at": "2026-11-02T22:14:02.660628+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625358+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670735+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2787,7 +2787,7 @@
       "price": null,
       "id": "982f2c50d26be1d2",
       "first_seen_at": "2026-11-02T22:14:02.660630+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625360+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670736+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2810,7 +2810,7 @@
       "price": null,
       "id": "687ee187a21364cf",
       "first_seen_at": "2026-11-02T22:14:02.660632+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625362+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670738+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2830,7 +2830,7 @@
       "price": "$10",
       "id": "657dd9c8ffe1269f",
       "first_seen_at": "2026-11-02T22:14:02.660713+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625467+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670831+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2850,7 +2850,7 @@
       "price": "$7",
       "id": "51508d4a237ab2c4",
       "first_seen_at": "2026-11-02T22:14:02.660714+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625469+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670832+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2870,7 +2870,7 @@
       "price": "Free",
       "id": "018286668a1d6f42",
       "first_seen_at": "2026-11-02T22:14:02.660716+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625471+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670834+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2893,7 +2893,7 @@
       "price": null,
       "id": "483b55a2f95caa7c",
       "first_seen_at": "2026-11-03T07:39:31.649619+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625323+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670698+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2916,7 +2916,7 @@
       "price": null,
       "id": "8c71cea1777c814c",
       "first_seen_at": "2026-11-03T07:39:31.649637+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625319+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670694+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2938,7 +2938,7 @@
       "price": null,
       "id": "dcb864682ae6e961",
       "first_seen_at": "2026-11-03T07:39:31.649646+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625346+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670725+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2960,7 +2960,7 @@
       "price": null,
       "id": "e6af8f6e05eb4342",
       "first_seen_at": "2026-11-03T07:39:31.649655+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625350+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670730+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3071,7 +3071,7 @@
       "price": null,
       "id": "9cef484547364346",
       "first_seen_at": "2026-11-04T07:20:24.388438+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625313+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670689+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3093,7 +3093,7 @@
       "price": "$10",
       "id": "f9b7d4e350f6182d",
       "first_seen_at": "2026-11-04T07:20:24.388651+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625435+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670804+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3160,7 +3160,7 @@
       "price": "Free",
       "id": "5d9b7868c63248e4",
       "first_seen_at": "2026-11-05T07:47:45.017106+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625438+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670806+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3320,7 +3320,7 @@
       "price": null,
       "id": "8fc1da90af5d0c03",
       "first_seen_at": "2026-11-05T20:32:25.427394+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625363+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670740+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3340,7 +3340,7 @@
       "price": null,
       "id": "e1cec35d06c322c2",
       "first_seen_at": "2026-11-05T20:32:25.427397+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625366+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670741+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3362,7 +3362,7 @@
       "price": null,
       "id": "dd0d42503542d31d",
       "first_seen_at": "2026-11-05T20:32:25.427400+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625367+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670743+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3383,7 +3383,7 @@
       "price": null,
       "id": "349ceb0a5eccd4ec",
       "first_seen_at": "2026-11-05T20:32:25.427402+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625369+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670745+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3404,7 +3404,7 @@
       "price": "Free",
       "id": "3883f3585c6ae694",
       "first_seen_at": "2026-11-05T20:32:25.427532+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625473+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670835+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3424,7 +3424,7 @@
       "price": "Free",
       "id": "6e003e3110599534",
       "first_seen_at": "2026-11-05T20:32:25.427534+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625476+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670837+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3446,7 +3446,7 @@
       "price": "Free",
       "id": "2551547670d75d28",
       "first_seen_at": "2026-11-06T07:44:40.651851+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625441+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670809+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3558,7 +3558,7 @@
       "price": null,
       "id": "63386a077a1a8013",
       "first_seen_at": "2026-11-06T19:55:26.131996+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625371+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670746+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3581,7 +3581,7 @@
       "price": null,
       "id": "bca2b5243f78d31e",
       "first_seen_at": "2026-11-06T19:55:26.131999+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625373+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670748+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3604,7 +3604,7 @@
       "price": null,
       "id": "67b072fd6453076a",
       "first_seen_at": "2026-11-06T19:55:26.132002+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625375+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670749+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3629,7 +3629,7 @@
       "price": null,
       "id": "f6b331082fa0650b",
       "first_seen_at": "2026-11-07T06:54:40.625336+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625336+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670710+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3651,7 +3651,7 @@
       "price": "Free",
       "id": "091437687d28801e",
       "first_seen_at": "2026-11-07T06:54:40.625444+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625444+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670812+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3674,7 +3674,7 @@
       "price": "$10",
       "id": "36e82a126339e99d",
       "first_seen_at": "2026-11-07T06:54:40.625447+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625447+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670814+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3697,7 +3697,7 @@
       "price": "Free",
       "id": "6f70207bcef4e279",
       "first_seen_at": "2026-11-07T06:54:40.625450+00:00",
-      "last_seen_at": "2026-11-07T06:54:40.625450+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670817+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -3723,6 +3723,234 @@
       "first_seen_at": "2026-11-07T06:54:40.625510+00:00",
       "last_seen_at": "2026-11-07T06:54:40.625510+00:00",
       "submitted_to_supabase": "2026-11-07T06:54:40.625707+00:00"
+    },
+    {
+      "title": "FREE Beginner Salsa & Bachata | Kumbala Dance Studio",
+      "start": "2026-11-17T01:00:00.000Z",
+      "source": "meetup",
+      "source_url": "https://www.meetup.com/dallas-latin-dance-studio/events/317328053/",
+      "end": null,
+      "venue": "Kumbala Dance Studio",
+      "address": "4801 Spring Valley Rd Suite 118, Farmers Branch, TX, Farmers Branch, TX",
+      "city": "Farmers Branch",
+      "description": "Join us at Kumbala Dance Studio in the DFW area for an exciting night of salsa and bachata lessons!\nWhether you're a seasoned dancer or a beginner, everyone is welcome to come join us and learn some salsa, bachata and cumbia dance moves.\n\nOur experienced instructors will guide you through the steps, making sure you have a blast while also getting a great workout. Practice with the instructors and get one on one feedback to improve your technique.\nThis event is perfect to meet new people and make amazing friendships.\n\nCome and experience the best of Dallas nightlife with us!\n\n**Mondays, Thursdays and Sundays**\nSalsa 7pm - 8pm\nBachata 8pm - 9pm\n\n**To receive your FREE class, sign up online [HERE](http://kumbaladancestudio.com/pricing/).**",
+      "image_url": "https://secure-content.meetupstatic.com/images/classic-events/530959586/original.jpg",
+      "tags": [
+        "social",
+        "lesson",
+        "salsa",
+        "bachata"
+      ],
+      "price": null,
+      "id": "a3ea689a070c4669",
+      "first_seen_at": "2026-11-07T18:00:49.670713+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670713+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "FREE Beginner Salsa & Bachata | Kumbala Dance Studio",
+      "start": "2026-11-23T01:00:00.000Z",
+      "source": "meetup",
+      "source_url": "https://www.meetup.com/dallas-latin-dance-studio/events/317328047/",
+      "end": null,
+      "venue": "Kumbala Dance Studio",
+      "address": "4801 Spring Valley Rd Suite 118, Farmers Branch, TX, Farmers Branch, TX",
+      "city": "Farmers Branch",
+      "description": "Join us at Kumbala Dance Studio in the DFW area for an exciting night of salsa and bachata lessons!\nWhether you're a seasoned dancer or a beginner, everyone is welcome to come join us and learn some salsa, bachata and cumbia dance moves.\n\nOur experienced instructors will guide you through the steps, making sure you have a blast while also getting a great workout. Practice with the instructors and get one on one feedback to improve your technique.\nThis event is perfect to meet new people and make amazing friendships.\n\nCome and experience the best of Dallas nightlife with us!\n\n**Mondays, Thursdays and Sundays**\nSalsa 7pm - 8pm\nBachata 8pm - 9pm\n\n**To receive your FREE class, sign up online [HERE](http://kumbaladancestudio.com/pricing/).**",
+      "image_url": "https://secure-content.meetupstatic.com/images/classic-events/532598915/original.jpg",
+      "tags": [
+        "social",
+        "lesson",
+        "salsa",
+        "bachata"
+      ],
+      "price": null,
+      "id": "f23ca82a15d51f9b",
+      "first_seen_at": "2026-11-07T18:00:49.670717+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670717+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "FREE Beginner Salsa & Bachata | Kumbala Dance Studio",
+      "start": "2026-11-13T01:00:00.000Z",
+      "source": "meetup",
+      "source_url": "https://www.meetup.com/dallas-latin-dance-studio/events/317328037/",
+      "end": null,
+      "venue": "Kumbala Dance Studio",
+      "address": "4801 Spring Valley Rd Suite 118, Farmers Branch, TX, Farmers Branch, TX",
+      "city": "Farmers Branch",
+      "description": "Join us at Kumbala Dance Studio in the DFW area for an exciting night of salsa and bachata lessons!\nWhether you're a seasoned dancer or a beginner, everyone is welcome to come join us and learn some salsa, bachata and cumbia dance moves.\n\nOur experienced instructors will guide you through the steps, making sure you have a blast while also getting a great workout. Practice with the instructors and get one on one feedback to improve your technique.\nThis event is perfect to meet new people and make amazing friendships.\n\nCome and experience the best of Dallas nightlife with us!\n\n**Mondays, Thursdays and Sundays**\nSalsa 7pm - 8pm\nBachata 8pm - 9pm\n\n**To receive your FREE class, sign up online [HERE](http://kumbaladancestudio.com/pricing/).**",
+      "image_url": "https://secure-content.meetupstatic.com/images/classic-events/530262168/original.jpg",
+      "tags": [
+        "social",
+        "lesson",
+        "salsa",
+        "bachata"
+      ],
+      "price": null,
+      "id": "b30cbc678d679d9e",
+      "first_seen_at": "2026-11-07T18:00:49.670733+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670733+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "Friday Latin at Al-Amir Arlington",
+      "start": "2026-11-13",
+      "source": "danceus",
+      "source_url": "https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/",
+      "end": "2026-11-14",
+      "venue": "Al-Amir Arlington",
+      "address": "701 106th St, Arlington, TX 76011, Arlington, TX",
+      "city": "Arlington",
+      "description": "Party all night with different styles of music like Salsa, Bachata, Merengue, Reggaeton, Dance, Cumbia and more. Drink specials all night. Bottle of champagne for the birthday parties. Bottle service specials.",
+      "image_url": "https://www.danceus.org/events/images/16552421375170/friday-latin-at-al-amir-arlington-cover.jpg",
+      "tags": [
+        "social",
+        "salsa",
+        "bachata",
+        "merengue"
+      ],
+      "price": null,
+      "id": "423505694cd21e67",
+      "first_seen_at": "2026-11-07T18:00:49.670751+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670751+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "Dallas Salsa Congress 2026",
+      "start": "2026-11-20T15:00:00",
+      "source": "salsavida",
+      "source_url": "https://www.salsavida.com/event/texas/dallas-fort-worth/dallas-salsa-congress/",
+      "end": "2026-11-22T19:30:00",
+      "venue": "Four Points by Sheraton Dallas Fort Worth Airport North",
+      "address": "1580 Point W Blvd, Coppell, TX 75019, United States, Dallas-Fort Worth",
+      "city": "Dallas-Fort Worth",
+      "description": "The 16th Annual Dallas Salsa Congress returns November 20–22, 2026 for a three-day Salsa and ...",
+      "image_url": "https://www.salsavida.com/wp-content/uploads/2025/06/salsa-vida-default-og.jpg",
+      "tags": [
+        "festival",
+        "salsa"
+      ],
+      "price": null,
+      "id": "25364e1220654ca5",
+      "first_seen_at": "2026-11-07T18:00:49.670839+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670839+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "Una Aventura Salsa Social at Studio 22 Dallas",
+      "start": "2026-11-20T20:00:00",
+      "source": "salsavida",
+      "source_url": "https://www.salsavida.com/event/texas/dallas-fort-worth/una-aventura-salsa-social-at-studio-22-dallas/",
+      "end": "2026-11-21T00:00:00",
+      "venue": "Studio 22 Dallas",
+      "address": "14902 Preston Road, Suite 400, Dallas, TX 75254, United States, Dallas-Fort Worth",
+      "city": "Dallas-Fort Worth",
+      "description": "Una Aventura Salsa Social is a vibrant monthly Latin dance event hosted at Studio 22 ...",
+      "image_url": "https://www.salsavida.com/wp-content/uploads/2026/06/una-aventura-salsa-social-at-studio-22-dallas-22074-01.webp",
+      "tags": [
+        "social",
+        "salsa"
+      ],
+      "price": "$18",
+      "id": "b1c5ea9c471878da",
+      "first_seen_at": "2026-11-07T18:00:49.670840+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670840+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "Pura Fort Worth 3rd Friday Salsa &#038; Bachata Social",
+      "start": "2026-11-20T21:30:00",
+      "source": "salsavida",
+      "source_url": "https://www.salsavida.com/event/texas/dallas-fort-worth/pura-fort-worth-3rd-friday-salsa-bachata-social/",
+      "end": "2026-11-21T03:00:00",
+      "venue": "Dance Makers of Texas",
+      "address": "6125 S. Cooper St, Suite 211, Arlington, TX 76001, United States, Arlington",
+      "city": "Arlington",
+      "description": "Pura Fort Worth 3rd Friday is a vibrant monthly Latin dance social held at Dance ...",
+      "image_url": "https://www.salsavida.com/wp-content/uploads/2026/06/pura-fort-worth-3rd-friday-salsa-bachata-social-22075-01.webp",
+      "tags": [
+        "social",
+        "salsa",
+        "bachata"
+      ],
+      "price": "$10",
+      "id": "5ec0f0541b908f4f",
+      "first_seen_at": "2026-11-07T18:00:49.670841+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670841+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "Dallas Salsa Congress 2026",
+      "start": "Friday, Nov 20, 2026",
+      "source": "salsavida",
+      "source_url": "https://www.salsavida.com/event/texas/dallas-fort-worth/dallas-salsa-congress/",
+      "end": "2026-11-22T19:30:00",
+      "venue": "Dallas-Fort Worth",
+      "address": "Four Points by Sheraton Dallas Fort Worth Airport North 1580 Point W Blvd Coppell, TX 75019 United States",
+      "city": null,
+      "description": "The 16th Annual Dallas Salsa Congress returns November 20–22, 2026 for a three-day Salsa and Bachata weekend in the Dallas–Fort Worth area, hosted in Coppell near DFW International Airport.\n\nAcross the weekend, attendees can expect workshops, world-class shows, and plenty of social dancing, with local, regional, and international talent on the floor and on stage. The workshop track is designed to serve beginners, intermediate, and advanced dancers, with sessions listed for beginner salsa foundations, bachata fundamentals, musicality training, and all-level partnerwork.\n\nFriday’s workshops are scheduled to begin at 3:00 PM, and the event continues through Sunday, November 22. A $99 Super Early Bird Full Pass is advertised as including two nights of shows, 20+ hours of workshops, and Friday and Saturday social dancing, with dancing running until 3:00 AM. The congress is set up as a welcoming, high-energy experience for dancers traveling in from across Texas and beyond.\n\nIt takes place at the Four Points by Sheraton Dallas Fort Worth Airport North in Coppell.",
+      "image_url": "https://www.salsavida.com/wp-content/uploads/2025/04/salsa-social-icon.jpg",
+      "tags": [
+        "social",
+        "workshop",
+        "lesson",
+        "festival",
+        "salsa",
+        "bachata"
+      ],
+      "price": null,
+      "id": "7d47c65398ca2600",
+      "first_seen_at": "2026-11-07T18:00:49.670858+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670858+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "Una Aventura Salsa Social at Studio 22 Dallas",
+      "start": "Friday, Nov 20, 2026",
+      "source": "salsavida",
+      "source_url": "https://www.salsavida.com/event/texas/dallas-fort-worth/una-aventura-salsa-social-at-studio-22-dallas/",
+      "end": "2026-11-21T00:00:00",
+      "venue": "Dallas-Fort Worth",
+      "address": "Studio 22 Dallas 14902 Preston Road, Suite 400 Dallas, TX 75254 United States",
+      "city": null,
+      "description": "Una Aventura Salsa Social is a vibrant monthly Latin dance event hosted at Studio 22 Dallas. Held on select Fridays, the evening begins with an introductory salsa lesson, welcoming dancers of all levels. Following the lesson, social dancing continues into the night, featuring a dynamic mix of salsa, bachata, and merengue music curated by DJ Ruso. Attendees can enjoy the spacious dance floor and BYOB policy (no red wine, please). Admission is $18 per person or $15 for Studio 22 members. This event offers a lively and inclusive environment for Latin dance enthusiasts to learn, dance, and connect with the community.",
+      "image_url": "https://www.salsavida.com/wp-content/uploads/2026/06/una-aventura-salsa-social-at-studio-22-dallas-22074-01-240x240.webp",
+      "tags": [
+        "social",
+        "lesson",
+        "salsa",
+        "bachata",
+        "merengue"
+      ],
+      "price": "$18",
+      "id": "99b62bc716a098c7",
+      "first_seen_at": "2026-11-07T18:00:49.670860+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670860+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "Pura Fort Worth 3rd Friday Salsa & Bachata Social",
+      "start": "Friday, Nov 20, 2026",
+      "source": "salsavida",
+      "source_url": "https://www.salsavida.com/event/texas/dallas-fort-worth/pura-fort-worth-3rd-friday-salsa-bachata-social/",
+      "end": "2026-11-21T03:00:00",
+      "venue": "Arlington",
+      "address": "Dance Makers of Texas 6125 S. Cooper St, Suite 211 Arlington, TX 76001 United States",
+      "city": null,
+      "description": "Pura Fort Worth 3rd Friday is a vibrant monthly Latin dance social held at Dance Makers of Texas in Fort Worth. Taking place every third Friday of the month, the evening kicks off with a bachata lesson at 9:30 PM, welcoming dancers of all levels. Following the lesson, social dancing continues from 10:00 PM to 3:00 AM, featuring a dynamic mix of salsa and bachata music curated by local DJs. The venue boasts a spacious 2,500 sq ft dance floor and a high-quality sound system, creating an energetic atmosphere for dance enthusiasts. Admission is $10, with an optional $5 fee for the lesson. This event offers a lively and inclusive environment for Latin dance lovers to learn, dance, and connect with the community.",
+      "image_url": "https://www.salsavida.com/wp-content/uploads/2026/06/pura-fort-worth-3rd-friday-salsa-bachata-social-22075-01-240x240.webp",
+      "tags": [
+        "social",
+        "lesson",
+        "salsa",
+        "bachata"
+      ],
+      "price": "$10",
+      "id": "1a0a5c2f4b26284a",
+      "first_seen_at": "2026-11-07T18:00:49.670862+00:00",
+      "last_seen_at": "2026-11-07T18:00:49.670862+00:00",
+      "submitted_to_supabase": null
     }
   ]
 }
