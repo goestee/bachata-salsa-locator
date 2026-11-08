@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-11-08 01:00 AM CST**
+> Auto-generated. Last update: **2026-11-08 12:17 PM CST**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 114 upcoming events tracked. **21 new** since last run.
+> 121 upcoming events tracked. **21 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -17,10 +17,6 @@
    Al-Amir Arlington  
    Fri, Nov 13, 2026 • all day  
    `social` `salsa` `bachata` `merengue` _via danceus_
-- **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317126151/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Fri, Nov 13, 2026 • 7:30 PM  
-   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
 - **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/317335735/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Fri, Nov 13, 2026 • 7:30 PM  
@@ -33,18 +29,6 @@
    DFW Young & Social · Farmers Branch  
    Sat, Nov 14, 2026 • 5:00 PM  
    `social` `lesson` `salsa` _via meetup_
-- **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-11-15/)** **_Free_**  
-   Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
-   Sun, Nov 15, 2026 • 7:00 PM – 11:00 PM  
-   `social` `lesson` `salsa` _via golatindance_
-- **[Calentura Sundays @ Fuego Dance Co.](https://golatindance.com/event/calentura-sundays-fuego-dance-co/2026-11-15/)** **_$10_**  
-   Fuego Dance Company, 813 Main Street, Garland, TX, 75040, United States  
-   Sun, Nov 15, 2026 • 10:00 PM – 2:00 AM  
-   `social` `lesson` `salsa` `bachata` _via golatindance_
-- **[Sabroso Sundays at Al-Amir](https://golatindance.com/event/sabroso-sundays-at-al-amir/2026-11-15/)** **_Free_**  
-   Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States  
-   Sun, Nov 15, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` `merengue` _via golatindance_
 - **[FREE Beginner Salsa & Bachata | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/317328053/)** **_Varies_**  
    Kumbala Dance Studio · Farmers Branch  
    Mon, Nov 16, 2026 • 7:00 PM  
@@ -89,6 +73,22 @@
    Dance Makers of Texas · Arlington  
    Fri, Nov 20, 2026 • 9:30 PM – 3:00 AM  
    `social` `salsa` `bachata` _via salsavida_
+- **[Dallas Salsa Congress 2026](https://www.salsavida.com/event/texas/dallas-fort-worth/dallas-salsa-congress/)** **_Varies_**  
+   Dallas-Fort Worth  
+   Sat, Nov 21, 2026 • all day  
+   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via salsavida_
+- **[Dallas Salsa Congress 2026](https://www.salsavida.com/event/texas/dallas-fort-worth/dallas-salsa-congress/)** **_Varies_**  
+   Four Points by Sheraton Dallas Fort Worth Airport North · Dallas-Fort Worth  
+   Sat, Nov 21, 2026 • 3:00 PM – 7:30 PM  
+   `festival` `salsa` _via salsavida_
+- **[La Vibra &#8211; Dallas Salsa &#038; Bachata Social](https://www.salsavida.com/event/texas/dallas-fort-worth/la-vibra-dallas-salsa-bachata-social/)** **_$20_**  
+   Tropik Vybe Studio · Richardson  
+   Sat, Nov 21, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` _via salsavida_
+- **[Gloria&#8217;s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
+   Gloria's Latin Cuisine · Addison  
+   Sat, Nov 21, 2026 • 11:00 PM – 2:00 AM  
+   `social` _via salsavida_
 - **[FREE Beginner Salsa & Bachata | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/317328047/)** **_Varies_**  
    Kumbala Dance Studio · Farmers Branch  
    Sun, Nov 22, 2026 • 7:00 PM  
@@ -316,6 +316,14 @@
 
 ### Saturday, November 14, 2026
 
+- **[Sábados con la Rumba – A Otro Nivel at Luna Azul](https://www.salsavida.com/event/texas/dallas-fort-worth/sabados-con-la-rumba-a-otro-nivel-at-luna-azul/)** **_Free_**  
+   Fort Worth  
+   Sat, Nov 14, 2026 • all day  
+   `social` `salsa` _via salsavida_
+- **[Gloria’s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
+   Addison  
+   Sat, Nov 14, 2026 • all day  
+   `social` _via salsavida_
 - **[Vitruvian Salsa Festival 2025](https://www.salsavida.com/event/texas/dallas-fort-worth/vitruvian-salsa-festival/)** **_Free_**  
    Addison  
    Sat, Nov 14, 2026 • all day  
@@ -557,10 +565,30 @@
 
 ### Saturday, November 21, 2026
 
+- **[La Vibra – Dallas Salsa & Bachata Social](https://www.salsavida.com/event/texas/dallas-fort-worth/la-vibra-dallas-salsa-bachata-social/)** **_$20_**  
+   Richardson  
+   Sat, Nov 21, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via salsavida_
 - **[Every Saturday night, the Secret Latin Dance Night is calling.](https://www.instagram.com/p/DexJAJDKqvd/)** **_$10–$150_**  
    Mexbars  
    Sat, Nov 21, 2026 • all day  
    `lesson` `social` `salsa` `bachata` _via instagram_
+- **[Dallas Salsa Congress 2026](https://www.salsavida.com/event/texas/dallas-fort-worth/dallas-salsa-congress/)** **_Varies_**  
+   Dallas-Fort Worth  
+   Sat, Nov 21, 2026 • all day  
+   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via salsavida_
+- **[Dallas Salsa Congress 2026](https://www.salsavida.com/event/texas/dallas-fort-worth/dallas-salsa-congress/)** **_Varies_**  
+   Four Points by Sheraton Dallas Fort Worth Airport North · Dallas-Fort Worth  
+   Sat, Nov 21, 2026 • 3:00 PM – 7:30 PM  
+   `festival` `salsa` _via salsavida_
+- **[La Vibra &#8211; Dallas Salsa &#038; Bachata Social](https://www.salsavida.com/event/texas/dallas-fort-worth/la-vibra-dallas-salsa-bachata-social/)** **_$20_**  
+   Tropik Vybe Studio · Richardson  
+   Sat, Nov 21, 2026 • 10:00 PM – 2:00 AM  
+   `social` `salsa` `bachata` _via salsavida_
+- **[Gloria&#8217;s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
+   Gloria's Latin Cuisine · Addison  
+   Sat, Nov 21, 2026 • 11:00 PM – 2:00 AM  
+   `social` _via salsavida_
 
 ### Sunday, November 22, 2026
 
