@@ -1,14 +1,18 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-11-09 04:56 PM CST**
+> Auto-generated. Last update: **2026-11-10 02:05 AM CST**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 125 upcoming events tracked. **21 new** since last run.
+> 130 upcoming events tracked. **26 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
+- **[STRATOS WED SALSA NITE ● DJ WANDER & RAFAEL ANGEL BAND LIVE ● NO COVER ● CLASS](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317365416/)** **_Varies_**  
+   Stratos · Dallas  
+   Wed, Nov 11, 2026 • 8:30 PM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
 - **[WEDNESDAY NIGHTS JUST HIT DIFFERENT!](https://www.instagram.com/p/DffsX6zSUfe/)** **_Varies_**  
    Gigi  
    Wed, Nov 11, 2026 • 9:30 PM  
@@ -17,6 +21,10 @@
    Green Space Arts Collective · Denton  
    Thu, Nov 12, 2026 • 7:30 PM  
    `lesson` `salsa` `bachata` _via meetup_
+- **[SALSA SATURDAY – DOWNTOWN FORT WORTH!](https://www.instagram.com/p/DfjWj4mFdqd/)** **_Free_**  
+   Sundance Square  
+   Sat, Nov 14, 2026 • 6:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
    Victoria’s Restaurant · Farmers Branch  
    Sun, Nov 15, 2026 • all day  
@@ -33,14 +41,26 @@
    You Can Dance Dallas  
    Sun, Nov 15, 2026 • 4:45 PM  
    `cha-cha` _via meetup_
+- **[4:45-5:15 Cha Cha & Mambo Class](https://www.meetup.com/you-can-dance-dallas/events/317363201/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Sun, Nov 15, 2026 • 4:45 PM  
+   `social` `lesson` `cha-cha` _via meetup_
 - **[50 % off SUNDAY Salsa & BACHATA class in addison • we go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317153536/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sun, Nov 15, 2026 • 6:30 PM  
    `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
+- **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/317364009/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Sun, Nov 15, 2026 • 6:30 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 - **[David Herrera Amateur Latin / Ballroom dance team summer tryouts](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317154209/)** **_Varies_**  
    You Can Dance Dallas  
    Sun, Nov 15, 2026 • 7:45 PM  
    `lesson` `festival` `salsa` `bachata` `cha-cha` _via meetup_
+- **[SUNDAY LATIN NIGHT AT AL-AMIR!](https://www.instagram.com/p/DfiY-fNxsTC/)** **_Free_**  
+   Alamiraddison1  
+   Sun, Nov 15, 2026 • 11:00 PM  
+   `salsa` `bachata` `social` _via instagram_
 - **[Pura Ft Worth Salsa and Bachata Social](https://golatindance.com/event/pura-ft-worth-salsa-and-bachata-social/2026-11-20/)** **_$17_**  
    Dance Makers of Texas, 6125 SW Loop 820 Ste 140, Fort Worth, TX, 76132, United States  
    Fri, Nov 20, 2026 • 8:30 PM – 1:00 AM  
@@ -89,10 +109,6 @@
    You Can Dance Dallas · Addison  
    Sun, Nov 22, 2026 • 6:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
-- **[Sabroso Sundays at Al-Amir Addison](https://www.salsavida.com/event/texas/dallas-fort-worth/sabroso-sundays-at-al-amir-addison/)** **_$10_**  
-   Al-Amir Addison  
-   Sun, Nov 22, 2026 • 10:00 PM – 2:00 AM  
-   `social` _via salsavida_
 
 ---
 
@@ -140,6 +156,10 @@
    Vidorra Cocina · Dallas-Fort Worth  
    Wed, Nov 11, 2026 • 7:00 PM – 11:00 PM  
    `salsa` _via salsavida_
+- **[STRATOS WED SALSA NITE ● DJ WANDER & RAFAEL ANGEL BAND LIVE ● NO COVER ● CLASS](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317365416/)** **_Varies_**  
+   Stratos · Dallas  
+   Wed, Nov 11, 2026 • 8:30 PM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
 - **[Dallas Can Dance Wednesday Social](https://golatindance.com/event/dcd-free-bachata-every-4th-wednesday-2/2026-11-11/)** **_Free_**  
    Dallas Can Dance – The Academy, 2650 Midway Rd #130, Carrollton, TX, 75006, United States  
    Wed, Nov 11, 2026 • 9:00 PM – 12:00 AM  
@@ -277,6 +297,10 @@
    Vitruvian Park · Addison  
    Sat, Nov 14, 2026 • 6:00 PM – 10:00 PM  
    `festival` `salsa` _via salsavida_
+- **[SALSA SATURDAY – DOWNTOWN FORT WORTH!](https://www.instagram.com/p/DfjWj4mFdqd/)** **_Free_**  
+   Sundance Square  
+   Sat, Nov 14, 2026 • 6:00 PM  
+   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
 - **[7:00-11:00 2ND SATURDAY BALLROOM DANCE PARTY  & WCS CLASS](https://www.meetup.com/you-can-dance-dallas/events/317165703/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Sat, Nov 14, 2026 • 7:00 PM  
@@ -336,6 +360,10 @@
    You Can Dance Dallas  
    Sun, Nov 15, 2026 • 4:45 PM  
    `cha-cha` _via meetup_
+- **[4:45-5:15 Cha Cha & Mambo Class](https://www.meetup.com/you-can-dance-dallas/events/317363201/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Sun, Nov 15, 2026 • 4:45 PM  
+   `social` `lesson` `cha-cha` _via meetup_
 - **[Son y Sabor at The Victoria](https://www.salsavida.com/event/texas/dallas-fort-worth/son-y-sabor-at-the-victoria/)** **_$7_**  
    The Victoria Restaurant · Farmers Branch  
    Sun, Nov 15, 2026 • 5:30 PM – 10:30 PM  
@@ -344,6 +372,10 @@
    You Can Dance Dallas · Addison  
    Sun, Nov 15, 2026 • 6:30 PM  
    `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
+- **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/317364009/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Sun, Nov 15, 2026 • 6:30 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
 - **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-11-15/)** **_Free_**  
    Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
    Sun, Nov 15, 2026 • 7:00 PM – 11:00 PM  
@@ -364,6 +396,10 @@
    Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States  
    Sun, Nov 15, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[SUNDAY LATIN NIGHT AT AL-AMIR!](https://www.instagram.com/p/DfiY-fNxsTC/)** **_Free_**  
+   Alamiraddison1  
+   Sun, Nov 15, 2026 • 11:00 PM  
+   `salsa` `bachata` `social` _via instagram_
 
 ### Monday, November 16, 2026
 
