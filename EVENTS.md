@@ -1,38 +1,18 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-11-11 01:34 AM CST**
+> Auto-generated. Last update: **2026-11-11 02:04 PM CST**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 131 upcoming events tracked. **8 new** since last run.
+> 131 upcoming events tracked. **3 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[STRATOS WED SALSA NITE ● DJ WANDER & RAFAEL ANGEL BAND LIVE ● NO COVER ● CLASS](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317365416/)** **_Varies_**  
-   Stratos · Dallas  
-   Wed, Nov 11, 2026 • 8:30 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
 - **[BOOTS & BANDANAS SALSA PARTY AT TEXAS LIVE!](https://www.instagram.com/p/Dfl3rqmlZ2h/)** **_Free_**  
    Texas Live  
    Fri, Nov 13, 2026 • 9:00 PM  
    `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
-- **[SALSA SATURDAY – DOWNTOWN FORT WORTH!](https://www.instagram.com/p/DfjWj4mFdqd/)** **_Free_**  
-   Sundance Square  
-   Sat, Nov 14, 2026 • 6:00 PM  
-   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
-- **[4:45-5:15 Cha Cha & Mambo Class](https://www.meetup.com/you-can-dance-dallas/events/317363201/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Nov 15, 2026 • 4:45 PM  
-   `social` `lesson` `cha-cha` _via meetup_
-- **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/317364009/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Nov 15, 2026 • 6:30 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[SUNDAY LATIN NIGHT AT AL-AMIR!](https://www.instagram.com/p/DfiY-fNxsTC/)** **_Free_**  
-   Alamiraddison1  
-   Sun, Nov 15, 2026 • 11:00 PM  
-   `salsa` `bachata` `social` _via instagram_
 - **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/317184243/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Tue, Nov 17, 2026 • 8:00 PM  
