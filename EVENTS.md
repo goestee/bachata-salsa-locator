@@ -1,26 +1,14 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-11-13 01:41 AM CST**
+> Auto-generated. Last update: **2026-11-13 02:24 PM CST**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 129 upcoming events tracked. **16 new** since last run.
+> 132 upcoming events tracked. **11 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[A date night that isn't dinner and a movie.](https://www.instagram.com/p/Dfm7QtBkzkk/)** **_$60_**  
-   Studio22Dallas  
-   Fri, Nov 13, 2026 • 10:00 PM  
-   `bachata` `lesson` `social` _via instagram_
-- **[FRIDAY SALSA NIGHT AT MASSEY SHOTS!](https://www.instagram.com/p/Dfod_7fDmpp/)** **_$10–$15_**  
-   Salsadallas  
-   Fri, Nov 13, 2026 • 10:00 PM  
-   `salsa` `bachata` `merengue` `lesson` `social` _via instagram_
-- **[TROPICAL FRIDAYS @ TABOO DALLAS!](https://www.instagram.com/p/Dfoc62blVsW/)** **_$5–$15_**  
-   Salsa At The Gardens  
-   Fri, Nov 13, 2026 • 10:00 PM  
-   `salsa` `bachata` `merengue` `social` _via instagram_
 - **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
    Vidorra Dallas  
    Wed, Nov 18, 2026 • all day  
@@ -37,30 +25,22 @@
    Stratos Greek Taverna · Dallas  
    Wed, Nov 18, 2026 • all day  
    `social` `salsa` _via danceus_
-- **[STRATOS WED SALSA NITE ● DJ WANDER & RAFAEL ANGEL BAND LIVE ● NO COVER ● CLASS](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317367530/)** **_Varies_**  
-   Stratos · Dallas  
-   Wed, Nov 18, 2026 • 8:30 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
-- **[SALSA NIGHT IS BACK AT ILUSION – MANSFIELD!](https://www.instagram.com/p/DfoRquWFQcq/)** **_Free_**  
-   Salsa At The Gardens  
-   Thu, Nov 19, 2026 • 7:00 PM  
-   `salsa` `bachata` `merengue` `social` _via instagram_
+- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
+   Merkado · Frisco  
+   Thu, Nov 19, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Thu, Nov 19, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
+   Hangout · Irving  
+   Thu, Nov 19, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
 - **[Salsa & bachata Thursdays advanced beginner/intermediate](https://www.meetup.com/salsa-with-jo/events/317214404/)** **_Varies_**  
    Green Space Arts Collective · Denton  
    Thu, Nov 19, 2026 • 7:30 PM  
    `lesson` `salsa` `bachata` _via meetup_
-- **[DALLAS SALSA CONGRESS 2026!](https://www.instagram.com/p/DfncvJJGrzO/)** **_Varies_**  
-   Salsadallas  
-   Fri, Nov 20, 2026 • 3:00 AM  
-   `salsa` `bachata` `lesson` `social` `workshop` `festival` _via instagram_
-- **[Rumba Tropical en Reys's Sports Bar](https://golatindance.com/event/rumba-tropical-en-reyss-sports-bar/2026-11-21/)** **_Free_**  
-   Reys Sports Bar, 2836 N Oconnor Rd, Irving, TX, United States  
-   Sat, Nov 21, 2026 • 10:00 PM – 2:00 AM  
-   `salsa` `bachata` `merengue` _via golatindance_
-- **[Salsa Sunday at La Chingona](https://golatindance.com/event/salsa-sunday-at-la-chingona/2026-11-22/)** **_Free_**  
-   La Chingona, 2800 Bledsoe St #100, Fort Worth, TX, 76107, United States  
-   Sun, Nov 22, 2026 • 3:00 PM – 6:00 PM  
-   `lesson` `salsa` `bachata` _via golatindance_
 - **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-11-22/)** **_Free_**  
    Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
    Sun, Nov 22, 2026 • 7:00 PM – 11:00 PM  
@@ -355,6 +335,18 @@
 
 ### Thursday, November 19, 2026
 
+- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
+   Merkado · Frisco  
+   Thu, Nov 19, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Thu, Nov 19, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
+   Hangout · Irving  
+   Thu, Nov 19, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
 - **[SALSA NIGHT IS BACK AT ILUSION – MANSFIELD!](https://www.instagram.com/p/DfoRquWFQcq/)** **_Free_**  
    Salsa At The Gardens  
    Thu, Nov 19, 2026 • 7:00 PM  
