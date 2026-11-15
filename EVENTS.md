@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-11-15 01:38 AM CST**
+> Auto-generated. Last update: **2026-11-15 01:19 PM CST**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 118 upcoming events tracked. **16 new** since last run.
+> 121 upcoming events tracked. **13 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -25,10 +25,6 @@
    Al-Amir Arlington  
    Fri, Nov 20, 2026 • all day  
    `social` `salsa` `bachata` `merengue` _via danceus_
-- **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317190650/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Fri, Nov 20, 2026 • 7:30 PM  
-   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
 - **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/317243713/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Sat, Nov 21, 2026 • 4:00 PM  
@@ -37,18 +33,6 @@
    DFW Young & Social · Farmers Branch  
    Sat, Nov 21, 2026 • 5:00 PM  
    `social` `lesson` `salsa` _via meetup_
-- **[Calentura Sundays @ Fuego Dance Co.](https://golatindance.com/event/calentura-sundays-fuego-dance-co/2026-11-22/)** **_$10_**  
-   Fuego Dance Company, 813 Main Street, Garland, TX, 75040, United States  
-   Sun, Nov 22, 2026 • 10:00 PM – 2:00 AM  
-   `social` `lesson` `salsa` `bachata` _via golatindance_
-- **[Sabroso Sundays at Al-Amir](https://golatindance.com/event/sabroso-sundays-at-al-amir/2026-11-22/)** **_Free_**  
-   Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States  
-   Sun, Nov 22, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` `merengue` _via golatindance_
-- **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-11-24/)** **_Free_**  
-   Rotate Social, 5454 Main st., Frisco, TX, United States  
-   Tue, Nov 24, 2026 • 7:30 PM – 11:30 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
 - **[Latin Night at Gigis](https://golatindance.com/event/latin-night-at-gigis/2026-11-25/)** **_Free_**  
    Gigis, 7300 Lone Star Drive C150, Plano, TX, 75024, United States  
    Wed, Nov 25, 2026 • 9:00 PM – 2:00 AM  
@@ -61,6 +45,10 @@
    Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
    Fri, Nov 27, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[Gloria&#8217;s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
+   Gloria's Latin Cuisine · Addison  
+   Sat, Nov 28, 2026 • 11:00 PM – 2:00 AM  
+   `social` _via salsavida_
 - **[Salsón - Salsa and bachata dance social](https://www.meetup.com/salsa-with-jo/events/315068508/)** **_Varies_**  
    Kumbala Dance Studio · Farmers Branch  
    Fri, Dec 11, 2026 • 9:30 PM  
@@ -411,6 +399,14 @@
 
 ### Saturday, November 21, 2026
 
+- **[Sábados con la Rumba – A Otro Nivel at Luna Azul](https://www.salsavida.com/event/texas/dallas-fort-worth/sabados-con-la-rumba-a-otro-nivel-at-luna-azul/)** **_Free_**  
+   Fort Worth  
+   Sat, Nov 21, 2026 • all day  
+   `social` `salsa` _via salsavida_
+- **[Gloria’s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
+   Addison  
+   Sat, Nov 21, 2026 • all day  
+   `social` _via salsavida_
 - **[La Vibra – Dallas Salsa & Bachata Social](https://www.salsavida.com/event/texas/dallas-fort-worth/la-vibra-dallas-salsa-bachata-social/)** **_$20_**  
    Richardson  
    Sat, Nov 21, 2026 • all day  
@@ -565,6 +561,10 @@
    Mexbars  
    Sat, Nov 28, 2026 • all day  
    `lesson` `social` `salsa` `bachata` _via instagram_
+- **[Gloria&#8217;s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
+   Gloria's Latin Cuisine · Addison  
+   Sat, Nov 28, 2026 • 11:00 PM – 2:00 AM  
+   `social` _via salsavida_
 
 ### Wednesday, December 2, 2026
 
