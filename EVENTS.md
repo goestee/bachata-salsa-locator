@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-11-16 04:48 PM CST**
+> Auto-generated. Last update: **2026-11-17 02:53 AM CST**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 122 upcoming events tracked. **18 new** since last run.
+> 123 upcoming events tracked. **20 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -17,6 +17,14 @@
    Rockler Woodworking and Hardware - Garland  
    Wed, Nov 18, 2026 • all day  
    `salsa` _via eventbrite_
+- **[All New Latin Night (McKinney)](https://www.eventbrite.com/e/all-new-latin-night-mckinney-tickets-2004809217337)** **_Varies_**  
+   The Mirage Lounge Hookah Bar And Bites · McKinney  
+   Thu, Nov 19, 2026 • all day  
+   `social` _via eventbrite_
+- **[SALSA NIGHTS @ LA Reserva in Euless ● WEEKLY GUESTS ● LIVE MUSIC● FOOD ETC](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317465652/)** **_Varies_**  
+   The Reserve · Euless  
+   Fri, Nov 20, 2026 • 9:30 PM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
 - **[SALSA DEL BARRIO](https://www.eventbrite.com/e/salsa-del-barrio-tickets-1983990852046)** **_Varies_**  
    Coco’s · Dallas  
    Sat, Nov 21, 2026 • all day  
@@ -86,13 +94,6 @@
 
 ## Upcoming
 
-
-### Monday, November 16, 2026
-
-- **[FREE Beginner Salsa & Bachata | Kumbala Dance Studio](https://www.meetup.com/dallas-latin-dance-studio/events/317328053/)** **_Varies_**  
-   Kumbala Dance Studio · Farmers Branch  
-   Mon, Nov 16, 2026 • 7:00 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
 
 ### Tuesday, November 17, 2026
 
@@ -182,6 +183,10 @@
    Hangout · Irving  
    Thu, Nov 19, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via danceus_
+- **[All New Latin Night (McKinney)](https://www.eventbrite.com/e/all-new-latin-night-mckinney-tickets-2004809217337)** **_Varies_**  
+   The Mirage Lounge Hookah Bar And Bites · McKinney  
+   Thu, Nov 19, 2026 • all day  
+   `social` _via eventbrite_
 - **[SALSA NIGHT IS BACK AT ILUSION – MANSFIELD!](https://www.instagram.com/p/DfoRquWFQcq/)** **_Free_**  
    Salsa At The Gardens  
    Thu, Nov 19, 2026 • 7:00 PM  
@@ -321,6 +326,10 @@
    Dance Makers of Texas · Arlington  
    Fri, Nov 20, 2026 • 9:30 PM – 3:00 AM  
    `social` `salsa` `bachata` _via salsavida_
+- **[SALSA NIGHTS @ LA Reserva in Euless ● WEEKLY GUESTS ● LIVE MUSIC● FOOD ETC](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317465652/)** **_Varies_**  
+   The Reserve · Euless  
+   Fri, Nov 20, 2026 • 9:30 PM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
 - **[DALLAS, LET'S DANCE SALSA!](https://www.instagram.com/p/Ddb2ucqjMiW/)** **_Free_**  
    Salsadallas  
    Fri, Nov 20, 2026 • 10:00 PM  
