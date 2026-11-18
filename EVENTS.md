@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-11-17 03:34 PM CST**
+> Auto-generated. Last update: **2026-11-18 02:17 AM CST**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 123 upcoming events tracked. **8 new** since last run.
+> 121 upcoming events tracked. **3 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -17,50 +17,15 @@
    The Reserve · Euless  
    Fri, Nov 20, 2026 • 9:30 PM  
    `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
-- **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
-   Victoria’s Restaurant · Farmers Branch  
-   Sun, Nov 22, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Salsa Sundays at The Statler](https://www.danceus.org/event/16552421262550/salsa-sundays-at-the-statler-dallas-tx/)** **_Varies_**  
-   The Statler · Dallas  
-   Sun, Nov 22, 2026 • all day  
-   `lesson` `salsa` _via danceus_
-- **[Sabroso Sunday at Al-Amir Addison](https://www.danceus.org/event/16552421219990/sabroso-sunday-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Sun, Nov 22, 2026 • all day  
-   `social` `salsa` `bachata` `merengue` _via danceus_
-- **[Salsa Sunday at Lola&#8217;s Cuban Food](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-sunday-at-lolas-cuban-food/)** **_Free_**  
-   Lola's Cuban Food · Dallas-Fort Worth  
-   Sun, Nov 29, 2026 • 3:00 PM – 6:00 PM  
-   `salsa` _via salsavida_
-- **[Son y Sabor at The Victoria](https://www.salsavida.com/event/texas/dallas-fort-worth/son-y-sabor-at-the-victoria/)** **_$7_**  
-   The Victoria Restaurant · Farmers Branch  
-   Sun, Nov 29, 2026 • 5:30 PM – 10:30 PM  
-   `social` _via salsavida_
-- **[Sabroso Sundays at Al-Amir Addison](https://www.salsavida.com/event/texas/dallas-fort-worth/sabroso-sundays-at-al-amir-addison/)** **_$10_**  
-   Al-Amir Addison  
-   Sun, Nov 29, 2026 • 10:00 PM – 2:00 AM  
-   `social` _via salsavida_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/317242841/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Nov 24, 2026 • 8:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 
 ---
 
 ## Upcoming
 
-
-### Tuesday, November 17, 2026
-
-- **[Beginner Salsa Dance Class](https://www.eventbrite.com/e/beginner-salsa-dance-class-tickets-2001990400179)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, Nov 17, 2026 • all day  
-   `social` `lesson` `salsa` _via eventbrite_
-- **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-11-17/)** **_Free_**  
-   Rotate Social, 5454 Main st., Frisco, TX, United States  
-   Tue, Nov 17, 2026 • 7:30 PM – 11:30 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/317184243/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, Nov 17, 2026 • 8:00 PM  
-   `social` `lesson` `salsa` _via meetup_
 
 ### Wednesday, November 18, 2026
 
@@ -459,6 +424,10 @@
    Rotate Social, 5454 Main st., Frisco, TX, United States  
    Tue, Nov 24, 2026 • 7:30 PM – 11:30 PM  
    `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/317242841/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Nov 24, 2026 • 8:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 
 ### Wednesday, November 25, 2026
 
