@@ -1,22 +1,14 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-11-18 02:17 AM CST**
+> Auto-generated. Last update: **2026-11-18 03:10 PM CST**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 121 upcoming events tracked. **3 new** since last run.
+> 121 upcoming events tracked. **1 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[All New Latin Night (McKinney)](https://www.eventbrite.com/e/all-new-latin-night-mckinney-tickets-2004809217337)** **_Varies_**  
-   The Mirage Lounge Hookah Bar And Bites · McKinney  
-   Thu, Nov 19, 2026 • all day  
-   `social` _via eventbrite_
-- **[SALSA NIGHTS @ LA Reserva in Euless ● WEEKLY GUESTS ● LIVE MUSIC● FOOD ETC](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317465652/)** **_Varies_**  
-   The Reserve · Euless  
-   Fri, Nov 20, 2026 • 9:30 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
 - **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/317242841/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Tue, Nov 24, 2026 • 8:00 PM  
