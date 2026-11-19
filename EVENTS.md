@@ -1,22 +1,50 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-11-19 02:28 AM CST**
+> Auto-generated. Last update: **2026-11-19 03:16 PM CST**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 108 upcoming events tracked. **2 new** since last run.
+> 118 upcoming events tracked. **9 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/317242841/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, Nov 24, 2026 • 8:00 PM  
-   `social` `lesson` `salsa` _via meetup_
+- **[Wood Turned Chips & Salsa Bowl](https://www.eventbrite.com/e/wood-turned-chips-salsa-bowl-tickets-2003302093489)** **_Varies_**  
+   Rockler Woodworking and Hardware - Garland  
+   Tue, Nov 24, 2026 • all day  
+   `salsa` _via eventbrite_
+- **[Rumba & Cha-Cha for Beginners | AscenDance Studio Dallas](https://www.eventbrite.com/e/rumba-cha-cha-for-beginners-ascendance-studio-dallas-tickets-2003238413019)** **_Varies_**  
+   18484 Preston Rd · Dallas  
+   Wed, Nov 25, 2026 • all day  
+   `lesson` _via eventbrite_
+- **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
+   Vidorra Dallas  
+   Wed, Nov 25, 2026 • all day  
+   `social` `lesson` `salsa` _via danceus_
+- **[Live Latin Night With Havana NRG at Sambuca360](https://www.danceus.org/event/165524211650016/live-latin-night-with-havana-nrg-at-sambuca-plano-tx/)** **_Varies_**  
+   Sambuca360 · Plano  
+   Wed, Nov 25, 2026 • all day  
+   `social` _via danceus_
+- **[Salseando and Bachateando Nights at El Botanero](https://www.danceus.org/event/16552421287400/salseando-and-bachateando-nights-at-el-botanero-dallas-tx/)** **_Varies_**  
+   El Botanero Bar · Dallas  
+   Wed, Nov 25, 2026 • all day  
+   `social` `salsa` `bachata` _via danceus_
+- **[Wednesday Salsa Social at Stratos](https://www.danceus.org/event/16552421361930/wednesday-salsa-social-at-stratos-dallas-tx/)** **_Varies_**  
+   Stratos Greek Taverna · Dallas  
+   Wed, Nov 25, 2026 • all day  
+   `social` `salsa` _via danceus_
 - **[STRATOS WED SALSA NITE ● DJ WANDER & RAFAEL ANGEL BAND LIVE ● NO COVER ● CLASS](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317367532/)** **_Varies_**  
    Stratos · Dallas  
    Wed, Nov 25, 2026 • 8:30 PM  
    `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
+- **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
+   Vidorra Cocina · Dallas-Fort Worth  
+   Wed, Dec 2, 2026 • 7:00 PM – 11:00 PM  
+   `salsa` _via salsavida_
+- **[Wednesday Salsa &#038; Bachata at Stratos](https://www.salsavida.com/event/texas/dallas-fort-worth/wednesday-salsa-bachata-at-stratos/)** **_Free_**  
+   Stratos Bar & Grill · Dallas  
+   Wed, Dec 2, 2026 • 9:30 PM – 2:00 AM  
+   `salsa` `bachata` _via salsavida_
 
 ---
 
@@ -357,6 +385,10 @@
 
 ### Tuesday, November 24, 2026
 
+- **[Wood Turned Chips & Salsa Bowl](https://www.eventbrite.com/e/wood-turned-chips-salsa-bowl-tickets-2003302093489)** **_Varies_**  
+   Rockler Woodworking and Hardware - Garland  
+   Tue, Nov 24, 2026 • all day  
+   `salsa` _via eventbrite_
 - **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-11-24/)** **_Free_**  
    Rotate Social, 5454 Main st., Frisco, TX, United States  
    Tue, Nov 24, 2026 • 7:30 PM – 11:30 PM  
@@ -368,6 +400,34 @@
 
 ### Wednesday, November 25, 2026
 
+- **[Wednesday Salsa & Bachata at Stratos](https://www.salsavida.com/event/texas/dallas-fort-worth/wednesday-salsa-bachata-at-stratos/)** **_Free_**  
+   Dallas  
+   Wed, Nov 25, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via salsavida_
+- **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
+   Dallas-Fort Worth  
+   Wed, Nov 25, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` `merengue` _via salsavida_
+- **[Rumba & Cha-Cha for Beginners | AscenDance Studio Dallas](https://www.eventbrite.com/e/rumba-cha-cha-for-beginners-ascendance-studio-dallas-tickets-2003238413019)** **_Varies_**  
+   18484 Preston Rd · Dallas  
+   Wed, Nov 25, 2026 • all day  
+   `lesson` _via eventbrite_
+- **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
+   Vidorra Dallas  
+   Wed, Nov 25, 2026 • all day  
+   `social` `lesson` `salsa` _via danceus_
+- **[Live Latin Night With Havana NRG at Sambuca360](https://www.danceus.org/event/165524211650016/live-latin-night-with-havana-nrg-at-sambuca-plano-tx/)** **_Varies_**  
+   Sambuca360 · Plano  
+   Wed, Nov 25, 2026 • all day  
+   `social` _via danceus_
+- **[Salseando and Bachateando Nights at El Botanero](https://www.danceus.org/event/16552421287400/salseando-and-bachateando-nights-at-el-botanero-dallas-tx/)** **_Varies_**  
+   El Botanero Bar · Dallas  
+   Wed, Nov 25, 2026 • all day  
+   `social` `salsa` `bachata` _via danceus_
+- **[Wednesday Salsa Social at Stratos](https://www.danceus.org/event/16552421361930/wednesday-salsa-social-at-stratos-dallas-tx/)** **_Varies_**  
+   Stratos Greek Taverna · Dallas  
+   Wed, Nov 25, 2026 • all day  
+   `social` `salsa` _via danceus_
 - **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
    Vidorra Cocina · Dallas-Fort Worth  
    Wed, Nov 25, 2026 • 7:00 PM – 11:00 PM  
@@ -459,10 +519,18 @@
 
 ### Wednesday, December 2, 2026
 
+- **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
+   Vidorra Cocina · Dallas-Fort Worth  
+   Wed, Dec 2, 2026 • 7:00 PM – 11:00 PM  
+   `salsa` _via salsavida_
 - **[Every Wednesday Night at Gigi’s!](https://www.instagram.com/p/DfWOgvsMQ_9/)** **_Varies_**  
    Gigi  
    Wed, Dec 2, 2026 • 9:30 PM – 10:30 PM  
    `salsa` `bachata` `lesson` `social` _via instagram_
+- **[Wednesday Salsa &#038; Bachata at Stratos](https://www.salsavida.com/event/texas/dallas-fort-worth/wednesday-salsa-bachata-at-stratos/)** **_Free_**  
+   Stratos Bar & Grill · Dallas  
+   Wed, Dec 2, 2026 • 9:30 PM – 2:00 AM  
+   `salsa` `bachata` _via salsavida_
 
 ### Sunday, December 6, 2026
 
