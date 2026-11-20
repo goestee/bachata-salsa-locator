@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-11-19 03:16 PM CST**
+> Auto-generated. Last update: **2026-11-20 02:09 AM CST**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 118 upcoming events tracked. **9 new** since last run.
+> 112 upcoming events tracked. **10 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -37,6 +37,10 @@
    Stratos · Dallas  
    Wed, Nov 25, 2026 • 8:30 PM  
    `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
+- **[Salsa & bachata Thursdays advanced beginner/intermediate](https://www.meetup.com/salsa-with-jo/events/317321917/)** **_Varies_**  
+   Green Space Arts Collective · Denton  
+   Thu, Nov 26, 2026 • 7:30 PM  
+   `lesson` `salsa` `bachata` _via meetup_
 - **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
    Vidorra Cocina · Dallas-Fort Worth  
    Wed, Dec 2, 2026 • 7:00 PM – 11:00 PM  
@@ -50,37 +54,6 @@
 
 ## Upcoming
 
-
-### Thursday, November 19, 2026
-
-- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
-   Merkado · Frisco  
-   Thu, Nov 19, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Thu, Nov 19, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
-   Hangout · Irving  
-   Thu, Nov 19, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` _via danceus_
-- **[All New Latin Night (McKinney)](https://www.eventbrite.com/e/all-new-latin-night-mckinney-tickets-2004809217337)** **_Varies_**  
-   The Mirage Lounge Hookah Bar And Bites · McKinney  
-   Thu, Nov 19, 2026 • all day  
-   `social` _via eventbrite_
-- **[SALSA NIGHT IS BACK AT ILUSION – MANSFIELD!](https://www.instagram.com/p/DfoRquWFQcq/)** **_Free_**  
-   Salsa At The Gardens  
-   Thu, Nov 19, 2026 • 7:00 PM  
-   `salsa` `bachata` `merengue` `social` _via instagram_
-- **[Salsa & bachata Thursdays advanced beginner/intermediate](https://www.meetup.com/salsa-with-jo/events/317214404/)** **_Varies_**  
-   Green Space Arts Collective · Denton  
-   Thu, Nov 19, 2026 • 7:30 PM  
-   `lesson` `salsa` `bachata` _via meetup_
-- **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-11-19/)** **_Free_**  
-   Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
-   Thu, Nov 19, 2026 • 9:00 PM – 1:00 AM  
-   `social` `lesson` `salsa` _via golatindance_
 
 ### Friday, November 20, 2026
 
@@ -455,6 +428,10 @@
 
 ### Thursday, November 26, 2026
 
+- **[Salsa & bachata Thursdays advanced beginner/intermediate](https://www.meetup.com/salsa-with-jo/events/317321917/)** **_Varies_**  
+   Green Space Arts Collective · Denton  
+   Thu, Nov 26, 2026 • 7:30 PM  
+   `lesson` `salsa` `bachata` _via meetup_
 - **[Latin Thursdays at Massey Shots](https://golatindance.com/event/latin-thursdays-at-massey-shots/2026-11-26/)** **_Free_**  
    Massey Shots, 8908 Ohio Dr #104, Plano, TX, 75024, United States  
    Thu, Nov 26, 2026 • 9:00 PM – 1:00 AM  
