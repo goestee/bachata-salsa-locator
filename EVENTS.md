@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-11-21 02:03 AM CST**
+> Auto-generated. Last update: **2026-11-21 02:01 PM CST**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 86 upcoming events tracked. **12 new** since last run.
+> 88 upcoming events tracked. **13 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -17,6 +17,10 @@
    Tropik Vybe Studio · Richardson  
    Sat, Nov 21, 2026 • 7:00 PM – 12:00 AM  
    `social` `salsa` _via salsavida_
+- **[LATIN BLOCK PARTY @ TOYOTA MUSIC FACTORY ● SALSA CLASS @ 8pm ● VENDORS](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317528753/)** **_Varies_**  
+   Toyota Music Factory · Irving  
+   Sat, Nov 21, 2026 • 7:00 PM  
+   `social` `lesson` `salsa` `cha-cha` _via meetup_
 - **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
    Merkado · Frisco  
    Thu, Nov 26, 2026 • all day  
@@ -29,10 +33,10 @@
    Hangout · Irving  
    Thu, Nov 26, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Salsa & bachata Thursdays advanced beginner/intermediate](https://www.meetup.com/salsa-with-jo/events/317321917/)** **_Varies_**  
-   Green Space Arts Collective · Denton  
-   Thu, Nov 26, 2026 • 7:30 PM  
-   `lesson` `salsa` `bachata` _via meetup_
+- **[Friday Latin at Al-Amir Arlington](https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/)** **_Varies_**  
+   Al-Amir Arlington  
+   Fri, Nov 27, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via danceus_
 - **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/317335474/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Fri, Nov 27, 2026 • 7:30 PM  
@@ -109,6 +113,10 @@
    Tropik Vybe Studio · Richardson  
    Sat, Nov 21, 2026 • 7:00 PM – 12:00 AM  
    `social` `salsa` _via salsavida_
+- **[LATIN BLOCK PARTY @ TOYOTA MUSIC FACTORY ● SALSA CLASS @ 8pm ● VENDORS](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317528753/)** **_Varies_**  
+   Toyota Music Factory · Irving  
+   Sat, Nov 21, 2026 • 7:00 PM  
+   `social` `lesson` `salsa` `cha-cha` _via meetup_
 - **[La Vibra &#8211; Dallas Salsa &#038; Bachata Social](https://www.salsavida.com/event/texas/dallas-fort-worth/la-vibra-dallas-salsa-bachata-social/)** **_$20_**  
    Tropik Vybe Studio · Richardson  
    Sat, Nov 21, 2026 • 10:00 PM – 2:00 AM  
@@ -320,6 +328,10 @@
    Bombshells in Rowlett  
    Fri, Nov 27, 2026 • all day  
    `salsa` `lesson` `social` `workshop` `festival` _via instagram_
+- **[Friday Latin at Al-Amir Arlington](https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/)** **_Varies_**  
+   Al-Amir Arlington  
+   Fri, Nov 27, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via danceus_
 - **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/317335474/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Fri, Nov 27, 2026 • 7:30 PM  
