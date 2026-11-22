@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-11-22 01:50 AM CST**
+> Auto-generated. Last update: **2026-11-22 02:13 PM CST**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 73 upcoming events tracked. **10 new** since last run.
+> 76 upcoming events tracked. **5 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -13,14 +13,6 @@
    Al-Amir Arlington  
    Fri, Nov 27, 2026 • all day  
    `social` `salsa` `bachata` `merengue` _via danceus_
-- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/317335474/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Fri, Nov 27, 2026 • 7:30 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317190651/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Fri, Nov 27, 2026 • 7:30 PM  
-   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
 - **[SALSA NIGHTS @ LA Reserva in Euless ● WEEKLY GUESTS ● LIVE MUSIC● FOOD ETC](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317534202/)** **_Varies_**  
    The Reserve · Euless  
    Fri, Nov 27, 2026 • 9:30 PM  
@@ -33,22 +25,10 @@
    DFW Young & Social · Farmers Branch  
    Sat, Nov 28, 2026 • 5:00 PM  
    `social` `lesson` `salsa` _via meetup_
-- **[Salsa Sunday at La Chingona](https://golatindance.com/event/salsa-sunday-at-la-chingona/2026-11-29/)** **_Free_**  
-   La Chingona, 2800 Bledsoe St #100, Fort Worth, TX, 76107, United States  
-   Sun, Nov 29, 2026 • 3:00 PM – 6:00 PM  
-   `lesson` `salsa` `bachata` _via golatindance_
-- **[Salsa Sunday Night at Hearsay Arlington](https://golatindance.com/event/salsa-sunday-night-at-hearsay-arlington/2026-11-29/)** **_Free_**  
-   Hearsay Arlington, 1711 E Randoll Mill Rd, Arlington, TX, 76011, United States  
-   Sun, Nov 29, 2026 • 7:00 PM – 11:00 PM  
-   `social` `lesson` `salsa` _via golatindance_
-- **[Calentura Sundays @ Fuego Dance Co.](https://golatindance.com/event/calentura-sundays-fuego-dance-co/2026-11-29/)** **_$10_**  
-   Fuego Dance Company, 813 Main Street, Garland, TX, 75040, United States  
-   Sun, Nov 29, 2026 • 10:00 PM – 2:00 AM  
-   `social` `lesson` `salsa` `bachata` _via golatindance_
-- **[Sabroso Sundays at Al-Amir](https://golatindance.com/event/sabroso-sundays-at-al-amir/2026-11-29/)** **_Free_**  
-   Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States  
-   Sun, Nov 29, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` `merengue` _via golatindance_
+- **[Gloria&#8217;s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
+   Gloria's Latin Cuisine · Addison  
+   Sat, Dec 5, 2026 • 11:00 PM – 2:00 AM  
+   `social` _via salsavida_
 
 ---
 
@@ -272,6 +252,14 @@
 
 ### Saturday, November 28, 2026
 
+- **[Sábados con la Rumba – A Otro Nivel at Luna Azul](https://www.salsavida.com/event/texas/dallas-fort-worth/sabados-con-la-rumba-a-otro-nivel-at-luna-azul/)** **_Free_**  
+   Fort Worth  
+   Sat, Nov 28, 2026 • all day  
+   `social` `salsa` _via salsavida_
+- **[Gloria’s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
+   Addison  
+   Sat, Nov 28, 2026 • all day  
+   `social` _via salsavida_
 - **[Every Saturday night, the Secret Latin Dance Night is calling.](https://www.instagram.com/p/DexJAJDKqvd/)** **_$10–$150_**  
    Mexbars  
    Sat, Nov 28, 2026 • all day  
@@ -346,6 +334,13 @@
    Stratos Bar & Grill · Dallas  
    Wed, Dec 2, 2026 • 9:30 PM – 2:00 AM  
    `salsa` `bachata` _via salsavida_
+
+### Saturday, December 5, 2026
+
+- **[Gloria&#8217;s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
+   Gloria's Latin Cuisine · Addison  
+   Sat, Dec 5, 2026 • 11:00 PM – 2:00 AM  
+   `social` _via salsavida_
 
 ### Sunday, December 6, 2026
 
