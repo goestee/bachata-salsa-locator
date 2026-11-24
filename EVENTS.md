@@ -1,18 +1,30 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-11-24 04:44 AM CST**
+> Auto-generated. Last update: **2026-11-24 04:59 PM CST**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 71 upcoming events tracked. **8 new** since last run.
+> 76 upcoming events tracked. **13 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
+- **[Beginner Salsa Dance Class](https://www.eventbrite.com/e/beginner-salsa-dance-class-tickets-2001990401182)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Nov 24, 2026 • all day  
+   `social` `lesson` `salsa` _via eventbrite_
 - **[Taco Tuesday @ El Ranchito in Arlington!](https://www.meetup.com/dfw-karaoke/events/317557771/)** **_Varies_**  
    El Ranchito · Arlington  
    Tue, Nov 24, 2026 • 6:00 PM  
    `social` `salsa` _via meetup_
+- **[Dallas Fridays Latin Night: Soviēe | PM Lounge Dallas](https://www.eventbrite.com/e/dallas-fridays-latin-night-soviee-pm-lounge-dallas-tickets-2004338645845)** **_Varies_**  
+   PM Lounge, North Henderson Avenue, Dallas, TX, USA  
+   Fri, Nov 27, 2026 • all day  
+   `social` _via eventbrite_
+- **[SALSA DEL BARRIO](https://www.eventbrite.com/e/salsa-del-barrio-tickets-1983990853049)** **_Varies_**  
+   Coco’s · Dallas  
+   Sat, Nov 28, 2026 • all day  
+   `social` `lesson` `salsa` _via eventbrite_
 - **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
    Victoria’s Restaurant · Farmers Branch  
    Sun, Nov 29, 2026 • all day  
@@ -41,6 +53,14 @@
    Al-Amir Addison  
    Sun, Dec 6, 2026 • 10:00 PM – 2:00 AM  
    `social` _via salsavida_
+- **[Wood Turned Chips & Salsa Bowl](https://www.eventbrite.com/e/wood-turned-chips-salsa-bowl-tickets-2003302099507)** **_Varies_**  
+   Rockler Woodworking and Hardware - Garland  
+   Wed, Dec 9, 2026 • all day  
+   `salsa` _via eventbrite_
+- **[Gala Night - Coronation Miss Herencia Latina USA](https://www.eventbrite.com/e/gala-night-coronation-miss-herencia-latina-usa-tickets-2004503364523)** **_Varies_**  
+   The Crown Venue · Dallas  
+   Sat, Dec 19, 2026 • all day  
+   `social` `salsa` _via eventbrite_
 
 ---
 
@@ -53,6 +73,10 @@
    Rockler Woodworking and Hardware - Garland  
    Tue, Nov 24, 2026 • all day  
    `salsa` _via eventbrite_
+- **[Beginner Salsa Dance Class](https://www.eventbrite.com/e/beginner-salsa-dance-class-tickets-2001990401182)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Nov 24, 2026 • all day  
+   `social` `lesson` `salsa` _via eventbrite_
 - **[Taco Tuesday @ El Ranchito in Arlington!](https://www.meetup.com/dfw-karaoke/events/317557771/)** **_Varies_**  
    El Ranchito · Arlington  
    Tue, Nov 24, 2026 • 6:00 PM  
@@ -154,6 +178,10 @@
    Al-Amir Arlington  
    Fri, Nov 27, 2026 • all day  
    `social` `salsa` `bachata` `merengue` _via danceus_
+- **[Dallas Fridays Latin Night: Soviēe | PM Lounge Dallas](https://www.eventbrite.com/e/dallas-fridays-latin-night-soviee-pm-lounge-dallas-tickets-2004338645845)** **_Varies_**  
+   PM Lounge, North Henderson Avenue, Dallas, TX, USA  
+   Fri, Nov 27, 2026 • all day  
+   `social` _via eventbrite_
 - **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/317335474/)** **_Varies_**  
    You Can Dance Dallas · Addison  
    Fri, Nov 27, 2026 • 7:30 PM  
@@ -193,6 +221,10 @@
    Mexbars  
    Sat, Nov 28, 2026 • all day  
    `lesson` `social` `salsa` `bachata` _via instagram_
+- **[SALSA DEL BARRIO](https://www.eventbrite.com/e/salsa-del-barrio-tickets-1983990853049)** **_Varies_**  
+   Coco’s · Dallas  
+   Sat, Nov 28, 2026 • all day  
+   `social` `lesson` `salsa` _via eventbrite_
 - **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/317243718/)** **_Varies_**  
    DFW Young & Social · Farmers Branch  
    Sat, Nov 28, 2026 • 4:00 PM  
@@ -343,6 +375,10 @@
 
 ### Wednesday, December 9, 2026
 
+- **[Wood Turned Chips & Salsa Bowl](https://www.eventbrite.com/e/wood-turned-chips-salsa-bowl-tickets-2003302099507)** **_Varies_**  
+   Rockler Woodworking and Hardware - Garland  
+   Wed, Dec 9, 2026 • all day  
+   `salsa` _via eventbrite_
 - **[Every Wednesday Night at Gigi’s!](https://www.instagram.com/p/DfWOgvsMQ_9/)** **_Varies_**  
    Gigi  
    Wed, Dec 9, 2026 • 9:30 PM – 10:30 PM  
@@ -368,6 +404,10 @@
    The Crown Venue · Dallas  
    Sat, Dec 19, 2026 • all day  
    `salsa` _via eventbrite_
+- **[Gala Night - Coronation Miss Herencia Latina USA](https://www.eventbrite.com/e/gala-night-coronation-miss-herencia-latina-usa-tickets-2004503364523)** **_Varies_**  
+   The Crown Venue · Dallas  
+   Sat, Dec 19, 2026 • all day  
+   `social` `salsa` _via eventbrite_
 
 ### Thursday, December 31, 2026
 
