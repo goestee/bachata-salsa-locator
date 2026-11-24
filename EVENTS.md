@@ -1,26 +1,30 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-11-23 02:40 AM CST**
+> Auto-generated. Last update: **2026-11-23 06:40 PM CST**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 61 upcoming events tracked. **10 new** since last run.
+> 71 upcoming events tracked. **14 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[SALSA NIGHTS @ LA Reserva in Euless ● WEEKLY GUESTS ● LIVE MUSIC● FOOD ETC](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317534202/)** **_Varies_**  
-   The Reserve · Euless  
-   Fri, Nov 27, 2026 • 9:30 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
-- **[Beginner Bachata Dance Class](https://www.meetup.com/dfwyoungsocial/events/317243718/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Sat, Nov 28, 2026 • 4:00 PM  
-   `social` `lesson` `bachata` _via meetup_
-- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/316798854/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Sat, Nov 28, 2026 • 5:00 PM  
-   `social` `lesson` `salsa` _via meetup_
+- **[Taco Tuesday @ El Ranchito in Arlington!](https://www.meetup.com/dfw-karaoke/events/317557771/)** **_Varies_**  
+   El Ranchito · Arlington  
+   Tue, Nov 24, 2026 • 6:00 PM  
+   `social` `salsa` _via meetup_
+- **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
+   Victoria’s Restaurant · Farmers Branch  
+   Sun, Nov 29, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Salsa Sundays at The Statler](https://www.danceus.org/event/16552421262550/salsa-sundays-at-the-statler-dallas-tx/)** **_Varies_**  
+   The Statler · Dallas  
+   Sun, Nov 29, 2026 • all day  
+   `lesson` `salsa` _via danceus_
+- **[Sabroso Sunday at Al-Amir Addison](https://www.danceus.org/event/16552421219990/sabroso-sunday-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Sun, Nov 29, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via danceus_
 - **[30 % OFF CHA CHA CHA & mambo in addison](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317362509/)** **_Varies_**  
    You Can Dance Dallas  
    Sun, Nov 29, 2026 • 4:45 PM  
@@ -45,9 +49,21 @@
    El Taco H · Denton  
    Fri, Dec 4, 2026 • 10:00 PM  
    `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
-- **[Gloria&#8217;s Nightlife](https://www.salsavida.com/event/texas/dallas-fort-worth/glorias-nightlife/)** **_Free_**  
-   Gloria's Latin Cuisine · Addison  
-   Sat, Dec 5, 2026 • 11:00 PM – 2:00 AM  
+- **[Sabroso Sundays at Al-Amir Addison](https://www.salsavida.com/event/texas/dallas-fort-worth/sabroso-sundays-at-al-amir-addison/)** **_$10_**  
+   Addison  
+   Sun, Dec 6, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via salsavida_
+- **[Salsa Sunday at Lola’s Cuban Food](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-sunday-at-lolas-cuban-food/)** **_Free_**  
+   Dallas-Fort Worth  
+   Sun, Dec 6, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` `merengue` _via salsavida_
+- **[Salsa Sunday at Lola&#8217;s Cuban Food](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-sunday-at-lolas-cuban-food/)** **_Free_**  
+   Lola's Cuban Food · Dallas-Fort Worth  
+   Sun, Dec 6, 2026 • 3:00 PM – 6:00 PM  
+   `salsa` _via salsavida_
+- **[Sabroso Sundays at Al-Amir Addison](https://www.salsavida.com/event/texas/dallas-fort-worth/sabroso-sundays-at-al-amir-addison/)** **_$10_**  
+   Al-Amir Addison  
+   Sun, Dec 6, 2026 • 10:00 PM – 2:00 AM  
    `social` _via salsavida_
 
 ---
@@ -61,6 +77,10 @@
    Rockler Woodworking and Hardware - Garland  
    Tue, Nov 24, 2026 • all day  
    `salsa` _via eventbrite_
+- **[Taco Tuesday @ El Ranchito in Arlington!](https://www.meetup.com/dfw-karaoke/events/317557771/)** **_Varies_**  
+   El Ranchito · Arlington  
+   Tue, Nov 24, 2026 • 6:00 PM  
+   `social` `salsa` _via meetup_
 - **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-11-24/)** **_Free_**  
    Rotate Social, 5454 Main st., Frisco, TX, United States  
    Tue, Nov 24, 2026 • 7:30 PM – 11:30 PM  
@@ -224,6 +244,26 @@
 
 ### Sunday, November 29, 2026
 
+- **[Sabroso Sundays at Al-Amir Addison](https://www.salsavida.com/event/texas/dallas-fort-worth/sabroso-sundays-at-al-amir-addison/)** **_$10_**  
+   Addison  
+   Sun, Nov 29, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via salsavida_
+- **[Salsa Sunday at Lola’s Cuban Food](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-sunday-at-lolas-cuban-food/)** **_Free_**  
+   Dallas-Fort Worth  
+   Sun, Nov 29, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` `merengue` _via salsavida_
+- **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
+   Victoria’s Restaurant · Farmers Branch  
+   Sun, Nov 29, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Salsa Sundays at The Statler](https://www.danceus.org/event/16552421262550/salsa-sundays-at-the-statler-dallas-tx/)** **_Varies_**  
+   The Statler · Dallas  
+   Sun, Nov 29, 2026 • all day  
+   `lesson` `salsa` _via danceus_
+- **[Sabroso Sunday at Al-Amir Addison](https://www.danceus.org/event/16552421219990/sabroso-sunday-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Sun, Nov 29, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via danceus_
 - **[Salsa Sunday at Lola&#8217;s Cuban Food](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-sunday-at-lolas-cuban-food/)** **_Free_**  
    Lola's Cuban Food · Dallas-Fort Worth  
    Sun, Nov 29, 2026 • 3:00 PM – 6:00 PM  
@@ -308,6 +348,22 @@
    Alpha Midway Dance Studio · Dallas  
    Sun, Dec 6, 2026 • all day  
    `social` `lesson` `kizomba` _via eventbrite_
+- **[Sabroso Sundays at Al-Amir Addison](https://www.salsavida.com/event/texas/dallas-fort-worth/sabroso-sundays-at-al-amir-addison/)** **_$10_**  
+   Addison  
+   Sun, Dec 6, 2026 • all day  
+   `social` `salsa` `bachata` `merengue` _via salsavida_
+- **[Salsa Sunday at Lola’s Cuban Food](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-sunday-at-lolas-cuban-food/)** **_Free_**  
+   Dallas-Fort Worth  
+   Sun, Dec 6, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` `merengue` _via salsavida_
+- **[Salsa Sunday at Lola&#8217;s Cuban Food](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-sunday-at-lolas-cuban-food/)** **_Free_**  
+   Lola's Cuban Food · Dallas-Fort Worth  
+   Sun, Dec 6, 2026 • 3:00 PM – 6:00 PM  
+   `salsa` _via salsavida_
+- **[Sabroso Sundays at Al-Amir Addison](https://www.salsavida.com/event/texas/dallas-fort-worth/sabroso-sundays-at-al-amir-addison/)** **_$10_**  
+   Al-Amir Addison  
+   Sun, Dec 6, 2026 • 10:00 PM – 2:00 AM  
+   `social` _via salsavida_
 
 ### Wednesday, December 9, 2026
 
