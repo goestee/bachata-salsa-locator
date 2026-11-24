@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-11-23 06:40 PM CST**
+> Auto-generated. Last update: **2026-11-24 04:44 AM CST**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 71 upcoming events tracked. **14 new** since last run.
+> 71 upcoming events tracked. **8 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -25,30 +25,6 @@
    Al-Amir Addison  
    Sun, Nov 29, 2026 • all day  
    `social` `salsa` `bachata` `merengue` _via danceus_
-- **[30 % OFF CHA CHA CHA & mambo in addison](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317362509/)** **_Varies_**  
-   You Can Dance Dallas  
-   Sun, Nov 29, 2026 • 4:45 PM  
-   `cha-cha` _via meetup_
-- **[4:45-5:15 Cha Cha & Mambo Class](https://www.meetup.com/you-can-dance-dallas/events/317362550/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Nov 29, 2026 • 4:45 PM  
-   `social` `lesson` `cha-cha` _via meetup_
-- **[6:30-8:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/317363479/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Nov 29, 2026 • 6:30 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[50 % off SUNDAY Salsa & BACHATA class in addison • we go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317363481/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Sun, Nov 29, 2026 • 6:30 PM  
-   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
-- **[David Herrera Amateur Latin / Ballroom dance team summer tryouts](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317363982/)** **_Varies_**  
-   You Can Dance Dallas  
-   Sun, Nov 29, 2026 • 7:45 PM  
-   `lesson` `festival` `salsa` `bachata` `cha-cha` _via meetup_
-- **[Latin Night](https://www.meetup.com/salsa-with-jo/events/317436369/)** **_Varies_**  
-   El Taco H · Denton  
-   Fri, Dec 4, 2026 • 10:00 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
 - **[Sabroso Sundays at Al-Amir Addison](https://www.salsavida.com/event/texas/dallas-fort-worth/sabroso-sundays-at-al-amir-addison/)** **_$10_**  
    Addison  
    Sun, Dec 6, 2026 • all day  
