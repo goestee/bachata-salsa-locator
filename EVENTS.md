@@ -1,22 +1,14 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-11-24 04:59 PM CST**
+> Auto-generated. Last update: **2026-11-25 03:38 AM CST**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 76 upcoming events tracked. **13 new** since last run.
+> 72 upcoming events tracked. **5 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Beginner Salsa Dance Class](https://www.eventbrite.com/e/beginner-salsa-dance-class-tickets-2001990401182)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, Nov 24, 2026 • all day  
-   `social` `lesson` `salsa` _via eventbrite_
-- **[Taco Tuesday @ El Ranchito in Arlington!](https://www.meetup.com/dfw-karaoke/events/317557771/)** **_Varies_**  
-   El Ranchito · Arlington  
-   Tue, Nov 24, 2026 • 6:00 PM  
-   `social` `salsa` _via meetup_
 - **[Dallas Fridays Latin Night: Soviēe | PM Lounge Dallas](https://www.eventbrite.com/e/dallas-fridays-latin-night-soviee-pm-lounge-dallas-tickets-2004338645845)** **_Varies_**  
    PM Lounge, North Henderson Avenue, Dallas, TX, USA  
    Fri, Nov 27, 2026 • all day  
@@ -25,34 +17,10 @@
    Coco’s · Dallas  
    Sat, Nov 28, 2026 • all day  
    `social` `lesson` `salsa` _via eventbrite_
-- **[Son y Sabor – Salsa and Bachata at Victoria’s Restaurant](https://www.danceus.org/event/16552421309308/son-y-sabor-salsa-and-bachata-at-victorias-restaurant-farmers-branch-tx/)** **_Varies_**  
-   Victoria’s Restaurant · Farmers Branch  
-   Sun, Nov 29, 2026 • all day  
-   `salsa` `bachata` _via danceus_
-- **[Salsa Sundays at The Statler](https://www.danceus.org/event/16552421262550/salsa-sundays-at-the-statler-dallas-tx/)** **_Varies_**  
-   The Statler · Dallas  
-   Sun, Nov 29, 2026 • all day  
-   `lesson` `salsa` _via danceus_
-- **[Sabroso Sunday at Al-Amir Addison](https://www.danceus.org/event/16552421219990/sabroso-sunday-at-al-amir-addison-addison-tx/)** **_Varies_**  
-   Al-Amir Addison  
-   Sun, Nov 29, 2026 • all day  
-   `social` `salsa` `bachata` `merengue` _via danceus_
-- **[Sabroso Sundays at Al-Amir Addison](https://www.salsavida.com/event/texas/dallas-fort-worth/sabroso-sundays-at-al-amir-addison/)** **_$10_**  
-   Addison  
-   Sun, Dec 6, 2026 • all day  
-   `social` `salsa` `bachata` `merengue` _via salsavida_
-- **[Salsa Sunday at Lola’s Cuban Food](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-sunday-at-lolas-cuban-food/)** **_Free_**  
-   Dallas-Fort Worth  
-   Sun, Dec 6, 2026 • all day  
-   `social` `lesson` `salsa` `bachata` `merengue` _via salsavida_
-- **[Salsa Sunday at Lola&#8217;s Cuban Food](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-sunday-at-lolas-cuban-food/)** **_Free_**  
-   Lola's Cuban Food · Dallas-Fort Worth  
-   Sun, Dec 6, 2026 • 3:00 PM – 6:00 PM  
-   `salsa` _via salsavida_
-- **[Sabroso Sundays at Al-Amir Addison](https://www.salsavida.com/event/texas/dallas-fort-worth/sabroso-sundays-at-al-amir-addison/)** **_$10_**  
-   Al-Amir Addison  
-   Sun, Dec 6, 2026 • 10:00 PM – 2:00 AM  
-   `social` _via salsavida_
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/317242845/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Dec 1, 2026 • 8:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 - **[Wood Turned Chips & Salsa Bowl](https://www.eventbrite.com/e/wood-turned-chips-salsa-bowl-tickets-2003302099507)** **_Varies_**  
    Rockler Woodworking and Hardware - Garland  
    Wed, Dec 9, 2026 • all day  
@@ -66,29 +34,6 @@
 
 ## Upcoming
 
-
-### Tuesday, November 24, 2026
-
-- **[Wood Turned Chips & Salsa Bowl](https://www.eventbrite.com/e/wood-turned-chips-salsa-bowl-tickets-2003302093489)** **_Varies_**  
-   Rockler Woodworking and Hardware - Garland  
-   Tue, Nov 24, 2026 • all day  
-   `salsa` _via eventbrite_
-- **[Beginner Salsa Dance Class](https://www.eventbrite.com/e/beginner-salsa-dance-class-tickets-2001990401182)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, Nov 24, 2026 • all day  
-   `social` `lesson` `salsa` _via eventbrite_
-- **[Taco Tuesday @ El Ranchito in Arlington!](https://www.meetup.com/dfw-karaoke/events/317557771/)** **_Varies_**  
-   El Ranchito · Arlington  
-   Tue, Nov 24, 2026 • 6:00 PM  
-   `social` `salsa` _via meetup_
-- **[Caliente Night at Rotate Social](https://golatindance.com/event/caliente-night-at-rotate-social/2026-11-24/)** **_Free_**  
-   Rotate Social, 5454 Main st., Frisco, TX, United States  
-   Tue, Nov 24, 2026 • 7:30 PM – 11:30 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via golatindance_
-- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/317242841/)** **_Varies_**  
-   DFW Young & Social · Farmers Branch  
-   Tue, Nov 24, 2026 • 8:00 PM  
-   `social` `lesson` `salsa` _via meetup_
 
 ### Wednesday, November 25, 2026
 
@@ -320,6 +265,13 @@
    Al-Amir Addison, 3885 Belt Line Road, Addison, TX, 75001, United States  
    Sun, Nov 29, 2026 • 10:00 PM – 2:00 AM  
    `social` `salsa` `bachata` `merengue` _via golatindance_
+
+### Tuesday, December 1, 2026
+
+- **[Beginner Salsa Dance Class](https://www.meetup.com/dfwyoungsocial/events/317242845/)** **_Varies_**  
+   DFW Young & Social · Farmers Branch  
+   Tue, Dec 1, 2026 • 8:00 PM  
+   `social` `lesson` `salsa` _via meetup_
 
 ### Wednesday, December 2, 2026
 
