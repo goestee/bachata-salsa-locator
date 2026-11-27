@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-27T09:30:35.237859+00:00",
-  "count": 113,
+  "updated_at": "2026-11-27T21:53:00.066815+00:00",
+  "count": 116,
   "events": [
     {
       "title": "SALSA & BACHATA SUNDAYS",
@@ -133,7 +133,7 @@
       "price": "Free",
       "id": "8c8e2b5d115b8c53",
       "first_seen_at": "2026-07-16T15:05:59.497165+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237683+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066565+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -177,7 +177,7 @@
       "price": "Free",
       "id": "22c15dcd4a94a3fe",
       "first_seen_at": "2026-07-16T15:05:59.497168+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237684+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066567+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -294,7 +294,7 @@
       "price": "Free",
       "id": "e8c1ecc9d9213ff9",
       "first_seen_at": "2026-07-16T15:05:59.497177+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237691+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066575+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -318,7 +318,7 @@
       "price": "Free",
       "id": "cb9552c97be3e86c",
       "first_seen_at": "2026-07-16T15:05:59.497178+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237693+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066578+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -933,7 +933,7 @@
       "price": "$10",
       "id": "8623e5d2cf2b6cf4",
       "first_seen_at": "2026-10-19T19:06:49.028968+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237687+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066570+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -980,7 +980,7 @@
       "price": "Free",
       "id": "2e3ed67aea37cf8d",
       "first_seen_at": "2026-10-19T19:06:49.028971+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237688+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066572+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1281,7 +1281,7 @@
       "price": null,
       "id": "b0bf83b413018907",
       "first_seen_at": "2026-11-15T07:38:22.501991+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237568+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066457+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1346,7 +1346,7 @@
       "price": "Free",
       "id": "00b59076856115db",
       "first_seen_at": "2026-11-15T19:19:18.186540+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237665+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066540+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1502,7 +1502,7 @@
       "price": "$10",
       "id": "9cad20306170047e",
       "first_seen_at": "2026-11-16T22:48:58.038732+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237666+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066542+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1542,7 +1542,7 @@
       "price": "Free",
       "id": "bce4ebbe1cba940d",
       "first_seen_at": "2026-11-16T22:48:58.038735+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237668+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066545+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1587,7 +1587,7 @@
       "price": "Free",
       "id": "dc68d3b6c87915c5",
       "first_seen_at": "2026-11-19T21:16:22.901204+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237670+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066548+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1607,7 +1607,7 @@
       "price": "Free",
       "id": "78a349aad03f9d45",
       "first_seen_at": "2026-11-19T21:16:22.901206+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237671+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066550+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1786,7 +1786,7 @@
       "price": null,
       "id": "7b830d91d14c941d",
       "first_seen_at": "2026-11-21T08:03:46.935695+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237582+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066476+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1811,7 +1811,7 @@
       "price": null,
       "id": "e4266c0a09a13974",
       "first_seen_at": "2026-11-21T08:03:46.935709+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237593+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066489+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1924,7 +1924,7 @@
       "price": null,
       "id": "d68d58834c6e80ad",
       "first_seen_at": "2026-11-21T20:01:44.094552+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237619+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066513+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1946,7 +1946,7 @@
       "price": null,
       "id": "903233def6ac6ad9",
       "first_seen_at": "2026-11-22T07:50:00.169700+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237544+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066427+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1968,7 +1968,7 @@
       "price": null,
       "id": "9d4d5309422d861d",
       "first_seen_at": "2026-11-22T07:50:00.169778+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237607+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066507+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -1992,7 +1992,7 @@
       "price": null,
       "id": "d896e2d699663bf2",
       "first_seen_at": "2026-11-22T07:50:00.169784+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237578+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066470+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2012,7 +2012,7 @@
       "price": "Free",
       "id": "ec13f52a18aca6db",
       "first_seen_at": "2026-11-22T20:13:21.337695+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237673+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066553+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2035,7 +2035,7 @@
       "price": null,
       "id": "1cb3f020195ea4c8",
       "first_seen_at": "2026-11-23T08:40:05.707717+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237586+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066480+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2060,7 +2060,7 @@
       "price": null,
       "id": "a73f3a972b091dda",
       "first_seen_at": "2026-11-23T08:40:05.707722+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237590+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066485+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2084,7 +2084,7 @@
       "price": null,
       "id": "b0493a6fd4cc374c",
       "first_seen_at": "2026-11-23T08:40:05.707728+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237596+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066493+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2104,7 +2104,7 @@
       "price": null,
       "id": "916d74773ab05dd2",
       "first_seen_at": "2026-11-23T08:40:05.707730+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237600+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066498+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2126,7 +2126,7 @@
       "price": null,
       "id": "ab47b6711167e481",
       "first_seen_at": "2026-11-23T08:40:05.707732+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237603+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066502+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2150,7 +2150,7 @@
       "price": null,
       "id": "52c26877cd162f62",
       "first_seen_at": "2026-11-23T08:40:05.707740+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237610+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066511+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2171,7 +2171,7 @@
       "price": null,
       "id": "d74cb36b9644277d",
       "first_seen_at": "2026-11-24T00:40:13.840020+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237621+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066516+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2192,7 +2192,7 @@
       "price": null,
       "id": "8f88304b0fd847b5",
       "first_seen_at": "2026-11-24T00:40:13.840022+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237622+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066518+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2215,7 +2215,7 @@
       "price": null,
       "id": "397385c21884f64b",
       "first_seen_at": "2026-11-24T00:40:13.840023+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237624+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066521+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2235,7 +2235,7 @@
       "price": "$10",
       "id": "71edb9b0a1be3c0f",
       "first_seen_at": "2026-11-24T00:40:13.840079+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237675+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066555+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2255,7 +2255,7 @@
       "price": "Free",
       "id": "839f7032e0ccf302",
       "first_seen_at": "2026-11-24T00:40:13.840081+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237677+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066557+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2278,7 +2278,7 @@
       "price": "$10",
       "id": "481e782b1fe95ae4",
       "first_seen_at": "2026-11-24T00:40:13.840095+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237695+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066580+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2302,7 +2302,7 @@
       "price": "Free",
       "id": "f35d2f6ae170ce52",
       "first_seen_at": "2026-11-24T00:40:13.840097+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237696+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066583+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2407,7 +2407,7 @@
       "price": null,
       "id": "6304efab2233f47e",
       "first_seen_at": "2026-11-25T09:38:10.041912+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237561+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066448+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2431,7 +2431,7 @@
       "price": null,
       "id": "32c3035a9361f4c4",
       "first_seen_at": "2026-11-26T09:14:14.669802+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237574+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066465+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2453,7 +2453,7 @@
       "price": null,
       "id": "462ef6425f7a1692",
       "first_seen_at": "2026-11-26T09:14:14.669858+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237626+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066524+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2473,7 +2473,7 @@
       "price": null,
       "id": "c47e7932a12839c9",
       "first_seen_at": "2026-11-26T09:14:14.669861+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237628+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066526+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2495,7 +2495,7 @@
       "price": null,
       "id": "1ddf1be819f23d6f",
       "first_seen_at": "2026-11-26T09:14:14.669863+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237629+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066529+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2516,7 +2516,7 @@
       "price": null,
       "id": "eb1217853f58a658",
       "first_seen_at": "2026-11-26T09:14:14.669865+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237631+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066531+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2537,7 +2537,7 @@
       "price": "Free",
       "id": "219ec2b9582cadd0",
       "first_seen_at": "2026-11-26T22:11:43.520026+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237679+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066559+00:00",
       "submitted_to_supabase": null
     },
     {
@@ -2557,7 +2557,74 @@
       "price": "Free",
       "id": "6e8c7063c38edb17",
       "first_seen_at": "2026-11-26T22:11:43.520028+00:00",
-      "last_seen_at": "2026-11-27T09:30:35.237681+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066562+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "Salsa Bachata Thursdays at Merkado",
+      "start": "2026-12-03",
+      "source": "danceus",
+      "source_url": "https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/",
+      "end": "2026-12-04",
+      "venue": "Merkado",
+      "address": "8320 Tx-121, Frisco, TX 75034, Frisco, TX",
+      "city": "Frisco",
+      "description": "Salsa Bachata Thursdays at Merkado. See site for details.",
+      "image_url": "https://www.danceus.org/events/images/165524213229416/salsa-bachata-thursdays-at-merkado-cover.jpg",
+      "tags": [
+        "salsa",
+        "bachata"
+      ],
+      "price": null,
+      "id": "4131ace0d0fdf7d4",
+      "first_seen_at": "2026-11-27T21:53:00.066533+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066533+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "Kumbala Thursday’s at Al-Amir Addison",
+      "start": "2026-12-03",
+      "source": "danceus",
+      "source_url": "https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/",
+      "end": "2026-12-04",
+      "venue": "Al-Amir Addison",
+      "address": "3885 Belt Line Road, Addison, TX 75001, Addison, TX",
+      "city": "Addison",
+      "description": "Join us every Thursday at Al-Amir in Addison for some latin music and social dancing! FREE salsa and/or bachata class by the lovely Karla Maldonado. NO COVER HAPPY HOUR ALL NIGHT FREE class at 10PM",
+      "image_url": "https://www.danceus.org/events/images/16552421094020/kumbala-thursdays-at-al-amir-addison-cover.jpg",
+      "tags": [
+        "social",
+        "lesson",
+        "salsa",
+        "bachata"
+      ],
+      "price": null,
+      "id": "8db23a903b3ad726",
+      "first_seen_at": "2026-11-27T21:53:00.066536+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066536+00:00",
+      "submitted_to_supabase": null
+    },
+    {
+      "title": "Latin Night at Hangout",
+      "start": "2026-12-03",
+      "source": "danceus",
+      "source_url": "https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/",
+      "end": "2026-12-04",
+      "venue": "Hangout",
+      "address": "3554 W Airport Freeway, Irving, TX 75052, Irving, TX",
+      "city": "Irving",
+      "description": "Every Thursday at the Hangout from 10pm to 2am. Emcee and dance class by Jay Styles Salsa Bachata Music by Dj Marlon Lets go!",
+      "image_url": "https://www.danceus.org/events/images/165524211143464/latin-night-at-hangout-cover.jpg",
+      "tags": [
+        "social",
+        "lesson",
+        "salsa",
+        "bachata"
+      ],
+      "price": null,
+      "id": "bc3a4e61a542c2f2",
+      "first_seen_at": "2026-11-27T21:53:00.066538+00:00",
+      "last_seen_at": "2026-11-27T21:53:00.066538+00:00",
       "submitted_to_supabase": null
     }
   ]

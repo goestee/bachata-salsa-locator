@@ -1,34 +1,26 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-11-27 03:30 AM CST**
+> Auto-generated. Last update: **2026-11-27 03:53 PM CST**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 63 upcoming events tracked. **7 new** since last run.
+> 66 upcoming events tracked. **5 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
 
 ## New since last run
 
-- **[Salsa Wednesday at Vidorra by DJ Wander](https://www.danceus.org/event/16552421281638/salsa-wednesday-at-vidorra-by-dj-wander-dallas-tx/)** **_Varies_**  
-   Vidorra Dallas  
-   Wed, Dec 2, 2026 • all day  
-   `social` `lesson` `salsa` _via danceus_
-- **[Live Latin Night With Havana NRG at Sambuca360](https://www.danceus.org/event/165524211650016/live-latin-night-with-havana-nrg-at-sambuca-plano-tx/)** **_Varies_**  
-   Sambuca360 · Plano  
-   Wed, Dec 2, 2026 • all day  
-   `social` _via danceus_
-- **[Salseando and Bachateando Nights at El Botanero](https://www.danceus.org/event/16552421287400/salseando-and-bachateando-nights-at-el-botanero-dallas-tx/)** **_Varies_**  
-   El Botanero Bar · Dallas  
-   Wed, Dec 2, 2026 • all day  
-   `social` `salsa` `bachata` _via danceus_
-- **[Wednesday Salsa Social at Stratos](https://www.danceus.org/event/16552421361930/wednesday-salsa-social-at-stratos-dallas-tx/)** **_Varies_**  
-   Stratos Greek Taverna · Dallas  
-   Wed, Dec 2, 2026 • all day  
-   `social` `salsa` _via danceus_
-- **[STRATOS WED SALSA NITE ● DJ WANDER & RAFAEL ANGEL BAND LIVE ● NO COVER ● CLASS](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317367533/)** **_Varies_**  
-   Stratos · Dallas  
-   Wed, Dec 2, 2026 • 8:30 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
+- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
+   Merkado · Frisco  
+   Thu, Dec 3, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Thu, Dec 3, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
+   Hangout · Irving  
+   Thu, Dec 3, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
 - **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
    Vidorra Cocina · Dallas-Fort Worth  
    Wed, Dec 9, 2026 • 7:00 PM – 11:00 PM  
@@ -245,6 +237,21 @@
    Stratos Bar & Grill · Dallas  
    Wed, Dec 2, 2026 • 9:30 PM – 2:00 AM  
    `salsa` `bachata` _via salsavida_
+
+### Thursday, December 3, 2026
+
+- **[Salsa Bachata Thursdays at Merkado](https://www.danceus.org/event/16552421341028/salsa-bachata-thursdays-at-merkado-frisco-tx/)** **_Varies_**  
+   Merkado · Frisco  
+   Thu, Dec 3, 2026 • all day  
+   `salsa` `bachata` _via danceus_
+- **[Kumbala Thursday’s at Al-Amir Addison](https://www.danceus.org/event/165524211032924/kumbala-thursdays-at-al-amir-addison-addison-tx/)** **_Varies_**  
+   Al-Amir Addison  
+   Thu, Dec 3, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
+- **[Latin Night at Hangout](https://www.danceus.org/event/165524211220724/latin-night-at-hangout-irving-tx/)** **_Varies_**  
+   Hangout · Irving  
+   Thu, Dec 3, 2026 • all day  
+   `social` `lesson` `salsa` `bachata` _via danceus_
 
 ### Friday, December 4, 2026
 
