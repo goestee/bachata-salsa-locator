@@ -1,8 +1,8 @@
 # DFW Bachata & Salsa Events
 
-> Auto-generated. Last update: **2026-11-27 03:53 PM CST**
+> Auto-generated. Last update: **2026-11-28 02:44 AM CST**
 > Sources: danceus, eventbrite, golatindance, instagram, meetup, salsavida
-> 66 upcoming events tracked. **5 new** since last run.
+> 60 upcoming events tracked. **6 new** since last run.
 > All times shown in **Central** (DFW local).
 
 ---
@@ -21,58 +21,23 @@
    Hangout · Irving  
    Thu, Dec 3, 2026 • all day  
    `social` `lesson` `salsa` `bachata` _via danceus_
-- **[Salsa Wednesdays at Vidorra Dallas](https://www.salsavida.com/event/texas/dallas-fort-worth/salsa-wednesdays-at-vidorra-dallas/)** **_Free_**  
-   Vidorra Cocina · Dallas-Fort Worth  
-   Wed, Dec 9, 2026 • 7:00 PM – 11:00 PM  
-   `salsa` _via salsavida_
-- **[Wednesday Salsa &#038; Bachata at Stratos](https://www.salsavida.com/event/texas/dallas-fort-worth/wednesday-salsa-bachata-at-stratos/)** **_Free_**  
-   Stratos Bar & Grill · Dallas  
-   Wed, Dec 9, 2026 • 9:30 PM – 2:00 AM  
-   `salsa` `bachata` _via salsavida_
+- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/317435281/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Fri, Dec 4, 2026 • 7:30 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
+- **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317435277/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Fri, Dec 4, 2026 • 7:30 PM  
+   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
+- **[SALSA NIGHTS @ LA Reserva in Euless ● WEEKLY GUESTS ● LIVE MUSIC● FOOD ETC](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317533776/)** **_Varies_**  
+   The Reserve · Euless  
+   Fri, Dec 11, 2026 • 9:30 PM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
 
 ---
 
 ## Upcoming
 
-
-### Friday, November 27, 2026
-
-- **[DALLAS, THE SALSA SCENE IS ON FIRE!](https://www.instagram.com/p/Dej-mh9mkPJ/)** **_Varies_**  
-   Bombshells in Rowlett  
-   Fri, Nov 27, 2026 • all day  
-   `salsa` `lesson` `social` `workshop` `festival` _via instagram_
-- **[Friday Latin at Al-Amir Arlington](https://www.danceus.org/event/16552421382740/friday-latin-at-al-amir-arlington-arlington-tx/)** **_Varies_**  
-   Al-Amir Arlington  
-   Fri, Nov 27, 2026 • all day  
-   `social` `salsa` `bachata` `merengue` _via danceus_
-- **[Dallas Fridays Latin Night: Soviēe | PM Lounge Dallas](https://www.eventbrite.com/e/dallas-fridays-latin-night-soviee-pm-lounge-dallas-tickets-2004338645845)** **_Varies_**  
-   PM Lounge, North Henderson Avenue, Dallas, TX, USA  
-   Fri, Nov 27, 2026 • all day  
-   `social` _via eventbrite_
-- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/317335474/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Fri, Nov 27, 2026 • 7:30 PM  
-   `social` `lesson` `salsa` `bachata` _via meetup_
-- **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317190651/)** **_Varies_**  
-   You Can Dance Dallas · Addison  
-   Fri, Nov 27, 2026 • 7:30 PM  
-   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
-- **[SALSA NIGHTS @ LA Reserva in Euless ● WEEKLY GUESTS ● LIVE MUSIC● FOOD ETC](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317534202/)** **_Varies_**  
-   The Reserve · Euless  
-   Fri, Nov 27, 2026 • 9:30 PM  
-   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
-- **[Friday Latin at Al-Amir Arlington](https://golatindance.com/event/friday-rumba-nights-at-al-amir-arlington/2026-11-27/)** **_Varies_**  
-   Al-Amir Arlington, 701 106th St, Arlington, TX, 76011, United States  
-   Fri, Nov 27, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` `merengue` _via golatindance_
-- **[Rumba Fridays @ Taboo Lounge Dallas](https://golatindance.com/event/rumba-fridays-taboo-lounge-dallas/2026-11-27/)** **_$5–$15_**  
-   Taboo Dallas, 1418 N Riverfront, Dallas, TX, 75207, United States  
-   Fri, Nov 27, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` `merengue` _via golatindance_
-- **[Latin Night](https://golatindance.com/event/latin-night-2/2026-11-27/)** **_Free_**  
-   El TACO H, 213 E Hickory St, Denton, TX, 76201, US  
-   Fri, Nov 27, 2026 • 10:00 PM – 2:00 AM  
-   `social` `salsa` `bachata` `merengue` _via golatindance_
 
 ### Saturday, November 28, 2026
 
@@ -255,6 +220,14 @@
 
 ### Friday, December 4, 2026
 
+- **[7:30-9:00 Social Salsa & Bachata Class](https://www.meetup.com/you-can-dance-dallas/events/317435281/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Fri, Dec 4, 2026 • 7:30 PM  
+   `social` `lesson` `salsa` `bachata` _via meetup_
+- **[25 % off FRIDAY salsa & bachata class in Addison, We go eat & dance after](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317435277/)** **_Varies_**  
+   You Can Dance Dallas · Addison  
+   Fri, Dec 4, 2026 • 7:30 PM  
+   `social` `workshop` `lesson` `festival` `salsa` `bachata` _via meetup_
 - **[Latin Night](https://www.meetup.com/salsa-with-jo/events/317436369/)** **_Varies_**  
    El Taco H · Denton  
    Fri, Dec 4, 2026 • 10:00 PM  
@@ -315,6 +288,10 @@
    Kumbala Dance Studio · Farmers Branch  
    Fri, Dec 11, 2026 • 9:30 PM  
    `social` `lesson` `salsa` `bachata` _via meetup_
+- **[SALSA NIGHTS @ LA Reserva in Euless ● WEEKLY GUESTS ● LIVE MUSIC● FOOD ETC](https://www.meetup.com/the-best-dfw-dance-classes-events-with-david-herrera-ent/events/317533776/)** **_Varies_**  
+   The Reserve · Euless  
+   Fri, Dec 11, 2026 • 9:30 PM  
+   `social` `lesson` `salsa` `bachata` `merengue` _via meetup_
 
 ### Wednesday, December 16, 2026
 
